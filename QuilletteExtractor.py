@@ -163,5 +163,5 @@ for index in range(len(ArticleURLs_SL)):
 		WriteName = ArticleTitles_SL[index]
 		WriteArticleText(WritePath,WriteName,ArticleContent)
 
-print("\n\n\t\t----- Quillette Extraction Finished -----\n\n")
+print("\n\n\t\t----- Quillette Extraction Finished -----\n\n\n")
 
