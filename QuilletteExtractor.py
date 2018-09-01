@@ -23,7 +23,7 @@ def GetArticleContent(soup_Article):
 			break
 
 	if Condition==-1:
-		print("\n\nSorry, the parsing routine cannot locate the end of the article signature\n\n")
+		print("\n\nSorry, the parsing routine cannot locate the end-of-article signature\n\n")
 		print("\t\t\t---> " + str(soup_Article.title.text) + "\n\n")
 		Content.append("Error")
 	else:
