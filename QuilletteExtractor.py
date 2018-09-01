@@ -70,11 +70,19 @@ def UpdateDictionary(WritePath,DictName,ArticleURLs):
 
 	if(os.path.exists(CompleteName)==True):
 		file1 = open(CompleteName,'r')
-		PreviousURLs = file1.readlines()
+		GlossaryData = file1.readlines()
+		#PreviousURLs = file1.readlines()
 		file1.close()
+		PreviousURLs = []
+
+		for index in range(len(GlossaryData)):
+			Parsed = GlossaryData[index].split()
+			PreviousURLs.append(Parsed[0])
+
 
 	else:
 		PreviousURLs = ["ArticleGlossary"]
+
 
 	RepCheck = []
 
@@ -84,9 +92,13 @@ def UpdateDictionary(WritePath,DictName,ArticleURLs):
 
 		for indexInner in range(len(PreviousURLs)):
 
+			#print PreviousURLs[indexInner]
+			#print ArticleURLs[indexOuter]
+			#print str(PreviousURLs[indexInner]==ArticleURLs[indexOuter])
+
 			if(PreviousURLs[indexInner] == ArticleURLs[indexOuter]):
-				print PreviousURLs[indexInner] + "\n"
-				print ArticleURLs[indexOuter] + "\n"
+				#print PreviousURLs[indexInner] + "\n"
+				#print ArticleURLs[indexOuter] + "\n"
 				RepCheck.append(1)
 				Cond = True
 
