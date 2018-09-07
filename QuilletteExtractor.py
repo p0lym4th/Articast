@@ -21,6 +21,9 @@ def GetArticleContent(soup_Article):
 		if(Paragraphs[index].text.encode("UTF-8") == '\xc2\xa0'):
 			Condition = index
 			break
+		elif(Paragraphs[index].text.encode("UTF-8") == ""):
+			Condition = index
+			break
 
 	if Condition==-1:
 		print("\n\nSorry, the parsing routine cannot locate the end-of-article signature\n\n")
@@ -38,7 +41,7 @@ def WriteArticleText(Path,Filename,ArticleContent):
 	CompleteName = os.path.join(Path,Filename)
 	file1 = open(CompleteName,'w')
 	for index in range(len(ArticleContent)):
-		if(str(ArticleContent[index]) != "Error"):
+		if(str(ArticleContent[index].encode("UTF-8")) != "Error"):
 			file1.write(ArticleContent[index].encode("UTF-8") + "\n")
 		else:
 			file1.write("HTML Parsing Error\n")
