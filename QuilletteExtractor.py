@@ -38,7 +38,10 @@ def WriteArticleText(Path,Filename,ArticleContent):
 	CompleteName = os.path.join(Path,Filename)
 	file1 = open(CompleteName,'w')
 	for index in range(len(ArticleContent)):
-		file1.write(ArticleContent[index].encode("UTF-8") + "\n")
+		if(str(ArticleContent[index]) != "Error"):
+			file1.write(ArticleContent[index].encode("UTF-8") + "\n")
+		else:
+			file1.write("HTML Parsing Error\n")
 	file1.close()
 
 def GetArticleURLs_Quillette(soup_TS):
