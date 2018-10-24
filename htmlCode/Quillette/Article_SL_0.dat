@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="https://quillette.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]>
+		<script src="https://quillette.com/wp-content/themes/zuki/js/html5.js"></script>
+	<![endif]-->
+<title>The Devolution of Social Science - Quillette</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://quillette.com/2018/10/07/the-devolution-of-social-science/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="The Devolution of Social Science - Quillette" property="og:title"/>
+<meta content="This article has two themes: first, how in “soft” science fields, increased specialization has led to fragmentation, incoherence and, ultimately, nonsense. And second, an example of the process: race and ethnic studies (RES) and the concept of color-blind racism (CBR) — the idea that treating people according to the content of their character, not the color of their skin, is itself racist. Martin Luther King Jr.’s famous definition of non-discrimination is not accepted by, for example, the 2018 President of the American Sociological Association. Some science history At the dawn of science, practitioners were few and they all had some acquaintance with every branch. In the original Royal Society of London (RS, founded in 1660), for example, papers were presented before the whole group and everyone felt free to comment on and evaluate what they heard. There were no well-defined subdisciplines, science — or natural philosophy, as it was then called — was not a profession, like law or medicine. Most scientists did serious work in many areas: Isaac Newton (RS President 1703–27) did mathematics, …" property="og:description"/>
+<meta content="https://quillette.com/2018/10/07/the-devolution-of-social-science/" property="og:url"/>
+<meta content="Quillette" property="og:site_name"/>
+<meta content="https://www.facebook.com/QuilletteM/" property="article:publisher"/>
+<meta content="education" property="article:tag"/>
+<meta content="social justice" property="article:tag"/>
+<meta content="social studies" property="article:tag"/>
+<meta content="university" property="article:tag"/>
+<meta content="Spotlight" property="article:section"/>
+<meta content="2018-10-07T09:38:46+00:00" property="article:published_time"/>
+<meta content="2018-10-09T00:55:52+00:00" property="article:modified_time"/>
+<meta content="2018-10-09T00:55:52+00:00" property="og:updated_time"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg?fit=1200%2C908&amp;ssl=1" property="og:image"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg?fit=1200%2C908&amp;ssl=1" property="og:image:secure_url"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="908" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="This article has two themes: first, how in “soft” science fields, increased specialization has led to fragmentation, incoherence and, ultimately, nonsense. And second, an example of the process: race and ethnic studies (RES) and the concept of color-blind racism (CBR) — the idea that treating people according to the content of their character, not the color of their skin, is itself racist. Martin Luther King Jr.’s famous definition of non-discrimination is not accepted by, for example, the 2018 President of the American Sociological Association. Some science history At the dawn of science, practitioners were few and they all had some acquaintance with every branch. In the original Royal Society of London (RS, founded in 1660), for example, papers were presented before the whole group and everyone felt free to comment on and evaluate what they heard. There were no well-defined subdisciplines, science — or natural philosophy, as it was then called — was not a profession, like law or medicine. Most scientists did serious work in many areas: Isaac Newton (RS President 1703–27) did mathematics, …" name="twitter:description"/>
+<meta content="The Devolution of Social Science - Quillette" name="twitter:title"/>
+<meta content="@QuilletteM" name="twitter:site"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg?fit=1200%2C908&amp;ssl=1" name="twitter:image"/>
+<meta content="@QuilletteM" name="twitter:creator"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/quillette.com\/","sameAs":["https:\/\/www.facebook.com\/QuilletteM\/","https:\/\/www.linkedin.com\/company\/quillette-magazine","https:\/\/twitter.com\/QuilletteM"],"@id":"https:\/\/quillette.com\/#organization","name":"Quillette","logo":"http:\/\/quillette.com\/wp-content\/uploads\/2017\/01\/quillette-Q-512pxby512px-white-on-black-0n-574pxby574px-transparency.png"}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://quillette.com/feed/" rel="alternate" title="Quillette » Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/comments/feed/" rel="alternate" title="Quillette » Comments Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/2018/10/07/the-devolution-of-social-science/feed/" rel="alternate" title="Quillette » The Devolution of Social Science Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quillette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link href="https://quillette.com/wp-content/plugins/amazon-polly/public/css/amazonpolly-public.css?ver=1.0.0" id="amazonpolly-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-includes/css/dashicons.min.css?ver=4.9.8" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/style.css?ver=4.9.8" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/js/flex-slider/flexslider.css?ver=4.9.8" id="zuki-flex-slider-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CKarla%3A400%2C400italic%2C700%2C700italic%26subset%3Dlatin%2Clatin-ext&amp;subset=latin%2Clatin-ext" id="zuki-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zukichildthemefolder/style.css?ver=20140630" id="zuki-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Inline jetpack_facebook_likebox -->
+<style id="jetpack_facebook_likebox-inline-css" type="text/css">.widget_facebook_likebox{overflow:hidden}</style>
+<link href="https://quillette.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" id="jetpack-widget-social-icons-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-1 .column-1,2{padding:4px}.tablepress-id-1 .column-1{width:40%}.tablepress-id-1 .column-2{width:40%}</style>
+<link href="https://quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/plugin/templates/default/style.css?ver=4.9.8" id="cb_p6-css-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" id="social-logos-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/amazon-polly/public/js/amazonpolly-public.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/flex-slider/jquery.flexslider-min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/functions.js?ver=20140426" type="text/javascript"></script>
+<link href="https://quillette.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://quillette.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://quillette.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.8" name="generator"/>
+<link href="https://wp.me/p6SXrP-m2c" rel="shortlink"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F07%2Fthe-devolution-of-social-science%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F07%2Fthe-devolution-of-social-science%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script data-cfasync="false" type="text/javascript">var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":84704,"post_name":"the-devolution-of-social-science","post_title":"The Devolution of Social Science","post_type":"post","post_author":"526","post_status":"publish"};_mmunch['postCategories']=[{"term_id":44,"name":"Spotlight","slug":"spotlight","term_group":0,"term_taxonomy_id":44,"taxonomy":"category","description":"","parent":0,"count":28,"filter":"raw","cat_ID":44,"category_count":28,"category_description":"","cat_name":"Spotlight","category_nicename":"spotlight","category_parent":0}];_mmunch['postTags']=[{"term_id":188,"name":"education","slug":"education","term_group":0,"term_taxonomy_id":188,"taxonomy":"post_tag","description":"","parent":0,"count":7,"filter":"raw"},{"term_id":215,"name":"social justice","slug":"social-justice","term_group":0,"term_taxonomy_id":215,"taxonomy":"post_tag","description":"","parent":0,"count":5,"filter":"raw"},{"term_id":279,"name":"social studies","slug":"social-studies","term_group":0,"term_taxonomy_id":279,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":206,"name":"university","slug":"university","term_group":0,"term_taxonomy_id":206,"taxonomy":"post_tag","description":"","parent":0,"count":4,"filter":"raw"}];_mmunch['postAuthor']={"name":"John Staddon","ID":526};</script><script async data-cfasync="false" data-mailmunch-site-id="405309" data-plugin="cc_mm" id="mailmunch-script" src="//a.mailmunch.co/app/v1/site.js"></script>
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+function external_links_in_new_windows_loop(){if(!document.links){document.links=document.getElementsByTagName('a');}
+var change_link=false;var force='';var ignore='';for(var t=0;t<document.links.length;t++){var all_links=document.links[t];change_link=false;if(document.links[t].hasAttribute('onClick')==false){if(all_links.href.search(/^http/)!=-1&&all_links.href.search('quillette.com')==-1){change_link=true;}
+if(force!=''&&all_links.href.search(force)!=-1){change_link=true;}
+if(ignore!=''&&all_links.href.search(ignore)!=-1){change_link=false;}
+if(change_link==true){document.links[t].setAttribute('onClick','javascript:window.open(\''+all_links.href+'\'); return false;');document.links[t].removeAttribute('target');}}}}
+function external_links_in_new_windows_load(func)
+{var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+external_links_in_new_windows_load(external_links_in_new_windows_loop);
+//]]></script>
+<script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}
+window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//quillette.com/?wordfence_lh=1&hid=3E634A3C496952FEF9B7AA5839008C0C');</script>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//i1.wp.com" rel="dns-prefetch"/>
+<link href="//i2.wp.com" rel="dns-prefetch"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">.widget-area p.summary a,.entry-content p a,.entry-content li a,.page .entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a{color: }.widget_zuki_recentposts_color .bg-wrap{background: }.archive-menu-content{background: }</style>
+<style id="zuki-header-css" type="text/css">#site-title h1,#site-title h2.site-description{display:none}</style>
+<style type="text/css">.jetpack-lazy-image{display:none}.jetpack-lazy-images-js .jetpack-lazy-image{display:inline-block}</style>
+<script>document.documentElement.classList.add('jetpack-lazy-images-js');</script>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon-precomposed"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">#menu ul li{font-size:12px;color:#000}h1,h2{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}aside.widget.AdWidget_HTMLWidget iframe{max-width:100%;margin-left:0;margin-right:0}@media screen and (min-width:1023px){.blog #primary,.attachment #primary,.single-post #primary,.error404 #primary,.search-no-results #primary,.archive #primary,.search-results #primary,#front-content-one,#front-content-two{width:60%!important}#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:36%!important}}@media screen and (min-width:1260px){#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:27%!important}}#post-82069 ol[type="a"]{list-style:lower-alpha}#post-82069 ol[type="i"]{list-style:lower-roman}</style>
+</link></link></meta></head>
+<body class="post-template-default single single-post postid-84704 single-format-standard">
+<div id="container">
+<header class="cf" id="masthead" role="banner">
+<nav id="header-top-nav">
+<ul class="menu" id="menu-about"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71157" id="menu-item-71157"><a href="https://quillette.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70992" id="menu-item-70992"><a href="https://quillette.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81209" id="menu-item-81209"><a href="https://quillette.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82074" id="menu-item-82074"><a href="https://quillette.com/terms-of-service/">Terms of Service</a></li>
+</ul> </nav><!-- end #header-top -->
+<div id="site-title">
+<div id="site-header">
+<a href="https://quillette.com/" rel="home"><img alt="" height="491" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10215232/cropped-Quillette_white1.png" width="1500"/></a>
+</div><!-- end #site-header -->
+<h1><a href="https://quillette.com/" title="Quillette">Quillette</a></h1>
+<h2 class="site-description">Free Thought Lives</h2>
+</div><!-- end #site-title -->
+<a href="#menuopen" id="mobile-menu-toggle"><span>Menu</span></a>
+<div class="cf" id="mobile-menu-wrap">
+<nav class="cf" id="site-nav">
+<ul class="nav-menu" id="menu-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71055" id="menu-item-71055"><a href="https://quillette.com/category/features/">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71142" id="menu-item-71142"><a href="https://quillette.com/category/science-tech/">Science / Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71141" id="menu-item-71141"><a href="https://quillette.com/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71348" id="menu-item-71348"><a href="https://quillette.com/category/review/">Review</a></li>
+</ul> </nav><!-- end #site-nav -->
+<a href="#menuclose" id="mobile-menu-close"><span>Close Menu</span></a>
+</div><!-- end #mobile-menu-wrap -->
+</header><!-- end #masthead -->
+<div id="main-wrap">
+<div class="site-content cf" id="primary" role="main">
+<article class="post-84704 post type-post status-publish format-standard has-post-thumbnail hentry category-spotlight tag-education tag-social-justice tag-social-studies tag-university" id="post-84704">
+<header class="entry-header">
+<div class="entry-cats">
+<a href="https://quillette.com/category/spotlight/" rel="category tag">Spotlight</a> </div><!-- end .entry-cats -->
+<div class="entry-date">
+			Published on <a href="https://quillette.com/2018/10/07/the-devolution-of-social-science/">October 7, 2018</a>
+</div><!-- end .entry-date -->
+<div class="entry-comments">
+<a href="https://quillette.com/2018/10/07/the-devolution-of-social-science/#comments">comments 3</a> </div><!-- end .entry-comments -->
+<h1 class="entry-title">The Devolution of Social Science</h1>
+<div class="entry-author">
+			written by <a href="https://quillette.com/author/john-staddon/" title="All posts by John Staddon">John Staddon</a> </div><!-- end .entry-author -->
+</header><!-- end .entry-header -->
+<div class="entry-thumbnail">
+<a href="https://quillette.com/2018/10/07/the-devolution-of-social-science/" title="Permalink to The Devolution of Social Science"><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg 1200w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/08121255/white-silence1.jpg 1024w" height="908" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1200"/></a>
+</div><!-- end .entry-thumbnail -->
+<div class="entry-content">
+<div class="mailmunch-forms-before-post" style="display: none !important;"></div><p>This article has two themes: first, how in “soft” science fields, increased specialization has led to fragmentation, incoherence and, ultimately, nonsense. And second, an example of the process: race and ethnic studies (RES) and the concept of <a href="https://www.psychologytoday.com/us/blog/culturally-speaking/201112/colorblind-ideology-is-form-racism">color-blind racism</a> (CBR) — the idea that treating people according to the content of their character, not the color of their skin, is itself racist. Martin Luther King Jr.’s famous definition of non-discrimination is not accepted by, for example, the 2018 President of the American Sociological Association.</p>
+<p><strong>Some science history</strong></p>
+<p>At the dawn of science, practitioners were few and they all had some acquaintance with every branch. In the original Royal Society of London (RS, founded in 1660), for example, papers were presented before the whole group and everyone felt free to comment on and evaluate what they heard. There were no well-defined subdisciplines, science — or natural philosophy, as it was then called — was not a profession, like law or medicine.</p>
+<p>Most scientists did serious work in many areas: Isaac Newton (RS President 1703–27) did mathematics, optics, astronomy — and astrology and alchemy — as well as what is now termed “physics.” Christopher Wren, architect by profession, was also an anatomist, geometer, astronomer and physicist. Edmund Halley, of “Halley’s Comet” fame, made contributions in mathematics and optics as well as astronomy. Halley could comment competently on an analysis of the credibility of human testimony or a perceptual phenomenon like <a href="https://en.wikipedia.org/wiki/Moon_illusion">the moon illusion</a>.<sup>1</sup> There was ample opportunity for any interested party to criticize or comment on any piece of work. None could be dismissed as inexpert or a non-specialist.</p>
+<p>The British Association for the Advancement of Science (now the British Science Association: BSA), founded in 1831, had by 1873 divided into several sections: chemistry and geology, zoology, physiology and geography. In the 1880s, engineering, and two somewhat-social sciences, economic science and statistics, and anthropology, were added. But originally, all of physics and mathematics was in Section A, which covered a wide range of subjects: “I have heard a discussion on spaces of five dimensions and we know that one of our committees … reports to us annually on the rainfall of the British Isles,” remarked one commentator.</p>
+<p>The diversity of topics led to suggestions that Section A be subdivided. But even in 1873 there <a href="https://www.amazon.com/Past-Years-Autobiography-Oliver-Lodge/dp/B01LBMUDOS">was resistance</a> “…instancing the danger of excessive specialization, and claiming that the bond of union among the physical sciences is the mathematical spirit and mathematical method…” Nevertheless, by 2018 the BSA had developed <a href="https://www.britishscienceassociation.org/scientific-sections">17 sections</a>.</p>
+<p>Social science, restrained neither by a common theory nor a common method, has been less resistant to subdivision. When the American Psychological Association (APA) was founded in 1892 it had just one division, but after World War II it merged with various other psychological organizations and created 19 divisions. By 2007, this number had expanded to 54; in the meantime, a competing entity, the Association for Psychological Science (APS), had split off from the APA, and APA Division 25 had itself given birth to an independent organization of its own called the Association for Behavior Analysis.</p>
+<p>Parallel to the APA and with a smaller membership (ca. 13,000 vs. 70,000 plus) – but with almost as many sections (53) – is the American Sociological Association.</p>
+<p>The reasons for this fissiparousness are more social than scientific. Each area tends to define its subject matter a bit differently, even though to outsiders it looks as if all are in fact studying the same thing. Methods thought legitimate in one division are deemed inadequate in another, and so on. In psychology, for example, behaviorists and cognitivists could not agree on the proper object of study: Is it behavior (the behaviorists) or mind (the cognitivists)? The result: APA Division 25 and the Association for Behavior Analysis International (ABAI) for the behaviorists, and many other divisions of APA and most of APS (Association for Psychological Science) for the cognitivists. Having subdivided in this way, and fortified their different camps, the two groups could pursue their different approaches without conflict and with little chance those differences will ever be resolved.</p>
+<p>A fatal consequence of this multiplication of social-science sub-disciplines has been a weakening of criticism. Technical languages – mostly jargon – have evolved and, like natural languages, <a href="https://www.jamesgmartin.center/2018/08/the-new-racism-part-ii-the-sociologists-toolkit-justifying-racism-through-language/">isolate speakers</a> from non-speakers, immunizing research from truly independent criticism. The result has been the emergence of a wide range of new specialties, some truly creative, but many bearing little resemblance to ‘hard’ science. The most famous example of this erosion of scientific standards is the ongoing <a href="https://en.wikipedia.org/wiki/Replication_crisis">replication crisis</a> in <a href="https://www.nas.org/articles/comment_on_the_irreproducibility_crisis_john_staddon">social and biomedical science</a>.</p>
+<p>As practical applications of science continued to grow during the 19th century, resources began to flow into the scientific enterprise. First biological and then social topics began to be studied from a self-consciously scientific point of view. As the number and diversity of practitioners and professional sub-divisions increased, so did the numbers of scientific publications. Each scientific society had at least one journal and usually several. Now, the number of scientific journals has increased to the point that no one seems to be sure of their precise number, except that it is very large indeed. The <a href="https://scienceintelligence.wordpress.com/2012/01/23/how-many-science-journals/">best estimate</a> as of 2018 is between 25 and 40 thousand. The number of <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2909426/">published papers</a> each year is of course larger still.</p>
+<p>In social science, especially, each sub-division developed its own cluster of journals. A finding in one area that might have little or no credibility in others, can nevertheless find a safe berth in its own publication harbor. Results can be supported by citations drawn from a sympathetic group of like-minded researchers, often publishing in the same journal.</p>
+<p><strong>Sociology as a science</strong></p>
+<p>I’m now going to describe how this unchecked subdivision has led sociology to color-blind racism. If this argument is hard to follow, the fault is only partly mine. Modern sociology bounces merrily along from science to anecdote and story-telling, to propaganda, to activism — often within the same paragraph. I have tried to separate these themes and to identify what is scientific from what is merely intended to persuade or induce social change, but it isn’t always easy.</p>
+<p>Sociology originated in a self-consciously scientific way: Émile Durkheim (1858-1917), one of the founders, <a href="https://monoskop.org/images/1/1e/Durkheim_Emile_The_Rules_of_Sociological_Method_1982.pdf">explained his purpose</a>:</p>
+<blockquote><p>[O]ur main objective is to extend the scope of scientific rationalism to cover human behaviour by demonstrating that, in the light of the past, it is capable of being reduced to <em>relationships of cause and effect</em>, which, by an operation no less rational, can then be transformed into rules of <em>action for the future</em>. [<em>My emphases</em>]</p></blockquote>
+<p>Cause-and-effect and rational analysis, the basics of science, were to be at the heart of this new social science. But also rules of action — an apparent afterthought by Durkheim that has turned out to be far from benign.</p>
+<p>Durkheim was well aware that sociology touched on many other fields, from psychology to history, economics and anthropology. Hence, he sought to define what he called social fact, a kind of fact that lies outside the facts of any other social science. He first acknowledged the difficulty of the problem:</p>
+<blockquote><p>[The term ‘social fact’] is commonly used to designate almost all the phenomena that occur within society, however little social interest of some generality they present. Yet under this heading there is, so to speak, no human occurrence that cannot be called social. Every individual drinks, sleeps, eats, or employs his reason, and society has every interest in seeing that these functions are regularly exercised. If therefore these facts were social ones, sociology would possess no subject matter peculiarly its own, and its domain would be confused with that of biology and psychology.</p></blockquote>
+<p>Durkheim goes on to claim that in fact “there is in every society a clearly determined group of phenomena separable, because of their distinct characteristics, from those that form the subject matter of other sciences of nature” and gives an example:</p>
+<blockquote><p>When I perform my duties as a brother, a husband or a citizen and carry out the commitments I have entered into, I fulfil obligations which are defined in law and custom and which are external to myself and my actions … Considering in turn each member of society, the foregoing remarks can be repeated for each single one of them. Thus there are ways of acting, thinking and feeling which possess the remarkable property of existing outside the consciousness of the individual.</p></blockquote>
+<p>These are the facts of sociology, outside the individual consciousness but affecting people nevertheless: moral rules, the language spoken, the legal currency, the mode of dress “a category of facts which present very special characteristics: they consist of manners of acting, thinking and feeling external to the individual, which are invested with a coercive power by virtue of which they exercise control over him.” Durkheim laid out a subtle path for his new science, related to, but separate from, all other human sciences.</p>
+<p><strong>Causes and social facts</strong></p>
+<p>Social facts in Durkheim’s sense are very hard to find. Identifying causes is even more difficult. Nevertheless, most contemporary sociologists give lip-service to Durkheim’s scientific ideal. For example, Eduardo Bonilla-Silva, a leader in the color-blind racism (CBR) movement, in the fourth edition of his landmark book <em><a href="https://www.amazon.com/Racism-without-Racists-Color-Blind-Persistence-ebook/dp/B00DUAJ8Z0/ref=mt_kindle?_encoding=UTF8&amp;me=&amp;qid=">Racism Without Racists</a></em> (2003), cites approvingly a “<a href="http://journals.sagepub.com/doi/abs/10.1177/000271620056800113">biting critique</a> of statistical racial reasoning” by Tukufu Zuberi,<sup>2</sup> leading the reader to expect a sophisticated analysis of social causation. And indeed, Zuberi’s article affirms, in a roundabout way, that statistical correlation is not the same as causation. But then he quotes approvingly another author who says “the schooling a student receives can be a cause, in our sense, of the student’s performance on a test, whereas the student’s race or gender cannot” — a peremptory dismissal of race or gender as part of any explanation of group differences in test performance.</p>
+<p>This claim ignores the difference between efficient and material causes, a <a href="https://en.wikipedia.org/wiki/Four_causes">distinction</a> that’s been around at least since Aristotle. When you turn on your TV, a picture appears. The switching-on was the efficient cause. But the machinery of the TV set and the whole transmission network is hardly irrelevant: It constitutes the material cause (the term <a href="https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/2878/StaddonAdaptiveBehaviorLearning2010.pdf?sequence=1">state</a> is also used to describe this kind of cause). In turn, every material cause is an effect of prior efficient cause(s). The inner workings of the TV set are an effect of a manufacturing process.</p>
+<p>Both race and educational history can be material (state) causes of performance on an IQ test, the test questions being the efficient cause of the subject’s responses. Education may be an efficient cause of test performance, as Zuberi says. But it acts through the constitution of the pupil, a material cause. And the pupil’s constitution is in turn the effect of genetic and developmental processes.</p>
+<p>I speak, as Zuberi does, of causes. But in fact, experiments on these questions are very difficult and almost never done. So, what we are left with is just correlation: race and education are both correlated with IQ test results.</p>
+<p>The point of this rather labored example is to show how in sociology politics can infect supposedly scientific judgement. Politics says that black-white differences in average IQ are solely caused by the social and educational deprivations of blacks, and not by <a href="https://www.jamesgmartin.center/2018/08/the-new-racism-part-1-how-race-and-ethnic-studies-made-color-blindness-a-bad-thing/">endogenous</a> group differences between blacks and whites. Any research evidence that implies otherwise is simply <a href="https://www.nature.com/news/ethics-taboo-genetics-1.13858">taboo</a>. So, what should have been a straightforward causal analysis is adjusted accordingly.</p>
+<p>What about Durkheim’s elusive social facts? Perhaps the most famous candidate is a contribution of his equally famous contemporary: Max Weber’s idea of the <a href="https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism">Protestant (work) Ethic</a> as a major cause of the success of capitalism. Weber’s argument is closer to economic history than the kind of subtle social analysis envisaged by Durkheim. But Weber also analyzed bureaucracy in terms of its structure (division of labor), regulatory hierarchy and meritocratic hiring practices. These factors seem closer to Durkheim’s idea, being both measurable as well as extra-individual.</p>
+<p><strong>Contemporary sociology</strong></p>
+<p>Things are different now. I first got an inkling of this more than three decades ago. Sorting through some old papers, I found this quote from an unnamed British sociologist speaking at a talk in 1986: “Theories in science are not constrained in any way by empirical facts.” I noted that most of those listening agreed with him.</p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p>The quote is absurd and in the years that followed I noted how widespread this assault on the scientific method has become. A whole field devoted to discrediting science has sprung up under the banner of “<a href="https://en.wikipedia.org/wiki/Science_studies">Science Studies</a>” which, needless to say, is now a recognized academic discipline with its own association and cluster of peer-reviewed journals. One such is <em>Social Text</em>, which published a brilliantly nonsensical piece ‘<a href="http://www.physics.nyu.edu/sokal/transgress_v2/transgress_v2_singlefile.html">Transgressing the boundaries: Towards a transformative hermeneutics of quantum gravity</a>‘ by physicist <a href="https://www.chronicle.com/article/What-the-Conceptual/240344">Alan Sokal</a>. Sokal succeeded by using the right words, like “transgressive” and “hegemony,” and promoting the correct political views, like “science as gendered domination” and putting “objective” in quotes.</p>
+<p>The anonymous sociologist’s claim that empirical facts are irrelevant does apply to much of social science. It raises an important question: if theories in the social sciences are not constrained by empirical facts, what are they constrained by? As I will try to show, the answer seems to be that theories in Race and Ethnic Studies (RES) sociology are mainly constrained by the political opinions prevailing in that branch of the field.</p>
+<p>In RES sociology, it is simply assumed that the findings and reasoning of sociologists are determined by their ethnicity and position in society. Editors Zuberi and Bonilla-Silva in a book called <em><a href="https://www.amazon.com/White-Logic-Methods-Racism-Methodology-ebook/dp/B00EKJBEG6/ref=mt_kindle?_encoding=UTF8&amp;me=&amp;qid=">White Logic, White Methods: Racism and Methodology</a></em> (2008) write: “Most White sociologists, reflecting their dominant position in the discipline, have complained that sociologists of color are ‘biased’ and thus do not take seriously their work or their criticisms. Conversely, many sociologists of color, reflecting their subordinate position in sociology, have doubted the research findings by white sociologists to explain the standing of people of color in America.” This passage is just one of many that either directly or indirectly denies the possibility of objectivity (which is perhaps why the authors don’t bother to present any research evidence in defense of their “identity epistemology”). We’re just supposed to accept it’s true without question, although, having said that, the concept of “truth” appears to be equally suspect. Indeed, in <a href="https://academic.oup.com/socpro/article/64/2/179/3605478">another place</a>, Bonilla-Silva scorns the very idea, speaking of the “devil of ‘objectivity’” (note the scare quotes).</p>
+<p>Without the possibility of objectivity, there is no science. Has sociology become, then, just political activism? To some extent, yes. According to Zuberi and Bonilla-Silva: “The aim is to attain epistemic liberation from White logic … We see this edited volume as part of the long march of resistance to White domination in society and in academe.” The Maoist allusion is probably not accidental.</p>
+<p>By the end of the book Zuberi and Bonilla-Silva have backtracked slightly, making a shallow bow to objectivity: “Rather than leading to a science of objectivity, White logic has fostered an ethnocentric orientation … however, scholars of color are potentially much closer to being objective…” This will leave many readers puzzled: is the work “biased” when the sociologist is white — or, rather, “White,” to add the mandatory square quotes — but objective when she is a person of color? The authors attempt to clarify by quoting Charles W. Mills: “Hegemonic groups characteristically have experiences that foster illusory perceptions about society’s functioning, whereas subordinate groups characteristically have experiences that (at least potentially) give rise to more adequate conceptualizations.” So the worm’s-eye view is more “objective” than the bird’s-eye view — or, to use the jargon, apparently “subordinate” groups (e.g., people of color) see things more clearly than “hegemonic groups.” Since Jamaican-American Mills presumably considers himself a member of a subordinate group (even though he is a distinguished professor of philosophy in the CUNY Graduate Center) his claim of subordinate superiority invites the <a href="https://en.wikipedia.org/wiki/Mandy_Rice-Davies">Mandy Rice-Davies</a> response: “Well, he would [say that], wouldn’t he?”</p>
+<p>Here are some ideas that are generally accepted by the RES movement as social facts (although the idea of truth is itself questioned from time to time, as we will see):</p>
+<p>“White logic” is the idea that white people think differently than people of color and that it is embedded in “the structure that <a href="http://gjss.org/sites/default/files/issues/chapters/bookreviews/Journal-09-01--05-Younes.pdf">generates racism</a>,” in the words of Anna-Esther Younes, reviewer of Bonilla-Silva and Zuberi’s <em>White Logic</em>. She concludes that “ultimately, what connects all authors is their view of academia as ‘a form of [White] cultural and political hegemony.’” (“Hegemony” is a popular term in the RES literature. It seems to mean “wrong ideas that are accepted by too many people.”)</p>
+<p>Editors Zuberi and Bonilla-Silva acknowledge that many readers will find the topic distasteful:</p>
+<blockquote><p>‘Why did you folks write a book on White logic and methods?’ They will likely be incensed … The methodologically inclined will say ‘Methods are objective research tools beyond race, gender and class.’ They will argue that ‘social science methodology, like genetics, can be applied impartially regardless of the racial background of the individual conducting the investigation.’</p></blockquote>
+<p>Well, yes, they will, so what is the authors’ response? “Before we address these burning questions, we need to explain our motivations for editing [this] book.” A similar example from Bonilla-Silva’s <em>Racism Without Racists</em>: “[A]t every step of the way, I have encountered people who have tried to block my path one way or another.” He goes on to list literally dozens of people who have in fact helped him and then later <a href="https://academic.oup.com/socpro/article/64/2/179/3605478">writes</a>: “How can I, after been elected president of the American Sociological Association (ASA), be talking about the salience of race in our business? Isn’t my election proof positive that race is ‘declining in significance?'” The obvious answer to this question is “yes.” Why should we answer differently?</p>
+<p>In fact, we <em>never get an answer</em> to these questions. Just as the authors seem about to define a term or justify a claim, the football is pulled away, to be followed by repeated assertions about links to colonialism or white feelings of superiority. The closest we get to a definition of white logic is Zuberi’s answer to the hypothetical: “Are you suggesting social scientists practice racism when they use statistics?” His conclusion, although he never says so directly, is “yes.” His reason: Francis Galton, Darwin’s half-cousin and a founder of the statistical method, “[W]as obsessed with explaining racial hierarchy in social status and achievement.” Well, yes, Galton was interested in what made for success in life. In his 1869 book <em>Hereditary Genius</em>, he says that “the negro race” is an “inferior race,” but he also says that “the average ability of the Athenian race is, on the lowest possible estimate, very nearly two grades higher than our own — that is, about as much as our race is above that of the African negro.” He also says: “There is nothing either in the history of domestic animals or in that of evolution to make us doubt that a race of sane men may be formed who shall be as much superior mentally and morally to the modern European, as the modern European is to the lowest of the Negro races.” If Galton was racist he was even-handed, and by no means biased in favor of modern Europeans. And in every case, he made a coherent argument based on the best evidence available to him. It is simply ridiculous to claim that “current statistical methodologies … continue to reflect the racist ideologies” of the eugenics movement.</p>
+<p>As for <a href="https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2009.00379.x">eugenics</a> — for his interest in which, Galton is banished from most of social science — it is about political action not scientific understanding. As Galton says, there is no doubt that the human race, like the race of any animal, could be changed, even improved, by selective breeding. But whether this should be attempted, and if so how, by whom, and under what authority — all this involves judgments that are ethical and political, not scientific.</p>
+<p>“Whiteness White logic” is a subspecialty of Whiteness Studies. A leader in the field is George Yancy, whose interviews appear frequently on the pages of the <em>New York Times</em>. He <a href="http://www.georgeyancy.com/bio.html">describes his own work</a> as follows (referring to himself in the third person):</p>
+<blockquote><p>[It] has focused on the theme of whiteness and how it constitutes a site of embedded social reality and a site of opacity. He links these two foci to such themes as white subject formation, white epistemic ways of knowing/not knowing, privilege and hegemony, and forms of white spatial bonding as processes of white solidarity and interpellation. He is also interested in how such forms of white epistemic bonding constitute sites of white intelligibility formation. Yancy also explores the theme of racial embodiment, particularly in terms of how white bodies live their whiteness unreflectively vis-a-vis the interpellation and deformation of the black body and other bodies of color. Within this context, his work also explores Black Erlebnis or the lived experience of black people, which raises important questions regarding Black subjectivity, modes of Black spatial mobility, and embodied resistance ….</p></blockquote>
+<p>Many readers, myself included, will find this account hard to follow. But Yancy’s dependence on jargon — “embedded reality, opacity, subject formation, epistemic bonding, interpellation,” and so on — is characteristic of many of the sub-disciplines of social science and humanities. The terms are almost never clearly defined, but serve at least two purposes: they convey expertise — technical competence — while at the same time obstructing outside scrutiny.</p>
+<p>This kind of academical obscurantism is not new. Thomas Hobbes in <em>Leviathan</em> (1561) complains about “names that signifie nothing; but are taken up and learned by rote from the Schooles, as hypostatical, transubstantiate, consubstantiate, Eternal-now, and the like canting of Schoole-men.”<sup>3</sup> Theological writing is perhaps clearer now, but the rhetorical techniques of the “Schoole-men” have not been lost.</p>
+<p>Subjective experience — private feeling, Erlebnis, known to philosophers as <a href="https://plato.stanford.edu/entries/qualia/">qualia</a> — is obviously very important to whiteness studies and, indeed, to sociology generally (the theme of the 2018 national conference of the ASA is “Feeling Race”). The problem is: <a href="https://www.amazon.com/Scientific-Method-Science-Works-Pretends-ebook/dp/B077W2JXS7/ref=mt_kindle?_encoding=UTF8&amp;me=&amp;qid=">qualia cannot be measured</a> by a third party. Subjective experience can be shared through drama or literature, or simply story-telling, which is a major part of RES literature. But qualia are not part of science.</p>
+<p>“Privilege” is a favored term in RES sociology. Privilege is in fact just the flip side of discrimination: to discriminate against A is to privilege not-A. Discrimination against blacks implies unfair advantage, or privilege, for whites. The term is therefore redundant. It originated with black sociologist W.E.B. Du Bois but has recently been revived. A <em>New Yorker</em> <a href="https://www.newyorker.com/books/page-turner/the-origins-of-privilege">interview</a> in 2014 with Peggy McIntosh, a women’s studies scholar at Wellesley, is instructive for understanding the history of the term.</p>
+<p>McIntosh in 1988 circulated a list of 46 “privileges” accorded to white people. The piece, entitled “White Privilege: Unpacking the Invisible Knapsack” turned out to be a big hit. It included questions such as “I can if I wish arrange to be in the company of people of my race most of the time,” “I can turn on the television or open to the front page of the paper and see people of my race widely represented,” “I can be pretty sure that if I ask to talk to the ‘person in charge,’ I will be facing a person of my race,” “I can take a job with an affirmative action employer without having my co-workers on the job suspect that I got it because of my race,” and many more.<br/>
+Some of the questions reflect the fact that blacks are a minority in America, some reflect housing segregation, voluntary and otherwise, and some, like the last, reflect government policy. All the questions make tacit assumptions about the equivalence of blacks and whites in terms of both interests and abilities. Basically, what McIntosh is saying is that blacks more often think about their race than whites do about theirs, which is probably true for many minorities. The “knapsack” document makes interesting reading, but as science or proof that privilege is something other than the obverse of racial discrimination, it fails. Nevertheless, the term has become popular and McIntosh has found a receptive audience of sympathetic, high-status white people. (For more on Peggy McIntosh, see <a href="https://quillette.com/2018/08/29/unpacking-peggy-mcintoshs-knapsack/">this</a> <em>Quillette</em> piece.)</p>
+<p>“Systemic Racism, CBR and ‘racism without end’”: Systemic racism almost implies color-blind racism. There seem to be two definitions of systemic racism, one objective and one not. The non-objective definition, from Bonilla-Silva’s <em>Racism without Racists</em>, is that “racism is, more than anything else, a matter of group power; it is about a dominant racial group (whites) striving to maintain its systemic advantages and minorities fighting to subvert the racial status quo” (my emphasis). But who, exactly, is striving and how can this motivation be demonstrated? As it stands, this definition is simply an unsupported charge against white people in general.</p>
+<p>Racial disparities in mortgage lending, income, wealth, housing crime and incarceration, etc., provide, for CBR theorists, objective evidence of systemic racism. (Coleman Hughes, writing in <em><a href="https://quillette.com/2018/05/14/the-racism-treadmill/">Quillette</a></em>, called this the ‘disparity fallacy,’ which holds that unequal outcomes between two groups must be caused by discrimination.) Example: the <a href="http://uhaweb.hartford.edu/doane/Doane%20SHADES%20OF%20COLOR%20BLINDNESS%20SSS%20Paper.pdf">claim</a> by Ashley (“Woody”) Doane of the University of Hartford that “[systemic] racism is embedded in the social and political institutions of the United States” using as evidence “the disproportionate impact of mortgage lending upon blacks and Latinos.”</p>
+<p>“As an anti-racist, when I see racial disparities, I see racism,” writes <a href="https://www.claremont.org/crb/article/thomas-sowells-inconvenient-truths/">Ibram X. Kendi</a>, who directs the Anti-Racist Research and Policy Center at American University — a definition which makes it unlikely that the Anti-Racism Center will ever succeed in its mission. The reason, of course, is that individuals differ, and if individuals differ, so will groups. Under relatively free conditions, and with no prejudice at all, some will rise more than others. Hence, given the normal distribution of abilities and interests, even in a society totally free of discrimination, some disparities, group as well as individual, will always exist.</p>
+<p>As I have pointed out <a href="https://www.jamesgmartin.center/2018/08/the-new-racism-part-ii-the-sociologists-toolkit-justifying-racism-through-language/">elsewhere</a>, these <a href="https://www.psychologytoday.com/us/blog/adaptive-behavior/201708/let-us-hear-no-more-whining-about-disparate-impact">disparities</a> can be explained in several ways, of which systemic racism — a system biased against blacks — is only one. In other words, racial disparities pose questions. They do not provide an answer. Answers could be found. But the taboos against researching possible endogenous causes of racial disparities — family structure, the abilities and interests of African Americans, etc. — have turned out to be almost insurmountable. The research isn’t done, so systemic racism stands unchallenged as the cause of all these problems.</p>
+<p>Systemic racism also performs another function. It allows the charge of racism to stand even if no individual white person behaves in a racist way. In other words, even if a white person is genuinely color-blind and follows faithfully MLK Jr.’s credo to treat people according to the content of their character and not the color of their skin, even if he is conscientious, decent and pure in heart, even so he is guilty of color-blind racism. In other words, absent evidence of individual racism and given that individuals usually behave in color-blind ways, the supposed existence of a vaporous systemic racism implies “Racism without Racists,” which is the provocative title of Bonilla-Silva’s book, a book which might as well have been called “Racism without End” since disparities will always prove racism exists, according to Bonilla-Silva, and disparities will never vanish — unless, that is, the state enforces a totalitarian “equality of results,” which is precisely the solution proposed by many CBR sociologists.</p>
+<p><center>***</center>The problems of sociology have been apparent for many years: In 1986 philosopher Roger Scruton penned a Times op-ed called “The Plague of Sociology.” How did sociology lapse from Durkheim’s high standard? Political forces are always present. In the “harder” sciences they are restrained by rigorous methods of experiment and theory that are universally accepted. Sociology began this way, but differences soon led to many divisions, with each new branch accepting a different set of standards for what constituted valid data and acceptable methodology. This separation reduced the variety and force of criticism. Soon, everyone in RES sociology agreed that anecdote is okay, story-telling is as scientific as chemical analysis, “neo-liberal Amerikkka” is to be condemned, activism is scholarship and the politics of Foucault and Marx are settled truth.</p>
+<p>The problem seems to be the endless subdivision of the social sciences. Some means must be found if not to abolish at least to mitigate this protective isolation of sub-disciplines. Perhaps a modification of a peer-review system that, at present, allows hyper-specialized social-science scholars to listen only to the like-minded. Perhaps social-science grant applications should be vetted by a broader range of scientists, a majority from outside the sub-specialty. Perhaps some other solution can be found to restore the academic status of sociology. For the time being, all we can do is highlight what seems to be a pernicious degradation of science.</p>
+<p><em>Feature photo by Andy Ngo</em></p>
+<p> </p>
+<p><strong>John Staddon is a James B. Duke Professor of Psychology and Professor of Biology, Emeritus, at Duke University.</strong></p>
+<p><span style="font-size: 10pt;"><strong>References:<br/>
+</strong></span><span style="font-size: 10pt;"><sup>1 </sup><span class="s1">Examples from a Royal Society publication, <a href="https://www.biodiversitylibrary.org/creator/126992#/titles"><span class="s2"><i>Miscellanea Curiosa</i></span></a>, of 1708 that also contains several mathematical contributions from Halley.<br/>
+</span><span class="s1"><sup>2</sup> Birth name: Antonio McDaniel<br/>
+</span><sup>3 </sup><span class="s1"><i>Leviathan</i> (Oxford World’s Classics, 1998, I.5, p. 31.</span></span></p>
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="cb_p6_patreon_button" style="text-align:left !important;margin-top:18px;margin-bottom:18px;"><div class="cb_p6_message_over_post_button" style="font-size:14px;margin-top:14px;margin-bottom:14px;">If you liked this article please consider becoming a patron of Quillette</div><a href="https://www.patreon.com/Quillette" rel="nofollow"><img class=" jetpack-lazy-image" data-lazy-src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" data-recalc-dims="1" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"><noscript><img data-recalc-dims="1" src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"/></noscript></img></a></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="twitter-share-button" data-text="The Devolution of Social Science" data-url="https://quillette.com/2018/10/07/the-devolution-of-social-science/" data-via="QuilletteM" href="https://twitter.com/share">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://quillette.com/2018/10/07/the-devolution-of-social-science/" data-layout="button_count"></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F07%2Fthe-devolution-of-social-science%2F&amp;title=The%20Devolution%20of%20Social%20Science" width="120"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://quillette.com/2018/10/07/the-devolution-of-social-science/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script data-counter="right" data-url="https://quillette.com/2018/10/07/the-devolution-of-social-science/" type="in/share"></script></div></li><li class="share-email"><a class="share-email sd-button" data-shared="" href="https://quillette.com/2018/10/07/the-devolution-of-social-science/?share=email" rel="noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a class="share-print sd-button" data-shared="" href="https://quillette.com/2018/10/07/the-devolution-of-social-science/#print" rel="noopener noreferrer" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
+<!-- WP QUADS Content Ad Plugin v. 1.7.8 -->
+<div class="quads-location quads-ad6" id="quads-ad6" style="float:none;margin:0px;">
+<script type="text/javascript">amzn_assoc_placement="adunit0";amzn_assoc_search_bar="true";amzn_assoc_tracking_id="quillette-20";amzn_assoc_ad_mode="manual";amzn_assoc_ad_type="smart";amzn_assoc_marketplace="amazon";amzn_assoc_region="US";amzn_assoc_title="";amzn_assoc_linkid="61b0c55dd7d4c5e769c244bd1137d009";amzn_assoc_asins="0812977785,0226320553,0385346514,0143039881";</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div><!-- end .entry-content -->
+<footer class="entry-meta">
+<div class="entry-cats">
+<span>Filed under: </span><a href="https://quillette.com/category/spotlight/" rel="category tag">Spotlight</a> </div><!-- end .entry-cats -->
+<div class="entry-tags"><span>Tagged with: </span><a href="https://quillette.com/tag/education/" rel="tag">education</a>, <a href="https://quillette.com/tag/social-justice/" rel="tag">social justice</a>, <a href="https://quillette.com/tag/social-studies/" rel="tag">social studies</a>, <a href="https://quillette.com/tag/university/" rel="tag">university</a></div>
+</footer><!-- end .entry-meta -->
+</article><!-- end .post-84704 -->
+<div class="comments-area" id="comments">
+<h3 class="comments-title">
+		3 Comments	</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-39340">
+<article class="comment" id="comment-39340">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">Walter White</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/07/the-devolution-of-social-science/#comment-39340">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Finally, an academic has the courage to imply what we all know, deep down: blacks are intellectually inferior to other races.  Let’s stop wasting our time talking about “white privilege” and “institutional racism” and admit that blacks will never achieve parity with whites, no matter how many handouts we give them.  Bravo, Dr. Staddon!  You’re at the forefront of 19th-century science.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Walter White" class="comment-reply-link" href="#comment-39340" onclick='return addComment.moveForm( "comment-39340", "39340", "respond", "84704" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39342">
+<article class="comment" id="comment-39342">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					TarsTarkas <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/07/the-devolution-of-social-science/#comment-39342">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>If blacks are inferior, then please explain the academic prowess of Eva Moskowitz’s Success Academy, which has a mostly minority inner-city student population, chosen by lottery, among others. Yes, the applicants for charter school lotteries are self-selecting, but it shows that given schooling (which is sorely lacked in most inner-city schools) equal to suburban norms IQ can be raised to to those norms if not higher.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to TarsTarkas" class="comment-reply-link" href="#comment-39342" onclick='return addComment.moveForm( "comment-39342", "39342", "respond", "84704" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39341">
+<article class="comment" id="comment-39341">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					d <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/07/the-devolution-of-social-science/#comment-39341">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Terrific essay. Informative, well-reasoned, meticulously written. Thank you.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to d" class="comment-reply-link" href="#comment-39341" onclick='return addComment.moveForm( "comment-39341", "39341", "respond", "84704" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ol><!-- end .comment-list -->
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply					<small><a href="/2018/10/07/the-devolution-of-social-science/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small>
+</h3>
+<form class="comment-form" id="commentform">
+<iframe class="jetpack_remote_comment" id="jetpack_remote_comment" name="jetpack_remote_comment" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&amp;postid=84704&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=0&amp;stb_enabled=0&amp;show_avatars=0&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_AU&amp;jetpack_version=6.3.2&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;sig=28b4efd70402bdfa60eae977ffc4c898af13c186#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F07%2Fthe-devolution-of-social-science%2F" style="width:100%; height: 430px; border:0;" title="Comment Form"></iframe>
+<!--[if !IE]><!-->
+<script>document.addEventListener('DOMContentLoaded',function(){var commentForms=document.getElementsByClassName('jetpack_remote_comment');for(var i=0;i<commentForms.length;i++){commentForms[i].allowTransparency=false;commentForms[i].scrolling='no';}});</script>
+<!--<![endif]-->
+</form>
+</div>
+<input id="comment_parent" name="comment_parent" type="hidden" value=""/>
+</div><!-- #comments .comments-area -->
+<div class="nav-wrap cf">
+<nav id="nav-single">
+<div class="nav-previous"><a href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" rel="prev"><span class="meta-nav">Previous Post</span>Don’t Get Fooled Again: The Continuing Necessity of Anti-Communism</a></div>
+<div class="nav-next"></div>
+</nav><!-- #nav-single -->
+</div><!-- end .nav-wrap -->
+</div><!-- end #primary -->
+<div class="default-sidebar widget-area" id="blog-sidebar" role="complementary">
+<aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-25"><a alt="Ad" href="https://www.romepix.com/prints/a-love-letter-to-rome-photo-book-5fbkk-9f3yy" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/27050224/ad8.jpg" style="width: 100%;"/></a></aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-6"> <div id="fb-root"></div>
+<div class="fb-page" data-height="432" data-hide-cover="false" data-href="https://www.facebook.com/QuilletteM/" data-show-facepile="true" data-show-posts="false" data-width="340">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/QuilletteM/"><a href="https://www.facebook.com/QuilletteM/"></a></blockquote></div>
+</div>
+</aside><aside class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Stories</h3><ul class="widgets-list-layout no-grav">
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" title="The Grievance Studies Scandal: Five Academics Respond">
+<img alt="The Grievance Studies Scandal: Five Academics Respond" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/03013837/Image_1-e1538533061112.jpg?fit=1200%2C756&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/">
+								The Grievance Studies Scandal: Five Academics Respond							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" title="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms">
+<img alt="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05124955/MG_1643-Edit.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/">
+								Writers Behind ‘Grievance Studies Scandal’ Address Criticisms							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" title="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism">
+<img alt="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05061119/Communism.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/">
+								Don't Get Fooled Again: The Continuing Necessity of Anti-Communism							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title='When "Believe the Victim" Backfires'>
+<img alt='When "Believe the Victim" Backfires' class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">
+								When "Believe the Victim" Backfires							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="A New Kind of Economy—An Interview with Andrew Yang">
+<img alt="A New Kind of Economy—An Interview with Andrew Yang" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">
+								A New Kind of Economy—An Interview with Andrew Yang							</a>
+</div>
+</li>
+</ul>
+</aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-16"><a alt="Ad" href="http://hac.bard.edu/" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/07/11000422/600-500-ad_quillette2-300x250.png" style="width: 100%;"/></a></aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-19"><a alt="Ad" href="https://www.patreon.com/Quillette"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/18030918/Q19-September.jpeg"/></a></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="widget-title">Share</h3><div class="textwidget custom-html-widget"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<ul style="padding:0">
+<li>
+<button onclick="window.open('https://www.facebook.com/dialog/share?app_id=586833251482093&amp;display=popup&amp;href=' + encodeURIComponent(document.URL) + '&amp;redirect_uri=' + encodeURIComponent(document.URL), '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-facebook-official" style="font-size:48px"></i></button>
+</li>
+<li>
+<button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;via=QuilletteM', '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-twitter" style="font-size:48px"></i></button>
+</li>
+</ul></link></div></aside></div><!-- end #blog-sidebar -->
+<div class="cf" id="footerwidgets-wrap">
+<div class="default-sidebar widget-area" id="footer-five" role="complementary">
+<aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2"><div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="5" id="eu-cookie-law">
+<form method="post">
+<input class="accept" type="submit" value="Close and accept"/>
+</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br/>
+To find out more, including how to control cookies, see here:
+	<a href="https://automattic.com/cookies/">
+		Cookie Policy	</a>
+</div>
+</aside> </div><!-- end #footer-five -->
+</div><!-- end #footerwidgets-wrap -->
+<footer class="site-footer cf" id="colophon">
+<p class="site-description">Free Thought Lives</p>
+<div id="footer-social-nav">
+<h3 class="social-nav-title">Follow Us</h3>
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71138" id="menu-item-71138"><a href="https://www.facebook.com/Quillette-923721701039919/">Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71135" id="menu-item-71135"><a href="https://twitter.com/QuilletteM">Menu Item</a></li>
+</ul> </div><!-- end #footer-social -->
+<div id="site-info">
+<ul class="credit" role="contentinfo">
+<li>Copyright © 2018 Quillette Pty Ltd | All Rights Reserved</li>
+</ul><!-- end .credit -->
+</div><!-- end #site-info -->
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+</div><!-- end #container -->
+<div style="display:none">
+</div>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/quillette.com\/2018\/10\/07\/the-devolution-of-social-science\/":84704};</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_AU/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}
+jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}
+(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/platform.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')
+IN.parse();});</script> <div id="sharing_email" style="display: none;">
+<form action="/2018/10/07/the-devolution-of-social-science/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="https://quillette.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/comment-reply.min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var jpfbembed={"appid":"249643311490","locale":"en_US"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var q2w3_sidebar_options=[{"sidebar":"blog-sidebar","margin_top":30,"margin_bottom":0,"stop_id":"footerwidgets-wrap","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["adwidget_imagewidget-19","custom_html-2"]}];
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.3.2" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript"></script>
+<script async="async" src="https://quillette.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.8" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var sharing_js_options={"lang":"en","counts":"1"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.3.2" type="text/javascript"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+<script type="text/javascript">(function(){var comm_par_el=document.getElementById('comment_parent'),comm_par=(comm_par_el&&comm_par_el.value)?comm_par_el.value:'',frame=document.getElementById('jetpack_remote_comment'),tellFrameNewParent;tellFrameNewParent=function(){if(comm_par){frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84704&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=28b4efd70402bdfa60eae977ffc4c898af13c186#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F07%2Fthe-devolution-of-social-science%2F"+'&replytocom='+parseInt(comm_par,10).toString();}else{frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84704&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=28b4efd70402bdfa60eae977ffc4c898af13c186#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F07%2Fthe-devolution-of-social-science%2F";}};if('undefined'!==typeof addComment){addComment._Jetpack_moveForm=addComment.moveForm;addComment.moveForm=function(commId,parentId,respondId,postId){var returnValue=addComment._Jetpack_moveForm(commId,parentId,respondId,postId),cancelClick,cancel;if(false===returnValue){cancel=document.getElementById('cancel-comment-reply-link');cancelClick=cancel.onclick;cancel.onclick=function(){var cancelReturn=cancelClick.call(this);if(false!==cancelReturn){return cancelReturn;}
+if(!comm_par){return cancelReturn;}
+comm_par=0;tellFrameNewParent();return cancelReturn;};}
+if(comm_par==parentId){return returnValue;}
+comm_par=parentId;tellFrameNewParent();return returnValue;};}
+document.addEventListener('DOMContentLoaded',function(){var iframe_url="https:\/\/jetpack.wordpress.com";if(window.postMessage){if(document.addEventListener){window.addEventListener('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}else if(document.attachEvent){window.attachEvent('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}}})})();</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-201841.js" type="text/javascript"></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.3.2',blog:'101756249',post:'84704',tz:'0',srv:'quillette.com'}]);_stq.push(['clickTrackerInit','101756249','84704']);</script>
+</body>
+</html>

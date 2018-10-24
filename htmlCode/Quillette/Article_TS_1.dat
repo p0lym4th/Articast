@@ -1,0 +1,1605 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="https://quillette.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]>
+		<script src="https://quillette.com/wp-content/themes/zuki/js/html5.js"></script>
+	<![endif]-->
+<title>A New Kind of Economy—An Interview with Andrew Yang - Quillette</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="A New Kind of Economy—An Interview with Andrew Yang - Quillette" property="og:title"/>
+<meta content="Andrew Yang is a 43-year-old American entrepreneur who is seeking the Democratic Party’s nomination for president in 2020. His campaign focuses on solving the problem of job losses to automation—an issue many politicians seem happy to ignore. Starting right now, Yang wants to create a whole new kind of economy from the ground up, in which automation is transformed from a threat into the foundation for widespread human flourishing. Briefly, his policy proposals include implementing a form of Universal Basic Income (also known as UBI, or what he calls the “Freedom Dividend”), universal healthcare, a “digital social currency,” and a redefinition of GDP that more accurately reflect the health of the nation. If this sounds like socialism then, according to Yang, your thinking about the economy might be antiquated. He contends that the capitalism/socialism spectrum is no longer relevant or useful if we take an honest look at the modern world. The following is a transcription of my phone conversation with Andrew Yang, lightly edited for length and clarity. *     *     * Peter …" property="og:description"/>
+<meta content="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" property="og:url"/>
+<meta content="Quillette" property="og:site_name"/>
+<meta content="https://www.facebook.com/QuilletteM/" property="article:publisher"/>
+<meta content="Interview" property="article:section"/>
+<meta content="2018-10-06T00:08:20+00:00" property="article:published_time"/>
+<meta content="2018-10-06T22:11:14+00:00" property="article:modified_time"/>
+<meta content="2018-10-06T22:11:14+00:00" property="og:updated_time"/>
+<meta content="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1" property="og:image"/>
+<meta content="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1" property="og:image:secure_url"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Andrew Yang is a 43-year-old American entrepreneur who is seeking the Democratic Party’s nomination for president in 2020. His campaign focuses on solving the problem of job losses to automation—an issue many politicians seem happy to ignore. Starting right now, Yang wants to create a whole new kind of economy from the ground up, in which automation is transformed from a threat into the foundation for widespread human flourishing. Briefly, his policy proposals include implementing a form of Universal Basic Income (also known as UBI, or what he calls the “Freedom Dividend”), universal healthcare, a “digital social currency,” and a redefinition of GDP that more accurately reflect the health of the nation. If this sounds like socialism then, according to Yang, your thinking about the economy might be antiquated. He contends that the capitalism/socialism spectrum is no longer relevant or useful if we take an honest look at the modern world. The following is a transcription of my phone conversation with Andrew Yang, lightly edited for length and clarity. *     *     * Peter …" name="twitter:description"/>
+<meta content="A New Kind of Economy—An Interview with Andrew Yang - Quillette" name="twitter:title"/>
+<meta content="@QuilletteM" name="twitter:site"/>
+<meta content="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1" name="twitter:image"/>
+<meta content="@QuilletteM" name="twitter:creator"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/quillette.com\/","sameAs":["https:\/\/www.facebook.com\/QuilletteM\/","https:\/\/www.linkedin.com\/company\/quillette-magazine","https:\/\/twitter.com\/QuilletteM"],"@id":"https:\/\/quillette.com\/#organization","name":"Quillette","logo":"http:\/\/quillette.com\/wp-content\/uploads\/2017\/01\/quillette-Q-512pxby512px-white-on-black-0n-574pxby574px-transparency.png"}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://quillette.com/feed/" rel="alternate" title="Quillette » Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/comments/feed/" rel="alternate" title="Quillette » Comments Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/feed/" rel="alternate" title="Quillette » A New Kind of Economy—An Interview with Andrew Yang Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quillette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link href="https://quillette.com/wp-content/plugins/amazon-polly/public/css/amazonpolly-public.css?ver=1.0.0" id="amazonpolly-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-includes/css/dashicons.min.css?ver=4.9.8" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/style.css?ver=4.9.8" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/js/flex-slider/flexslider.css?ver=4.9.8" id="zuki-flex-slider-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CKarla%3A400%2C400italic%2C700%2C700italic%26subset%3Dlatin%2Clatin-ext&amp;subset=latin%2Clatin-ext" id="zuki-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zukichildthemefolder/style.css?ver=20140630" id="zuki-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Inline jetpack_facebook_likebox -->
+<style id="jetpack_facebook_likebox-inline-css" type="text/css">.widget_facebook_likebox{overflow:hidden}</style>
+<link href="https://quillette.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" id="jetpack-widget-social-icons-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-1 .column-1,2{padding:4px}.tablepress-id-1 .column-1{width:40%}.tablepress-id-1 .column-2{width:40%}</style>
+<link href="https://quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/plugin/templates/default/style.css?ver=4.9.8" id="cb_p6-css-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" id="social-logos-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/amazon-polly/public/js/amazonpolly-public.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/flex-slider/jquery.flexslider-min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/functions.js?ver=20140426" type="text/javascript"></script>
+<link href="https://quillette.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://quillette.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://quillette.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.8" name="generator"/>
+<link href="https://wp.me/p6SXrP-m1n" rel="shortlink"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fa-new-kind-of-economy-an-interview-with-andrew-yang%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fa-new-kind-of-economy-an-interview-with-andrew-yang%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script data-cfasync="false" type="text/javascript">var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":84653,"post_name":"a-new-kind-of-economy-an-interview-with-andrew-yang","post_title":"A New Kind of Economy\u2014An Interview with Andrew Yang","post_type":"post","post_author":"492","post_status":"publish"};_mmunch['postCategories']=[{"term_id":86,"name":"Economics","slug":"economics","term_group":0,"term_taxonomy_id":86,"taxonomy":"category","description":"","parent":35,"count":27,"filter":"raw","cat_ID":86,"category_count":27,"category_description":"","cat_name":"Economics","category_nicename":"economics","category_parent":35},{"term_id":125,"name":"Interview","slug":"interview","term_group":0,"term_taxonomy_id":125,"taxonomy":"category","description":"","parent":0,"count":15,"filter":"raw","cat_ID":125,"category_count":15,"category_description":"","cat_name":"Interview","category_nicename":"interview","category_parent":0},{"term_id":124,"name":"Top Stories","slug":"top-stories","term_group":0,"term_taxonomy_id":124,"taxonomy":"category","description":"","parent":0,"count":265,"filter":"raw","cat_ID":124,"category_count":265,"category_description":"","cat_name":"Top Stories","category_nicename":"top-stories","category_parent":0}];_mmunch['postTags']=false;_mmunch['postAuthor']={"name":"Peter Clarke","ID":492};</script><script async data-cfasync="false" data-mailmunch-site-id="405309" data-plugin="cc_mm" id="mailmunch-script" src="//a.mailmunch.co/app/v1/site.js"></script>
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+function external_links_in_new_windows_loop(){if(!document.links){document.links=document.getElementsByTagName('a');}
+var change_link=false;var force='';var ignore='';for(var t=0;t<document.links.length;t++){var all_links=document.links[t];change_link=false;if(document.links[t].hasAttribute('onClick')==false){if(all_links.href.search(/^http/)!=-1&&all_links.href.search('quillette.com')==-1){change_link=true;}
+if(force!=''&&all_links.href.search(force)!=-1){change_link=true;}
+if(ignore!=''&&all_links.href.search(ignore)!=-1){change_link=false;}
+if(change_link==true){document.links[t].setAttribute('onClick','javascript:window.open(\''+all_links.href+'\'); return false;');document.links[t].removeAttribute('target');}}}}
+function external_links_in_new_windows_load(func)
+{var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+external_links_in_new_windows_load(external_links_in_new_windows_loop);
+//]]></script>
+<script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}
+window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//quillette.com/?wordfence_lh=1&hid=393AC3EC9FB5BAFB7F41D78034AFC81F');</script>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//i1.wp.com" rel="dns-prefetch"/>
+<link href="//i2.wp.com" rel="dns-prefetch"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">.widget-area p.summary a,.entry-content p a,.entry-content li a,.page .entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a{color: }.widget_zuki_recentposts_color .bg-wrap{background: }.archive-menu-content{background: }</style>
+<style id="zuki-header-css" type="text/css">#site-title h1,#site-title h2.site-description{display:none}</style>
+<style type="text/css">.jetpack-lazy-image{display:none}.jetpack-lazy-images-js .jetpack-lazy-image{display:inline-block}</style>
+<script>document.documentElement.classList.add('jetpack-lazy-images-js');</script>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon-precomposed"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">#menu ul li{font-size:12px;color:#000}h1,h2{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}aside.widget.AdWidget_HTMLWidget iframe{max-width:100%;margin-left:0;margin-right:0}@media screen and (min-width:1023px){.blog #primary,.attachment #primary,.single-post #primary,.error404 #primary,.search-no-results #primary,.archive #primary,.search-results #primary,#front-content-one,#front-content-two{width:60%!important}#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:36%!important}}@media screen and (min-width:1260px){#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:27%!important}}#post-82069 ol[type="a"]{list-style:lower-alpha}#post-82069 ol[type="i"]{list-style:lower-roman}</style>
+</link></link></meta></head>
+<body class="post-template-default single single-post postid-84653 single-format-standard">
+<div id="container">
+<header class="cf" id="masthead" role="banner">
+<nav id="header-top-nav">
+<ul class="menu" id="menu-about"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71157" id="menu-item-71157"><a href="https://quillette.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70992" id="menu-item-70992"><a href="https://quillette.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81209" id="menu-item-81209"><a href="https://quillette.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82074" id="menu-item-82074"><a href="https://quillette.com/terms-of-service/">Terms of Service</a></li>
+</ul> </nav><!-- end #header-top -->
+<div id="site-title">
+<div id="site-header">
+<a href="https://quillette.com/" rel="home"><img alt="" height="491" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10215232/cropped-Quillette_white1.png" width="1500"/></a>
+</div><!-- end #site-header -->
+<h1><a href="https://quillette.com/" title="Quillette">Quillette</a></h1>
+<h2 class="site-description">Free Thought Lives</h2>
+</div><!-- end #site-title -->
+<a href="#menuopen" id="mobile-menu-toggle"><span>Menu</span></a>
+<div class="cf" id="mobile-menu-wrap">
+<nav class="cf" id="site-nav">
+<ul class="nav-menu" id="menu-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71055" id="menu-item-71055"><a href="https://quillette.com/category/features/">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71142" id="menu-item-71142"><a href="https://quillette.com/category/science-tech/">Science / Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-71141" id="menu-item-71141"><a href="https://quillette.com/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71348" id="menu-item-71348"><a href="https://quillette.com/category/review/">Review</a></li>
+</ul> </nav><!-- end #site-nav -->
+<a href="#menuclose" id="mobile-menu-close"><span>Close Menu</span></a>
+</div><!-- end #mobile-menu-wrap -->
+</header><!-- end #masthead -->
+<div id="main-wrap">
+<div class="site-content cf" id="primary" role="main">
+<article class="post-84653 post type-post status-publish format-standard has-post-thumbnail hentry category-economics category-interview category-top-stories" id="post-84653">
+<header class="entry-header">
+<div class="entry-cats">
+<a href="https://quillette.com/category/politics/economics/" rel="category tag">Economics</a>, <a href="https://quillette.com/category/interview/" rel="category tag">Interview</a>, <a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+<div class="entry-date">
+			Published on <a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">October 6, 2018</a>
+</div><!-- end .entry-date -->
+<div class="entry-comments">
+<a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comments">comments 56</a> </div><!-- end .entry-comments -->
+<h1 class="entry-title">A New Kind of Economy—An Interview with Andrew Yang</h1>
+<div class="entry-author">
+			written by <a href="https://quillette.com/author/peter-clarke/" title="All posts by Peter Clarke">Peter Clarke</a> </div><!-- end .entry-author -->
+</header><!-- end .entry-header -->
+<div class="entry-thumbnail">
+<a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="Permalink to A New Kind of Economy—An Interview with Andrew Yang"><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg 1200w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg 1024w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg 840w" height="800" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1200"/></a>
+</div><!-- end .entry-thumbnail -->
+<div class="entry-content">
+<div class="mailmunch-forms-before-post" style="display: none !important;"></div><p>Andrew Yang is a 43-year-old American entrepreneur who is seeking the Democratic Party’s nomination for president in 2020. His campaign focuses on solving the problem of job losses to automation—an issue many politicians seem happy to ignore. Starting right now, Yang wants to create a whole new kind of economy from the ground up, in which automation is transformed from a threat into the foundation for widespread human flourishing.</p>
+<p>Briefly, his policy proposals include implementing a form of Universal Basic Income (also known as UBI, or what he calls the “Freedom Dividend”), universal healthcare, a “digital social currency,” and a redefinition of GDP that more accurately reflect the health of the nation. If this sounds like socialism then, according to Yang, your thinking about the economy might be antiquated. He contends that the capitalism/socialism spectrum is no longer relevant or useful if we take an honest look at the modern world.</p>
+<p>The following is a transcription of my phone conversation with Andrew Yang, lightly edited for length and clarity.</p>
+<p style="text-align: center;">*     *     *</p>
+<p><strong>Peter Clarke: Let’s say Donald Trump wins again in 2020 and the government continues on its current path of ignoring automation. What can we expect to happen in the near future?</strong></p>
+<p><strong>Andrew Yang</strong>: You would expect the current trends that we’re seeing to accelerate. Many of the trends I’m most concerned about will accelerate with either a Democrat or a Republican in the White House, because we’re talking about how technology is going to displace millions of retail workers, call center workers, fast food workers, and truck drivers. And there’s no dramatic halting of that trend that would occur if a different political party were in office.</p>
+<p>Now, if I were president, my goal would be to accelerate meaningful countermeasures and solutions. That does not mean putting a stop to Artificial Intelligence (AI) and autonomous vehicles, but that we need to dramatically reshape the way that both value and work are experienced in our society. And that’s a generational challenge. It’s not going to happen overnight.</p>
+<p>What I’m most concerned about is the trends we’ve seen of the automation of four million manufacturing jobs in the U.S. between 2000 and 2015. When that gets applied to retail workers and truck drivers and fast food workers, which are some of the most common jobs in the U.S. economy, we’ll witness a continued disintegration of American society, which we can see in the numbers right now.</p>
+<p><strong>A lot of the automation is happening more quickly than almost anyone projected. I think I just read this week that Waymo is releasing its autonomous taxis in 2019. Do you think that this is going to sneak up on everyone in the next couple of years?</strong></p>
+<p>Well, I’m going to use call centers as an example. There are about 2.5 million call center workers in the United States right now making $14 an hour—typically high school graduates. So, if you’re reading this right now, how long is it going to be before Artificial Intelligence can outperform the average call center worker?</p>
+<p>Let’s say that timeframe is two or three years. How many call center workers will that effect? How many will be out of a job shortly thereafter? And so that’s not speculative at all. That’s something that we know Google and other companies are working on right now.</p>
+<p>If you take that one fact pattern and apply it over and over again in the economy, you’ll wind up with a massive displacement of workers. And it will sneak up on us quite quickly because that replacement of call center workers won’t affect five or ten thousand workers; it may well effect 500,000 or a million.</p>
+<p><strong>I know that it might take a while, even in the best case scenario, to implement Universal Basic Income or some of the other measures you’re proposing. So, is it already too late? Are we already going to see a massive dip in jobs because of automation and then huge swaths of the country are out of work?</strong></p>
+<p>It’s a little late in the day, truly. If you look at the labor force participation rate in the U.S., it peaked around 2000 and has declined ever since over the last 18 years—to a point where now it’s 62.9 percent, which is the same level as El Salvador and the Dominican Republic. And almost one out of five prime working-age men—between the ages of 21 and 30—have not worked in the last 12 months.</p>
+<p>So, this is already with us. If you wait until the truckers start to riot and the taxi drivers start to riot—then it is late in the day. And that’s one of the reasons I’m running for president now. If I can get to the Oval Office and make this happen in 2021, then we can at least be able to prevent some of the disintegration that accompanies loss of work.</p>
+<p>By the numbers, when men in particular get idle, we tend to degenerate into self-destructive and antisocial behaviors. You can see that in the surge of suicides among middle-aged Americans around the country that have brought down our country’s life expectancy over the last two years—and the fact that eight Americans are dying of opiates every hour. Again, if you look beneath the surface, all of these trends are already here with us.</p>
+<p><strong>In your recent speech in Iowa, you said that people in Washington are pretty much ignoring the problem of job displacement from automation. Is that still true? It just seems crazy to me. How could that be the case? </strong></p>
+<p>That’s 100 percent true. The Trump administration is completely uninterested in it. And there are very few Democrats who are focusing on this challenge, even though in my opinion it’s the main reason why Donald Trump is president today.</p>
+<p>If you blast away 4 million manufacturing jobs in Ohio, Michigan, Pennsylvania, Wisconsin, and Iowa, and then all of those states turn red, then that to me should be the central problem that Democrats are trying to solve. But Democrats for whatever reason are not addressing the elephant in the room, so to speak. So, if you look at the reports out of this administration, they are completely absent on the impact of technology. They’re still in the mind frame where starting a trade war with China will somehow spur more jobs—even though, again, that’s not the central challenge.</p>
+<p><strong>I am curious about how Democrats are addressing this—or not addressing this. Just this week Bernie Sanders was on Facebook saying that workers at Whole Foods, owned by Amazon, need to unionize so that they can keep their jobs and not be displaced by robots. To me this seems possibly shortsighted, but do you see any role for unionizing jobs to keep them around?</strong></p>
+<p>There are a few different approaches to this. And one of the things I disagree with Bernie Sanders on is that I believe he has a vision of the economy that functions like it did decades ago, where the path to prosperity is to get fair treatment by employers for workers. That relies upon a notion of the economy where, in order for a company to succeed and grow, it needs to hire more and more people and it needs to treat them well.</p>
+<p>Unfortunately, we’re increasingly entering an age where companies can become very, very successful and profitable without hiring lots of people. And then when it does hire people, the most efficient way for them to do so is as temporary or gig workers or contract workers or outsourced workers. And so, trying to force companies to change their employment models, and then empowering workers through unions to do so, might be the right thing to do in some contexts; but in my opinion, it’s highly unlikely to solve the problem because we’ve been heading in this direction for decades, and in some ways Bernie Sanders’ solution is an attempt to turn back the clock.</p>
+<p>As an example, let’s say that you were a fast food restaurant, and you’re paying your employees $10 an hour. Then, fast food workers quite rightfully say, hey, we can’t live on that; we need to be paid $15 an hour. So, one approach could be to say, the fast food workers should unionize and then bargain for $15 an hour. Another approach might be for the fast food companies to say—and they would do this if they had to pay $15 an hour in many instances—that maybe we can make our locations work with fewer workers.</p>
+<p>At that point, you have to ask yourself whether you would purposefully want the fast food company to <em>not</em> automate its locations for the purpose of having more people in jobs that pay them between $10 and $15 an hour. And that becomes a very interesting question about what you think the purpose of jobs is.</p>
+<p>If the purpose of jobs is to get a certain task done, then you would obviously want to automate that task because if the fast food company can serve the food with fewer workers, then that would be a good thing. If you think jobs are a way to maintain social order and make sure that someone has to be somewhere for certain shifts of the day—and that, without that, that person would struggle to find a degree of structure or purpose—then maybe you say, let’s make these fast food companies employ people just for the sake of it. That to me is a really fundamental question that we have to ask ourselves.</p>
+<p><b>Outside politics, I do see a lot of intellectuals talking about how we need to redefine jobs. I know Steven Pinker <a data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpiUqV0xo8us%26feature%3Dyoutu.be%26t%3D3848&amp;source=gmail&amp;ust=1538860078987000&amp;usg=AFQjCNG78c4ga6dL1zYEKECTmrvOaYXx1Q" href="https://www.youtube.com/watch?v=piUqV0xo8us&amp;feature=youtu.be&amp;t=3848" rel="noopener" target="_blank">recently said</a> that we need to protect the interests of people, not the interests of jobs. Do you think it’s possible for the country at large to ever shift their perspective on jobs like this, where we don’t worry about loss of jobs, we worry about loss of human wellbeing?</b></p>
+<p>I completely believe it is possible. And I think that the Freedom Dividend—the Universal Basic Income—that I’m proposing and will implement as president would enable that shift in a real way for millions of Americans quite quickly.</p>
+<p>I will say that if you dig into the data, you find that men and women experience idleness differently. …Women who are idle, I believe, would very, very naturally adopt this project-based approach that you’re talking about. The data shows that women who are out of work get involved in the community and go back to school and do things that are quite productive and pro-social. Whereas, men who are out of work spend 75 percent of their time on the computer playing videogames and surfing porn—and then tend to devolve into substance abuse and self-destructive behaviors. Men who are out of work volunteer less than employed men, even though they have more time. And so, men and women seem to experience idleness differently.</p>
+<p>When you talk about this project-based approach to work—for women it would be entirely natural and attainable, in my opinion, for many, many women. And for many men it would be as well. But for some men it might be less natural. …The providing of structure and purpose and fulfillment to millions of relatively unskilled men who are making transitions over the next number of years is one of the great projects of this age.</p>
+<p>Again, one out of five primary working-age American men between the age of 21 and 30 has not worked in the past 12 months. And so, we’re already behind on this. We need to implement a different approach to work and value to energize more and more of our people. Trying to stuff everyone into a nine to five job is getting increasingly unrealistic and anachronistic.</p>
+<div class="wp-caption aligncenter" id="attachment_84655" style="width: 1210px"><img alt class="wp-image-84655 size-full jetpack-lazy-image" data-lazy-sizes="(max-width: 1023px) 100vw, 1023px" data-lazy-src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 1200w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 300w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 768w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 1024w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 840w" data-recalc-dims="1" height="682" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1023"><noscript><img alt="" class="wp-image-84655 size-full" data-recalc-dims="1" height="682" sizes="(max-width: 1023px) 100vw, 1023px" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1" srcset="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 1200w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 300w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 768w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 1024w, https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05063301/Andrew-Yang-2.jpg?resize=1023%2C682&amp;ssl=1 840w" width="1023"/></noscript><p class="wp-caption-text">Andrew Yang at the Ecosystem Summit in New Orleans on 30 April 2018. (Photo by Stephen McCarthy/Collision)</p></img></div>
+<p><strong>I want to ask a couple of questions that go to the heart of your proposed policies. Under the umbrella of creating a new kind of economy, there seem to be three pillars: Universal Basic Income, universal health care, and redefining the GDP—along with the new digital social currency. </strong><strong>So, let’s say you win the election in 2020 and you take the helm as president. How do your proposed policies help with the question on everyone’s mind, the question of saving and restoring the middle class?</strong></p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p>If I became president in 2020, I would have won the election on the promise of rewriting the rules of the economy from the ground up—from people up, from families up, from communities up—on the promise that I would pass the Freedom Dividend of a thousand dollars per adult per month. Americans are right now distressed because median wages have not moved for decades. And education, housing, and healthcare have all gotten more expensive, to a point where 57 percent of Americans cannot pay an unexpected $500 bill. So, you ask how do you restore the middle class. The best way to do so is to give Americans a raise.</p>
+<p>As president, I would pass the Freedom Dividend and implement it during my first term. So that, if everyone were to get a $12,000 a year raise, that would be an enormous boost to tens of millions of Americans and put many into the middle class immediately. Let’s consider a town of 50,000 people in Missouri or Georgia. With the Freedom Dividend, they would be getting approximately $60 million in spending power in that town. And so, the majority of that money would go into local businesses, car repair shops, restaurants, tutoring services for your kids. So, there would be many more robust opportunities for people at every point in the educational spectrum.</p>
+<p>The Freedom Dividend, according to the Roosevelt Institute, would create about 4 million new jobs and that would end up creating many, many bridges toward the middle class for people who are aspiring to join the middle class.</p>
+<p><strong>How do you see automation interacting with people starting new businesses? Will automation put a dent in people’s hopes and dreams to create small businesses in town? </strong></p>
+<p>Right now, business formation is at a multi-decade low in the U.S. and 80 percent of new businesses formed in the last several years were in only 20 counties in the U.S.—only a very small handful of metropolitan areas. And so, if you’re a small-town entrepreneur and you want to start a business, right now it’s getting harder to do so because Main Street stores are closing right and left because of the flight to e-commerce, where Amazon is getting another $20 billion a year. This is pushing Main Street businesses into extinction.</p>
+<p>If you ask why it is that Main Street businesses aren’t getting started right now, it’s not that they’re competing with some robot barista. It’s that the people in the town don’t have money to spend. And if they do have money to spend, more and more of it is going online. If you put the Freedom Dividend into people’s hands, that addresses the first issue, which is that everyone in that town has another $1000 a month to spend. And then the types of businesses that they would start—as long as they’re businesses that people in their communities would happily patronize—then they would not, again, be in competition with the robot barista or the robot baker or something along those lines. You would end up with a robust artisanal economy based upon people’s own consumption patterns and desires.</p>
+<p>Look at the impact of automation in many of these environments. So, in food service and food prep, it would be fast food companies that would adopt many of these practices [of automation], but it’s not like some mom and pop is going to get some robot short order cook. There are many, many jobs that will be with us for a long time to come. The main issue really is that people don’t have money to spend in these communities that would fuel these businesses, which is one reason why these communities are emptying out in terms of new companies being formed.</p>
+<p><strong>Since you hold yourself out as the Universal Basic Income candidate, that kind of puts you in the realm of being the futurist candidate. I’ve seen you labeled that in articles here and there. Do you think that’s fair? And how much thought do you give to other futurist technologies—technologies which, depending on who you talk to, may be implemented and effect society in the near future? I’m thinking of neural lace, CRISPR, AI disrupting everything from weapons of war to…whatever. How much thought do you put into all of that?</strong></p>
+<p>What you’re describing, it’s funny: I’m ambivalent about the futurist label because, to me, all of that stuff is with us right here and now. It’s not speculative. So, I’d be concerned if someone labeled me a futurist because then it’s, oh, he’s worried about what’s happening years from now. I’m worried about it happening <em>today</em>. What’s the timeframe of self-driving cars and trucks? You just said that Waymo’s going to have it in 2019—that’s before the election.</p>
+<p>The only reason I seem futurist is that our current politicians are decades behind the times. So, if you’re talking about problems in 2018, that makes you seem like a futurist—that’s ridiculous. I was going to joke, I call myself a <em>present</em>-ist because I’m actually here in the here and now, unlike these politicians that are stuck in the past.</p>
+<p><strong>I want to ask about the digital social currency. Can you give me an example of how exactly it would work?</strong></p>
+<p>Digital social currency, in its simplest form, would be that the federal government goes into a particular region—let’s call it Mississippi—and then says, there are some social problems here, Mississippi, that we might be able to help address. Like, maybe child obesity…or educational outcomes… Then, the government comes in and says, organizations that are doing work in those areas, we’re now going to put the equivalent of the financial incentive in place for people and companies who help meet certain goals. And here’s how you can help measure their work and participation.</p>
+<p>So, if someone were to…spend lots of time tutoring kids—that might help with educational outcomes—then, if they document what they were doing, and there’s a local nonprofit that says, yes, they did tutor these kids for X hours, then they could get this social credit that they could then exchange for dollars if they chose. But there would be other ways for them to get rewarded that didn’t involve just running to the bank to cash [the social credits] in for dollars. You could use your social credits to get experiences or discounts at certain vendors or trade them with others.</p>
+<p>Then, let’s imagine that that’s successful and then over time that improves educational outcomes in Mississippi, then you put social credits to work for other various goals. And then, over time, you end up building a fairly robust set of opportunities for people.</p>
+<p>The social credit system would be something that would be very easy to implement in various regions and communities. If you think about it, we already have 15 or so currencies that we’re already dealing with. There’s cash, but then we also have credit cards, and then our points, and then a punch card from the deli, and then your Airbnb credits… We all have myriad currencies that we’re currently using. So, this would be another way for us to be able to push people to work that drives social goals that right now we know we need more of but that the monetary market would not currently reward.</p>
+<p>Some of those areas could include arts and creativity, nurturing and caregiving, environmental sustainability, volunteering, and civic engagement. And journalism would be another. Right now, the monetary market is rewarding many of these activities not at all or at much lower levels than it used to. So, this would be one new way that we can positively reinforce things that we need more of.</p>
+<p><strong>I saw Yuval Noah Harari speak recently with Sam Harris in San Francisco, and he has a pretty interesting critique of UBI. His perspective is that it’s not actually <em>universal</em> basic income that anyone’s talking about; it’s <em>national</em> basic income. So, what happens if, let’s say, we get basic income for everyone in America, while all the developing countries are decimated with automation and there’s no wealth flowing to them. This brings up questions of humanitarianism, immigration, and more. </strong></p>
+<p>I think the reality is that if a country implements Universal Basic Income, it will serve to inspire many other societies to do the same thing. If you imagine I become president in 2021 and I implement the Freedom Dividend, how many Western European countries and Asian countries would look at that and say, wow, the United States implemented Universal Basic Income? Because they regard us now as sort of lagging behind. So, I think that many of the European countries would take that as a mammoth challenge and would adopt Universal Basic Income quite quickly.</p>
+<p>I think that there, of course, would be issues of people trying to come into the U.S., but those are issues that we have right now. And under my plan, it’s not that a noncitizen—if they manage to arrive in the U.S.—all of the sudden is automatically eligible for $1000 a month. You have to be a citizen. Landing in this country would not bestow citizenship upon you. So, the incentives already exist.</p>
+<p>I don’t see what Yuval Noah Harari is describing as really a critique; I think it’s more of a factual description of at least some of the things you’d have to consider if you were to implement Universal Basic Income, but certainly not a disincentive to do so. Again, hundreds of millions of people want to come to the U.S. right now because of better economic opportunities; this doesn’t really change that equation.</p>
+<p><strong>You hold yourself out as a strong capitalist, which separates your campaign from Bernie Sanders, who embraces the term ‘democratic socialism.’ Do you have any strong feelings about the term socialism? Do you think it’s ever something that you’ll incorporate into the branding of your campaign, or are you shying away from that?</strong></p>
+<p>My honest feeling is that the entire capitalism/socialism framing is decades old and unproductive. So, what I’m suggesting is that we need to evolve to the next stage of capitalism, which prioritizes human wellbeing and development. If someone were to say to me, for example, hey, you’re for universal health care, and that’s an idea I associate with socialists…I would shrug and say, sure. [Laughs.] You know? I just think the labels are unfortunate. People have very strong associations with each one.</p>
+<p>A friend of mine, Eric Weinstein, said a couple of things that I thought were very profound. First, he said we never knew that capitalism was going to be eaten by its son—technology. Second, we have to become both radically capitalist and radically socialist in different aspects of American life and the economy. And I think both of those things are true.</p>
+<p>I just don’t think it’s constructive to try and pick a spot in this arbitrary capitalism/socialism spectrum. What I believe is we have to redefine our economy and re-write the rules so that it centers around <em>us</em>. Capitalism’s efficiency and GDP are going to have an increasingly nonexistent relationship to how most Americans are doing.</p>
+<p><strong>Do you have anything else you want to add?</strong></p>
+<p>Just that we need to advance our government and society forward to meet the challenges of 2020. I’m running for president because I see the challenges very clearly and they’re not going to get solved on their own.</p>
+<p>Unfortunately, our political class is decades behind and the goal would be that we could catch up. But we don’t have limitless time. We are decades behind where we should be and we need to catch up as fast as possible.</p>
+<p> </p>
+<p><strong>Andrew Yang is a <a href="https://www.yang2020.com/">Democratic candidate for the US Presidency in 2020</a>, founder of <a href="https://ventureforamerica.org/">Venture For America</a>, and author of <a href="https://www.amazon.com/War-Normal-People-Disappearing-Universal/dp/0316414247/"><em>The War on Normal People</em></a>. You can follow him on Twitter <a class="ProfileHeaderCard-screennameLink u-linkComplex js-nav" href="https://twitter.com/AndrewYangVFA"><span class="username u-dir" dir="ltr">@AndrewYangVFA</span></a></strong></p>
+<p><strong>Peter Clarke is a Silicon Valley-based writer with a BA in psychology and a JD in intellectual property law. You can follow him on Twitter <a href="https://twitter.com/HarveyDukeman">@harveydukeman</a></strong></p>
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="cb_p6_patreon_button" style="text-align:left !important;margin-top:18px;margin-bottom:18px;"><div class="cb_p6_message_over_post_button" style="font-size:14px;margin-top:14px;margin-bottom:14px;">If you liked this article please consider becoming a patron of Quillette</div><a href="https://www.patreon.com/Quillette" rel="nofollow"><img class=" jetpack-lazy-image" data-lazy-src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" data-recalc-dims="1" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"><noscript><img data-recalc-dims="1" src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"/></noscript></img></a></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="twitter-share-button" data-text="A New Kind of Economy—An Interview with Andrew Yang" data-url="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" data-via="QuilletteM" href="https://twitter.com/share">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" data-layout="button_count"></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fa-new-kind-of-economy-an-interview-with-andrew-yang%2F&amp;title=A%20New%20Kind%20of%20Economy%E2%80%94An%20Interview%20with%20Andrew%20Yang" width="120"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script data-counter="right" data-url="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" type="in/share"></script></div></li><li class="share-email"><a class="share-email sd-button" data-shared="" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/?share=email" rel="noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a class="share-print sd-button" data-shared="" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#print" rel="noopener noreferrer" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
+<!-- WP QUADS Content Ad Plugin v. 1.7.8 -->
+<div class="quads-location quads-ad4" id="quads-ad4" style="float:none;margin:2px 0 2px 0;text-align:center;">
+<script type="text/javascript">amzn_assoc_placement="adunit0";amzn_assoc_search_bar="true";amzn_assoc_tracking_id="quillette-20";amzn_assoc_ad_mode="manual";amzn_assoc_ad_type="smart";amzn_assoc_marketplace="amazon";amzn_assoc_region="US";amzn_assoc_title="";amzn_assoc_linkid="61b0c55dd7d4c5e769c244bd1137d009";amzn_assoc_asins="0375725385,1573225142,0691017883,1416561110";</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div><!-- end .entry-content -->
+<footer class="entry-meta">
+<div class="entry-cats">
+<span>Filed under: </span><a href="https://quillette.com/category/politics/economics/" rel="category tag">Economics</a>, <a href="https://quillette.com/category/interview/" rel="category tag">Interview</a>, <a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+</footer><!-- end .entry-meta -->
+</article><!-- end .post-84653 -->
+<div class="comments-area" id="comments">
+<h3 class="comments-title">
+		56 Comments	</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-38963">
+<article class="comment" id="comment-38963">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://www.thoughtsfromtheboonies.blogspot.com" rel="external nofollow">Jason</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38963">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I fear he is committing the same error that Trump himself committed coming into the elections. He is grossly overestimating the power that the President actually has.</p>
+<p>The United States has three branches of government, the executive, the legislative, and the judicial, and each has a say in how the country is run. Even Trump, whose changes were fairly small compared to the extant system, hasn’t been able to do everything he wanted to do.</p>
+<p>Mr Yang’s changes are on a completely different level, and I honestly can’t see any way he’d be able to implement them even if he won the 2020 election, which he won’t.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Jason" class="comment-reply-link" href="#comment-38963" onclick='return addComment.moveForm( "comment-38963", "38963", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39319">
+<article class="comment" id="comment-39319">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Morgan <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39319">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The power of government is grossly overestimated.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Morgan" class="comment-reply-link" href="#comment-39319" onclick='return addComment.moveForm( "comment-39319", "39319", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38968">
+<article class="comment" id="comment-38968">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Hank Vandenburgh <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38968">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Absolutely nutty. There are plenty of jobs fixing infrastructure and taking care of externalities both negative and positive (pollutantion, community health, hiring more teachers.) Use monies for that, not kick-back saturnalia.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Hank Vandenburgh" class="comment-reply-link" href="#comment-38968" onclick='return addComment.moveForm( "comment-38968", "38968", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38972">
+<article class="comment" id="comment-38972">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					David Hester <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38972">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I fear Mr. Yang makes too much sense to make it very far in the Democratic primaries.  His party is running full speed towards socialism and the further embracing of grievance politics.  He’ll be lucky to break single digits in polls.  </p>
+<p>Which is too bad. I found this article intriguing enough to be willing to give him a fair hearing as a life long registered Republican.  </p>
+<p>Perhaps a less ambitious goal, like running for the House of Representatives would be better.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to David Hester" class="comment-reply-link" href="#comment-38972" onclick='return addComment.moveForm( "comment-38972", "38972", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-38975">
+<article class="comment" id="comment-38975">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Bill <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38975">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I was actually thinking his positions are ripe for a state-level proving ground.  Take the embrace-automation concept, brainstorm tangible examples and how it would work/be paid for, and apply to a smaller space.  Key factor in most innovation success stories is the ability to fail-fast so you can adapt.  You can’t fail fast at the national level, too many Congresscritters have a vested interest so they refuse to let things fail (look a any number of DoD contracts).</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bill" class="comment-reply-link" href="#comment-38975" onclick='return addComment.moveForm( "comment-38975", "38975", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-38973">
+<article class="comment" id="comment-38973">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Spike <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38973">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Outside of the very leading Qs, was a interesting bit of supposition, but there was ( remarkably) little discussion of the building construction trades.<br/>
+The ‘holy grail’,  of automation.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Spike" class="comment-reply-link" href="#comment-38973" onclick='return addComment.moveForm( "comment-38973", "38973", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-38974">
+<article class="comment" id="comment-38974">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Bill <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38974">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>FIrst, he won’t win the D primary because of this very transcript — he *gasp* said men and women are different. That is verboten.</p>
+<p>That being said, I think what he proposes is a good starting point for discussion; however, for someone who says socialism/capitalism are outdated concepts, so is this UBI/social credit stuff as well.  To fund the UBI you have to take the money from somewhere — the business owner?  For localized businesses like groceries, restaurants, etc that’s easy.  All the automated manufacturing leaves as it did with human manufacturing.  What then?  Tariffs?  The money has to come from somewhere.  Robotic automation is simply on-shore outsourcing.  There is a new labor supply that is cheap so it displaces the prior labor supply.  No different than H1Bs in IT or offshoring before that.  </p>
+<p>As Jason pointed out, I don’t think he understands what the President does.  All of the things he lays out — assume he is elected, does he propose establishing a dictatorship so that he can do all these things?  Even Obama’s “I have a pen and a phone” couldn’t do something as “simple” as universal healthcare when he had super majorities.  Sorry, Congress isn’t going to just follow along.</p>
+<p>All that criticism aside, I do find it intriguing that someone has the cahones to socialize very disruptive concepts to spur a discussion.  While I don’t see any way his ideas, as they stand, would work, it requires one side to throw out ideas and be open to discussion to really innovate.  For example, how do you embrace automation?  Perhaps it is supply chain development like in so many video games of yesteryear.  Work to establish supply chain efficiencies coupled with automation to drive geolocality.  This in turn does spur job growth of the supporting infrastructure such as a skilled workforce of robotic repair techs which support a larger manufacturing sector than just a single plant.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bill" class="comment-reply-link" href="#comment-38974" onclick='return addComment.moveForm( "comment-38974", "38974", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39055">
+<article class="comment" id="comment-39055">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Andrew <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39055">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>He is actually unusually clear in describing where he plans on getting the money from elsewhere. Apparently the question was not asked during this interview. He plans on implementing a value-added-tax, which he describes on his website: <a href="https://www.yang2020.com/what-is-ubi/" rel="nofollow">https://www.yang2020.com/what-is-ubi/</a>.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Andrew" class="comment-reply-link" href="#comment-39055" onclick='return addComment.moveForm( "comment-39055", "39055", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-39080">
+<article class="comment" id="comment-39080">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Kevin Herman <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39080">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Hahaha that will never happen.  Just telling you that right now.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Kevin Herman" class="comment-reply-link" href="#comment-39080" onclick='return addComment.moveForm( "comment-39080", "39080", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39188">
+<article class="comment" id="comment-39188">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Heinz Hemken <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39188">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This interview format is too brief to address those questions. Look here: <a href="https://www.amazon.com/gp/product/0316414247?ie=UTF8&amp;tag=cambembecambo-20&amp;camp=1789&amp;linkCode=xm2&amp;creativeASIN=0316414247" rel="nofollow">https://www.amazon.com/gp/product/0316414247?ie=UTF8&amp;tag=cambembecambo-20&amp;camp=1789&amp;linkCode=xm2&amp;creativeASIN=0316414247</a></p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Heinz Hemken" class="comment-reply-link" href="#comment-39188" onclick='return addComment.moveForm( "comment-39188", "39188", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38982">
+<article class="comment" id="comment-38982">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					sestamibi <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38982">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>First, let’s establish that ONLY automation and intensive capital investment could produce the advanced economy and widespread prosperity that we have been lucky enough to experience since 1946.  Let us also recognize that the story of Adam and Eve getting expelled from the Garden of Eden is an allegorical description of all human efforts since then to return there and free ourselves from the life of labor to which we were condemned at that time.  </p>
+<p>Let us also remember that labor effort is not an all-or-nothing stipulation–either 40+ hours per week for 30 years or total unemployment.  Today one can work part-time, participate voluntarily in the gig economy, and take long breaks from employment if desired.  And let us also remember that there are basically only two ways to earn a living: labor income or dividends from capital investments.  The third, government transfer payments, is just a bastardized version of the other two.  </p>
+<p>With all that in mind, I propose the following:  punitive taxation of labor income with exemption from taxation all savings and investment (a turbo-charged 401k plan, if you will), and no taxation of income from capital sources.  This will encourage people to save as much as possible early on and slowly ramp down their labor effort in favor of income from capital sources.  The net result of this would be a reduction in the supply of labor to meet a very reduced demand.  It would also help individuals pursue careers for which they are better qualified:  the economics Ph.D driving a cab gets to become an economist, and the unemployed guy out there gets to drive a cab (or comparable job once cab driving becomes self-guided).</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to sestamibi" class="comment-reply-link" href="#comment-38982" onclick='return addComment.moveForm( "comment-38982", "38982", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38986">
+<article class="comment" id="comment-38986">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Event Horizon <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38986">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“if everyone were to get a $12,000 a year raise”</p>
+<p>I thought Asians were good at math. To give every American $12k a year the government will have to spend $3.9T/year. This sum is equivalent to the total US federal budget ($4.2T) minus the interest paid on our federal debt ($350B). At current taxation levels, UBI will cost as much as the entire federal budget, a budget which now includes defense, medicare, medicaid, social security, federal pensions and day-to-day operating expenses. </p>
+<p>As much as I would like $1k/mo:<br/>
+a) where would the money come from to run the federal government?<br/>
+b) does he really believe retirees will vote for someone advocating for gutting SS and medicare in exchange of $1k/mo?<br/>
+c) if we also keep SS, medicare and all other current programs, the tax burden will have to more than double (current federal tax income is $3.2T), making UBI pointless.</p>
+<p>Anyone who believes in UBI is either mathematically challenged or dishonest.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Event Horizon" class="comment-reply-link" href="#comment-38986" onclick='return addComment.moveForm( "comment-38986", "38986", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39006">
+<article class="comment" id="comment-39006">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					neoteny <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39006">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Math &amp; logic are the weapons of the patriarchy.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to neoteny" class="comment-reply-link" href="#comment-39006" onclick='return addComment.moveForm( "comment-39006", "39006", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39087">
+<article class="comment" id="comment-39087">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Paul Ellis <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39087">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>– says a person posting an Internet comment using a device that runs entirely on – only exists because of – maths and logic.</p>
+<p>Flown anywhere lately? Maths and logic. Taken any kind of motorised transport? Maths and logic. Used mains electricity, running water, or sewerage? Maths and logic. Use tampons, do you? Get them from your local shop or supermarket? How about food? Logistics &amp; supply chain, courtesy of maths and logic. Hoping for a cure for your cancer? Maths and logic. Got an intersectionalist opinion? Ah, at last we dispense with maths and logic, because they disprove it.</p>
+<p>I hope you were being ironic.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Paul Ellis" class="comment-reply-link" href="#comment-39087" onclick='return addComment.moveForm( "comment-39087", "39087", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-3" id="li-comment-39277">
+<article class="comment" id="comment-39277">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					peterschaeffer <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39277">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>neoteny, Your comment reveals a shameful ignorance. Math &amp; logic are the weapons of the white, male, cis-gendered, straight patriachy.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to peterschaeffer" class="comment-reply-link" href="#comment-39277" onclick='return addComment.moveForm( "comment-39277", "39277", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39081">
+<article class="comment" id="comment-39081">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Kevin Herman <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39081">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Numbers schnumbers.  They always seem to get in the way of the path to Utopia.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Kevin Herman" class="comment-reply-link" href="#comment-39081" onclick='return addComment.moveForm( "comment-39081", "39081", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38988">
+<article class="comment" id="comment-38988">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Inanna <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38988">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>So, this man believes that he is capable of effectively and successfully completely and from the ground up redesigning something so complex and of such a large scale (if only it were he who had the power to do so) that future disasters would be averted and instead- everyone would have what they need. </p>
+<p>Where have I heard this before?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Inanna" class="comment-reply-link" href="#comment-38988" onclick='return addComment.moveForm( "comment-38988", "38988", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38991">
+<article class="comment" id="comment-38991">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Yelo <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-38991">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>85 richest people on earth has as much wealth as the bottom 3,5 billion people. I don’t think that’s a fair or efficient way of operating an economy. We all know the positives and negatives of socialism (authoritarianism) and capitalism (income inequality), we need to get out of this dichotomy.</p>
+<p>I think we should look to the philosophies of Georgism and geo-libertarianism as possible solutions. Glen Weyls and Eric Posners book “Radical markets – Uprooting Capitalism and Democracy for a Just Society” put forth some of these ideas in the context of the current world.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Yelo" class="comment-reply-link" href="#comment-38991" onclick='return addComment.moveForm( "comment-38991", "38991", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39171">
+<article class="comment" id="comment-39171">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Dan Ledbetter <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39171">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Price’s Law…good luck defying it.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Dan Ledbetter" class="comment-reply-link" href="#comment-39171" onclick='return addComment.moveForm( "comment-39171", "39171", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39000">
+<article class="comment" id="comment-39000">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39000">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p><i>… if everyone were to get a $12,000 a year raise</i></p>
+<p>Population of USA in 2018 estimated to be 326,766,748 x $12,000 each  =  $3,921,201,000,000. You need about $4 trillion per annum. The federal government’s 2018 budget is $4.094 trillion.  </p>
+<p>Question for Mr Clarke: Have you ever heard of the question, “How are you going to pay for that?”<br/>
+It’s a good one to ask. Give it a crack next time. </p>
+<p>BTW, the US national debt stands presently at $21.4 trillion and increases by $38,000 per second. </p>
+<p>Son of BTW, don’t forget your Social Security shortfall. Depending on who’s calculating it, it’s estimated to be between $12.5 and $21.4 trillion.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to ga gamba" class="comment-reply-link" href="#comment-39000" onclick='return addComment.moveForm( "comment-39000", "39000", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39038">
+<article class="comment" id="comment-39038">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39038">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Of course President Yang could simply raise taxes on all those rich corporations and individuals to get that extra $4 trillion to distribute – Gates, Bezos, and Buffet don’t need all those billions.  Yet a funny thing always seems to happen on the way to 90% tax rates.  It turns out the capital and talent are highly mobile and highly persuasive.  It seems that tax loopholes are almost always made available for those who give generous campaign contributions, and should bribery fail it isn’t difficult in the age of Internet, Skype and jet travel for the wealthy and talented to set up shop in the Cayman Islands or Monaco or Switzerland, or where ever there are low taxes and a more welcoming environment for makers.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39038" onclick='return addComment.moveForm( "comment-39038", "39038", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39193">
+<article class="comment" id="comment-39193">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Bill <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39193">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>As the Tax &amp; Spenders in states like NY found out when their high property taxes were no longer fully on the backs of the rest of the country (fully deductible)</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bill" class="comment-reply-link" href="#comment-39193" onclick='return addComment.moveForm( "comment-39193", "39193", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-39011">
+<article class="comment" id="comment-39011">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39011">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>So we have an opiate epidemic among men who are unemployed or underemployed, and the solution is to give these suicidal drug addicts an extra $12,000 per year?  What does Mr. Yang think think they will do with it?  From his comments it seems that he (and Pelosi, Sanders, etc.) seems to think that giving “free” money and “free” healthcare to people automated out of a job will allow them to become artisans – set up a little business making hand-made trinkets and works of art that will be purchased by whom?  Sure there might be 0.5% of the displaced population with the God given talent and inner-drive to make it as an artist, but for the rest the money will much more likely end up going to a purchase of some substance they can put up their nose or inject into a vein.  The problem that most of these “genius” types have is they have no idea how the bottom half lives, and so they just imagine what they themselves would do if they would get “free” money and not have to work, because unlike the bottom half they have the IQ, education, skills, personality, etc. to enjoy reading books, taking courses, do arts and crafts, working out and playing golf, mentoring/tutoring kids, writing articles and comments on Quillette, etc.  But how many of these things will be “productive” outlets for a high school drop-out with an IQ of 85, no interest/abilities to write, read, paint, sculpt, sing, workout, tutor, mentor, and some destructive personal habits ranging from overeating to alcohol/drug addiction.  The more painful question is whether society is doing a favor to people who have perhaps permanently lost their economic and social purpose by subsidizing their existence and procreation with “free” healthcare and “free” money.  Even if society could afford such policies financially, the rise of the welfare state has already created an epidemic of single parent households, obesity, drug addiction, violence and criminal activity that is pretty much limited to the lower classes who are the primary “beneficiaries” of the welfare state, so how is expanding it further going to help?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39011" onclick='return addComment.moveForm( "comment-39011", "39011", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39197">
+<article class="comment" id="comment-39197">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://twitter.com/ferngullible" rel="external nofollow">ferngullible (@ferngullible)</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39197">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Excellent post. Agree 100%.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to ferngullible (@ferngullible)" class="comment-reply-link" href="#comment-39197" onclick='return addComment.moveForm( "comment-39197", "39197", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39017">
+<article class="comment" id="comment-39017">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Inanna <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39017">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>If we create a communist system because of automation, it is not a communist system!</p>
+<p>The last thing people need is removal of purpose, struggle and the need to better themselves.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Inanna" class="comment-reply-link" href="#comment-39017" onclick='return addComment.moveForm( "comment-39017", "39017", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39061">
+<article class="comment" id="comment-39061">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39061">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yes.  Necessity is the mother of invention.  These guys want government to be our mother so we all remain children, stuck in the present.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to david of Kirkland" class="comment-reply-link" href="#comment-39061" onclick='return addComment.moveForm( "comment-39061", "39061", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-39083">
+<article class="comment" id="comment-39083">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Kevin Herman <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39083">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>If you pay people to sit on there asses that’s what a lot of them will do.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Kevin Herman" class="comment-reply-link" href="#comment-39083" onclick='return addComment.moveForm( "comment-39083", "39083", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39192">
+<article class="comment" id="comment-39192">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Heinz Hemken <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39192">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>You’re not getting it. $12K/year is designed to be a very spartan income. Most people will want more and will strive for more. It doesn’t “remove purpose, struggle and the need to better themselves” except for people who are happy to live in poverty. Read his book (<a href="https://www.amazon.com/gp/product/0316414247?ie=UTF8&amp;tag=cambembecambo-20&amp;camp=1789&amp;linkCode=xm2&amp;creativeASIN=0316414247" rel="nofollow">https://www.amazon.com/gp/product/0316414247?ie=UTF8&amp;tag=cambembecambo-20&amp;camp=1789&amp;linkCode=xm2&amp;creativeASIN=0316414247</a>) or visit his website (<a href="https://www.yang2020.com/policies/" rel="nofollow">https://www.yang2020.com/policies/</a>). They go into much or detail than this interview.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Heinz Hemken" class="comment-reply-link" href="#comment-39192" onclick='return addComment.moveForm( "comment-39192", "39192", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-39019">
+<article class="comment" id="comment-39019">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					d <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39019">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Mr. Yang correctly identifies some upcoming problems, but then veers off the deep end with his solutions. A few comments.</p>
+<p>1. He fails to recognize human nature. As someone above points out, giving people an extra $12,000 for doing nothing is hardly going to solve the problem. To be blunt, what do opioid addicts do with an extra $12,000 a year? And that’s just a subset of the problem. The assumption here is that everyone likes to work and to be honest. This is just not true. Some people like to sleep all day, some like to steal things or commit crimes, some like to commit fraud.  But most people need a sense of purpose. The reason a man degenerates when out of a  job is because he feels he has no purpose. (And women are ok because they still feel a sense of purpose in community jobs; for a man that’s emasculating) So you think tossing $12,000 at him will make him feel like he has a purpose? No, it will make him feel like he is a 12 year old with an allowance. </p>
+<p>2. He ignores fraud (at the very least). He actually writes, “So, if someone were to…spend lots of time tutoring kids..then, if they document what they were doing, and there’s a local nonprofit that says, yes, they did tutor these kids for X hours, then they could get this social credit that they could then exchange for dollars if they chose.” If he sees no one cheating the government this way, he is a fool. And this is not to mention that there is no oversight as far as results. I can *say* I tutored someone and work with them for 10 hours. But if I do nothing at all, or am horrible at what I do, I still get paid. Multiply this by 1000s.</p>
+<p>3. He ignores money. Invariably people making this proposal go into he passive tense: “People would be given $12,000 a year….” I wish I knew about this money tree too.</p>
+<p>4. He ignores long term impact on economy &amp; what happens when you must defacto put enormous power into the hands of the few (the state.) Tyranny is always the result.  </p>
+<p>4. Finally: Saying ‘it’s not socialism’ or ‘socialism is so last century’ is what convinced me that though he sounds like he at least has good intentions, he does not. That is simply deceitful. If it quacks like a duck…</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to d" class="comment-reply-link" href="#comment-39019" onclick='return addComment.moveForm( "comment-39019", "39019", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39064">
+<article class="comment" id="comment-39064">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39064">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>d – Mr. Yang believes it will be different this time.  Out with the old human nature, in with the new improved human nature.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39064" onclick='return addComment.moveForm( "comment-39064", "39064", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39022">
+<article class="comment" id="comment-39022">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Cheung <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39022">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The author seemed to be quite soft on Mr Yang because he didn’t question a few things, such as who is going to pay for the UBI, which seems to require doubling the tax revenue, and that’s not counting the free healthcare, which will require tripling the tax revenue.</p>
+<p>His proposed social credit system strikes deep fear in me because of the huge potential for abuse that we’re aeeise, for example, in Xinjiang, where people are rewarded for rejecting their religion and mother tongue, as well as for complying with the dominant ideology and reading the appropriate books.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Cheung" class="comment-reply-link" href="#comment-39022" onclick='return addComment.moveForm( "comment-39022", "39022", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39023">
+<article class="comment" id="comment-39023">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39023">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p><i>The Freedom Dividend, according to the Roosevelt Institute, would create about 4 million new jobs and that would end up creating many, many bridges toward the middle class for people who are aspiring to join the middle class.</i></p>
+<p>Or, to put it another way, you’ve spent $1 million per job. A person paid $1 million usually creates more than the same amount in a product or service. Adele earns $25 million because she ‘sold’ albums, concert tickets, and merchandise worth more than that.</p>
+<p>This is what will happen: most of that money will be transferred to China because a lot will be spent on merchandise.</p>
+<p>Phase 1: transfer the jobs to China ✓<br/>
+Phase 2: transfer the intellectual property to China ✓<br/>
+Phase 3: transfer all the wealth to China </p>
+<p>Jeepers, if you’re going for broke by doubling the national budget and increasing the national debt by almost 20 per cent in the first year you might as well shoot for the stars and develop some amazing device or technology that’s transformative and world beating. Just make sure the profits are given to the nation as a reward for the investment, and from that a portion may fund some social programmes and benefits to the poor.  And when others try to steal it… you bomb them. </p>
+<p>Yang is calling for a programme of national consumption. A sounder strategy is national investment.</p>
+<p>You could even run Friedman’s proposed negative income tax for the poor in parallel, which puts money in the hands of the poor. This is offset by eliminating a lot of government jobs administrating benefits programmes.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to ga gamba" class="comment-reply-link" href="#comment-39023" onclick='return addComment.moveForm( "comment-39023", "39023", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39060">
+<article class="comment" id="comment-39060">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39060">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The future will surprise Yang if he’s honest.  “The end is near” is so old and tired and has always been wrong.  Too many people, we’ll all starve.  No more oil.  No more farmland.  No clean water or air.  Aliens, Russians, Chinese, Slender man, God….the end isn’t near.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to david of Kirkland" class="comment-reply-link" href="#comment-39060" onclick='return addComment.moveForm( "comment-39060", "39060", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39042">
+<article class="comment" id="comment-39042">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/110449509669606758021" rel="external nofollow">Marlon Keating</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39042">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>A lot of fair critiques here. but let’s not be so quick to assume that the reason someone runs for office on a single issue is because they think they can win on that issue, and then singlehandedly fix the issue once in office.</p>
+<p>In the 2016 election there was a Democratic candidate named Larry Lessig who ran on a campaign of passing a single mother-of-all-campaign-finance-reform bills, and that’s it.  He pledged to resign immediately after passing this bill.</p>
+<p>Naturally the DNC pulled all the strings they could to keep him out of the debates, but at the very least both Hillary and Bernie started talking more about campaign finance reform after he announced his candidacy.</p>
+<p>If Andrew Yang only gets that far, if all he does in his short-lived presidential campaign is get the political establishment at least talking about the looming automation apocalypse on our horizon, I would call his campaign a resounding success.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Marlon Keating" class="comment-reply-link" href="#comment-39042" onclick='return addComment.moveForm( "comment-39042", "39042", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-39049">
+<article class="comment" id="comment-39049">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					leveraction <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39049">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I think this guy is really interesting.  I think some of the ideas are a bit naive, like ‘social credits’ and it also reminds me a little too much of Black Mirror.  </p>
+<p>That being said, I also think that automation is a big problem in the long run and the really ugly truth of the matter is that, just like a business that automates it’s operations needs fewer people, likewise, the society with those sorts of businesses will be able to employ fewer people and thus will need fewer people.  This is the biggest problem considering our large and growing population.</p>
+<p>The idea that all those idle hands will be occupied tutoring poor kids is not going to happen.  After all, if you can cash in your social credits why not pay cash.  If the government is going to pay cash that means that the people society deems economically worthy are going to be picking up the tab.  The more things get automated, the smaller the group of “worthies” will become, meaning that taxes will have to grow ever higher to support the non-worthies.  Even with this criticism we still have to start somewhere.</p>
+<p>Unfortunately, we are not going to start with this guy I am afraid because of what I suspected.  I checked out his web page and found this:</p>
+<p><a href="https://www.yang2020.com/policies/gun-control-second/" rel="nofollow">https://www.yang2020.com/policies/gun-control-second/</a><br/>
+     “Just as we require people to pass a test to drive a car, we should require people to pass a test to own a gun.  Responsible gun owners should enjoy the right to bear arms, subject to licensing and education requirements. </p>
+<p>Those who are flagged as dangerously mentally ill, have been convicted of violent crimes, are under 21, or have a history of spousal abuse should not be able to own weapons.  </p>
+<p>Additionally, we need to restrict the ownership of military-style, semi-automatic weapons that can incur mass casualties.”  </p>
+<p>I am part of the uncompromising pro-gun constituency that the Democrats love to hate.  I imagine a world run by an ever smaller group of robot owning elites would drive people like myself to place an even higher importance on the 2A.  </p>
+<p>Which brings me to my last point.  IMHO, only the application of the original ideas of state’s rights can lay to rest  the otherwise unsolvable political controversies of our time by basically letting everyone have his own final say by voting with his feet. Once that is done and we are no longer at each other throats, then we can work on the rest of the problems.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to leveraction" class="comment-reply-link" href="#comment-39049" onclick='return addComment.moveForm( "comment-39049", "39049", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39059">
+<article class="comment" id="comment-39059">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39059">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Billions of ingenious human minds will do better than assuming our limited current viewpoint will be the future.  Every major change comes with Cassandras; the world has been ending as far back as we have written records.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to david of Kirkland" class="comment-reply-link" href="#comment-39059" onclick='return addComment.moveForm( "comment-39059", "39059", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39058">
+<article class="comment" id="comment-39058">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					david of Kirkland <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39058">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>A typical failure to put faith in how the future works out.  Like those who think the only way to solve global climate change is to restrict current problems without focusing instead on future remedies denies how progress has proven to work.  We didn’t reduce violence around the world by removing weapons (we have more killing weapons now than ever before in history).  We didn’t solve hunger by restricting how much others can eat.  We didn’t improve health by banning risky behavior and requiring a government exercise and diet.<br/>
+By this measure, we should have done an UBI when people left rural farming for the cities because of the huge job losses in farming and all those unemployed, ignorant masses arriving.  How does Yang have any idea what future jobs will be?  I wish I did cause I’d invest and be richer!<br/>
+To think that government coercion and gift-giving will improve society is a myth never shown to work in practice.<br/>
+To ensure the future isn’t ready, tell citizens not to work or study or strive for future innovation and just rely upon a government to provide based on what we have now.  The future has nothing to provide but job destruction?  No!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to david of Kirkland" class="comment-reply-link" href="#comment-39058" onclick='return addComment.moveForm( "comment-39058", "39058", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39084">
+<article class="comment" id="comment-39084">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Ruffles <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39084">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Let’s see if I can summarize this:</p>
+<p>“The government isn’t doing a good job, and so we’ve got all these problems coming at us.”<br/>
+“The solution is to give the government more power over just about everything.”</p>
+<p>That would be like if Yang hired a firm to fix his roof.<br/>
+But the firm does a poor job and the roof leaks. They also deliberately overbill Yang.<br/>
+Water damages the inside of Yang’s house.<br/>
+So Yang hires the same firm again for this much larger and more complicated job, confident that by overseeing the situation more closely things will turn out well.</p>
+<p>You see my hesitation here?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Ruffles" class="comment-reply-link" href="#comment-39084" onclick='return addComment.moveForm( "comment-39084", "39084", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39090">
+<article class="comment" id="comment-39090">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39090">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yes, but this time it will be different.  Anyway, you can’t make an omelet without breaking a few eggs.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39090" onclick='return addComment.moveForm( "comment-39090", "39090", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39276">
+<article class="comment" id="comment-39276">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Martin Hernandez <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39276">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>But our government does a good job of getting money to people (i.e. soc sec, disability checks) which is the goal of UBI. And it certainly succeeds in distributing coupons (i.e. snap, food stamps, ebt’s) which would be similar to his social credits. I see it as using the parts of government that are indeed effective.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Martin Hernandez" class="comment-reply-link" href="#comment-39276" onclick='return addComment.moveForm( "comment-39276", "39276", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39089">
+<article class="comment" id="comment-39089">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					codadmin <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39089">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yang’s argument on the Harris podcast was the classical Luddite argument.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to codadmin" class="comment-reply-link" href="#comment-39089" onclick='return addComment.moveForm( "comment-39089", "39089", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39126">
+<article class="comment" id="comment-39126">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					martti_s <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39126">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Steve Bannon has a better plan which is impossible also.<br/>
+Fight it out!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to martti_s" class="comment-reply-link" href="#comment-39126" onclick='return addComment.moveForm( "comment-39126", "39126", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39156">
+<article class="comment" id="comment-39156">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Daniel <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39156">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>All I know is, set up liquor stores in places where there are a high percentage of UBI recipients.<br/>
+I can’t square UBI with the human need for dignity, work, and meaning. There’s no way that it will solve more problems than it creates.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Daniel" class="comment-reply-link" href="#comment-39156" onclick='return addComment.moveForm( "comment-39156", "39156", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39235">
+<article class="comment" id="comment-39235">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Bob Morris <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39235">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I am glad Quillete shared this, not because I support UBI, but because Mr. Yang brought up some points that force people to confront the real issue the United States is facing: The economy is changing to the point that our post-World War II approaches are no longer feasible.</p>
+<p>We have to remember that the type of industry or business that primarily fuels an economy doesn’t remain the same — it changes over time. The manufacturing industry did more to support the U.S. economy immediately after WWII than it does now, for instance.</p>
+<p>Also, suburban development played a key role in our post-WWII economic boom, but that model isn’t sustainable over the long term. (See Strong Towns Growth Ponzi Scheme for more on this subject: <a href="https://www.strongtowns.org/the-growth-ponzi-scheme/" rel="nofollow">https://www.strongtowns.org/the-growth-ponzi-scheme/</a>)</p>
+<p>Furthermore, much of the technology that got rolled out after WWII was about allowing workers to become more productive, whereas today more of the technology that’s rolled out either displaces workers (automation) or eliminates a potential source of income for a business and, thus, its ability to pay workers (the Internet has had this effect to varying degrees).</p>
+<p>For those who argue about construction jobs that are still out there, if companies can find more ways to automate truck driving, fast food service and call centers, construction jobs won’t be far behind and then you are faced with the same problem.</p>
+<p>I don’t say these things to tell people they better get behind UBI. I say these things because we need to have the conversation about what to do to face the challenges that come with an evolving economy, how it affects the workforce and how it applies in terms of what job opportunities are there and what adjustments need to be made.</p>
+<p>The moment is past due to stop being dismissive of the people being affected and treating them only with flippant remarks (the one I hate the most is “those jobs aren’t coming back” but there are plenty of others I dislike). You can debate what’s the best approach to get these people on an ideal path, but anything that boils down to “screw ’em, I’ve got mine” is only going to keep the door open for somebody to offer easy answers — and it won’t be somebody whose heart is in the right place but doesn’t understand the situation enough, but rather somebody who has truly bad intentions in mind.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bob Morris" class="comment-reply-link" href="#comment-39235" onclick='return addComment.moveForm( "comment-39235", "39235", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39266">
+<article class="comment" id="comment-39266">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					George Theodoridis <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39266">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>My fear is that UBI would be the modern version of indiginous people working on ranches, being paid in flour and jam. In other words, effectively slaves. The UBI would be the flour and jam, the ranch owners would be the corporations whose automation would be making that flour and jam and the indiginous people will be the bottom social quartile or two.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to George Theodoridis" class="comment-reply-link" href="#comment-39266" onclick='return addComment.moveForm( "comment-39266", "39266", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39282">
+<article class="comment" id="comment-39282">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Pi79 <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39282">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I think it is very important to have these conversations and start discussing potential solutions. What is happening today is very different compared to industrial revolution. Industrial revolution took over a century to spread around the world and replaced our muscles with machinery. This resulted in a complete change in society and economy with over 90% of population that worked in agriculture working in newly invented jobs.  Today we are replicating our cognitive processes and the impact of this will spread much faster around the world. Industrial revolution leveraged our mind and intelligence, the “AI revolution” has a potential to replace it. What is role of humans in society and economy when we are no longer the most “intelligent” specie? We need to start asking this questions sooner rather than later…..</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Pi79" class="comment-reply-link" href="#comment-39282" onclick='return addComment.moveForm( "comment-39282", "39282", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39287">
+<article class="comment" id="comment-39287">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Bradd Graves <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39287">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Chinese, Universal Basic Income, Universal Health Care do not a winning presidential candidate make. Someone electable could have him as an advisor, though</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bradd Graves" class="comment-reply-link" href="#comment-39287" onclick='return addComment.moveForm( "comment-39287", "39287", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39289">
+<article class="comment" id="comment-39289">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Strawberry farmer <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39289">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I haven’t read all the comments, so excuse me if someone already pointed this out. We already have a system of rewarding social and environmental work with government money which helps to create a stronger middle class. It is the funding of non-profits through grants, and as one government grant-giver put it, “its like turning on a firehose of money.”<br/>
+Secondly, credit cards, point systems, and punch cards are not separate currencies. They are all agreements between buyer and seller using the US dollar. How are we to take this bid for the presidency seriously when his analysis is so shallow.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Strawberry farmer" class="comment-reply-link" href="#comment-39289" onclick='return addComment.moveForm( "comment-39289", "39289", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39298">
+<article class="comment" id="comment-39298">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/114391906619054147456" rel="external nofollow">Craig Willms</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39298">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Leaving aside what Mr Yang ‘wants’ to do, I’m struck by the notion that businesses/corporations think they’ll be successful when no one has a job in order to pay for the products they sell. Obviously there will be jobs for the highly intelligent and ambitious – but that’s a small number in the big picture. We’ll be returning to an 1890’s world without the backstop of a rural/agrarian culture – because that’s already been fully automated.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Craig Willms" class="comment-reply-link" href="#comment-39298" onclick='return addComment.moveForm( "comment-39298", "39298", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39300">
+<article class="comment" id="comment-39300">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					peterschaeffer <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39300">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>There is a common assumption (both by advocates and critics of the UBI) that productivity is soaring (driven presumably by AI, robots, automation, etc.). This turns out to be untrue. Check the actual data. </p>
+<p>Check FRED series “Manufacturing Sector: Real Output Per Hour of All Persons (OPHMFG)”. The series shows zero growth since 2010. If technology was really taking off it would presumably show up first in manufacturing. The crash in manufacturing productivity growth is the real world. </p>
+<p>Check FRED series “Nonfarm Business Sector: Real Output Per Hour of All Persons (OPHNFB)”. What you will find is a pronounced slowdown in productivity growth in recent years. Note that this downturn (in productivity growth) has been observed in other countries as well</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to peterschaeffer" class="comment-reply-link" href="#comment-39300" onclick='return addComment.moveForm( "comment-39300", "39300", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39301">
+<article class="comment" id="comment-39301">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					peterschaeffer <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39301">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Note that a town in Switzerland is experimenting with a UBI…</p>
+<p>I would be the first to agree that we are going to hear more about UBI over the next 5-20 years. Indeed, the winning coalition in the recent Italian elections promised to introduce a UBI program in Italy. </p>
+<p>However, the truth is that UBI implementations are likely to be few and far between. There are a couple of huge problems.</p>
+<p>1. UBI is unaffordable. Switzerland has 3.5766 million households. At 2500 SF per month, the program would cost $110.517 billion per year. Switzerland has a smaller number of families (2.2213 million). Even just including families would cost $68.638 billion per year. </p>
+<p>To put this in perspective, the GDP of Switzerland around $659.8 billion. However, a more useful number is tax revenue. Total tax revenue for Switzerland (all levels of government) was $186 billion. Total income tax revenue was just $81.63 billion. A UBI system would cost more than total income tax revenue for the entire country. </p>
+<p>For the U.S. $1,000 per month, per person, would cost $3.8 trillion per year. Total income tax revenue for 2017 is estimated at $1.844 trillion. Corporate tax revenue is estimated at $430 billion. Social Security is estimated at $1.218 trillion.</p>
+<p>2. UBI is incompatible with reality. In the real world, society needs people to work. For a society to function, essentially all adults must work. The relatively successful nations of Northern Europe have very high LFP rates. Essentially all adults works. Many jobs are not fun. They still have to be done. This is a/the core truth that UBI conflicts. Giving people a choice about working isn’t sustainable. </p>
+<p>The current UBI craze is a (partial) reflection / consequence of the emergence of a new cosmopolitan class detached from reality. To state this directly, if you get a liberal arts degree from a liberal arts school you are going to end up working as a barista with a ton of debt. The fact that society forces you to work isn’t going to make you like it. </p>
+<p>Traditionally, kids from upper income families got liberal arts degrees and then joined their class. Apparently, a liberal arts degree from Harvard was considered to be an appropriate qualification for a senior executive (at one time).  </p>
+<p>Social realities that “force” people to work weren’t even questioned historically. Everyone knew that work had to be done and people had to do it. In real life, reality hasn’t changed, but the necessary coercion is no longer PC.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to peterschaeffer" class="comment-reply-link" href="#comment-39301" onclick='return addComment.moveForm( "comment-39301", "39301", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39302">
+<article class="comment" id="comment-39302">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					peterschaeffer <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39302">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>As it turns out… </p>
+<p>Various folks (all liberal/left) have looked at the UBI and come up with some strikingly negative conclusions. Here is why.</p>
+<p>If you take the money currently going into Social Security, Medicare, Medicaid, food stamps, etc. and give it to everyone (as in Universal), then the folks currently benefiting from Social Security, Medicare, Medicaid, food stamps, etc. would get a lot less per person. That’s a huge problem.</p>
+<p>If you fix that by spending a lot more money, you get a UBI that costs roughly 20% of GDP. To put this in perspective the entire income tax (individual, not corporate) is just 9.3% of GDP (2017). Total Federal Receipts are 17.5% of GDP according to FRED or 18.9% of GDP according to the tax policy center.</p>
+<p>The liberal/left is (sharply) divided about the merits of the UBI. The traditional liberal/left is opposed for the reasons stated above. The more contemporary left (and some of the right) is much more supportive. The idea that everyone (all adults) must work doesn’t offend traditional left-wing sensibilities (“He who does not work shall not eat” is a quote from Lenin). The contemporary left regards this mindset as coercive and offensive. </p>
+<p>A common argument (from the contemporary left) is that </p>
+<p>“everyone should be able to develop their artistic and expressive talents free from the necessity of earning a living” </p>
+<p>To me, that’s crazy. Very few people have any talent at all (in my opinion).</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to peterschaeffer" class="comment-reply-link" href="#comment-39302" onclick='return addComment.moveForm( "comment-39302", "39302", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39329">
+<article class="comment" id="comment-39329">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://twitter.com/FatSlice" rel="external nofollow">Happy American (@FatSlice)</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39329">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>More importantly, UBI has been tried recently in countries that are already much more socialist in services and safety nets and they were cancelled because 1) people didn’t use it as supplemental income they stopped looking for work, 2) It did not get spent in the local economies creating new jobs – people largely either saved it, paid off standard bills or used it for vacation.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Happy American (@FatSlice)" class="comment-reply-link" href="#comment-39329" onclick='return addComment.moveForm( "comment-39329", "39329", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39310">
+<article class="comment" id="comment-39310">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Mnels <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39310">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>UBI is worth considering, but I have my doubts. Any direct subsidy would produce a frenzy to capture that ” new” money. Guess how the rental markets would respond.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Mnels" class="comment-reply-link" href="#comment-39310" onclick='return addComment.moveForm( "comment-39310", "39310", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39328">
+<article class="comment" id="comment-39328">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://twitter.com/FatSlice" rel="external nofollow">Happy American (@FatSlice)</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39328">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>You are exactly right. I lived in the San Francisco Bay area from 1997 to 2009, and when the minimum wage went up – rents skyrocketed, properties got bought up and neighborhoods that had been working class were gentrified by Tech Workers who “made bank.”</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Happy American (@FatSlice)" class="comment-reply-link" href="#comment-39328" onclick='return addComment.moveForm( "comment-39328", "39328", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39327">
+<article class="comment" id="comment-39327">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://twitter.com/FatSlice" rel="external nofollow">Happy American (@FatSlice)</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#comment-39327">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“Right now, business formation is at a multi-decade low in the U.S. and 80 percent of new businesses formed in the last several years were in only 20 counties in the U.S.—only a very small handful of metropolitan areas. And so, if you’re a small-town entrepreneur and you want to start a business, right now it’s getting harder to do so because Main Street stores are closing right and left because of the flight to e-commerce, where Amazon is getting another $20 billion a year. This is pushing Main Street businesses into extinction.” </p>
+<p>He needs to clarify this as “brick and mortar” businesses.  I have worked for myself since 1982 as a freelance worker. When I first began there were not that many “freelancers” as most self employed people had a brick and mortar business of some form.  Since 2014, the number of freelancers has sky rocketed to, depending on whose studies you believe, between 14 and 27 Million Americans. And that number is expected to rise to nearly 42 million Americans by 2020 according to studies by business that provide services to freelancers. </p>
+<p>If so many young men are not working and have not been working for the past 12 months, that is because they don’t want to be working. I am a 60 yr old disabled woman. I am self-supporting via freelance work on the internet. I live in a town of 55K people, and on any given day in my community there are in the neighborhood of 500 jobs that pay more than $18/hr for able bodied people that want to do warehouse work, and yet most of the people applying for these jobs are driving more than a hour each way while young men here sit home stoned playing video games and posting obnoxious stuff online. I know this because I know the parents of these young men, most of whom are desperate to get them out of their home and living on their own. </p>
+<p>In discussing this issue with a few of these young men, the thing that made me profoundly sad is that they fear they will never get married and have a family because there is so much “white male hate” going on. They are afraid to date, so they say, “what is the point in having a job if I am not going to have a life.”   It’s a very good question.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Happy American (@FatSlice)" class="comment-reply-link" href="#comment-39327" onclick='return addComment.moveForm( "comment-39327", "39327", "respond", "84653" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ol><!-- end .comment-list -->
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply					<small><a href="/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small>
+</h3>
+<form class="comment-form" id="commentform">
+<iframe class="jetpack_remote_comment" id="jetpack_remote_comment" name="jetpack_remote_comment" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&amp;postid=84653&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=0&amp;stb_enabled=0&amp;show_avatars=0&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_AU&amp;jetpack_version=6.3.2&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;sig=15b89121ba022d6c3ccd6b2c2dfaa642236db931#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fa-new-kind-of-economy-an-interview-with-andrew-yang%2F" style="width:100%; height: 430px; border:0;" title="Comment Form"></iframe>
+<!--[if !IE]><!-->
+<script>document.addEventListener('DOMContentLoaded',function(){var commentForms=document.getElementsByClassName('jetpack_remote_comment');for(var i=0;i<commentForms.length;i++){commentForms[i].allowTransparency=false;commentForms[i].scrolling='no';}});</script>
+<!--<![endif]-->
+</form>
+</div>
+<input id="comment_parent" name="comment_parent" type="hidden" value=""/>
+</div><!-- #comments .comments-area -->
+<div class="nav-wrap cf">
+<nav id="nav-single">
+<div class="nav-previous"><a href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" rel="prev"><span class="meta-nav">Previous Post</span>Writers Behind ‘Grievance Studies Scandal’ Address Criticisms</a></div>
+<div class="nav-next"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" rel="next"><span class="meta-nav">Next Post</span>When “Believe the Victim” Backfires</a></div>
+</nav><!-- #nav-single -->
+</div><!-- end .nav-wrap -->
+</div><!-- end #primary -->
+<div class="default-sidebar widget-area" id="blog-sidebar" role="complementary">
+<aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-25"><a alt="Ad" href="https://www.romepix.com/prints/a-love-letter-to-rome-photo-book-5fbkk-9f3yy" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/27050224/ad8.jpg" style="width: 100%;"/></a></aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-6"> <div id="fb-root"></div>
+<div class="fb-page" data-height="432" data-hide-cover="false" data-href="https://www.facebook.com/QuilletteM/" data-show-facepile="true" data-show-posts="false" data-width="340">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/QuilletteM/"><a href="https://www.facebook.com/QuilletteM/"></a></blockquote></div>
+</div>
+</aside><aside class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Stories</h3><ul class="widgets-list-layout no-grav">
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" title="The Grievance Studies Scandal: Five Academics Respond">
+<img alt="The Grievance Studies Scandal: Five Academics Respond" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/03013837/Image_1-e1538533061112.jpg?fit=1200%2C756&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/">
+								The Grievance Studies Scandal: Five Academics Respond							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" title="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms">
+<img alt="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05124955/MG_1643-Edit.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/">
+								Writers Behind ‘Grievance Studies Scandal’ Address Criticisms							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" title="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism">
+<img alt="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05061119/Communism.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/">
+								Don't Get Fooled Again: The Continuing Necessity of Anti-Communism							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title='When "Believe the Victim" Backfires'>
+<img alt='When "Believe the Victim" Backfires' class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">
+								When "Believe the Victim" Backfires							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="A New Kind of Economy—An Interview with Andrew Yang">
+<img alt="A New Kind of Economy—An Interview with Andrew Yang" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">
+								A New Kind of Economy—An Interview with Andrew Yang							</a>
+</div>
+</li>
+</ul>
+</aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-16"><a alt="Ad" href="http://hac.bard.edu/" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/07/11000422/600-500-ad_quillette2-300x250.png" style="width: 100%;"/></a></aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-19"><a alt="Ad" href="https://www.patreon.com/Quillette"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/18030918/Q19-September.jpeg"/></a></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="widget-title">Share</h3><div class="textwidget custom-html-widget"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<ul style="padding:0">
+<li>
+<button onclick="window.open('https://www.facebook.com/dialog/share?app_id=586833251482093&amp;display=popup&amp;href=' + encodeURIComponent(document.URL) + '&amp;redirect_uri=' + encodeURIComponent(document.URL), '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-facebook-official" style="font-size:48px"></i></button>
+</li>
+<li>
+<button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;via=QuilletteM', '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-twitter" style="font-size:48px"></i></button>
+</li>
+</ul></link></div></aside></div><!-- end #blog-sidebar -->
+<div class="cf" id="footerwidgets-wrap">
+<div class="default-sidebar widget-area" id="footer-five" role="complementary">
+<aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2"><div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="5" id="eu-cookie-law">
+<form method="post">
+<input class="accept" type="submit" value="Close and accept"/>
+</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br/>
+To find out more, including how to control cookies, see here:
+	<a href="https://automattic.com/cookies/">
+		Cookie Policy	</a>
+</div>
+</aside> </div><!-- end #footer-five -->
+</div><!-- end #footerwidgets-wrap -->
+<footer class="site-footer cf" id="colophon">
+<p class="site-description">Free Thought Lives</p>
+<div id="footer-social-nav">
+<h3 class="social-nav-title">Follow Us</h3>
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71138" id="menu-item-71138"><a href="https://www.facebook.com/Quillette-923721701039919/">Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71135" id="menu-item-71135"><a href="https://twitter.com/QuilletteM">Menu Item</a></li>
+</ul> </div><!-- end #footer-social -->
+<div id="site-info">
+<ul class="credit" role="contentinfo">
+<li>Copyright © 2018 Quillette Pty Ltd | All Rights Reserved</li>
+</ul><!-- end .credit -->
+</div><!-- end #site-info -->
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+</div><!-- end #container -->
+<div style="display:none">
+</div>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/quillette.com\/2018\/10\/06\/a-new-kind-of-economy-an-interview-with-andrew-yang\/":84653};</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_AU/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}
+jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}
+(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/platform.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')
+IN.parse();});</script> <div id="sharing_email" style="display: none;">
+<form action="/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="https://quillette.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/comment-reply.min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var jpfbembed={"appid":"249643311490","locale":"en_US"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var q2w3_sidebar_options=[{"sidebar":"blog-sidebar","margin_top":30,"margin_bottom":0,"stop_id":"footerwidgets-wrap","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["adwidget_imagewidget-19","custom_html-2"]}];
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.3.2" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript"></script>
+<script async="async" src="https://quillette.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.8" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var sharing_js_options={"lang":"en","counts":"1"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.3.2" type="text/javascript"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+<script type="text/javascript">(function(){var comm_par_el=document.getElementById('comment_parent'),comm_par=(comm_par_el&&comm_par_el.value)?comm_par_el.value:'',frame=document.getElementById('jetpack_remote_comment'),tellFrameNewParent;tellFrameNewParent=function(){if(comm_par){frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84653&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=15b89121ba022d6c3ccd6b2c2dfaa642236db931#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fa-new-kind-of-economy-an-interview-with-andrew-yang%2F"+'&replytocom='+parseInt(comm_par,10).toString();}else{frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84653&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=15b89121ba022d6c3ccd6b2c2dfaa642236db931#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fa-new-kind-of-economy-an-interview-with-andrew-yang%2F";}};if('undefined'!==typeof addComment){addComment._Jetpack_moveForm=addComment.moveForm;addComment.moveForm=function(commId,parentId,respondId,postId){var returnValue=addComment._Jetpack_moveForm(commId,parentId,respondId,postId),cancelClick,cancel;if(false===returnValue){cancel=document.getElementById('cancel-comment-reply-link');cancelClick=cancel.onclick;cancel.onclick=function(){var cancelReturn=cancelClick.call(this);if(false!==cancelReturn){return cancelReturn;}
+if(!comm_par){return cancelReturn;}
+comm_par=0;tellFrameNewParent();return cancelReturn;};}
+if(comm_par==parentId){return returnValue;}
+comm_par=parentId;tellFrameNewParent();return returnValue;};}
+document.addEventListener('DOMContentLoaded',function(){var iframe_url="https:\/\/jetpack.wordpress.com";if(window.postMessage){if(document.addEventListener){window.addEventListener('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}else if(document.attachEvent){window.attachEvent('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}}})})();</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-201841.js" type="text/javascript"></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.3.2',blog:'101756249',post:'84653',tz:'0',srv:'quillette.com'}]);_stq.push(['clickTrackerInit','101756249','84653']);</script>
+</body>
+</html>

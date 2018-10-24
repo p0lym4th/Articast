@@ -1,0 +1,2085 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="https://quillette.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]>
+		<script src="https://quillette.com/wp-content/themes/zuki/js/html5.js"></script>
+	<![endif]-->
+<title>Automation and the Death Knell of the American Workforce - Quillette</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Automation and the Death Knell of the American Workforce - Quillette" property="og:title"/>
+<meta content="Throughout this Summer, I worked for Amazon as an ‘associate.’ I worked shifts of four to five hours a day, six days a week, during which I performed various manual labor tasks. So I am familiar with the kind of people who work at Amazon fulfilment centers, and how the company treats its workers. Recently, Amazon has been the subject of a public campaign led by Senator Bernie Sanders for higher wages and better working conditions. Having listened to the Senator’s rhetoric, I have concluded that Amazon risks significant damage to its reputation if the company mishandles this situation. I have identified three likely outcomes: wages and conditions could increase, nothing could be accomplished at all, or the workers could be replaced by automation. Careful consideration makes it clear that only feasible outcome is automation, for several reasons. Consider the predicament of the Amazon warehouse worker. The Amazon worker commutes to a warehouse where he will stand for many hours, performing the same task over and over again, day after day, month after month. Filling …" property="og:description"/>
+<meta content="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" property="og:url"/>
+<meta content="Quillette" property="og:site_name"/>
+<meta content="https://www.facebook.com/QuilletteM/" property="article:publisher"/>
+<meta content="Spotlight" property="article:section"/>
+<meta content="2018-08-28T21:43:54+00:00" property="article:published_time"/>
+<meta content="2018-08-29T00:29:25+00:00" property="article:modified_time"/>
+<meta content="2018-08-29T00:29:25+00:00" property="og:updated_time"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg?fit=1200%2C800&amp;ssl=1" property="og:image"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg?fit=1200%2C800&amp;ssl=1" property="og:image:secure_url"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Throughout this Summer, I worked for Amazon as an ‘associate.’ I worked shifts of four to five hours a day, six days a week, during which I performed various manual labor tasks. So I am familiar with the kind of people who work at Amazon fulfilment centers, and how the company treats its workers. Recently, Amazon has been the subject of a public campaign led by Senator Bernie Sanders for higher wages and better working conditions. Having listened to the Senator’s rhetoric, I have concluded that Amazon risks significant damage to its reputation if the company mishandles this situation. I have identified three likely outcomes: wages and conditions could increase, nothing could be accomplished at all, or the workers could be replaced by automation. Careful consideration makes it clear that only feasible outcome is automation, for several reasons. Consider the predicament of the Amazon warehouse worker. The Amazon worker commutes to a warehouse where he will stand for many hours, performing the same task over and over again, day after day, month after month. Filling …" name="twitter:description"/>
+<meta content="Automation and the Death Knell of the American Workforce - Quillette" name="twitter:title"/>
+<meta content="@QuilletteM" name="twitter:site"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg?fit=1200%2C800&amp;ssl=1" name="twitter:image"/>
+<meta content="@QuilletteM" name="twitter:creator"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/quillette.com\/","sameAs":["https:\/\/www.facebook.com\/QuilletteM\/","https:\/\/www.linkedin.com\/company\/quillette-magazine","https:\/\/twitter.com\/QuilletteM"],"@id":"https:\/\/quillette.com\/#organization","name":"Quillette","logo":"http:\/\/quillette.com\/wp-content\/uploads\/2017\/01\/quillette-Q-512pxby512px-white-on-black-0n-574pxby574px-transparency.png"}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://quillette.com/feed/" rel="alternate" title="Quillette » Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/comments/feed/" rel="alternate" title="Quillette » Comments Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/feed/" rel="alternate" title="Quillette » Automation and the Death Knell of the American Workforce Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quillette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link href="https://quillette.com/wp-content/plugins/amazon-polly/public/css/amazonpolly-public.css?ver=1.0.0" id="amazonpolly-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-includes/css/dashicons.min.css?ver=4.9.8" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/style.css?ver=4.9.8" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/js/flex-slider/flexslider.css?ver=4.9.8" id="zuki-flex-slider-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CKarla%3A400%2C400italic%2C700%2C700italic%26subset%3Dlatin%2Clatin-ext&amp;subset=latin%2Clatin-ext" id="zuki-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zukichildthemefolder/style.css?ver=20140630" id="zuki-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Inline jetpack_facebook_likebox -->
+<style id="jetpack_facebook_likebox-inline-css" type="text/css">.widget_facebook_likebox{overflow:hidden}</style>
+<link href="https://quillette.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" id="jetpack-widget-social-icons-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-1 .column-1,2{padding:4px}.tablepress-id-1 .column-1{width:40%}.tablepress-id-1 .column-2{width:40%}</style>
+<link href="https://quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/plugin/templates/default/style.css?ver=4.9.8" id="cb_p6-css-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" id="social-logos-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/amazon-polly/public/js/amazonpolly-public.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/flex-slider/jquery.flexslider-min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/functions.js?ver=20140426" type="text/javascript"></script>
+<link href="https://quillette.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://quillette.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://quillette.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.8" name="generator"/>
+<link href="https://wp.me/p6SXrP-lKS" rel="shortlink"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F08%2F28%2Fautomation-and-the-death-knell-of-the-american-workforce%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F08%2F28%2Fautomation-and-the-death-knell-of-the-american-workforce%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script data-cfasync="false" type="text/javascript">var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":83630,"post_name":"automation-and-the-death-knell-of-the-american-workforce","post_title":"Automation and the Death Knell of the American Workforce","post_type":"post","post_author":"506","post_status":"publish"};_mmunch['postCategories']=[{"term_id":44,"name":"Spotlight","slug":"spotlight","term_group":0,"term_taxonomy_id":44,"taxonomy":"category","description":"","parent":0,"count":28,"filter":"raw","cat_ID":44,"category_count":28,"category_description":"","cat_name":"Spotlight","category_nicename":"spotlight","category_parent":0}];_mmunch['postTags']=false;_mmunch['postAuthor']={"name":"Tyler Black","ID":506};</script><script async data-cfasync="false" data-mailmunch-site-id="405309" data-plugin="cc_mm" id="mailmunch-script" src="//a.mailmunch.co/app/v1/site.js"></script>
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+function external_links_in_new_windows_loop(){if(!document.links){document.links=document.getElementsByTagName('a');}
+var change_link=false;var force='';var ignore='';for(var t=0;t<document.links.length;t++){var all_links=document.links[t];change_link=false;if(document.links[t].hasAttribute('onClick')==false){if(all_links.href.search(/^http/)!=-1&&all_links.href.search('quillette.com')==-1){change_link=true;}
+if(force!=''&&all_links.href.search(force)!=-1){change_link=true;}
+if(ignore!=''&&all_links.href.search(ignore)!=-1){change_link=false;}
+if(change_link==true){document.links[t].setAttribute('onClick','javascript:window.open(\''+all_links.href+'\'); return false;');document.links[t].removeAttribute('target');}}}}
+function external_links_in_new_windows_load(func)
+{var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+external_links_in_new_windows_load(external_links_in_new_windows_loop);
+//]]></script>
+<script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}
+window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//quillette.com/?wordfence_lh=1&hid=63F3A621CCCA8D267B6266255981E6CC');</script>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//i1.wp.com" rel="dns-prefetch"/>
+<link href="//i2.wp.com" rel="dns-prefetch"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">.widget-area p.summary a,.entry-content p a,.entry-content li a,.page .entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a{color: }.widget_zuki_recentposts_color .bg-wrap{background: }.archive-menu-content{background: }</style>
+<style id="zuki-header-css" type="text/css">#site-title h1,#site-title h2.site-description{display:none}</style>
+<style type="text/css">.jetpack-lazy-image{display:none}.jetpack-lazy-images-js .jetpack-lazy-image{display:inline-block}</style>
+<script>document.documentElement.classList.add('jetpack-lazy-images-js');</script>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon-precomposed"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">#menu ul li{font-size:12px;color:#000}h1,h2{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}aside.widget.AdWidget_HTMLWidget iframe{max-width:100%;margin-left:0;margin-right:0}@media screen and (min-width:1023px){.blog #primary,.attachment #primary,.single-post #primary,.error404 #primary,.search-no-results #primary,.archive #primary,.search-results #primary,#front-content-one,#front-content-two{width:60%!important}#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:36%!important}}@media screen and (min-width:1260px){#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:27%!important}}#post-82069 ol[type="a"]{list-style:lower-alpha}#post-82069 ol[type="i"]{list-style:lower-roman}</style>
+</link></link></meta></head>
+<body class="post-template-default single single-post postid-83630 single-format-standard">
+<div id="container">
+<header class="cf" id="masthead" role="banner">
+<nav id="header-top-nav">
+<ul class="menu" id="menu-about"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71157" id="menu-item-71157"><a href="https://quillette.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70992" id="menu-item-70992"><a href="https://quillette.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81209" id="menu-item-81209"><a href="https://quillette.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82074" id="menu-item-82074"><a href="https://quillette.com/terms-of-service/">Terms of Service</a></li>
+</ul> </nav><!-- end #header-top -->
+<div id="site-title">
+<div id="site-header">
+<a href="https://quillette.com/" rel="home"><img alt="" height="491" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10215232/cropped-Quillette_white1.png" width="1500"/></a>
+</div><!-- end #site-header -->
+<h1><a href="https://quillette.com/" title="Quillette">Quillette</a></h1>
+<h2 class="site-description">Free Thought Lives</h2>
+</div><!-- end #site-title -->
+<a href="#menuopen" id="mobile-menu-toggle"><span>Menu</span></a>
+<div class="cf" id="mobile-menu-wrap">
+<nav class="cf" id="site-nav">
+<ul class="nav-menu" id="menu-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71055" id="menu-item-71055"><a href="https://quillette.com/category/features/">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71142" id="menu-item-71142"><a href="https://quillette.com/category/science-tech/">Science / Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71141" id="menu-item-71141"><a href="https://quillette.com/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71348" id="menu-item-71348"><a href="https://quillette.com/category/review/">Review</a></li>
+</ul> </nav><!-- end #site-nav -->
+<a href="#menuclose" id="mobile-menu-close"><span>Close Menu</span></a>
+</div><!-- end #mobile-menu-wrap -->
+</header><!-- end #masthead -->
+<div id="main-wrap">
+<div class="site-content cf" id="primary" role="main">
+<article class="post-83630 post type-post status-publish format-standard has-post-thumbnail hentry category-spotlight" id="post-83630">
+<header class="entry-header">
+<div class="entry-cats">
+<a href="https://quillette.com/category/spotlight/" rel="category tag">Spotlight</a> </div><!-- end .entry-cats -->
+<div class="entry-date">
+			Published on <a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/">August 28, 2018</a>
+</div><!-- end .entry-date -->
+<h1 class="entry-title">Automation and the Death Knell of the American Workforce</h1>
+<div class="entry-author">
+			written by <a href="https://quillette.com/author/tyler-black/" title="All posts by Tyler Black">Tyler Black</a> </div><!-- end .entry-author -->
+</header><!-- end .entry-header -->
+<div class="entry-thumbnail">
+<a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" title="Permalink to Automation and the Death Knell of the American Workforce"><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg 1200w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg 1024w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/08/27175347/2265816229_96c919b37f_o.jpg 840w" height="800" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1200"/></a>
+</div><!-- end .entry-thumbnail -->
+<div class="entry-content">
+<div class="mailmunch-forms-before-post" style="display: none !important;"></div><p>Throughout this Summer, I worked for Amazon as an ‘associate.’ I worked shifts of four to five hours a day, six days a week, during which I performed various manual labor tasks. So I am familiar with the kind of people who work at Amazon fulfilment centers, and how the company treats its workers. Recently, Amazon has been the subject of a public campaign led by Senator Bernie Sanders for higher wages and better working conditions. Having listened to the Senator’s rhetoric, I have concluded that Amazon risks significant damage to its reputation if the company mishandles this situation. I have identified three likely outcomes: wages and conditions could increase, nothing could be accomplished at all, or the workers could be replaced by automation. Careful consideration makes it clear that only feasible outcome is automation, for several reasons.</p>
+<p>Consider the predicament of the Amazon warehouse worker. The Amazon worker commutes to a warehouse where he will stand for many hours, performing the same task over and over again, day after day, month after month. Filling orders, stacking boxes, and unloading trucks is an unrewarding job. Employees soldier on despite the numbing work, because they need the money to pay their bills and stay afloat. According to Amazon’s <a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312518121077/d514607ddef14a.htm">2017 SEC Definitive Proxy Statement</a>, the median pay for workers was $28,446 per annum, which means that 50 percent of them make the same or, in most cases, less than that amount. Using the profile of a full time worker, 40 hours a week at 48 weeks a year, the average hourly pay averages out at $14.81 per hr. That isn’t an <em>awful</em> wage—it is actually just under the $15 minimum wage Sanders himself has proposed. However, this kind of work is hard and unfulfilling, and employees are entitled to feel that they deserve better than $14.81. And so they raise their voices in protest with Senator Sanders. Jeff Bezos is worth $150 billion, so he can afford to pay his workers a little extra. Right?</p>
+<p>Unfortunately, the problem is more complicated than this. To understand why, it is necessary to also consider the situation from Amazon’s perspective. The company is under pressure from its own workers and a US Senator to agree a wage increase. This is not good for publicity, particularly given the kind of populist reach that Senator Sanders was able to establish during the 2016 Election. If a company’s customers are being told that it is running some sort of sweatshop, they may decide to take their business elsewhere. So, the data team will run some quick numbers to estimate costs of conceding to the demands for higher wages. Using the above profile of a full time worker, Amazon will have to pay an extra $1920 per worker for every dollar increase in wages. Multiply this number by 45 percent of your workforce, or about 250,000 workers, and this yields $480,000,000 in increased operating costs for every dollar of wage increase. This figure amounts to about 15.8 percent of Amazon’s total 2017 earnings, using the $3.03 billion Net Income number provided in <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=97664&amp;p=irol-sec&amp;control_selectgroup=Annual%20Filings#15414896">their 2017 SEC filing</a>. Even if we were to rerun the calculation for just 30 percent of the workforce, Amazon would still be looking at an increase of around $320,000,000 in wages.</p>
+<p>Looking at these numbers, Amazon is faced with a decision. The company can increase wages, which will provoke a backlash from investors when the increased operating costs cut into their earnings. In any case, the company’s investors could block a wage hike if it were put to a vote. Furthermore, if investors are not going to be getting the return they anticipated, the company’s stock price could fall making Amazon a less attractive investment. A wage hike is therefore not optimal. So, what if Amazon ignores the protests and demands and does nothing at all? This option carries the risk of a consumer backlash as the furor over the company’s inaction rises, and leaves Amazon exposed to political risk from politicians looking to score populist points by denouncing a large corporation. Discarding these two suboptimal options, leaves only the third: automating repetitive jobs, thereby eliminating the problem of workforce complaints. This option will require an initial, and potentially large, investment. But, in the long-term, the investment will save on wage costs and eventually increase earnings. Investors would value the company with higher earnings, and lower wage costs might allow Amazon to cut prices to tempt back customers put off by the job cuts.</p>
+<p>Automating fulfilment and shipping centers isn’t unprecedented, further strengthening the automation option. JD has automated a facility similar to an Amazon fulfilment center in Shanghai, and showcased this facility with a YouTube video for the world to see. The video is both interesting and shocking at the same time—there isn’t a human in sight during the entire three minute clip:</p>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/RFV8IkY52iY" width="560"></iframe></p>
+<p>Other companies like the online grocery retailer Ocado also use automated fulfilment centers, and Ocado <a href="https://www.reuters.com/article/us-ocado-group-contract-kroger/kroger-inks-ocado-grocery-delivery-deal-to-battle-amazon-threat-idUSKCN1II0L0">has sold its technology</a> to other grocery retailers. With these examples in mind, it is hardly a stretch to predict that Amazon would have little trouble automating its facilities, and that this process of automation will continue to phase people out of company workforces.</p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/EeMTZd68fOU" width="560"></iframe></p>
+<p>The unfortunate thing about this situation is that both actors—Amazon and its workers—will be achieving a bad outcome by acting in a rational way. Worker, after all, are justifiably pursuing higher wages and a better standard of living. The cost of living in the US is <a href="https://www.minneapolisfed.org/community/financial-and-economic-education/cpi-calculator-information/consumer-price-index-1800">high and rising</a>, while wages have seen <a href="https://www.epi.org/publication/charting-wage-stagnation/">scant growth for decades</a>. In economic terms, an Amazon worker making $14.81 an hour is making roughly the same median yearly wage as a worker in 1998, but enjoys less purchasing power than that worker due to rising inflation. On the other hand, as a publicly owned and profit-maximizing business, Amazon is justifiably trying to save on wages by automating its workforce. Robots don’t complain, they can work 24/7, and they only cost an initial investment and maintenance. Senator Sanders, meanwhile, is probably sincerely prioritizing what he thinks are the workers’ best interests, but the reality is that his aggressive push for better wages on their behalf is more likely to result in those workers losing their jobs entirely.</p>
+<p>Furthermore, if this situation does end in automation, it will serve as a warning to workers attempting collective bargaining with powerful corporations. The stick of collective bargaining in the past was the threat of strike, and halting of production that needed workers to function. Today, a strike doesn’t hold the same threat as the past. If workers threaten to strike or fight for better wages, it will create only a temporary dislocation while the factory owners automate those positions. The corporation now holds all the power in this situation, and workers can only worsen their situation by threatening industrial action. This collapse of bargaining rights is the death knell of idea of the proud American worker, able to control his fate through hard work and craft.</p>
+<p>The future looks pretty bleak for the American worker. According to Bain’s <a href="http://www.bain.de/Images/BAIN_REPORT_Labor_2030.pdf">Macro Trends Group Labor 2030 report</a>, 40 million workers will be displaced by automation in the USA by 2030. Automation will dislocate large sections of the population, fomenting political risks that threaten the fabric of the nation. The money that corporations make won’t be as widely spread between workers and capital owners, because the workers will be robots that require no income. That paradigm will serve only to increase inequality and inflame class tensions already nearing their breaking point. We would do well to consider the plight of the worker, and to figure out how to use automation to strengthen a society, not dislocate it.</p>
+<p> </p>
+<p><strong>Tyler Black is an undergraduate senior at the University of Cincinnati, majoring in Economics with a minor in Math. </strong></p>
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="cb_p6_patreon_button" style="text-align:left !important;margin-top:18px;margin-bottom:18px;"><div class="cb_p6_message_over_post_button" style="font-size:14px;margin-top:14px;margin-bottom:14px;">If you liked this article please consider becoming a patron of Quillette</div><a href="https://www.patreon.com/Quillette" rel="nofollow"><img class=" jetpack-lazy-image" data-lazy-src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" data-recalc-dims="1" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"><noscript><img data-recalc-dims="1" src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"/></noscript></img></a></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="twitter-share-button" data-text="Automation and the Death Knell of the American Workforce" data-url="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" data-via="QuilletteM" href="https://twitter.com/share">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" data-layout="button_count"></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fquillette.com%2F2018%2F08%2F28%2Fautomation-and-the-death-knell-of-the-american-workforce%2F&amp;title=Automation%20and%20the%20Death%20Knell%20of%20the%20American%20Workforce" width="120"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script data-counter="right" data-url="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" type="in/share"></script></div></li><li class="share-email"><a class="share-email sd-button" data-shared="" href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/?share=email" rel="noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a class="share-print sd-button" data-shared="" href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#print" rel="noopener noreferrer" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
+<!-- WP QUADS Content Ad Plugin v. 1.7.8 -->
+<div class="quads-location quads-ad8" id="quads-ad8" style="float:none;margin:0px;">
+<script type="text/javascript">amzn_assoc_placement="adunit0";amzn_assoc_search_bar="true";amzn_assoc_tracking_id="quillette-20";amzn_assoc_ad_mode="manual";amzn_assoc_ad_type="smart";amzn_assoc_marketplace="amazon";amzn_assoc_region="US";amzn_assoc_title="";amzn_assoc_linkid="61b0c55dd7d4c5e769c244bd1137d009";amzn_assoc_asins="1853260088,0743297334,068480154X,0679745580";</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div><!-- end .entry-content -->
+<footer class="entry-meta">
+<div class="entry-cats">
+<span>Filed under: </span><a href="https://quillette.com/category/spotlight/" rel="category tag">Spotlight</a> </div><!-- end .entry-cats -->
+</footer><!-- end .entry-meta -->
+</article><!-- end .post-83630 -->
+<div class="comments-area" id="comments">
+<h3 class="comments-title">
+		88 Comments	</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-32959">
+<article class="comment" id="comment-32959">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Jason K <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32959">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>We’re automating the wrong things, clearly we should be automating political positions.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33021">
+<article class="comment" id="comment-33021">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://roundedpeaks.wordpress.com" rel="external nofollow">roundedpeaks</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33021">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Techocracy now!</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-32963">
+<article class="comment" id="comment-32963">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://readingnomad.wordpress.com" rel="external nofollow">Reading Nomad</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32963">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Good article outlining the problem. But:</p>
+<p>“The future looks pretty bleak for the American worker.”</p>
+<p>Perhaps in the short term. There is virtually nothing you can do about such technological progress. I think in the long term USA will adjust. </p>
+<p>Perhaps Trump really is the right man for the job after all. USA cannot keep on supporting such high level of immigration and adding to the potential workforce – especially when such workforce isn’t required. Then there is the question of USA manufacturing in China due to cheap labour costs. Maybe such firm should be incentivised to produce more stuff at home. But for that to happen, such minimum wage pledges cannot be supported. But on the other hand China has a become a massive market for US. And it is an undoubted fact that it is the devil in playing unfair. </p>
+<p>What do I know. Economics is not my strong point!</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-32967">
+<article class="comment" id="comment-32967">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Gary Lowe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32967">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Limiting immigration may provide some short term relief, but US manufacturing output is at an all time high; we just don’t need that many workers to generate that production. </p>
+<p><a href="http://www.pewresearch.org/fact-tank/2017/07/25/most-americans-unaware-that-as-u-s-manufacturing-jobs-have-disappeared-output-has-grown/" rel="nofollow">http://www.pewresearch.org/fact-tank/2017/07/25/most-americans-unaware-that-as-u-s-manufacturing-jobs-have-disappeared-output-has-grown/</a></p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-32985">
+<article class="comment" id="comment-32985">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					TarsTarkas <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32985">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The future looking bleak is the old Luddite fallacy, that if the handlooms are replaced, the weavers must necessarily be permanently put out of work, forgetting that the increase in textile production, coupled with the freeing up of labor to perform other tasks, results in lower prices and more paying jobs as opposed to a guild of highly-trained workers able to charge all the market can bear because supply is restricted due to their limited output.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33031">
+<article class="comment" id="comment-33031">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/110908094336663110161" rel="external nofollow">Ruggerbunny</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33031">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“opposed to a guild of highly-trained workers”</p>
+<p>The automation is displacing very low skilled workers.  Maintenance of the robots and other remaining jobs not susceptible to automation require high skilled people.  The workers being displaced are all not going to be skilled enough to train for new jobs.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-33055">
+<article class="comment" id="comment-33055">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Daniel <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33055">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This seems to be the crux of the issue.  We will have fewer and fewer jobs that are suited to workers of below average intelligence.    You cannot just train them to do complex, technical jobs.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-4" id="li-comment-33073">
+<article class="comment" id="comment-33073">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Joe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33073">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yep.  Of course, certain individuals will lose their jobs as technology advances render certain tasks obsolete, but at the macro level the number of jobs will not necessarily go down, and the overall productivity/output will go up.  The examples of this are endless and unnecessary to list.</p>
+<p>Constantly reallocating resources toward more productive means (including labor) is how the standard of living continues to rise for all.  The average low income family today enjoys amenities reserved only for the elite in the past.  This is just one of the benefits of a decentralized ecomic system.</p>
+<p>I understand the reality of retraining, and the ability to relocate can be a bit unrealistic, but those that want to, will… adaptability has long been one of the most critical characteristics to survive and thrive, that will never change.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33080">
+<article class="comment" id="comment-33080">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33080">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Limiting migrant workers is harming the US economy, from fish/crab/shrimpers to farmers.  Tyranny over others never turns out better for the world.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-33168">
+<article class="comment" id="comment-33168">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Ardy <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33168">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>i wonder if this automation, like so many things, will get so cheap that small 2-10 people operations with skill and enterprise will create a new cottage industry supplying niche markets and jobs to order. A bit like the dead small printing company was.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33187">
+<article class="comment" id="comment-33187">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					BG <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33187">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Immigration seems like an irrelevant point to bring up since studies have proven that they strengthen the economy.  In areas that have taken aggressive action to remove immigrants they have also removed a large portion of the work force.  Many of their previous employers struggle to find Americans willing to fill the vacant positions.  Plus, local businesses experience a deficit as they lose valuable customers.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33195">
+<article class="comment" id="comment-33195">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://readingnomad.wordpress.com" rel="external nofollow">Reading Nomad</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33195">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@ BG</p>
+<p>Um, no. I think immigration – legal or otherwise – is very relevant.  </p>
+<p>“since studies have proven that they strengthen the economy.”</p>
+<p>Digging deeper you are likely to find that “some” immigration is beneficial. And high levels of low skilled immigration costs more. </p>
+<p>“Many of their previous employers struggle to find Americans willing to fill the vacant positions.”</p>
+<p>Why? So is population growth going to keep rising? More tech equals less need for humans. This is why low birth rates go well with being industrialized.  </p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-32964">
+<article class="comment" id="comment-32964">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Paul Ellis <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32964">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Not being an economist I don’t understand where ‘an extra $1920 per worker for every dollar increase in wages’ comes from, and would be grateful for an explanation, please. Thank you.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-32965">
+<article class="comment" id="comment-32965">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Gary Lowe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32965">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Also not an economist, but the given a 40 hour work week and 2 weeks of vacation, that means you work around 2000 hours per year.So an increase of an hourly wage should mean around $2000 per year.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-32979">
+<article class="comment" id="comment-32979">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32979">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yes, this is correct. However, it also excludes the increased expense of employment taxes such as Social Security and Medicaid as well as workman’s compensation insurance. There are also wage-based contributions imposed by local authorities (state, province, territory). The imprecise rule of thumb has a multiplier of 1.3 to determine the total cost to the employer.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-4" id="li-comment-33002">
+<article class="comment" id="comment-33002">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					OleK <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33002">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>One pedantic comment.  It is Worker’s Comp and has been called that for over 40 years.  Workmen’s Comp has been outdated for a long time.</p>
+<p>Otherwise, please carry on.  Great commentary.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-4" id="li-comment-33005">
+<article class="comment" id="comment-33005">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Paul Ellis <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33005">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Thank you, everyone. All clear now.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32966">
+<article class="comment" id="comment-32966">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Gary Lowe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32966">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This article dovetails nicely with work done by Ryan Avent from The Economist in “The Wealth of Humans”. One of the things that is slowing automation so far is that there is an abundance of cheap labor. It’s easier to hire cheap employees at McDonald’s than automation the entire process. True, they automate gradually, but a wholesale conversion of a plant or store to automation is sometime too expensive when compared with cheap labor. When labor costs are made artificially high, automation looks more feasible. The irony is that automation begets more unemployment which begets lower wages which makes automation less attractive.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-32984">
+<article class="comment" id="comment-32984">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Nick McKinnon <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32984">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Unless you have a minimum wage – then you’ve created an arbitrary line where automation will always be a better financial option than human labor.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33081">
+<article class="comment" id="comment-33081">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33081">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>And the main people harmed are the least skilled, poorest people.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33200">
+<article class="comment" id="comment-33200">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Mark J Anderson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33200">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Ironically, high corporate taxes create an incentive to divert profits into investing in capital improvements, such as automation. It’s a wicked problem</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33251">
+<article class="comment" id="comment-33251">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Zac <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33251">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I would be interested to.see the studies that provide evidence for that claim.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-32968">
+<article class="comment" id="comment-32968">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/105285273078822077930" rel="external nofollow">Ray Sanford</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32968">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Last sentence in next to last paragraph: “This collapse of bargaining rights is the death knell of idea of the proud American worker, able to control his fate through hard work and graft.”</p>
+<p>I believe you meant to say “craft” although with unions thrown into the equation, perhaps “graft” is correct.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33030">
+<article class="comment" id="comment-33030">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Caligula <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33030">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Everyone who’s ever worked in a union shop knows that if you produce more than others you will shortly feel tremendous pressure to slow down, so as not to make others look bad.</p>
+<p>Unions were able to establish themselves in the past by imposing “pattern bargaining” within an industry. With pattern bargaining a business need not worry that even the most productivity-destroying union contract will put them out of business because they can be confident that their competitors are similarly hobbled.</p>
+<p>Pattern bargaining is unstable, however, as it takes only a few non-union competitors to make it untenable. For example, the grocery business in the USA used to be practically all union, but then Wal-Mart and other non-union retailers began selling groceries. Once the big grocery chains realized that non-union competitors were eating their lunch </p>
+<p>In closing, note that unions will always suffer from what’s been called “the agency problem.” Which is, an agent is supposed to represent the interests of the client, yet inevitably agents tend to represent the interests of … the agent. </p>
+<p>An example is when a union negotiates with a “never give an inch!” attitude with a company that either can’t afford to pay what the union wants, or has other options. The result is, the facility closes and those who worked their are out of work. The union may lose members when this happens, but from the union’s perspective it may be worth it if it can retain that image of being a tough negotiator at its other workplaces.</p>
+<p>Is it totally unfair to say that if unions well and truly represented employees interests then the percentage of union workers might still be what it was in the 1950s? There are arguments pro- and con, of course; nonetheless, it’s important to recognize that some prefer to work for non-union employers for good and sufficient reasons.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-33082">
+<article class="comment" id="comment-33082">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33082">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Not just unions…I worked for the Feds at Pearl Harbor and was told that they didn’t appreciate me working late (which I do because I prefer to stay on a roll and also hate being in traffic as a navy base empties all at one time) because if there was “that much work to do” we should hire more people.  When it’s not your money, bad economic choices are the norm.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32970">
+<article class="comment" id="comment-32970">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Concerned Citizen <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32970">
+						August 28, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This is such a huge issue and one that is not mentioned nearly enough in the mainstream media. I can’t see an easy out for this. What remaining jobs there will be will mostly require higher levels of cognitive processing that will disqualify those who do not possess a higher than average IQ.  </p>
+<p>Charles Murray and others have discussed a Universal Basic Income, however this is problematic. Here in Australia we have a large sector of the community solely living on welfare. Up to four successive generations and counting. Many of them used to work in factories prior to the outsourcing of manufacturing to Asia in the 90s and beyond. They display the typical dysfunctional behaviours (drug addiction, domestic violence, teen pregnancies, etc.) that you see in other groups of dispossessed peoples. Once this moves from a minority to a majority of the population… </p>
+<p>Sometimes I wonder if homo sapiens have run their course on this planet. It’s increasingly looking like the future will belong to some kind of mish mash between genetically enhanced designer babies, computer/brain interfaces and AI.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-32980">
+<article class="comment" id="comment-32980">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					sestamibi <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32980">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>And Skynet becomes self-aware in 3, 2, 1. . .</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-33083">
+<article class="comment" id="comment-33083">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33083">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>No doubt there was a slightly more forward thinking Neanderthal who noted that the future wasn’t bright for his kind as the brain kept advancing.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-32975">
+<article class="comment" id="comment-32975">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					flyfishingnow <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32975">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>To the Jeff Bezos of the world-<br/>
+Be careful what you wish for.  If all labor is automated and nobody has a job, who’s going to buy the shit ( I mean merchandise) you sell?<br/>
+I think even Henry Ford understood this.  He expected his workers to be able to buy his cars.<br/>
+Perhaps Mr. Bezos knows this as well.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-32978">
+<article class="comment" id="comment-32978">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ablindeye <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32978">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Excellent comment.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-32987">
+<article class="comment" id="comment-32987">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32987">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>You’re repeating a myth about Ford. He increased wages (doubled them) to combat absenteeism and employer shifting – it was the era of numerous auto manufacturers as well as other factories with more interesting work. In 1912, 60,000 men had to be hired to retain 10,000 workers. A continuously moving assembly line slows down and even grinds to a halt when enough workers don’t show up and the number of spare workers who can fill in, i.e. who can perform the same specialised task(s), can’t cover the shortfall. High turnover means an employer is constantly having to train new workers and endure the knock-on effects to everyone else’s productivity. It means workers trained in one or two tasks have to pick up the slack by performing other tasks they didn’t know as well, which cascades into higher defect rate. The result was Ford paying wages to an entire assembly line’s workforce what was slowed and even left idle. </p>
+<p>Ford knew the key to his success was productivity, measured in the number of hours to produce one car. What had taken 12.5 hours to make was in about a year whittled down to 93 minutes. Ford gambled that he could more than offset increased wages by increasing productivity which lowers costs thereby making his cars more affordable vice his competitors’. With the new $5-per-day wage, turnover almost disappeared. Workers were willing to accept mundane and repetitive tasks if compensated sufficiently well to keep them reliably returning day after day.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33085">
+<article class="comment" id="comment-33085">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33085">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@ga gamba — Yes, you got it right.  The idea you pay people more so they can afford the product you build is silly as higher pay means the car costs more, so you have to pay more, then it costs more, so you pay more, so it costs more….<br/>
+Nobody pays for a job position so they can be customers; they pay based on what the markets suggest your work is worth (comparative costs versus comparative productivity)</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33018">
+<article class="comment" id="comment-33018">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://freedombunker.com" rel="external nofollow">Chris</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33018">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This type of work may be automated- but that’s a good thing, as humans, we are so much more capable we are wasted on this kind of work. As in any revolution, new jobs will surface, more suitable for humans.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-33066">
+<article class="comment" id="comment-33066">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					markbul <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33066">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It’s not the  Amazon wage slaves that keep the Amazon delivery trucks moving – it’s white collar workers with money to spend. Eliminating these jobs would benefit most Amazon customers.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33119">
+<article class="comment" id="comment-33119">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/115763280074981905132" rel="external nofollow">Ro Pn</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33119">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Although Amazon employees many thousands of workers, they’re a mere fraction of the 40 million workers who may lose their jobs to automation. From that perspective, regardless of Bezo’s outlook on factory robots, the automation industry will continue to grow relentlessly. The adoption of automation is not caused by a mere *choice* dictated by the goals of maximizing profits. Rather, the economic force of this paradigm shift (driven by competition) will ripple through factory jobs. The costs of refusing factory automation for the sake of generosity will be detrimental long-term. (Example: What if Walmart invests heavily in automation now and Amazon fully commits not to?)</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-33159">
+<article class="comment" id="comment-33159">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					zubi <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33159">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>With that mentality you’re on path to be the next Venezuela</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-32976">
+<article class="comment" id="comment-32976">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					idwreport <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32976">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>IDW Report – Hub for the Intellectual Dark Web</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-32982">
+<article class="comment" id="comment-32982">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					sestamibi <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32982">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“The money that corporations make won’t be as widely spread between workers and capital owners, because the workers will be robots that require no income.”</p>
+<p>The fallacy here is a false dichotomy between workers and capital owners.  Anyone can own capital.  All it takes is a little bit of longer time preference and ability to forgo instant gratification.  </p>
+<p>Underlying the automation controversy is the necessity of work as narrated in the biblical allegory of original sin and the consequent expulsion of Adam and Eve from the Garden of Eden.  All of human progress has as its goal a return trip there.  So with that in mind and (as pointed out in comments above) the availability of cheap labor, I propose the following to get our labor supply back in balance with a dramatically reduced demand for it:</p>
+<p>Labor effort is not an all-or-nothing proposition–working either 40+ hours per week or not at all.  There are many scheduling possibilities, including full-time seasonal work for part of the year.  With that in mind, I suggest that we adopt tax policies to encourage capital ownership, the returns on which permit individuals to ramp down their labor efforts.  Tax only labor income, exempting all savings (much as we do now with 401k plans), and tax capital returns (both dividend income and capital gains) not at all.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-32988">
+<article class="comment" id="comment-32988">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32988">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I agree with your idea. It seems obvious to me that making as many of us into capitalists as possible would be far more beneficial than hanging onto this strange idea that life is all about a ”job”.<br/>
+Having a job should never be an end it itself.  it is the means to having an income.  I’m sure that most people do not understand that they are in fact selling their labour and the price of that labour is depndent on the market. They think of jobs as being there to fill in the days (the price we have to pay to get back to Eden) rather than as part of the way you act in a trading world.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33088">
+<article class="comment" id="comment-33088">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33088">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Capitalists will love that ideas as it benefits the already wealthy (those with significant capital) over those who would want to be wealthy.  The fairest tax would be a flat fee on all transactions.  That you would hope a poor person will become a capitalists to save some taxes on “savings” fails reality: they don’t have excess income to save, may not be culturally open to that idea, and their capital is so small compared to the wealthy that they can only compete to opening a hot dog cart, not a modern global business where capital needs are very high.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-32986">
+<article class="comment" id="comment-32986">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32986">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>One thing that isn’t clear from the article is the situation in life of the employees of Amazon.  The writer of the article clearly was working at Amazon temporarily, on his way on to better things. Could it be that the majority of these warehouse workers were doing the same thing?<br/>
+That is one of the flaws in so much analysis of the economics of unskilled jobs.<br/>
+These are not jobs that are meant to be permanent.  Rather they are footholds into the world of work.<br/>
+It would be interesting to see how many people actually stay as warehouse workers at Amazon for longer than a year or two, whilst studying or waiting for a more skilled job to become available somewhere else.<br/>
+Too many people of a progressive bent are fixated on the idea that all lower paid people are going to spend all their working lives in such jobs.  The left-wingers don’t stop to think that most people will increase their income throughout their careers by moving on to higher paid jobs after gaining training or experience.  Some even become capitalists.<br/>
+There is an inherent danger to society if we sidestep the market and pay a so-called living wage for unskillled jobs. It would prove a disintentive for workers to progress to other more skilled employment. SOciety would end up with many fewer skilled people.  it would also have a lot of very bored and unhappy people in dead-end jobs, who at the same time were clogging up the bottom rungs of the job market and preventing new starters from getting an entry into that market.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-32997">
+<article class="comment" id="comment-32997">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32997">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Indeed. When we are fretting over the living wage of a person whose primary task is to drop sliced frozen potatoes into a basket that’s lowered into heated oil we’ve lost sight on creating meaningful and, more importantly, highly valued-added work and one’s motivation to get there. In addition to talent, future employers are looking for people who are reliable, can get along with coworkers, treat customers well, and don’t burn the place down, either literally or figuratively. It’s these menial, entry-level jobs where workers demonstrate their ability to perform these aspects of work that allow them to progress to better compensated work commensurate to their hopefully ever growing skills and knowledge.  </p>
+<p>In the US the federal minimum wage is $7.25 per hour. About three per cent of <i>hourly paid</i> workers earn this, and hourly paid workers are about 60% of the entire work force, thus roughly two percent of all workers earn minimum wage. “OK, it’s <i>only</i> two percent of all workers, so raising their wages shouldn’t have too many consequences.” Perhaps not. In the US about 43% of all workers earn $15 per hour or less. So, those earning $7.26 to $14.99 get bumped to $15. Everyone’s happy, off to the sunset the ride, and end of the story, yeah? </p>
+<p>Don’t you believe it. In that group of workers formerly earning $7.26 to $14.99 are many who acquired new skills, earned degrees and certifications, and were promoted to jobs with more responsibilities. Do you think the foreman who was paid $14 an hour and who is bumped up $1 is going to look at all the entry-level workers he has to supervise, now also at $15, and think to himself fairness has been achieved? Dream on. Based on his skills he was making 93% more than the $7.25-per-hour entry-level labourer. Now they are equal. Whether it’s intended or not, and I think it is, the proponents of $15 per hour will unleash an upheaval. A significant portion of the workforce who once thought of themselves doing well and moving up the ladder are now reclassified as minimum-wage workers. Many people are going to experience this as a demotion. Immediately those who were previously paid more than $7.25, such as line supervisors and foremen, are going to demand more. “You, my employer, thought my skills were 93% more valuable than the entry-level labourer. My skills haven’t diminished. Why should I have the hassle and headache of being a supervisor for the same wage as those who don’t? Pay me more.” There is also the situation of those who were previously earning a bit more than $15 – presently about 35% of workers earn between $15 and $30 per hour. Now 43% of the workforce is deemed almost comparable to many them. Mid-level supervisors are demanding raises above $15. The knock-on effects continue to cascade.</p>
+<p>And as all this whingeing is happening, there’s been no increase in productivity to offset, in part or in whole, the wage increase. “But Jeff Bezos has $150 billion.” Yes, he and the few others like him are unicorns. Ninety percent of the workforce works for an employer with 20 or fewer employees and 98% work for companies with fewer than 200 employees. Only 18,500 of the nation’s 27 million businesses have 500 employees or more – that’s 0.0007 of all companies, i.e. the ones where many of the most highly remunerated work. Those who earn more than $70 per hour are 1% of the workforce. Yes, let’s obsess over them so we can make bad decisions that further erode competitiveness.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-32999">
+<article class="comment" id="comment-32999">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32999">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Well said, ga gamba.  The capacity of the left to aflict inconvenience on us all in order to help a tiny minority of people is seemingly endless.<br/>
+As usual the left doesn’t think of the unintended consequences flowing from their childish wish to help out ”the poor”. In fact, left wing policies have served to make the poor into permanent clients of the state in the welfare trap.<br/>
+Theodore Dalrymple, a psychiatrist who worked amongst the underclass of Britain, has demonstrted this in his writing over the years.<br/>
+I’m never quite certain whether the liberal-leftists secretly like the idea of keeping the poor in penury so as to ensure a perennial power base of dependent clients or whether they truly believe that left-wing policies will actually improve things and are stupid enough not to realise the terrible social problems they have caused.<br/>
+I prefer to believe in cock-up over conspiracy, as most liberal leftists I have met are genuinely well-intentioned, if dim.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-4" id="li-comment-33091">
+<article class="comment" id="comment-33091">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33091">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Isn’t turning citizens into drones for the state the central tenet?  If you have no skills, don’t expect much pay.  Gain the skills with good, quality work, and you’ll get paid more.  Low skill workers simply make no sense if the state demands you pay highly for them.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-3" id="li-comment-33201">
+<article class="comment" id="comment-33201">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/117234376406765074288" rel="external nofollow">Mark Anderson</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33201">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Many Entry level workers “bumped up” to $15 will likely be more skilled than those presently working for less.  Think of it as “wage gentrification.”</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-32989">
+<article class="comment" id="comment-32989">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Nilufar Rahman <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32989">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yaron Brook was telling on Rubin report before. Thanks for writing about it. Before we make our decision with our emotion and stand with senator Sanders; we need to know these consequences.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-32990">
+<article class="comment" id="comment-32990">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Jom <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32990">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Sorry, an amazon fulfillment center worker doesn’t have it hard, not even close. Cry me a river.  </p>
+<p>They get paid market rate.  They don’t deserve a raise.  They deserve what the market says they deserve. When the guy down the street offers them more money, they can quit amazon. I don’t care how many zillions Jeff Bezos has. </p>
+<p>And boo frickin hoo if you only make $24k a year.  That’s 24k more than zero.  Work harder if you want to make more.  Make yourself more valuable if you want to make more.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33092">
+<article class="comment" id="comment-33092">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33092">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Bezos’s wealth doesn’t come from taking out income/profits, but from stock gains, which have no bearing on employee wages.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-32993">
+<article class="comment" id="comment-32993">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					AA <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32993">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This is a manufactured problem. $14+ an hour for manual, unskilled labor is actually a good deal. And no, it is not necessarily rational for the workers to demand higher wages, so we can dispense with the rat choice mumbo jumbo. </p>
+<p>The real motivation behind such demands arises from a twisted sense of entitlement and listening to Marxist demagoguery. A free labor market where individuals get to determine the terms on which they sell their labor is the best way we know to consistently set wages at the appropriate level.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-32994">
+<article class="comment" id="comment-32994">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Gary Lowe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32994">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I sincerely doubt these workers have even heard of Marx. They, like almost everyone, ask for more money because they want to buy more things, go on trips, etc. It’s called asking for a raise. Don’t overcomplicate things.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-33095">
+<article class="comment" id="comment-33095">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33095">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>You can ask, but you won’t get a raise unless you show you are worth more than the next person.  Just as you can ask for pricing discounts at stores, but you may or may not get it depending on whether the seller thinks they can do better or not.  Fair trade means you don’t seek the government to set the price for a trade.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32996">
+<article class="comment" id="comment-32996">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Apollo <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32996">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I love that Quillette is now publishing undergradudate enthnographies of the Amazon labourer. The hypocrisy ratchets up another notch.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-32998">
+<article class="comment" id="comment-32998">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-32998">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Lucky for you Quillette still allows readers to play the man rather than play the ball. Without flagrant fouls of the unsporting type, what contribution do you have to offer? </p>
+<p>Fair play to you, mate.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-33057">
+<article class="comment" id="comment-33057">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter Kriens <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33057">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Not sure what to do with this comment. Why it hypocritical to provide a forum where anybody can offer an essay for open discussion? Looking what Coleman Hughes is writing undergraduates can do a stellar job? Did you think before you wrote this comment?</p>
+<p>And I assume you meant ‘ethnographies’?</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-33222">
+<article class="comment" id="comment-33222">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Apollo <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33222">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Quillette made its name disparaging anthropology and sociology for their weak methodologies (quite rightly, I might add), especially ethnography and extrapolating from small sample sizes that may well sample entirely outliers. But when the content is Quillette branded the editors seem comfortable indulging. Not so long ago there was a piece on here about one woman’s lived experience of being in a college supposedly saturated in PC culture. This exactly the kind of argumentation Quillette apparently wants to discourage. I’ll believe this is a venue for free thought when it publishes perspectives its editors don’t agree with, and when it holds itself to its own standards. Coleman Hughes is indeed impressive, but that is substantially because he doesn’t rely on his own lived experiences and back of the envelope calculations, but instead on data and wide reading from actual academics. I am depressed that this site seems to be chasing clicks and tribal loyalty as much as everyone else while simultaneously trying to pretend it is above it all.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-33000">
+<article class="comment" id="comment-33000">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://twitter.com/sean_welsh77" rel="external nofollow">Sean Welsh (@sean_welsh77)</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33000">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Plenty of people are citing the same old alarmist research by Frey and Osborne that predicts major unemployment. However, OECD research by Arntz et al has far more modest unemployment projections. Currently US unemployment is at 3.9%. There is no real evidence of mass unemployment emerging at present. Quite the opposite. Unemployment is very low at present in the US.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-33004">
+<article class="comment" id="comment-33004">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33004">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Take those unemployment figures with a pinch of salt. The government defines unemployed to remove many it decides are no longer looking for work; consequently, this understates the figure. Nonetheless, they are still unemployed and identifying them is needed to understand the extent of the problem.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-33096">
+<article class="comment" id="comment-33096">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33096">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Well, increase minimum wages and make other demands for wages higher than the market price, and you’ll have more unemployment, whether counted “correctly” or not.<br/>
+But it is funny that we are at peak automation, low unemployment, yet some still claim the markets aren’t working for workers because they’d like more without necessarily being worth more.  I wish all my wealth was 100x more, but that won’t make it so.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-33202">
+<article class="comment" id="comment-33202">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33202">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>david of k<br/>
+”yet some still claim the markets aren’t working for workers because they’d like more without necessarily being worth more”<br/>
+A great take-down of the left-wing viewpoint.<br/>
+I am beginning to see a pattern with the philosophy of the left. Basically, leftists have a adolescent-like need to come up with complex arguments that any sensible person knows run counter to reality.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-33635">
+<article class="comment" id="comment-33635">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Spottydog3 <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33635">
+						September 1, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Quite right. Anyone who earned $25 last week is not counted as officially unemployed. (Underemployed is a better term.) Lack of meaningful work, financial security, or opportunity to improve ones life is a better description of the issue. I think the high suicide rate and opioid use among working age men is real evidence of a serious problem. Perhaps an “index of despair” should replace the unemployment stat.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33001">
+<article class="comment" id="comment-33001">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Scotty <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33001">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Capital expenditure is tightly controlled. I dont see this as an argument for or against increasing labour cost. I see this as shifting an operational expense to a capital expense. Initially it would be a huge and costly project with no guarantee of success. Chinese companies lavish capital on a lot of things without merit. I assess this as being because the country (and hence its businesses as they are one and the same) are essentially run by engineers who love big projects. History is littered with examples of rising powers who spend too much on capital projects then fail.</p>
+<p>In terms of arguing for warehouse employees getting more wages I’m broadly in agreement with the non-market intervention position however, probably because of the background of my country where we have a strong ‘social safety net position’ I would like to see mandated national health and retirement contributions included as part of all wages packages. </p>
+<p>Thats my comment off the top of my head.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-33023">
+<article class="comment" id="comment-33023">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Scout <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33023">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>A good piece . One problem that also comes with the loss of jobs like those at Amazon is the effect on new workers. Working a basic , low paid job used to be how new workers learned how to have a job – to show up on time , work and behave appropriately toward those in the work environment. That is how it was for me and for many of my friends.There still needs to be a way for people to learn these basic skills .</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33026">
+<article class="comment" id="comment-33026">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Jason <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33026">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I’m going to quibble with this…</p>
+<p>“…the median pay for workers was $28,446 per annum, which means that 50 percent of them make the same or, in most cases, less than that amount. Using the profile of a full time worker, 40 hours a week at 48 weeks a year, the average hourly pay averages out at $14.81 per hr.”</p>
+<p>Median means 50% of the population is above and 50% of the population is below the given number.  Half make more than $28446 and half make less, not less in “most” cases.</p>
+<p>When you divide $28446/(40hrs*48weeks) you get a median wage of $14.81 per hr.  Again 50% make more and 50% make less.  This is not an average.  </p>
+<p>I would hypothesize that the average wage (sum of all wages / total number of employees) is actually higher than $28446 due to the power law relationship of wages, but that is indeterminable from the data presented.</p>
+<p>You are majoring in Economics with a minor in Math, you should be able to explain this better. It should be automatic.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33036">
+<article class="comment" id="comment-33036">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Laith <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33036">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It’s a little difficult to calculate it 100% because of benefits and stock options for higher paid employees.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33048">
+<article class="comment" id="comment-33048">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Adam <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33048">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I’m going to quibble with your quibbling.</p>
+<p>Intuitively the median is “the number that cuts the population (or sample) in half”. But depending on the data and the exact way the median is calculated (there are actually several definitions that are largely the same but handle edge cases slightly differently), it is indeed possible for some of the data to lie exactly on the median. For instance, if the data were 4, 5, 6, or 4, 5, 5, 6, the median would be 5. Now, with payroll data there is probably a lot more variation, but Amazon might also use very standardized contracts that result in many of their employees getting the same amount – and if that standardization clusters at the middle, it could indeed be the case that a non-trivial portion of their employees earn exactly that amount – though I admit this is unlikely.</p>
+<p>Regarding the $14.81 calculation, calculating (sum of all wages / total number of employees) would give you the arithmetic mean. “Average” is not a precisely defined statistical concept. The word is usually employed to mean a measure of central tendency, i.e. some sort of indication of what a “typical” value from the data might be. The arithmetic mean, median, and mode are all useful ways of getting at this idea, though in other contexts other measures may be more appropriate, such as the geometric mean, harmonized mean, or winzorized mean. There are issues here – assuming all workers work exactly 40 hours a week is probably unreasonable, and I’m not sure if warehouse workers actually make up that large a proportion of Amazon’s workforce, so the median may not be that informative – but the use of the word “average” here is perfectly acceptable, though the word “typical” might result in less grousing.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-33027">
+<article class="comment" id="comment-33027">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Rich Russell <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33027">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Pretty good work for an undergrad.  Whether you agree or disagree with his arguments, his writing is clear and focused, which can’t be said for many of Quillette’s submissions.  </p>
+<p>He’s also not afraid to sign his work, and doesn’t spend three-quarters of his article covering his ass…</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33034">
+<article class="comment" id="comment-33034">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Caligula <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33034">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>By now there surely is abundant evidence that spending much of one’s lifetime on the dole is soul-destroying. For although a few find ways to find or create meaning in a life without employment, all too many sink into those dysfunctional behaviors.</p>
+<p>One solution is to encourage paid employment by subsidizing it, as is done in the USA with the Earned Income Tax Credit. This at least solves the problem of what to do with people whose labor is worth less than the minimum wage. Arguments against EITC are (1) it encourages fraud, as government is now paying part of a businesses’ payroll (even though the payment goes to the employee and not to the employer), and (2) it reduces the justification for a dole with no work requirement, which some claim is “slavery.”</p>
+<p>This solution is less than perfect, but it’s at least honest and arguably more effective than raising the minimum waqe, as it encourages attachment to paid employment. Which at least required a modicum of self-discipline, and thus discourages those dysfunctional behaviors.</p>
+<p>And it’s more effective than the usual panacea, which is subsidized training (and/or subsidized higher education). For the reality remains that many simply lack the capacity to make effective use of this training (and/or education).</p>
+<p>BTW, is it worth considering what happens when a majority of the population in a democratic state is on the dole, and thus retains the option of voting for politicians who promise to endlessly increase this dole? (A hint? As of 28 Aug. 2018, a U.S. dollar was worth 248509 Bolivars.)</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33097">
+<article class="comment" id="comment-33097">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33097">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Everyone gets to decide what they’ll do with their money.  If you prefer to help out local small businesses, then do so.  If you prefer to get the best price so that Chinese (picking on them, but really any low wage country will do) workers and companies profit, then do so.  If you prefer socialism, you are free to join up with like minded souls and share your wealth.  Or you can just donate it.  Or hoard it.  Or give it to the government.  Liberty is best as it lets different ideas flourish rather than pretending anybody has the one true answer to be enshrined by force.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-33046">
+<article class="comment" id="comment-33046">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/116987942797294516849" rel="external nofollow">Kevin Herman</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33046">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“Jeff Bezos is worth $150 billion, so he can afford to pay his workers a little extra. Right?”</p>
+<p>Anybody that believes this lives in a child like fantasy world and is my political enemy.  Jeff Bezos may or may not be able to but to assume it based on his net worth is ridiculous.  There are many many many considerations that go into how much a worker is worth.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33098">
+<article class="comment" id="comment-33098">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33098">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>His net worth is not due to his taking a buck per hour from each worker.  His wealth is primarily from stock gains, not from taking more of the revenue for his own benefit.  Every worker at Amazon owes  every dollar they earn to his creation.  You are free to start your own business, work elsewhere, or be content with your life as it is not how you wish it could be “if only” you were paid more than you’re worth.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33047">
+<article class="comment" id="comment-33047">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/116987942797294516849" rel="external nofollow">Kevin Herman</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33047">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“Senator Sanders, meanwhile, is probably sincerely prioritizing what he thinks are the workers’ best interests, but the reality is that his aggressive push for better wages on their behalf is more likely to result in those workers losing their jobs entirely.”</p>
+<p>You don’t really believe this do you?  I hate Bernie Sanders but he actually is a very smart man.  Bernie Sanders is interested in one person’s best interest Bernie Sanders.  His interests are served by pushing things like wage hikes that will likely kill jobs regardless of the outcome.  Because thats what his ignorant worshippers want.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33099">
+<article class="comment" id="comment-33099">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33099">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Lifelong politician tells you that’s his focus.  He could found a business and overpay his workers, but he’d rather take taxpayer dollars decade after decade.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-33064">
+<article class="comment" id="comment-33064">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Constantin <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33064">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Fascinating discussion and I mean to salute both Ga Gamba and Peter from Oz for insightful comments.  However, one alarming detail in the article seemed to escape everyone’s attention:  “We would do well to consider the plight of the worker, and to figure out how to use automation to strengthen a society, not dislocate it” .  What a horrendous notion that automation should  be controlled by anything else than market forces!  Any disruption in people’s lives (and there is no question that particularly older people will have a harder time to adapt) will be so much compensated by increased productivity that it is not even funny.  Yes inactivity and sitting on welfare is a soul killer, but always a voluntary one.  I would much rather be poor and challenged to find a way in a rich society with extremely high productivity, than be secure on very modest income in a dirigiste/quasi-socialist society that values stability in relative misery over uncertainty amongst richness.   There is an impoverished mind-set that sounds the alarm against the richer world of tomorrow.  The best thing to do is to sit back and relax and let Amazon or any other business automate at their discretion.  There is plenty opportunity to be useful and exchange labor in a rich society.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33100">
+<article class="comment" id="comment-33100">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33100">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>And if you think you have a better mousetrap, make and sell it.  I’m sure amazon workers would happily take your job instead if you can create it.  Just grumbling that others aren’t doing it is the height of absurdity.  As if a free society prevents you from competing with your “better way.”</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-33209">
+<article class="comment" id="comment-33209">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33209">
+						August 30, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p><i>“We would do well to consider the plight of the worker, and to figure out how to use automation to strengthen a society, not dislocate it”</i></p>
+<p>It’s going to be mixed. One of the first assembly-line jobs automated to robots was paint. Not only does a robot apply paint to a car body more uniformly and faster than a human, it also takes the human out of one of automaking’s most dangerous occupations. I think many if not most would agree replacing humans with robots in highly dangerous occupations betters society. </p>
+<p>Recently I’m seeing human counter-staff at fast food places being replaced by automation. This may work at quick-service restaurants, but what about all the other types of restaurants? In the US the number of quick-service places is about 190,000 of a total of 650,000 restaurants, about 29%. </p>
+<p>If you’re old enough, you may remember banking before the advent of ATMs everywhere. You’d have to plan a trip the bank to get cash, and if you were like almost everyone else you’d do so on a Friday afternoon where you’d queue with all the other procrastinators. Some merchants would allow customers to write a cheque in excess of the sale for cash back, but often this was limited to a negligible amount because merchants didn’t want to keep a lot of cash on site. So, ATMs replaced most tellers, which increased the convenient access to one’s money but probably also increased street crime such as muggings, many of which coincided to late-night street sales of drugs, and led to the introduction of new crime such as card skimming. I remember when ATMs were introduced in Korea the regulators noticed a spike in late-night withdrawals, which they tied to the purchase of booze and hookers, so for a long while ATMs were turned off after 10pm. Of course, the huge majority of ATM transactions occurred without muggings and cash withdrawn wasn’t only spent on drugs, liquor, and prostitutes. The dislocation of bank tellers by ATMs led to many outcomes, some of which were bad, but most of which neutral or good. </p>
+<p>I suspect the amplified coverage of “the robots are gonna take our jobs” is due in part to news media organisations giving people the clickbait stories they want to read and is also used by UBI advocates and other leftists as agitprop.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-33069">
+<article class="comment" id="comment-33069">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					TD <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33069">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Best article I’ve read in a long time, and I read a lot.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-33436">
+<article class="comment" id="comment-33436">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					SP <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33436">
+						August 31, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>You sound intelligent.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-33078">
+<article class="comment" id="comment-33078">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					david of Kirkland <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33078">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Bezo’s wealth is due to a high stock price, not from his taking of the profits for his personal gain.  His company needs to keep costs down to encourage customers to buy from him rather than elsewhere (he’s mostly a middleman, not a producer of products, other than his web services business which is truly a profit maker compared to his mainline business).<br/>
+Also, automation is hitting the world over, not just the USA.  With ever more rules on how employers must treat workers, it’s no wonder replacing workers is a primary motivation.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33084">
+<article class="comment" id="comment-33084">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Joe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33084">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“…employees are entitled to feel that they deserve…”</p>
+<p>Entitled, feel, deserve… could their be three concepts more inhibiting to an actual individual’s growth and progress?</p>
+<p>You are entitled only to the wage you voluntarily accepted for the task mutually agreed upon.</p>
+<p>Your feelings about whether or not that wage for the task should be higher are not relevant.  Whether Amazon or another employer will pay you more for that task (or similar) is all that matters. </p>
+<p>You deserve only the right to pursue your own career and financial goals, spending your time, energy, and resources to that end.  If those goals include making more money, then gain more valuable skills.  This is difficult, takes time, sacrifice, and can cost money.  But, those that really want to do it, do it.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33101">
+<article class="comment" id="comment-33101">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33101">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>You are free to act, not free to force others to do your bidding.  Rights are something government cannot preclude, not something others must provide to you.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-33089">
+<article class="comment" id="comment-33089">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Joe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33089">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>For as long as there have been technological advances, there have been people fretting over economic harm and disastrous loss of jobs.</p>
+<p>Still waiting for it…</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-33102">
+<article class="comment" id="comment-33102">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">david of Kirkland</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33102">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>If only everyone slaved on farms, or better yet, returned to hunting and gathering.  Then we’d all be….poorer and sicker.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33104">
+<article class="comment" id="comment-33104">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Chip Daniels <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33104">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Technology is not replacing low skilled labor, but high skilled cognitive skills.<br/>
+Consider the algorithms that make decisions previously made by humans such as market analysis and sophisticated programs that make engineers more productive. </p>
+<p>AI and machine learning pose the same threat to white collar professionals in the 21st century that motive power did to blue collar workers in the 20th.</p>
+<p>Job losses from automation don’t need to be massive to produce massive social dislocation. Remember that in the worst of the Great Depression, the unemployment rate was “only” 25%, and that nearly lead to violent revolution.</p>
+<p>As machines produce more and more of the wealth, the old Lockean notion of ownership will be challenged. If a machine can extract natural resources, convert them into finished goods, then who is the rightful owner of the wealth produced?</p>
+<p>We can say “the machine’s owner” but then what if we all had access to a machine? How do we parcel out ownership claims over natural resources? Timber forests didn’t come with titles attached to them, humans decided to create land claims for the utilitarian purposes of increasing wealth.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-33113">
+<article class="comment" id="comment-33113">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://fromthetopoftheworld.wordpress.com" rel="external nofollow">jiminalaska</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33113">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It’s a work place buttercup. suck it up. You’re not entitled to a higher wage nor to a job that fulfills you.</p>
+<p>If you want it, you work for it and you earn it.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-33140">
+<article class="comment" id="comment-33140">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Farris <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33140">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Automation still has one severe limitation. When one component fails, the whole operation tends to shut down as each part is overly dependent on the other. Not true with laborers when a worker is ill or unavailable the remaining adjust to keep the enterprise going. It may be that the paper pushers are the employees most at risk. What are all those people at the DMV going to do when self driving cars become the norm?</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-33150">
+<article class="comment" id="comment-33150">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Joe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33150">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>How many types of jobs exist today that didn’t exist 100 years ago?  50 years ago? 20 years ago?</p>
+<p>Basic macro economics has debunked this notion of jobs lost to technology/ productivity advances long ago.  If you don’t believe that, just look around the real world.</p>
+<p>Some industries die, some jobs disappear… but new industries are born and new jobs are created.  For individuals to survive in this churn, they have to be willing and able to adapt.  It is no more complex than that.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-33153">
+<article class="comment" id="comment-33153">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Joe <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33153">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Oh by the way… the young people of today are far more adaptable than previous generations in terms of their ability to adopt, master, and adapt to quickly changing technology trends.</p>
+<p>They – and we – will be fine.</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-33162">
+<article class="comment" id="comment-33162">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					D Bruce <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/#comment-33162">
+						August 29, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Completely absurd: increasing productivity harms large numbers of people.<br/>
+This suggests a flaw in our system: Henry George identified it – one thing, the tax system. We tax the sources of productivity, not the return from productivity.<br/>
+Land values rise as (because) productivity rises. Tax land value (only land value) and use the surplus on UBI – sorted. The Single Tax is the silver bullet</p>
+</div><!-- end .comment-text -->
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ol><!-- end .comment-list -->
+<p class="nocomments">Comments are closed.</p>
+</div><!-- #comments .comments-area -->
+<div class="nav-wrap cf">
+<nav id="nav-single">
+<div class="nav-previous"><a href="https://quillette.com/2018/08/27/taming-the-lizard-brain/" rel="prev"><span class="meta-nav">Previous Post</span>Taming the Lizard Brain</a></div>
+<div class="nav-next"><a href="https://quillette.com/2018/08/29/the-destructive-illusion-of-moral-authority/" rel="next"><span class="meta-nav">Next Post</span>The Destructive Illusion of Moral Authority</a></div>
+</nav><!-- #nav-single -->
+</div><!-- end .nav-wrap -->
+</div><!-- end #primary -->
+<div class="default-sidebar widget-area" id="blog-sidebar" role="complementary">
+<aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-25"><a alt="Ad" href="https://www.romepix.com/prints/a-love-letter-to-rome-photo-book-5fbkk-9f3yy" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/27050224/ad8.jpg" style="width: 100%;"/></a></aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-6"> <div id="fb-root"></div>
+<div class="fb-page" data-height="432" data-hide-cover="false" data-href="https://www.facebook.com/QuilletteM/" data-show-facepile="true" data-show-posts="false" data-width="340">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/QuilletteM/"><a href="https://www.facebook.com/QuilletteM/"></a></blockquote></div>
+</div>
+</aside><aside class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Stories</h3><ul class="widgets-list-layout no-grav">
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" title="The Grievance Studies Scandal: Five Academics Respond">
+<img alt="The Grievance Studies Scandal: Five Academics Respond" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/03013837/Image_1-e1538533061112.jpg?fit=1200%2C756&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/">
+								The Grievance Studies Scandal: Five Academics Respond							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" title="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms">
+<img alt="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05124955/MG_1643-Edit.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/">
+								Writers Behind ‘Grievance Studies Scandal’ Address Criticisms							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" title="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism">
+<img alt="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05061119/Communism.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/">
+								Don't Get Fooled Again: The Continuing Necessity of Anti-Communism							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title='When "Believe the Victim" Backfires'>
+<img alt='When "Believe the Victim" Backfires' class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">
+								When "Believe the Victim" Backfires							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="A New Kind of Economy—An Interview with Andrew Yang">
+<img alt="A New Kind of Economy—An Interview with Andrew Yang" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">
+								A New Kind of Economy—An Interview with Andrew Yang							</a>
+</div>
+</li>
+</ul>
+</aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-16"><a alt="Ad" href="http://hac.bard.edu/" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/07/11000422/600-500-ad_quillette2-300x250.png" style="width: 100%;"/></a></aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-19"><a alt="Ad" href="https://www.patreon.com/Quillette"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/18030918/Q19-September.jpeg"/></a></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="widget-title">Share</h3><div class="textwidget custom-html-widget"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<ul style="padding:0">
+<li>
+<button onclick="window.open('https://www.facebook.com/dialog/share?app_id=586833251482093&amp;display=popup&amp;href=' + encodeURIComponent(document.URL) + '&amp;redirect_uri=' + encodeURIComponent(document.URL), '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-facebook-official" style="font-size:48px"></i></button>
+</li>
+<li>
+<button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;via=QuilletteM', '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-twitter" style="font-size:48px"></i></button>
+</li>
+</ul></link></div></aside></div><!-- end #blog-sidebar -->
+<div class="cf" id="footerwidgets-wrap">
+<div class="default-sidebar widget-area" id="footer-five" role="complementary">
+<aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2"><div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="5" id="eu-cookie-law">
+<form method="post">
+<input class="accept" type="submit" value="Close and accept"/>
+</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br/>
+To find out more, including how to control cookies, see here:
+	<a href="https://automattic.com/cookies/">
+		Cookie Policy	</a>
+</div>
+</aside> </div><!-- end #footer-five -->
+</div><!-- end #footerwidgets-wrap -->
+<footer class="site-footer cf" id="colophon">
+<p class="site-description">Free Thought Lives</p>
+<div id="footer-social-nav">
+<h3 class="social-nav-title">Follow Us</h3>
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71138" id="menu-item-71138"><a href="https://www.facebook.com/Quillette-923721701039919/">Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71135" id="menu-item-71135"><a href="https://twitter.com/QuilletteM">Menu Item</a></li>
+</ul> </div><!-- end #footer-social -->
+<div id="site-info">
+<ul class="credit" role="contentinfo">
+<li>Copyright © 2018 Quillette Pty Ltd | All Rights Reserved</li>
+</ul><!-- end .credit -->
+</div><!-- end #site-info -->
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+</div><!-- end #container -->
+<div style="display:none">
+</div>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/quillette.com\/2018\/08\/28\/automation-and-the-death-knell-of-the-american-workforce\/":83630};</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_AU/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}
+jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}
+(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/platform.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')
+IN.parse();});</script> <div id="sharing_email" style="display: none;">
+<form action="/2018/08/28/automation-and-the-death-knell-of-the-american-workforce/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="https://quillette.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var jpfbembed={"appid":"249643311490","locale":"en_US"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var q2w3_sidebar_options=[{"sidebar":"blog-sidebar","margin_top":30,"margin_bottom":0,"stop_id":"footerwidgets-wrap","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["adwidget_imagewidget-19","custom_html-2"]}];
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.3.2" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var sharing_js_options={"lang":"en","counts":"1"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.3.2" type="text/javascript"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-201841.js" type="text/javascript"></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.3.2',blog:'101756249',post:'83630',tz:'0',srv:'quillette.com'}]);_stq.push(['clickTrackerInit','101756249','83630']);</script>
+</body>
+</html>

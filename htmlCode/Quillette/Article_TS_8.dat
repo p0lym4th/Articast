@@ -1,0 +1,1165 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="https://quillette.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]>
+		<script src="https://quillette.com/wp-content/themes/zuki/js/html5.js"></script>
+	<![endif]-->
+<title>Helping Children with Autism - Quillette</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://quillette.com/2018/10/02/helping-children-with-autism/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Helping Children with Autism - Quillette" property="og:title"/>
+<meta content="An adapted extract from The Politics of Autism by Bryna Siegel, PhD. (Oxford University Press, September 3 2018). I met my first child with autism when I was a 19-year-old undergraduate, in 1972. Since then, the “autism” landscape has changed: In the early 1970s, autism had not quite emerged from its Dark Ages. In those days, mothers of autistic children were strongly suspected of an early, profound, unconscious rejection of their infant, and it was believed that the ensuing failure to bond resulted in the solipsistic autistic aloneness with which the child faced the world. Leo Kanner, an American child psychiatrist, was the first to describe “early infantile autism,” a condition whereby the child acted as if others were not meaningful to constructing his or her emotional life. While Kanner himself did not argue that parents were the cause, he acknowledged that many parents who sought out his academic expertise were not the warm, fuzzy parents he felt had “the right stuff” to naturally break through their child’s self-isolation. Others, like Bruno Bettelheim, a professor …" property="og:description"/>
+<meta content="https://quillette.com/2018/10/02/helping-children-with-autism/" property="og:url"/>
+<meta content="Quillette" property="og:site_name"/>
+<meta content="https://www.facebook.com/QuilletteM/" property="article:publisher"/>
+<meta content="Top Stories" property="article:section"/>
+<meta content="2018-10-02T10:07:38+00:00" property="article:published_time"/>
+<meta content="2018-10-02T10:14:12+00:00" property="article:modified_time"/>
+<meta content="2018-10-02T10:14:12+00:00" property="og:updated_time"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/02100959/AdobeStock_135133620-e1538475060522.jpeg?fit=1200%2C800&amp;ssl=1" property="og:image"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/02100959/AdobeStock_135133620-e1538475060522.jpeg?fit=1200%2C800&amp;ssl=1" property="og:image:secure_url"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="An adapted extract from The Politics of Autism by Bryna Siegel, PhD. (Oxford University Press, September 3 2018). I met my first child with autism when I was a 19-year-old undergraduate, in 1972. Since then, the “autism” landscape has changed: In the early 1970s, autism had not quite emerged from its Dark Ages. In those days, mothers of autistic children were strongly suspected of an early, profound, unconscious rejection of their infant, and it was believed that the ensuing failure to bond resulted in the solipsistic autistic aloneness with which the child faced the world. Leo Kanner, an American child psychiatrist, was the first to describe “early infantile autism,” a condition whereby the child acted as if others were not meaningful to constructing his or her emotional life. While Kanner himself did not argue that parents were the cause, he acknowledged that many parents who sought out his academic expertise were not the warm, fuzzy parents he felt had “the right stuff” to naturally break through their child’s self-isolation. Others, like Bruno Bettelheim, a professor …" name="twitter:description"/>
+<meta content="Helping Children with Autism - Quillette" name="twitter:title"/>
+<meta content="@QuilletteM" name="twitter:site"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/02100959/AdobeStock_135133620-e1538475060522.jpeg?fit=1200%2C800&amp;ssl=1" name="twitter:image"/>
+<meta content="@QuilletteM" name="twitter:creator"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/quillette.com\/","sameAs":["https:\/\/www.facebook.com\/QuilletteM\/","https:\/\/www.linkedin.com\/company\/quillette-magazine","https:\/\/twitter.com\/QuilletteM"],"@id":"https:\/\/quillette.com\/#organization","name":"Quillette","logo":"http:\/\/quillette.com\/wp-content\/uploads\/2017\/01\/quillette-Q-512pxby512px-white-on-black-0n-574pxby574px-transparency.png"}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://quillette.com/feed/" rel="alternate" title="Quillette » Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/comments/feed/" rel="alternate" title="Quillette » Comments Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/2018/10/02/helping-children-with-autism/feed/" rel="alternate" title="Quillette » Helping Children with Autism Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quillette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link href="https://quillette.com/wp-content/plugins/amazon-polly/public/css/amazonpolly-public.css?ver=1.0.0" id="amazonpolly-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-includes/css/dashicons.min.css?ver=4.9.8" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/style.css?ver=4.9.8" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/js/flex-slider/flexslider.css?ver=4.9.8" id="zuki-flex-slider-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CKarla%3A400%2C400italic%2C700%2C700italic%26subset%3Dlatin%2Clatin-ext&amp;subset=latin%2Clatin-ext" id="zuki-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zukichildthemefolder/style.css?ver=20140630" id="zuki-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Inline jetpack_facebook_likebox -->
+<style id="jetpack_facebook_likebox-inline-css" type="text/css">.widget_facebook_likebox{overflow:hidden}</style>
+<link href="https://quillette.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" id="jetpack-widget-social-icons-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-1 .column-1,2{padding:4px}.tablepress-id-1 .column-1{width:40%}.tablepress-id-1 .column-2{width:40%}</style>
+<link href="https://quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/plugin/templates/default/style.css?ver=4.9.8" id="cb_p6-css-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" id="social-logos-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/amazon-polly/public/js/amazonpolly-public.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/flex-slider/jquery.flexslider-min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/functions.js?ver=20140426" type="text/javascript"></script>
+<link href="https://quillette.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://quillette.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://quillette.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.8" name="generator"/>
+<link href="https://wp.me/p6SXrP-lVL" rel="shortlink"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F02%2Fhelping-children-with-autism%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F02%2Fhelping-children-with-autism%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script data-cfasync="false" type="text/javascript">var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":84305,"post_name":"helping-children-with-autism","post_title":"Helping Children with Autism","post_type":"post","post_author":"535","post_status":"publish"};_mmunch['postCategories']=[{"term_id":124,"name":"Top Stories","slug":"top-stories","term_group":0,"term_taxonomy_id":124,"taxonomy":"category","description":"","parent":0,"count":265,"filter":"raw","cat_ID":124,"category_count":265,"category_description":"","cat_name":"Top Stories","category_nicename":"top-stories","category_parent":0}];_mmunch['postTags']=false;_mmunch['postAuthor']={"name":"Bryna Siegel","ID":535};</script><script async data-cfasync="false" data-mailmunch-site-id="405309" data-plugin="cc_mm" id="mailmunch-script" src="//a.mailmunch.co/app/v1/site.js"></script>
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+function external_links_in_new_windows_loop(){if(!document.links){document.links=document.getElementsByTagName('a');}
+var change_link=false;var force='';var ignore='';for(var t=0;t<document.links.length;t++){var all_links=document.links[t];change_link=false;if(document.links[t].hasAttribute('onClick')==false){if(all_links.href.search(/^http/)!=-1&&all_links.href.search('quillette.com')==-1){change_link=true;}
+if(force!=''&&all_links.href.search(force)!=-1){change_link=true;}
+if(ignore!=''&&all_links.href.search(ignore)!=-1){change_link=false;}
+if(change_link==true){document.links[t].setAttribute('onClick','javascript:window.open(\''+all_links.href+'\'); return false;');document.links[t].removeAttribute('target');}}}}
+function external_links_in_new_windows_load(func)
+{var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+external_links_in_new_windows_load(external_links_in_new_windows_loop);
+//]]></script>
+<script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}
+window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//quillette.com/?wordfence_lh=1&hid=667150E507306FB4E96A6246C2AA34FF');</script>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//i1.wp.com" rel="dns-prefetch"/>
+<link href="//i2.wp.com" rel="dns-prefetch"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">.widget-area p.summary a,.entry-content p a,.entry-content li a,.page .entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a{color: }.widget_zuki_recentposts_color .bg-wrap{background: }.archive-menu-content{background: }</style>
+<style id="zuki-header-css" type="text/css">#site-title h1,#site-title h2.site-description{display:none}</style>
+<style type="text/css">.jetpack-lazy-image{display:none}.jetpack-lazy-images-js .jetpack-lazy-image{display:inline-block}</style>
+<script>document.documentElement.classList.add('jetpack-lazy-images-js');</script>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon-precomposed"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">#menu ul li{font-size:12px;color:#000}h1,h2{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}aside.widget.AdWidget_HTMLWidget iframe{max-width:100%;margin-left:0;margin-right:0}@media screen and (min-width:1023px){.blog #primary,.attachment #primary,.single-post #primary,.error404 #primary,.search-no-results #primary,.archive #primary,.search-results #primary,#front-content-one,#front-content-two{width:60%!important}#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:36%!important}}@media screen and (min-width:1260px){#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:27%!important}}#post-82069 ol[type="a"]{list-style:lower-alpha}#post-82069 ol[type="i"]{list-style:lower-roman}</style>
+</link></link></meta></head>
+<body class="post-template-default single single-post postid-84305 single-format-standard">
+<div id="container">
+<header class="cf" id="masthead" role="banner">
+<nav id="header-top-nav">
+<ul class="menu" id="menu-about"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71157" id="menu-item-71157"><a href="https://quillette.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70992" id="menu-item-70992"><a href="https://quillette.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81209" id="menu-item-81209"><a href="https://quillette.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82074" id="menu-item-82074"><a href="https://quillette.com/terms-of-service/">Terms of Service</a></li>
+</ul> </nav><!-- end #header-top -->
+<div id="site-title">
+<div id="site-header">
+<a href="https://quillette.com/" rel="home"><img alt="" height="491" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10215232/cropped-Quillette_white1.png" width="1500"/></a>
+</div><!-- end #site-header -->
+<h1><a href="https://quillette.com/" title="Quillette">Quillette</a></h1>
+<h2 class="site-description">Free Thought Lives</h2>
+</div><!-- end #site-title -->
+<a href="#menuopen" id="mobile-menu-toggle"><span>Menu</span></a>
+<div class="cf" id="mobile-menu-wrap">
+<nav class="cf" id="site-nav">
+<ul class="nav-menu" id="menu-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71055" id="menu-item-71055"><a href="https://quillette.com/category/features/">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71142" id="menu-item-71142"><a href="https://quillette.com/category/science-tech/">Science / Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71141" id="menu-item-71141"><a href="https://quillette.com/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71348" id="menu-item-71348"><a href="https://quillette.com/category/review/">Review</a></li>
+</ul> </nav><!-- end #site-nav -->
+<a href="#menuclose" id="mobile-menu-close"><span>Close Menu</span></a>
+</div><!-- end #mobile-menu-wrap -->
+</header><!-- end #masthead -->
+<div id="main-wrap">
+<div class="site-content cf" id="primary" role="main">
+<article class="post-84305 post type-post status-publish format-standard has-post-thumbnail hentry category-top-stories" id="post-84305">
+<header class="entry-header">
+<div class="entry-cats">
+<a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+<div class="entry-date">
+			Published on <a href="https://quillette.com/2018/10/02/helping-children-with-autism/">October 2, 2018</a>
+</div><!-- end .entry-date -->
+<div class="entry-comments">
+<a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comments">comments 35</a> </div><!-- end .entry-comments -->
+<h1 class="entry-title">Helping Children with Autism</h1>
+<div class="entry-author">
+			written by <a href="https://quillette.com/author/bryna-siegel/" title="All posts by Bryna Siegel">Bryna Siegel</a> </div><!-- end .entry-author -->
+</header><!-- end .entry-header -->
+<div class="entry-thumbnail">
+<a href="https://quillette.com/2018/10/02/helping-children-with-autism/" title="Permalink to Helping Children with Autism"><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-lazy-src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/02100959/AdobeStock_135133620-e1538475060522.jpeg" height="800" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1200"/></a>
+</div><!-- end .entry-thumbnail -->
+<div class="entry-content">
+<div class="mailmunch-forms-before-post" style="display: none !important;"></div><p><em>An adapted extract from</em> <a href="https://amzn.to/2zKMdGB" rel="noopener" target="_blank">The Politics of Autism</a><em> by Bryna Siegel, PhD. (Oxford University Press, September 3 2018).<br/>
+</em></p>
+<p>I met my first child with autism when I was a 19-year-old undergraduate, in 1972. Since then, the “autism” landscape has changed: In the early 1970s, autism had not quite emerged from its Dark Ages. In those days, mothers of autistic children were strongly suspected of an early, profound, unconscious rejection of their infant, and it was believed that the ensuing failure to bond resulted in the solipsistic autistic aloneness with which the child faced the world.</p>
+<div class="wp-caption alignright" id="attachment_84575" style="width: 160px"><a href="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg?ssl=1"><img alt class="wp-image-84575 size-thumbnail jetpack-lazy-image" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner-150x150.jpeg?resize=150%2C150&amp;ssl=1" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 150w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 120w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 450w" data-recalc-dims="1" height="150" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="150"><noscript><img alt="" class="wp-image-84575 size-thumbnail" data-recalc-dims="1" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner-150x150.jpeg?resize=150%2C150&amp;ssl=1" srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 150w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 120w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095401/Leo-Kanner.jpeg 450w" width="150"/></noscript></img></a><p class="wp-caption-text">Leo Kanner, child psychiatrist</p></div>
+<p>Leo Kanner, an American child psychiatrist, was the first to describe “early infantile autism,” a condition whereby the child acted as if others were not meaningful to constructing his or her emotional life. While Kanner himself did not argue that parents were the cause, he acknowledged that many parents who sought out his academic expertise were not the warm, fuzzy parents he felt had “the right stuff” to naturally break through their child’s self-isolation. Others, like Bruno Bettelheim, a professor of mine, did frankly posit that “refrigerator mothers” caused autism.</p>
+<p>This was basically where the state of our understanding of autism was in the early 1970s. I’d grown interested in autism as a way to explore the themes guiding the study of psychology of the day—“free will” versus “determinism,” specifically. In child psychology, this boiled down to “nature” versus “nurture.” A determinist would argue that the behavior that made for autism was pure nature or biology; a humanistic viewpoint, on the other hand, argued that nurture or the application of psychotherapeutic-induced change could make all the difference. Autism, it was thought, was the most extreme example of nurture gone awry. I wanted to see that for myself.</p>
+<div class="wp-caption alignleft" id="attachment_84574" style="width: 310px"><a href="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg?ssl=1"><img alt class="size-medium wp-image-84574 jetpack-lazy-image" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh-300x223.jpg?resize=300%2C223&amp;ssl=1" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 1024w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 2046w" data-recalc-dims="1" height="223" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="300"><noscript><img alt="" class="size-medium wp-image-84574" data-recalc-dims="1" height="223" sizes="(max-width: 300px) 100vw, 300px" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh-300x223.jpg?resize=300%2C223&amp;ssl=1" srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 1024w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095235/Creedmore_Psych_Cen_jeh.jpg 2046w" width="300"/></noscript></img></a><p class="wp-caption-text">Creedmoor Psychiatric Center</p></div>
+<p>So, in 1972, I got a summer volunteer position at Creedmore, a New York City welfare hospital, at a children’s inpatient psychiatric unit. These children were like none I had seen: These children danced on their toes, twirled in circles, flapped their hands, and talked only in echoes. My attempts to help with simple activities like joining a group for a story time, coloring, or even eating with utensils were met with vacant stares.</p>
+<p>At lunchtime, I was allowed to read their medical records. One girl was the seventh of nine born from different fathers to a schizophrenic mother. Another had been found after being abandoned by his drug-addicted parents. “No wonder they created their own worlds!” I thought at the time.</p>
+<p>Next, I signed up for a three-month teaching internship at Elwyn Institute, a long-established, well-funded private residential school for the developmentally disabled outside Philadelphia. This time, the children in my class did not come from the poorest parts of New York City, but the wealthiest. These children were a lot better dressed than the kids at Creedmore, but they too danced on their toes, twirled in circles, and flapped their hands. Elwyn pupils came from intact, well-off families with siblings who were high achievers in school. How could I reconcile this with the “refrigerator mother” hypothesis?</p>
+<p>By January, I returned to college, determined to write my senior thesis on the etiology of early infantile autism. I decided the etiology of autism was biological, that we were a long, long way from understanding the specific causes, and that if I was interested in studying nurture more than nature, which I was, the field of autism was probably not a great place to spend more time.</p>
+<p>I changed tactics. I did a PhD in (normal) child development at Stanford, focusing on early mother–child attachment, and whether it was disrupted by the use of significant early nonparental care. By the late 1970s, the feminist movement supported women who chose to return to work shortly after childbearing. It is hard to believe now, but then the idea of day care for infants was new. There was concern that leaving infants to nonparental care would disturb mother–infant attachment, the prototype for all later secure social relationships. Interested in the earliest aspects of nurture, I took a master’s degree in early childhood education, then finished my PhD—in child development/developmental psychology, writing my dissertation on the early effects of day care.</p>
+<div class="wp-caption alignright" id="attachment_84576" style="width: 242px"><a href="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018.jpg?ssl=1"><img alt class="size-medium wp-image-84576 jetpack-lazy-image" data-lazy-sizes="(max-width: 232px) 100vw, 232px" data-lazy-src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018-232x300.jpg?resize=232%2C300&amp;ssl=1" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018.jpg 232w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018.jpg 240w" data-recalc-dims="1" height="300" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="232"><noscript><img alt="" class="size-medium wp-image-84576" data-recalc-dims="1" height="300" sizes="(max-width: 232px) 100vw, 232px" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018-232x300.jpg?resize=232%2C300&amp;ssl=1" srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018.jpg 232w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/02095732/bryna-headshot-2018.jpg 240w" width="232"/></noscript></img></a><p class="wp-caption-text">Bryna Siegel</p></div>
+<p>I was 27 years old, with a young daughter, a Stanford PhD (and a year of postdoctoral training in biomedical statistics) under my belt. I had a contract to write my first book—a book for parents on what research said about how to choose developmentally beneficial day care. But, I needed a day job. After giving a talk about my new book at Stanford’s child psychiatry department, I was approached by the department head, Dr. Tom Anders. He had just started his youngest child in day care that week. He really liked the talk and wished to recruit me, but the only open position was to run an autism research project. I convinced him to hire me. And what I thought would be a day job became my career. Within a year, I was left completely in charge of Dr. Anders’s autism research project when he and the rest of his lab left to join the faculty at Brown University.</p>
+<p>From my earliest work on subtyping autism, it became clear to me that there were many dimensions of autism, some present in some children but not others, and that severity varied as well. On top of this, as a developmental psychologist, I worried that in child-psychiatry diagnoses, there was no meaning given to the “developmental” aspect of the psychiatric term “developmental psychopathology.” Psychiatry lacked a model for factoring in that a child was a developing child first, not just describable by the signs and symptoms of his or her disorder.</p>
+<p>In autism, as in any neurodevelopmental disorder, some tracks of development could be proceeding on time, while others might not be. For instance, impairment in the brain’s language center would, not unexpectedly, hamper language development, but usually also impede “downstream” development in interdependent realms like play—because the capacity to narrate play with language would be hampered when there was little or no receptive or expressive language capacity. I began to see children with autism not just as a checklist of symptoms as psychiatrists did, but as a developmentally driven interplay of their individual strengths and weaknesses. Eventually, this work led to my 2003 book, <a href="https://amzn.to/2Iy9Chx" rel="noopener" target="_blank"><em>Helping Children With Autism Learn</em></a>.</p>
+<p>At the same time, I had also became increasingly involved with the effects of autism on the family. Academics in the field now all understood that parents do not cause autism. But it did not take much to see that autism caused some families to struggle. In 1994, together with Dr. Stu Silverstein (a pediatrician and older brother of Mark, a man with autism), we published <a href="https://amzn.to/2OoJzyD" rel="noopener" target="_blank"><em>What About Me? Siblings of Developmentally Disabled Children</em></a>. As a sign of the times: Our original publisher wanted our book to have examples of developmental disorders other than autism (and for the title to reflect that) because the autism “market” was then seen as small.</p>
+<p>Soon after that, in 1996, I published <a href="https://amzn.to/2Iz3o0w" rel="noopener" target="_blank"><em>The World of the Autistic Child: Understanding and Treating Autistic Spectrum Disorders</em></a>. This was the first book I know of that used the term “spectrum” in the title along with autism. In the research community, we had begun talking about the spectrum as a way of characterizing what was coming to be recognized as a broad range of expression for signs of autism (though the term “autism spectrum disorder” would not be used in formal diagnostic terminology for another 17 years).</p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p><em>The World of the Autistic Child</em> described how autism could alter how a child understood things in his or her surroundings. One chapter described how getting the diagnosis of autism provokes grieving for the loss of the hoped-for child; and what “healthy” versus more prolonged, complicated grieving looked like. This work struck a chord when I spoke to parent groups, and I began to realize how urgently the psychological lives of parents of children with autism needed to be addressed. Most important, I could see that parents did better if they could see themselves as able to help their children improve. This is still a key focus of my current work—parent training for families who have children with newly diagnosed autism.</p>
+<p>In the 1990s and 2000s, my direction in autism treatment work was guided by two powerful mentors, Dr Eric Schopler and Dr Ivar Lovaas, who, to my mind, were working toward the same goals but were flip sides of the same coin, the former aiming to improve the quality of lives and the latter aiming for a “cure.” Prior to 1987, the only nationally disseminated treatment program for autism was TEACCH, developed by Schopler, at the University of North Carolina, Chapel Hill. A giant and pioneer in the field of autism treatment and research, Dr. Schopler was founding editor of what originally was the <em>Journal of Autism and Childhood Schizophrenia</em>, today the <em>Journal of Autism and Developmental Disorders</em>. His work, dating back to the early 1970s, profoundly influenced my own, being the first to centre the teaching for children with autism around the child’s likely autistic learning strengths, such as the ability to rely on visual schedules and on routines.</p>
+<p>My second mentor, Dr. Ivar Lovaas, had in 1987 published a paper that rocked the world of autism by suggesting that intensive application of behavior modification principles could recover 50% of children with autism. Of course, everyone instantly wanted his therapy for their child. A couple of the patients from the autism clinic I had just started at University of California, San Francisco in 1989 made it down to the Lovaas Clinic (situated at University of California, Los Angeles) and came back very much improved. One seemed no longer autistic; another was talking and playing with toys—both new developments from several months earlier, when this same child had been completely withdrawn, actively avoidant, and preverbal. The parents of this second boy recruited me, along with Dr. Tristram Smith, then head of Dr. Lovaas’s clinic, to testify at an educational due-process hearing against the child’s school district and the state of California in order to compel the boy’s public education authority to pay for treatment with the Lovaas method—called DTT (discrete trial training). The parents prevailed. And the case, known as Smith v. Union School District, set a federal precedent for subsequent cases that proliferated across the country over the next few years, compelling school districts to fund or offer Lovaas’s methods of intervention.</p>
+<p>I was thrilled with the outcome of the Smith case, as the alternative for this boy would have been just 3 hours of “Mommy and Me” classes per week—which was basically all schools did for young children with autism in the 1980s and the first half of the 1990s. Over time, however, I began to collect a local sample of children receiving DTT. And I saw that not all benefited nearly as much as the first two I had seen, who had received DTT at UCLA—even though most were treated by students Lovaas had personally trained.</p>
+<p>In 1998, one of my then graduate students, Dr. Stephen Sheinkopf, and I published on this sample, finding that DTT was significantly better for children than “treatment as usual” (like a Mommy and Me class), but that there was considerable variation in treatment outcome. We also had preliminary data to suggest that further studies should examine whether 25 hours per week of DTT, rather than the recommended (and obviously more costly) 40 hours per week, achieved comparable results.</p>
+<p>This suggestion for “further research,” standard operating procedure when writing the concluding paragraphs of any research paper, became a flashpoint. And conflict broke out between those with an interest in the science of applied behavior analysis, and those who exalted Dr. Lovaas’s study and believed that providing anything less than 40 hours per week of treatment presented an unfounded risk. (Today, most children treated with this method receive around 25 hours per week, so research has supported what we then suggested should be studied.)</p>
+<p>At the end of 2013, I retired from UCSF after 24 years of running an autism clinic, doing research on identification and diagnosis, writing and lecturing for parents and teachers, and collaborating with colleagues in genetics and neurology, who someday, I hope, will achieve the holy grail of autism—prevention or medical remediation. But I knew I was not done yet working in the field: My heart was in helping families better parent their children with autism and developing a model for an “autism home”—a place families could come back to for continuity of care, where the clinicians know them and their child (or now teen or adult), and know what had worked and what hadn’t worked.</p>
+<p>Too many families I knew felt that they were on their own after the diagnosis, when in fact their need for support and guidance was just beginning. I knew that if the diagnosing clinician never saw a child again after giving the family a diagnosis of autism, that clinician would be in a very limited position to discuss prognosis. To provide prognosis, you must be able to factor in treatment response.</p>
+<p>Presently, there is not much out there in the way of continuity of care for families living with autism. Parents need a place to get continuing care—so they know if they are doing the right thing. Parents need to know if their child is not improving as much as ideally hoped and why that might be. Parents need a relationship with a professional who has seen where their child has come from and what has been tried, who can say what else should be tried or can say, “You’re doing all you can do and doing it well.” Believe me, without that support, the guilt of believing there must have been something missed exists in every parent with a child who carries a diagnosis of autism.</p>
+<p>In 2013, I founded the <a href="http://www.acnc.org/">Autism Center of Northern California</a> to create a model for a place families could go for help—to learn how to teach their children, to learn to deal with behavior difficulties, and to come back at each new stage of development—including adulthood. I am convinced from research and experience that interventions that integrate developmental and behavioral principles are foundational to the most effective approaches we have today for ameliorating the difficulties caused by autism. I’ll leave the curing of autism to my medical colleagues.z</p>
+<p> </p>
+<p><strong>Bryna Siegel holds a PhD in Child Development and a MA in Education from Stanford University and is author of four books on diagnosing and treating autism spectrum disorders. To learn more about Dr. Siegel, visit her <a class="external-link" href="http://brynasiegel.com/index.php" rel="noopener" target="_blank">website.</a></strong></p>
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="cb_p6_patreon_button" style="text-align:left !important;margin-top:18px;margin-bottom:18px;"><div class="cb_p6_message_over_post_button" style="font-size:14px;margin-top:14px;margin-bottom:14px;">If you liked this article please consider becoming a patron of Quillette</div><a href="https://www.patreon.com/Quillette" rel="nofollow"><img class=" jetpack-lazy-image" data-lazy-src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" data-recalc-dims="1" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"><noscript><img data-recalc-dims="1" src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"/></noscript></img></a></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="twitter-share-button" data-text="Helping Children with Autism" data-url="https://quillette.com/2018/10/02/helping-children-with-autism/" data-via="QuilletteM" href="https://twitter.com/share">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://quillette.com/2018/10/02/helping-children-with-autism/" data-layout="button_count"></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F02%2Fhelping-children-with-autism%2F&amp;title=Helping%20Children%20with%20Autism" width="120"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://quillette.com/2018/10/02/helping-children-with-autism/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script data-counter="right" data-url="https://quillette.com/2018/10/02/helping-children-with-autism/" type="in/share"></script></div></li><li class="share-email"><a class="share-email sd-button" data-shared="" href="https://quillette.com/2018/10/02/helping-children-with-autism/?share=email" rel="noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a class="share-print sd-button" data-shared="" href="https://quillette.com/2018/10/02/helping-children-with-autism/#print" rel="noopener noreferrer" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
+<!-- WP QUADS Content Ad Plugin v. 1.7.8 -->
+<div class="quads-location quads-ad5" id="quads-ad5" style="float:none;margin:0px;">
+<script type="text/javascript">amzn_assoc_placement="adunit0";amzn_assoc_search_bar="true";amzn_assoc_tracking_id="quillette-20";amzn_assoc_ad_mode="manual";amzn_assoc_ad_type="smart";amzn_assoc_marketplace="amazon";amzn_assoc_region="US";amzn_assoc_title="";amzn_assoc_linkid="61b0c55dd7d4c5e769c244bd1137d009";amzn_assoc_asins="0140444254,0872203921,0684827905,0375757996";</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div><!-- end .entry-content -->
+<footer class="entry-meta">
+<div class="entry-cats">
+<span>Filed under: </span><a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+</footer><!-- end .entry-meta -->
+</article><!-- end .post-84305 -->
+<div class="comments-area" id="comments">
+<h3 class="comments-title">
+		35 Comments	</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-38205">
+<article class="comment" id="comment-38205">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Grant <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38205">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This is a good article, and it sounds like you’ve done great work, but I feel a more apt title would have been “Bryna Siegal: My Life Helping Children With Autism”.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Grant" class="comment-reply-link" href="#comment-38205" onclick='return addComment.moveForm( "comment-38205", "38205", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-38207">
+<article class="comment" id="comment-38207">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Mark Blaxill <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38207">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This is an odd essay for Qulllette, one that has little to do with the “politics of autism.” Autism has become political, unfortunately, because no one can make sense of the catastrophic and recent rise in autism rates: from effectively zero before 1930, to 1 in 10,000 for a few decades after Leo Kanner first observed a cluster of cases, and most recently to 1 in 36. There are two possibilities here, 1) that this increase is real and that something new and terrible has happened to a generation of children, or 2) that these increases are a result of “better diagnosing” and the exponentially rising time trend is socially constructed.</p>
+<p>Quillette readers know a lot about narratives based on social constructionism. These belief systems underlie our new postmodern doctrines of identity. Most observers who question postmodernism, however, are unaware that social constructionism is actively deployed as a tool to deny the reality of the autism epidemic, with calls for “neurodiversity” standing alongside other forms of identity politics. Many of us believe that neurodiversity is a false doctrine that leaves society woefully unprepared for the tsunami of autistic adults that is now upon us. a tsunami that will have devastating consequences when the parents of the epidemic generation die and leave their children exposed to an unwelcoming world.</p>
+<p>Siegel refers to the old “refrigerator mother” controversy here, but that one has long been resolved in favor of the notion that autism is biologically determined (her old professor Bruno Bettelheim believed that autistic infants correctly believed their mothers wanted to kill them; Kanner softened the critique to parental coldness and later backed down). The real question now is a question of the evidence on time trends: should we believe the evidence on prevalence or comfort ourselves that nothing bad is happening and that diagnosticians are doing a better job and lowering their standards?</p>
+<p>Leo Kanner wrote a textbook on child psychiatry in 1935 that never mentioned autism. Through many editions of Dr. Spock’s famous manual, “Baby and Child Care” autism never appears. Leo Kanner wrote of his original cluster, “Since 1938, there have come to our attention a number of children who conditions differs…markedly and uniquely from anything reported so far.” Now? Autism is everywhere.</p>
+<p>Siegel should spare us the self-congratulatory narratives of an autism industry that is steeped in denial and dysfunction. Yes, autism is political, but the ghost of Michel Foucault is roaming the corridors of power and lulling us into an irresponsible complacency.. We must not be fooled again.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Mark Blaxill" class="comment-reply-link" href="#comment-38207" onclick='return addComment.moveForm( "comment-38207", "38207", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-38399">
+<article class="comment" id="comment-38399">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Caligula <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38399">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“Siegel refers to the old “refrigerator mother” controversy here” Indeed. Bettelheim belongs to the distant past, and is hardly relevant to any contemporary discussion of autism.</p>
+<p>But even apart from antique Freudian-flavored theories of autism, it seems unquestionable that the diagnosis itself has changed, as in Bettelheim’s day a diagnosis of “autistic” was limited to those with deficits so severe as to be disabling in most everyday social environments.</p>
+<p>Perhaps an interesting experiment would be to use similar criteria today, not to diagnose but to compare the incidence of autism as defined then as compared with the incidence now. Such as comparison is flawed by the use of antique diagnostic criteria, but, one can hardly go back to 1964 and diagnose according to current criteria.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Caligula" class="comment-reply-link" href="#comment-38399" onclick='return addComment.moveForm( "comment-38399", "38399", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-38585">
+<article class="comment" id="comment-38585">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					AuxPart <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38585">
+						October 4, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It doesn’t just “seem unquestionable that the diagnosis itself has changed”. They modified the DSM-5 in 2013 to make autism more inclusive, including removing Asperger’s as a separate diagnosis.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to AuxPart" class="comment-reply-link" href="#comment-38585" onclick='return addComment.moveForm( "comment-38585", "38585", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-38929">
+<article class="comment" id="comment-38929">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://www.thepoliticsofautism.com" rel="external nofollow">Bryna Siegel</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38929">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Mark,<br/>
+Thanks for your comments on my Quillette piece.  Actually, it is abstracted from the Preface of my new book The Politics of Autism and is intended just as a way of explaining what I have drawn on to understand the politic of autism.  I am an empirical psychiatric researcher–‘believe’ in science, but also love your reference to social constructionism–as overly glossy ‘fake news’ about autism has blinded many to the rel work that is needed to improve the lives of families living with autism.  Also, to be clear–Kanner or Bettleheim have no influence on how I see the issues we face today–and there are many reasons for increasing diagnosis–which took me the first three chapters of The Politics of Autism to lay out.  Some have to do with bad science in diagnostic assessment, and some with sociological phenomena  call ‘diagnosing for dollars’–a not illegitimate strategy to get potentially helpful treatment–and many other medical, sociological and political phenomena.  I am not sure what you find ‘self-congratulatory’ in my narrative–as in fact, the hardest part of writing this book was to ‘call a spade a spade’ in looking at lack of successes in the ‘autism industry’–without being destructive rather than constructive–my ultimate goal as each chapter has policy changes to consider. Be very interested to dialog further if you happen to read more.<br/>
+Bryna Siegel</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bryna Siegel" class="comment-reply-link" href="#comment-38929" onclick='return addComment.moveForm( "comment-38929", "38929", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38243">
+<article class="comment" id="comment-38243">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38243">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Interesting article, but I couldn’t help but notice the parallels with other recent Quillette topics.  Parents were unfairly blamed for making their children autistic, perhaps because psychologists didn’t want to blame the victim?  As a result autism treatment focused on fixing the parent child bond rather than addressing the actual biological cause.  Now add in the comments from Mark Blaxill above and it seems very possible that the recent autism “epidemic” is caused by moving standards of what is classified as autistic, which has moved what formerly would have been classified “normal” kids into the autistic category, and the inflated numbers then help to feed the autism research and treatment “industry”.   </p>
+<p>Now think about the parallels with topics such as racism and sexism.  Blacks have not closed the gap with whites in income, educational attainment, employment, etc. where the blame is placed on a legacy of slavery or other more recent forms of white racism, and treatment for the black “problem” focuses on fixing the white racism rather than acknowledging possible black cognitive and cultural deficiencies.  The narrative that there is an “epidemic” of racism is also furthered by recent social science “advances” in micro-aggression, and implicit bias, and the “racist” cop headlines such as hands-up don’t shoot Michael Brown, which shift non-racist/innocent remarks and behaviors into exaggerated “statistics” of white racism and help feed the anti-racism industry.  </p>
+<p>Similarly, women remain “under-represented” in STEM professions where the blame is placed on a legacy of patriarchy and misogyny, and the treatment for the women in STEM “problem” focuses on fixing male sexism rather than acknowledging possible differing female preferences and abilities with regards to fields of education and work.  The narrative of the continuing female STEM crisis is similarly furthered by studies showing implicit bias against females and “Me Too” stories of rampant sexism by male Silicon Valley entrepreneurs and venture capitalists to create exaggerated “statistics” of sexism and help feed the feminism industry.</p>
+<p>In other words, the primary cause of the problem is wrongly identified in all the cases, and the “science” and “treatment” are therefore directed at things that don’t solve the problem, while creating resentment and anger among those falsely accused of being poor parents, racists, and sexists.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-38243" onclick='return addComment.moveForm( "comment-38243", "38243", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-38252">
+<article class="comment" id="comment-38252">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Mark Blaxill <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38252">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Please don’t misinterpret my comment. The reality of hundreds of thousands of children diagnosed with a lifelong disability is no mirage. It is real, new and profoundly worrisome. The notion that “nurture” in the form of homicidal mothers was the cause was a bizarre Freudian construct that has been widely rejected. We are left only with biological causation and environmental causes (there’s no such thing as a genetic epidemic). </p>
+<p>That said, while a generation of disabled children growing into permanently disabled adults, our largely progressive medical establishment stands paralyzed in denial of any real problem. The industry is not guilty of making up the disorder, but rather stands happy to accept payments for service when the real issue is getting to the biological cause(s) of the epidemic and stopping them</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Mark Blaxill" class="comment-reply-link" href="#comment-38252" onclick='return addComment.moveForm( "comment-38252", "38252", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-38259">
+<article class="comment" id="comment-38259">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/+MorganAllen_Alfred" rel="external nofollow">Morgan Allen</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38259">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I suspect a large portion of the increase in ASD diagnoses is simply a result of better diagnosis.  (There’s been some suggestion that the concentration of high-functioning aspies in places like silicon valley may have led to a genuine increase in incidence, at least on a localised level, but it hasn’t withstood scrutiny very well.)</p>
+<p>I was actually in brief correspondance with a fertility clinic based in Los Angeles who told me that genetic screening for autism should be practicable in 2-3 years.</p>
+<p>The only reasonably well-attested environmental influence on autism was a study on the effects of DDT exposure that came out recently.  It’s conceivable other environmental contaminants also have some influence, but none have come out so far.</p>
+<p><a href="https://www.ehn.org/pesticide-ddt-linked-to-autism-2596392306.html" rel="nofollow">https://www.ehn.org/pesticide-ddt-linked-to-autism-2596392306.html</a></p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Morgan Allen" class="comment-reply-link" href="#comment-38259" onclick='return addComment.moveForm( "comment-38259", "38259", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-38275">
+<article class="comment" id="comment-38275">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Mark Blaxill <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38275">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Your “suspicion” has no basis in any solid evidence. Asperger’s cases account for only 10% of the CDC’s ADDM network surveillance estimate and in no way account for any meaningful portion of the increase. </p>
+<p>As for the great autism gene hunt has been going on for decades now with nothing of value being found. </p>
+<p>I don’t want to get into a debate on environmental causation here, since the plausible causes are so controversial and the scientific funding has been so meager.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Mark Blaxill" class="comment-reply-link" href="#comment-38275" onclick='return addComment.moveForm( "comment-38275", "38275", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-5" id="li-comment-38396">
+<article class="comment" id="comment-38396">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/+MorganAllen_Alfred" rel="external nofollow">Morgan Allen</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38396">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@Mark Blaxill:  “As for the great autism gene hunt has been going on for decades now with nothing of value being found.”</p>
+<p>What?  No.  Wendy Chung did a TED talk on the subject, showing among other things that autism is around 70% heritable:</p>
+<p><a href="https://www.youtube.com/watch?v=wKlMcLTqRLs" rel="nofollow">https://www.youtube.com/watch?v=wKlMcLTqRLs</a></p>
+<p>And yes, many of the specific genes involved are now being identified:</p>
+<p><a href="https://www.scientificamerican.com/article/discovery-of-18-new-autism-linked-genes-may-point-to-new-treatments/" rel="nofollow">https://www.scientificamerican.com/article/discovery-of-18-new-autism-linked-genes-may-point-to-new-treatments/</a></p>
+<p>I’m not ruling out other environmental influences (thank you Nou), but there is manifestly a strong genetic basis underpinning the condition.</p>
+<p>@O. Eelson  “E. Olson, you are delightfully consistent! As I was reading this article, I found myself wondering how you would use it as a springboard to complain about identity politics.”</p>
+<p>Leaving aside Mr. Olson’s usual rhetorical fixations, I… actually agree with the broad point that there’s some philosophical overlap between autism advocacy and other pro-diversity movements.  “My lived experience is proof of systemic bigotry and the rest of the world should reconfigure itself to minimise my discomfort” seems to be a common theme.</p>
+<p>I also agree that for much of the 20th century, a principle focus on environmental explanations for the disorder not only failed to help those on the spectrum but misdirected blame toward innocent parties, particularly parents.  I’d be the last one to say that AS individuals haven’t had more than their fair share of persecution, but ignoring the biological basis for their suffering- and many do suffer- does no-one any favours.</p>
+<p>I should stress there’s a significant gap in policy emphasis between the parents of autistic children who often view the condition as a handicap (Autism Speaks is notorious in this respect) and many high-functioning adults who have notable gifts and no desire to be ‘cured’ (Temple Grandin being the ur-example.)  I’m generally sympathetic to the pro-neurodiversity camp, but I sometimes feel like the high-functioning variants have fallen into something of an identity trap.  It’s all well and good for the engineers and academics and graphic designers to talk about how enriched their aspie lives have been- it’s quite another to point at the parents of an erratically violent non-verbal twenty-year-old who will never leave home and tell them they are wrong to want a ‘normal’ child.  There’s no easy answer to that.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-4" id="li-comment-38934">
+<article class="comment" id="comment-38934">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://www.thepoliticsofautism.com" rel="external nofollow">Bryna Siegel</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38934">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Morgan,<br/>
+Thanks for your comments!  Yes, ‘better’ diagnosis, earlier diagnoses, and also more diagnostic measures that don’t consider the possibility of other conditions instead–among many things drive counts of those with autism.  The genetics of autism are proving much more complex than we thought when I and others were first involved in autism genetics research 30 years ago.  (I’m interested to hear an LA IVF clinic is optimistic about being able to do meaningful genetic diagnosis in 2-3 years–as none of the discoverers of the 150 or so ‘autism genes’ found to date, I am pretty sure, would likely be quite that bold.) As I have headed autism clinics in Silicon Valley for the last 30+ years, I happen to be able to validate that the ‘broader autism phenotype’ or Asperger’s among tech dads (or moms) does not fully tell the story either–we see plenty of non-tech families.  It just gets ‘curiouser and curiouser’ the more we study autism incidence.  It took me the first 3 chapters of The Politics of Autism to give readers even a taste of this complexity.  And, of course, DDT was more ubiquitously present when autism incidence was lower….just another piece of the puzzle…  All interesting!!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bryna Siegel" class="comment-reply-link" href="#comment-38934" onclick='return addComment.moveForm( "comment-38934", "38934", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-38268">
+<article class="comment" id="comment-38268">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38268">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Sorry if I have misinterpreted your comments, but I have seen so many examples of “mission creep” as a means of getting expanded funding for a “good cause”, where the funding desire ends up driving the whole process to often detrimental effect on the good cause.  I certainly hope that is not the case with Autism.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-38268" onclick='return addComment.moveForm( "comment-38268", "38268", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-38279">
+<article class="comment" id="comment-38279">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					nou <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38279">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>What puzzles me in both the article and the comment section is that people who seem to be deeply aware of and care for autism spectrum (up to an extent of devoting their lives to it) seem to know very little about the actual progress in identifying neuroscientific grounds for autism and possible  pharmacological treatments. To keep this comment brief just google the phrase “chanellopathy autism” or “sodium channel autism” and follow that with “valrpoic acid autism” for two separate vectors of pinpointing neuronal abnormalities that are fundamental in developing autism. And then google for “levetiracetam autism” for one possible vector for treatment of at least some classes of cases.</p>
+<p>And I can actually attest to plausibility of all this (especially levetiracetam treatment part), because I actually WAS quite deep into the spectrum for a total of nearly 20 years of my life due to valproic acid and carbamazepine treatment of epilepsy (I’m not naturally autistic and I do revert to fairly neurotypical state during off-meds periods), and then was thrown the other way around after switching to levetiracetam (the very thought of potential use of levetiracetam in autism treatment came to my mind during first two weeks on it, due to HUGE personality shift), and then finally I’m functionally close to being neurotypical while on medication after very minor adjustment to levetiracetam treatment. To summarize – humanity actually has tools to shift adults all around the spectrum already, it just doesn’t study them intensely and closely enough.</p>
+<p>As to “causes for epidemic outburst of autism” – when humanity widely utilises so deeply personality changing drugs as valproic acid without pretty much any knowledge of the full spectrum of it’s influence (just read the history of on-label usage of this substance, with dates of adding further conditions, including most recent anti-cancer usability studies), or both environmentally prevailing and personality affecting drugs such as carbamazepine, then environmental footprint of modern pharmacology alone could be enough to explain autism rates in developed countries, and if we include all other mutagenic environmental hazards (see “sodium channel mutations in autism” above), then this “epidemic” of a condition so sensitive to narrow developmental stages going wrong becomes much less mysterious and significantly less “mission creep conspiracy”.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to nou" class="comment-reply-link" href="#comment-38279" onclick='return addComment.moveForm( "comment-38279", "38279", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-5" id="li-comment-38458">
+<article class="comment" id="comment-38458">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					das monde <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38458">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Is there much resolved about endocrine factors?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-5" id="li-comment-39046">
+<article class="comment" id="comment-39046">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Nat <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-39046">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Thank you nou for your delightfully illuminating and intelligent comment!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-38292">
+<article class="comment" id="comment-38292">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">O. Eelson</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38292">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>E. Olson, you are delightfully consistent!  As I was reading this article, I found myself wondering how you would use it as a springboard to complain about identity politics.  “Now think about the parallels …” — brilliant!  I assume you only read articles so you can find (or manufacture) some connection to your perennial themes.  (There’s nothing to learn when you already know everything.)<br/>
+ I’m truly impressed that you compose original rants for each of your comments instead of simply cutting and pasting what you’re written before.  After all, there must be a finite number of ways to say “blacks are biologically inferior,” “racism doesn’t exist,” “identity politics is destroying the world,” and “liberals are either dangerous morons or disingenuous hypocrites who are motivated by personal gain.”  Thank goodness you have the courage to tell the TRUTH.  All the rest of us are blinded by our ideological commitments, but you see the world clearly and without distortion.  What you lack in nuance, empathy, charity, and open-mindedness, you more than make up for in your steadfast certainty and complete lack of doubt.  Never change!  (I know you never will.)</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to O. Eelson" class="comment-reply-link" href="#comment-38292" onclick='return addComment.moveForm( "comment-38292", "38292", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-38478">
+<article class="comment" id="comment-38478">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					D Bruce <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38478">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I think binning the cold mother theory is a cop out.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to D Bruce" class="comment-reply-link" href="#comment-38478" onclick='return addComment.moveForm( "comment-38478", "38478", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-38253">
+<article class="comment" id="comment-38253">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Jm <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38253">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Great article. I’ve worked as an applied behaviour analysis assistant and as a parent I can attest to the importance of continuity and also managing focused and generalized perspectives on the children. Indeed, training parents of all children on this way would be of great benefit.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Jm" class="comment-reply-link" href="#comment-38253" onclick='return addComment.moveForm( "comment-38253", "38253", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-38265">
+<article class="comment" id="comment-38265">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Patrick <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38265">
+						October 2, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“Presently, there is not much out there in the way of continuity of care for families living with autism.”</p>
+<p>I’m sorry, but as the owner of several organizations that provide continuity of care for families living with autism (and by extension, is keenly aware of the innumerable other agencies doing the same), this statement is false to the point of utter ridiculousness.  The behavioral heath industry is booming and has been for several years, particularly as it relates to autism.  It’s no exaggeration to say that, in a major metropolitan area, you can find literally hundreds of behavioral heath providers who specialize in autism and typically work with families anywhere from 12 to 30 hours per week.  Now, in some areas, especially rural areas, there is a shortage of providers and finding ways to more effectively serve those families is certainly worth discussing, but we are working on it.</p>
+<p>“Too many families I knew felt that they were on their own after the diagnosis.”</p>
+<p>Again, the only way to feel you’re “on your own” after an autism diagnosis in today’s landscape is to fail to seek help, which is true of any illness or disability.  Just Google “ABA services in ” and you will very likely discover any number of providers who would like to help you.  That said, if you have an adult child with autism, you ARE very likely on your own, as there are very few support services available to adults with autism.  Again, discussion of this issue would make a great article that might call attention to a problem we really need to address as a society.</p>
+<p>This article reads like an unabashed promotion of the author’s resume who, it seems clear, is woefully out of touch with the current state of autism therapy services in America.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Patrick" class="comment-reply-link" href="#comment-38265" onclick='return addComment.moveForm( "comment-38265", "38265", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-38938">
+<article class="comment" id="comment-38938">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://www.thepoliticsofautism.com" rel="external nofollow">Bryna Siegel</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38938">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Patrick,<br/>
+This ‘article’ is just the Preface to The Politics of Autism.  I wrote it to be transparent about what has informed my interpretation of research and social trends affecting what I call autism family wellness–and the content of the whole book.  Treatment for autism is a lot more complicated than ‘Googling ABA.’  ABA is a method of teaching, not some pill that magically comes in the right dose for your child.  What learning deficits does a particular child have?  What curriculum/content should be taught using the ABA method?  How much?  How long?  Autism is a chronic condition–like deafness or diabetes–and what parents don’t have (not just parents of adults) is access to autism expertise (not just the web) in navigating the way forward.  Each child is different.  Many ABA ‘advocates’ (purposefully not using the word ‘scientists’) would have you believe is that treatment is simply a matter of more ABA if a child does well with it–and more ABA if the child is not yet doing as well as you hoped. High quality treatment is more nuanced, individual, and developmentally-based.  Parents who try to Google their way to a cure run the risk of being entrapped by affinity groups that not only include anti-vaxxers–claiming to have learned all they need to know from ‘the University of Google’ but also snake oil salesmen selling treatments to help disorders from A-Z (starting with the ‘A’ disorders–autism, ADHD, Alzheimer’s and allergies…).  I do think that having years of clinical experience and a scientists’ understanding of valid research can guide parents in a way the web can not.  What I am really saying and justifying in The Politics of Autism is that we need improvements in our systems of care so that families get the help they need, and know when to pat themselves on the back when they have done well by their child.  If you are a stakeholder in the autism world, I hope you will read more of what this book is saying and not just dismiss it because the Preface gave no answers you sought.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bryna Siegel" class="comment-reply-link" href="#comment-38938" onclick='return addComment.moveForm( "comment-38938", "38938", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38318">
+<article class="comment" id="comment-38318">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Susan <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38318">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>One thing that I would recommend for any parent, with or without community resources, is the “play to learn” approach which I am pretty sure is available on the internet and Youtube.  It is 2-3 hours of floor time daily so it is labor intensive but we felt it was very effective.  Our non-verbal child (who could read before he could speak) was fortunate to live near an excellent center for autism and had extensive intervention from the age of 18 months.  He is now seven, verbal,  mainstreamed, and no longer has a diagnosis of autism (although I still see some of the tell-tale manifestations such as “raptor” hands).  Autism is such a puzzle and, as they say, if you know one person with autism you know one person with autism.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Susan" class="comment-reply-link" href="#comment-38318" onclick='return addComment.moveForm( "comment-38318", "38318", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38447">
+<article class="comment" id="comment-38447">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/108238327679141560783" rel="external nofollow">Karl H.</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38447">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I was disappointed by this article because the reasons the author cited for abandoning the “refrigerator mother” theory and concluding instead that she was witnessing an inherent disease could only support the first half of her transition.</p>
+<p>There are quite a few familial defects that can harm one sibling more than another, and some of those defects are common in wealthy families. Postpartum depression is an obvious example, as is the tendency of some parents to project their positive emotions onto one child and their negative emotions onto another (sometimes to the point of abuse). Parents don’t confess those weaknesses to doctors or researchers, nor is there a reliable way to detect them and correct for them.</p>
+<p>In addition to the difficulty of identifying the population to be studied, there are problems with the theory itself:</p>
+<p>– The incidence in the general population is too high for an inherited disease that’s so reproductively disadvantageous.</p>
+<p>– It’s possible to skirt the above by assuming certain types of assortative mating, spontaneous mutations or a new environmental irritant, but 30 years of well-funded research have come up dry.</p>
+<p>(The attempts I’ve seen to demonstrate either of the latter two have been very close to their noise floors and probably beneath them. An alternative saving construct would be to assume that autism is less reproductively disadvantageous, which would weaken the case for aggressive early diagnostics.)</p>
+<p>– The early focus on single-gene etiologies was never a good fit to the data because the pattern of co-incidence of symptoms should have been much more distinctive if it were correct.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Karl H." class="comment-reply-link" href="#comment-38447" onclick='return addComment.moveForm( "comment-38447", "38447", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-38452">
+<article class="comment" id="comment-38452">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/+MorganAllen_Alfred" rel="external nofollow">Morgan Allen</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38452">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“– The incidence in the general population is too high for an inherited disease that’s so reproductively disadvantageous.”</p>
+<p>Homosexuality also doesn’t confer any obvious reproductive advantages, yet it’s found in around 10% of the general population.  Autism has much lower prevalence rates.</p>
+<p>Recent genetic studies have implicated networks of dozens of genes, rather than isolated SNPs, at least in most cases.  And the fact that autism *has* a strong genetic component, regardless of the specific genes involved, was settled by twin studies some time ago.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Morgan Allen" class="comment-reply-link" href="#comment-38452" onclick='return addComment.moveForm( "comment-38452", "38452", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-38511">
+<article class="comment" id="comment-38511">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					nou <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38511">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@ Karl H.<br/>
+At neurological foundations of autism – this read summarizes nicely what have been researched in the last 15 years:<br/>
+<a href="https://www.spectrumnews.org/news/distinct-mutations-sodium-channel-trigger-autism-epilepsy/" rel="nofollow">https://www.spectrumnews.org/news/distinct-mutations-sodium-channel-trigger-autism-epilepsy/</a><br/>
+on channelopathies as a root brain pathology that is connected to autism. </p>
+<p>@ Morgan Allen: for some reason there is no “reply” icon below your other post, so I’m replying here.</p>
+<p>Environmental factors that I mentioned above were not intended as a sole or direct cause of autism, but were intended to show that de novo mutations that are subsequently linked to autism may have root in huge environmental impact of modern pharmacology (and alteration of our chemical enviroment cumulating since industrial revolution). And those can come out in very unexpected places – see recent connection between fluoxetine and antibiotic resistance. And we are couple of generations worth of cumulative mutations since industrial revolution.</p>
+<p>The important bit to add to my previous post, again, merely as an example of how heavy and deep the impact of advances in biochemistry can be. Valproic acid was first synthesised in 1882 and was used solely as an organic solvent in laboratory use – it’s anti seizure properties were discovered by accident 80 years of environmental impact later. Fast forward couple of decades of mass use (valproic acid is most commonly used ASM and is included on the list of Essential Medicines) and we now have the whole valproic acid induced animal model of autism<br/>
+<a href="https://www.intechopen.com/books/recent-advances-in-autism-spectrum-disorders-volume-i/valproic-acid-in-autism-spectrum-disorder-from-an-environmental-risk-factor-to-a-reliable-animal-mod" rel="nofollow">https://www.intechopen.com/books/recent-advances-in-autism-spectrum-disorders-volume-i/valproic-acid-in-autism-spectrum-disorder-from-an-environmental-risk-factor-to-a-reliable-animal-mod</a><br/>
+that is utilised to develop new possible treatments (basically we can mass produce autistic rats for testing by prenatal exposure to valproic acid). We also know for certain, that valproic acid mechanism of seizure control is by blocking voltage-gated sodium channels – the same property that is linked to both infancy autism mutations and that can shift adults towards the autism end of the spectrum (as I can personally attest to). It is also drug with pages long worth of well documented and common teratogenic, epigenetic, reproductive and endocrine side effects. Carbamazepine (mentioned earlier as another enviromental hazard) mechanism of action is also based on blocking sodium channel (and I can also attest that it shifts personality towards autistic end of the spectrum, but in an overall different way than valproic acid does).</p>
+<p>And those are only two from thousands of artificial chemicals that aren’t/weren’t screened for in agriculture/water and are/were circulating in an environment freely. Carbamazepine environmental prevalence was first observed only after 50 years of medical use, in 2002.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to nou" class="comment-reply-link" href="#comment-38511" onclick='return addComment.moveForm( "comment-38511", "38511", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-38516">
+<article class="comment" id="comment-38516">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/108238327679141560783" rel="external nofollow">Karl H.</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38516">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@nou, thanks for the link. At first blush that’s a lot more interesting than what I’ve read in the past.</p>
+<p>There are certainly people with ASD diagnoses who have unusual pain sensation or autonomous nervous system behavior.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Karl H." class="comment-reply-link" href="#comment-38516" onclick='return addComment.moveForm( "comment-38516", "38516", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-5" id="li-comment-38525">
+<article class="comment" id="comment-38525">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					nou <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38525">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@ Karl: you’re welcome. I hope you have read the rest of the post about valproic acid also.</p>
+<p>Regarding unusual pain sensation or other nervous system behaviour shifts – every ASM I know alters those significantly and those changes also corespond to what has been observed in various cases of autism and most ASMs mechanism of action basically boil down to relative speeds of signal propagation due to sodium/calcium channels response time balance and resulting overall brain regions dominance. For example, my own dental pain sensation (the most reproducible and repeated pain condition during 25 years of personal observation) varied on different ASMs from “neutral prorpioceptive information to consider” (prefrontal cortex dominant brain) to “animalistic and deeply emotionally exhaustic panic” (limbic system dominant brain). </p>
+<p>To summarize my position – there are many similarities or direct parallels and connections (including high comorbidity) between untreated/treated epilepsy and we know for sure that child epilepsy is rarely behaviorally induced. I don’t think that behavioral grounds for autism will hold (at least for majority of cases, non-epileptic seizures are a known thing and I personally know cases of stress induced or blood pressure related cases). What is also important, epilepsy is not a single condition – from everything I know about autism, it is another very broad label, with symptoms coresponding to different vectors of sodium/calcium channel imbalances I have experienced/witnessed during my life.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-4" id="li-comment-38688">
+<article class="comment" id="comment-38688">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/108238327679141560783" rel="external nofollow">Karl H.</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38688">
+						October 4, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I’m particularly interested in your experience with carbamazepine, since I’ve seen a few examples of apparent drug-induced autism, one of which involved the same drug.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Karl H." class="comment-reply-link" href="#comment-38688" onclick='return addComment.moveForm( "comment-38688", "38688", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-5" id="li-comment-38793">
+<article class="comment" id="comment-38793">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					nou <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38793">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Carbamazepine was the most “exotic” in it’s effects and I was four years on it (form a “fresh start” after four years off-medication) so it’ll be very hard to squeze all important aspects of this experience in a short post. Some of those are most certainly subjective and individual in nature, but I can actually provide you with one other case you’ll be able to learn from. But all in due time… First of all, some effects developed gradually, but most manifested as soon as I was on a full dose, in about three months, while some other took time to notice them but were present earlier that I became aware of them (a somewhat boiled frog effect). First of all, carbamazepine separated different functions of the brain – emotions became highly detached from social interactions and considerably calmed down, emotional empathy ceased to exist and instead I reverted to logical empathy developed earlier while on valproic acid (eventually all emotions stopped and only people who I now know were on the spectrum became understandable in their actions. I could no longer relate to even mass grief during funerals of close relatives), reward system went sideways (I have suddenly developed intense audiofilia and turned my career into visual arts because seeing became pleasure (up to ecstatic states in some special cases) – smell, taste and touch also became affected significantly) and overall sensory informations became highly unfiltered (I was actively seeking visual “refuge” in either darkness of night or whiteness of winter mountaineering and spent hundreds of hours submerged in a bathtub to rest from all that stimuli. What is also important about stimuli is that every detail was consciously perceived, so everything became so detailed, that I could spend weeks exploring minute variations of e.g various lighting conditions of nearby streets or other daily views and never being bored by them), I also had daily auditory hallucinations during falling asleep period. But most important changes are related to memory, time perception and prefrontal cortex predictive tree building. Basically, I stopped forgetting, entire existence was a singular cause-effect timeline and predictive functions of prefrontal cortex dominated my view of causation and decision making (this is important, as with time decision making ability also ceased to exist). Any occurence of a repetitive social event, like meeting a particular friend, was always perceived as “yesterday” even if in reality it was half a year earlier, and I naturally continued conversations from such “yesterday”. What is important – lack of drive towards frequent social interactions was not because I didn’t like them, but because they were always fresh in my memory and overall passing time perception became totally different than normal. Moreover, any minute detail of daily experiences was incorporated into causal chain and knowledge just accumulated without need of rehearsal. Because all this I developed what I like to call Dr.Manhattan perspective on the world/time/universe and eventually normal interactions with the world became uninteresting and unimportant, all motivation stopped and my life became fatalistic and “go with the flow”. All this changed drastically when due to orthopedic side effects I was switched medication to valproic acid.</p>
+<p>And now for this one other case – you can actually see it in a very unique movie “Last Family”, based on daily audiovisual recordings of Zdzisław Beksiński (a famous polish painter), who documented his family daily life for decades. The important part is that his son, Tomasz Beksiński, was medicated after suicide attempts and his behaviour was also a part of those recordings. And while it is there is no official confirmation, that Tomasz was prescribed carbamazepine, it was a standard practice in attempt suicide cases during period depicted in the middle part of the movie, and valproic acid was a standard practice during period depicted in the last part of the movie. And one particular scene literally stunned me when I watched this film – it’s literal reenactment of audio recording of a conversation, in which Tomasz expresses the same Dr.Manhattan perspective on world/time/universe I described above, using the same logic and overall arguments that I was repeatedly using in my conversations.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-3" id="li-comment-38513">
+<article class="comment" id="comment-38513">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/108238327679141560783" rel="external nofollow">Karl H.</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38513">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“And the fact that autism *has* a strong genetic component, regardless of the specific genes involved, was settled by twin studies some time ago.”</p>
+<p>The big twin studies have been thoroughly debunked. They cast such a wide net and used such loose definitions of similarity that their methods would have produced false positives in perfectly random data.</p>
+<p>“Homosexuality also doesn’t confer any obvious reproductive advantages, yet it’s found in around 10% of the general population.”</p>
+<p>That would only be relevant if you maintain that homosexuality is inherited rather than merely genetic or innate. Not many people make that argument, and I’m not aware of any evidence that would support it.</p>
+<p>“Recent genetic studies have implicated networks of dozens of genes, rather than isolated SNPs, at least in most cases.”</p>
+<p>I’ve been following this issue closely for 20 years, and I’ve heard similar claims repeatedly. None of them have panned out, and many were implausible when they were published (due to weak signals, loose study design and other problems that should have been flagged during peer review).</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Karl H." class="comment-reply-link" href="#comment-38513" onclick='return addComment.moveForm( "comment-38513", "38513", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-4" id="li-comment-38927">
+<article class="comment" id="comment-38927">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/+MorganAllen_Alfred" rel="external nofollow">Morgan Allen</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38927">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“The big twin studies have been thoroughly debunked.”</p>
+<p>If that is so, Karl, I would like to see some references to where these studies were debunked.  I’m aware that some of the earlier studies *overestimated* heritability, but what you’re telling me seems to be radically at odds with the scientific concensus.</p>
+<p><a href="https://en.wikipedia.org/wiki/Heritability_of_autism" rel="nofollow">https://en.wikipedia.org/wiki/Heritability_of_autism</a></p>
+<p>“That would only be relevant if you maintain that homosexuality is inherited rather than merely genetic or innate. Not many people make that argument, and I’m not aware of any evidence that would support it.”</p>
+<p>That’s true.  My point is simply that a trait impacting reproductive fitness doesn’t prevent it being expressed in at least a minority of the general population.  You might as well ask why down syndrome or cystic fibrosis exist despite impacting reproductive fitness, and both have an incontestable genetic basis.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Morgan Allen" class="comment-reply-link" href="#comment-38927" onclick='return addComment.moveForm( "comment-38927", "38927", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-5" id="li-comment-38930">
+<article class="comment" id="comment-38930">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/+MorganAllen_Alfred" rel="external nofollow">Morgan Allen</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38930">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>To be clear, I’m quite open to the possibility that the genetic basis for autism might show some overlap with genes that confer other survival advantages.  (In which case, e.g, genetic screening in favour of those advantages might actually *increase* the incidence of certain variants of autism.)</p>
+<p>I’m also aware there are at least some tentative evolutionary explanations for homosexuality in both humans and other species, which in any case is incidental to the question of legal rights.  This isn’t intended as a moral evaluation of individual preference, just an examination of biological context.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-5" id="li-comment-38980">
+<article class="comment" id="comment-38980">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/108238327679141560783" rel="external nofollow">Karl H.</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38980">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“That’s true. My point is simply that a trait impacting reproductive fitness doesn’t prevent it being expressed in at least a minority of the general population. You might as well ask why down syndrome or cystic fibrosis exist despite impacting reproductive fitness, and both have an incontestable genetic basis.”</p>
+<p>Down syndrome is an order of magnitude less common and it isn’t inherited from the parents. If autism has a similar etiology, we should have found it by now. (Remember that we can sequence the genomes of the kids and their parents.)</p>
+<p>Also, trying to correlate a loosely-defined symptom complex with “networks of dozens of genes” poses two problems:</p>
+<p>– Searching every possible combination of genes in your genome will give you false positives for the same reason that rolling dice a few billion times will give you runs of snake-eyes.</p>
+<p>– It’s not easy to design blinds that are good enough. High sensitivity tends to makes trivial biases in a sample stand out, and low specificity makes them hard to distinguish from a real signal.</p>
+<p>“If that is so, Karl, I would like to see some references to where these studies were debunked.”</p>
+<p>The Wikipedia article you cited has a link to this page, which would partially answer your question:</p>
+<p><a href="https://en.wikipedia.org/wiki/Twin_study#Criticisms_of_fundamental_assumptions" rel="nofollow">https://en.wikipedia.org/wiki/Twin_study#Criticisms_of_fundamental_assumptions</a></p>
+<p>Beyond that, these studies aren’t specific enough to rule out environmental etiologies. If you’re willing to consider familial pathologies, then it wouldn’t be surprising if identical twins were more likely to be mistreated or rejected in the same way. I have yet to hear a scientific reason for not considering that.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-38941">
+<article class="comment" id="comment-38941">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://www.thepoliticsofautism.com" rel="external nofollow">Bryna Siegel</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38941">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Karl,<br/>
+Thanks you for your comments.  Yes, the origins of cases we now call autism is complex.  There has been 30 years of autism genetics research, and yes, it has been a bust for stakeholders hoping for data that might stem risk-recurrence or promote any kind of treatment.  Consider this as a reason autism genetics research has yielded no real practical results:  As autism incidence has grown, so has the heterogeneity of the autism population.  A 1985-diagnosed child with autism had a 70% chance of also having a diagnosis intellectual disability; a 2018 diagnosed child–a 30% chance.  The ‘scientific’ measures most often used to anchor an autism diagnosis do not have a way of saying the child might instead have ‘just’ intellectual disability, a language disorder, ADHD, or even be anxious or poorly socialized about how to behave in a small hospital clinic room where diagnostic testing takes place.  If this is the case, and as I see it, it is, almost everything a diagnostician sees can look at least a bit like autism.  If you are ‘diagnosing for dollars’ (wanting to make sure your patient has a diagnosis that can open the door to intensive treatment you feel may be helpful)–you need to be sure to call it ‘autism’ to help that patient, maybe even if just some signs of autism are clearly present.  (As you may know, most autism symptoms on their own do occur in other disorders, and virtually all of the 150+ ‘autism’ genes are not found exclusively in autism-diagnosed cases.)  So??</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Bryna Siegel" class="comment-reply-link" href="#comment-38941" onclick='return addComment.moveForm( "comment-38941", "38941", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-38469">
+<article class="comment" id="comment-38469">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Sydney <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38469">
+						October 3, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yikes.</p>
+<p>Commenter ‘Patrick’ said it best: “This article reads like an unabashed promotion of the author’s resume who, it seems clear, is woefully out of touch with the current state of autism therapy services in America.”</p>
+<p>Fortunately, most Quillette readers don’t have kids and this piece will be gone and forgotten by the time they have them.</p>
+<p>So much is happening in this area, and 99% of the significant work is in Integrative and Functional medicine. Many clinicians of all stripes are researching and working to untie kids’ brains and guts when autism hits.</p>
+<p>This is just one group of talks (link below) that focus on the subject. There are credible and brilliant people doing interesting things everywhere. Don’t be put off by the ‘salesy’ tone (God knows the above Seigel piece is nothing more than sales).</p>
+<p>Top, brilliant Integrative NEUROLOGISTS such as Datis Kharrazian (three PhDs and currently at Harvard) give their time and incredible expertise and resources on online ‘summits’ like this (I found him through a summit like this one), and help tens of thousands of regular, struggling parents by doing so.</p>
+<p>This is where you find CUTTING-EDGE and LIFE-ALTERING work and research. (You DO NOT find it by sociologists chattering about Stone-Age Bettelheim!!).</p>
+<p>Quillette, ‘up’ your med game or stay in your own lane, maybe?</p>
+<p><a href="https://autismhopeevent.com/" rel="nofollow">https://autismhopeevent.com/</a></p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Sydney" class="comment-reply-link" href="#comment-38469" onclick='return addComment.moveForm( "comment-38469", "38469", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-38533">
+<article class="comment" id="comment-38533">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Jezza <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/02/helping-children-with-autism/#comment-38533">
+						October 4, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I am an oldfella in my twilight years, and looking back over my life I have come to the realization that I too am autistic.  The reference to autistic children believing that their mothers wanted to kill them resonated with me particularly because I was convinced from a very young age that my stepmother wanted me dead, to the point where I ran away from home many times, the first time when I was eight years old.  My salvation was the written word; I was an automatic reader – I could decipher and comprehend many words before I started school.  It seemed as natural as breathing and stood me in good stead later in life: I became a proofreader.  It was my refuge.  But note facility with written words never extended to the spoken word.  To this day I am still likely to be the one avoiding contact at parties.</p>
+<p>As to the supposed epidemic of autism, I believe that to be caused by sex – sex produces children, children produce more children, and so on.  I look at my children and grandchildren and recognize many of my own traits, but I am not disheartened; they will blunder through life as I have, and will eventually die and not worry about anything anymore.</p>
+<p>In the meantime get a ukulele and be happy.  Life is such a joke.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Jezza" class="comment-reply-link" href="#comment-38533" onclick='return addComment.moveForm( "comment-38533", "38533", "respond", "84305" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ol><!-- end .comment-list -->
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply					<small><a href="/2018/10/02/helping-children-with-autism/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small>
+</h3>
+<form class="comment-form" id="commentform">
+<iframe class="jetpack_remote_comment" id="jetpack_remote_comment" name="jetpack_remote_comment" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&amp;postid=84305&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=0&amp;stb_enabled=0&amp;show_avatars=0&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_AU&amp;jetpack_version=6.3.2&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;sig=70133e37301c3dee89e6124d99d0451b049b1aa4#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F02%2Fhelping-children-with-autism%2F" style="width:100%; height: 430px; border:0;" title="Comment Form"></iframe>
+<!--[if !IE]><!-->
+<script>document.addEventListener('DOMContentLoaded',function(){var commentForms=document.getElementsByClassName('jetpack_remote_comment');for(var i=0;i<commentForms.length;i++){commentForms[i].allowTransparency=false;commentForms[i].scrolling='no';}});</script>
+<!--<![endif]-->
+</form>
+</div>
+<input id="comment_parent" name="comment_parent" type="hidden" value=""/>
+</div><!-- #comments .comments-area -->
+<div class="nav-wrap cf">
+<nav id="nav-single">
+<div class="nav-previous"><a href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" rel="prev"><span class="meta-nav">Previous Post</span>The Grievance Studies Scandal: Five Academics Respond</a></div>
+<div class="nav-next"><a href="https://quillette.com/2018/10/03/a-liberals-plea-for-a-moderate-immigration-policy/" rel="next"><span class="meta-nav">Next Post</span>A Liberal’s Plea for a Moderate Immigration Policy</a></div>
+</nav><!-- #nav-single -->
+</div><!-- end .nav-wrap -->
+</div><!-- end #primary -->
+<div class="default-sidebar widget-area" id="blog-sidebar" role="complementary">
+<aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-25"><a alt="Ad" href="https://www.romepix.com/prints/a-love-letter-to-rome-photo-book-5fbkk-9f3yy" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/27050224/ad8.jpg" style="width: 100%;"/></a></aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-6"> <div id="fb-root"></div>
+<div class="fb-page" data-height="432" data-hide-cover="false" data-href="https://www.facebook.com/QuilletteM/" data-show-facepile="true" data-show-posts="false" data-width="340">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/QuilletteM/"><a href="https://www.facebook.com/QuilletteM/"></a></blockquote></div>
+</div>
+</aside><aside class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Stories</h3><ul class="widgets-list-layout no-grav">
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" title="The Grievance Studies Scandal: Five Academics Respond">
+<img alt="The Grievance Studies Scandal: Five Academics Respond" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/03013837/Image_1-e1538533061112.jpg?fit=1200%2C756&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/">
+								The Grievance Studies Scandal: Five Academics Respond							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" title="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms">
+<img alt="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05124955/MG_1643-Edit.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/">
+								Writers Behind ‘Grievance Studies Scandal’ Address Criticisms							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" title="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism">
+<img alt="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05061119/Communism.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/">
+								Don't Get Fooled Again: The Continuing Necessity of Anti-Communism							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title='When "Believe the Victim" Backfires'>
+<img alt='When "Believe the Victim" Backfires' class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">
+								When "Believe the Victim" Backfires							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="A New Kind of Economy—An Interview with Andrew Yang">
+<img alt="A New Kind of Economy—An Interview with Andrew Yang" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">
+								A New Kind of Economy—An Interview with Andrew Yang							</a>
+</div>
+</li>
+</ul>
+</aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-16"><a alt="Ad" href="http://hac.bard.edu/" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/07/11000422/600-500-ad_quillette2-300x250.png" style="width: 100%;"/></a></aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-19"><a alt="Ad" href="https://www.patreon.com/Quillette"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/18030918/Q19-September.jpeg"/></a></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="widget-title">Share</h3><div class="textwidget custom-html-widget"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<ul style="padding:0">
+<li>
+<button onclick="window.open('https://www.facebook.com/dialog/share?app_id=586833251482093&amp;display=popup&amp;href=' + encodeURIComponent(document.URL) + '&amp;redirect_uri=' + encodeURIComponent(document.URL), '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-facebook-official" style="font-size:48px"></i></button>
+</li>
+<li>
+<button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;via=QuilletteM', '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-twitter" style="font-size:48px"></i></button>
+</li>
+</ul></link></div></aside></div><!-- end #blog-sidebar -->
+<div class="cf" id="footerwidgets-wrap">
+<div class="default-sidebar widget-area" id="footer-five" role="complementary">
+<aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2"><div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="5" id="eu-cookie-law">
+<form method="post">
+<input class="accept" type="submit" value="Close and accept"/>
+</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br/>
+To find out more, including how to control cookies, see here:
+	<a href="https://automattic.com/cookies/">
+		Cookie Policy	</a>
+</div>
+</aside> </div><!-- end #footer-five -->
+</div><!-- end #footerwidgets-wrap -->
+<footer class="site-footer cf" id="colophon">
+<p class="site-description">Free Thought Lives</p>
+<div id="footer-social-nav">
+<h3 class="social-nav-title">Follow Us</h3>
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71138" id="menu-item-71138"><a href="https://www.facebook.com/Quillette-923721701039919/">Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71135" id="menu-item-71135"><a href="https://twitter.com/QuilletteM">Menu Item</a></li>
+</ul> </div><!-- end #footer-social -->
+<div id="site-info">
+<ul class="credit" role="contentinfo">
+<li>Copyright © 2018 Quillette Pty Ltd | All Rights Reserved</li>
+</ul><!-- end .credit -->
+</div><!-- end #site-info -->
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+</div><!-- end #container -->
+<div style="display:none">
+</div>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/quillette.com\/2018\/10\/02\/helping-children-with-autism\/":84305};</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_AU/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}
+jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}
+(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/platform.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')
+IN.parse();});</script> <div id="sharing_email" style="display: none;">
+<form action="/2018/10/02/helping-children-with-autism/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="https://quillette.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/comment-reply.min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var jpfbembed={"appid":"249643311490","locale":"en_US"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var q2w3_sidebar_options=[{"sidebar":"blog-sidebar","margin_top":30,"margin_bottom":0,"stop_id":"footerwidgets-wrap","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["adwidget_imagewidget-19","custom_html-2"]}];
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.3.2" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript"></script>
+<script async="async" src="https://quillette.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.8" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var sharing_js_options={"lang":"en","counts":"1"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.3.2" type="text/javascript"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+<script type="text/javascript">(function(){var comm_par_el=document.getElementById('comment_parent'),comm_par=(comm_par_el&&comm_par_el.value)?comm_par_el.value:'',frame=document.getElementById('jetpack_remote_comment'),tellFrameNewParent;tellFrameNewParent=function(){if(comm_par){frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84305&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=70133e37301c3dee89e6124d99d0451b049b1aa4#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F02%2Fhelping-children-with-autism%2F"+'&replytocom='+parseInt(comm_par,10).toString();}else{frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84305&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=70133e37301c3dee89e6124d99d0451b049b1aa4#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F02%2Fhelping-children-with-autism%2F";}};if('undefined'!==typeof addComment){addComment._Jetpack_moveForm=addComment.moveForm;addComment.moveForm=function(commId,parentId,respondId,postId){var returnValue=addComment._Jetpack_moveForm(commId,parentId,respondId,postId),cancelClick,cancel;if(false===returnValue){cancel=document.getElementById('cancel-comment-reply-link');cancelClick=cancel.onclick;cancel.onclick=function(){var cancelReturn=cancelClick.call(this);if(false!==cancelReturn){return cancelReturn;}
+if(!comm_par){return cancelReturn;}
+comm_par=0;tellFrameNewParent();return cancelReturn;};}
+if(comm_par==parentId){return returnValue;}
+comm_par=parentId;tellFrameNewParent();return returnValue;};}
+document.addEventListener('DOMContentLoaded',function(){var iframe_url="https:\/\/jetpack.wordpress.com";if(window.postMessage){if(document.addEventListener){window.addEventListener('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}else if(document.attachEvent){window.attachEvent('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}}})})();</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-201841.js" type="text/javascript"></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.3.2',blog:'101756249',post:'84305',tz:'0',srv:'quillette.com'}]);_stq.push(['clickTrackerInit','101756249','84305']);</script>
+</body>
+</html>

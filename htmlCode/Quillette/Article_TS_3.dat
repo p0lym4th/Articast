@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="https://quillette.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]>
+		<script src="https://quillette.com/wp-content/themes/zuki/js/html5.js"></script>
+	<![endif]-->
+<title>The Virtue of Nationalism—An Internationalist's Critique - Quillette</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="The Virtue of Nationalism—An Internationalist's Critique - Quillette" property="og:title"/>
+<meta content="A review of The Virtue of Nationalism by Yoram Hazony. Basic Books (September 2017) 304 pages.  The last 30 years have witnessed many arguments about the end of nationalism and the nation state, ranging from Fukuyama’s end of history thesis to Thomas Friedman’s claim that globalization was making the world “flat.” But, as they say, reports of the nation’s death now appear to be exaggerated. Over the past few years, from Brexit in the United Kingdom, to the rise of right wing nationalists such as Donald Trump in the United States, Viktor Orban in Hungary, and Poland’s Law and Justice Party, the specter of nationalism looms once again. Yoram Hazony’s welcome new book The Virtue of Nationalism analyzes this political shift and offers a defense of its value. Hazony’s book is by far the most interesting and compelling articulation of the nationalist case put forward thus far. This makes The Virtue of Nationalism an important book, since those looking to defend the nationalist cause will surely want to arm themselves with its formidable intellectual resources, while …" property="og:description"/>
+<meta content="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/" property="og:url"/>
+<meta content="Quillette" property="og:site_name"/>
+<meta content="https://www.facebook.com/QuilletteM/" property="article:publisher"/>
+<meta content="Review" property="article:section"/>
+<meta content="2018-10-05T09:44:19+00:00" property="article:published_time"/>
+<meta content="2018-10-05T09:48:13+00:00" property="article:modified_time"/>
+<meta content="2018-10-05T09:48:13+00:00" property="og:updated_time"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg?fit=1200%2C800&amp;ssl=1" property="og:image"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg?fit=1200%2C800&amp;ssl=1" property="og:image:secure_url"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="A review of The Virtue of Nationalism by Yoram Hazony. Basic Books (September 2017) 304 pages.  The last 30 years have witnessed many arguments about the end of nationalism and the nation state, ranging from Fukuyama’s end of history thesis to Thomas Friedman’s claim that globalization was making the world “flat.” But, as they say, reports of the nation’s death now appear to be exaggerated. Over the past few years, from Brexit in the United Kingdom, to the rise of right wing nationalists such as Donald Trump in the United States, Viktor Orban in Hungary, and Poland’s Law and Justice Party, the specter of nationalism looms once again. Yoram Hazony’s welcome new book The Virtue of Nationalism analyzes this political shift and offers a defense of its value. Hazony’s book is by far the most interesting and compelling articulation of the nationalist case put forward thus far. This makes The Virtue of Nationalism an important book, since those looking to defend the nationalist cause will surely want to arm themselves with its formidable intellectual resources, while …" name="twitter:description"/>
+<meta content="The Virtue of Nationalism—An Internationalist's Critique - Quillette" name="twitter:title"/>
+<meta content="@QuilletteM" name="twitter:site"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg?fit=1200%2C800&amp;ssl=1" name="twitter:image"/>
+<meta content="@QuilletteM" name="twitter:creator"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/quillette.com\/","sameAs":["https:\/\/www.facebook.com\/QuilletteM\/","https:\/\/www.linkedin.com\/company\/quillette-magazine","https:\/\/twitter.com\/QuilletteM"],"@id":"https:\/\/quillette.com\/#organization","name":"Quillette","logo":"http:\/\/quillette.com\/wp-content\/uploads\/2017\/01\/quillette-Q-512pxby512px-white-on-black-0n-574pxby574px-transparency.png"}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://quillette.com/feed/" rel="alternate" title="Quillette » Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/comments/feed/" rel="alternate" title="Quillette » Comments Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/feed/" rel="alternate" title="Quillette » The Virtue of Nationalism—An Internationalist’s Critique Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quillette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link href="https://quillette.com/wp-content/plugins/amazon-polly/public/css/amazonpolly-public.css?ver=1.0.0" id="amazonpolly-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-includes/css/dashicons.min.css?ver=4.9.8" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/style.css?ver=4.9.8" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/js/flex-slider/flexslider.css?ver=4.9.8" id="zuki-flex-slider-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CKarla%3A400%2C400italic%2C700%2C700italic%26subset%3Dlatin%2Clatin-ext&amp;subset=latin%2Clatin-ext" id="zuki-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zukichildthemefolder/style.css?ver=20140630" id="zuki-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Inline jetpack_facebook_likebox -->
+<style id="jetpack_facebook_likebox-inline-css" type="text/css">.widget_facebook_likebox{overflow:hidden}</style>
+<link href="https://quillette.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" id="jetpack-widget-social-icons-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-1 .column-1,2{padding:4px}.tablepress-id-1 .column-1{width:40%}.tablepress-id-1 .column-2{width:40%}</style>
+<link href="https://quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/plugin/templates/default/style.css?ver=4.9.8" id="cb_p6-css-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" id="social-logos-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/amazon-polly/public/js/amazonpolly-public.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/flex-slider/jquery.flexslider-min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/functions.js?ver=20140426" type="text/javascript"></script>
+<link href="https://quillette.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://quillette.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://quillette.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.8" name="generator"/>
+<link href="https://wp.me/p6SXrP-lZT" rel="shortlink"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F05%2Fthe-virtue-of-nationalism-a-review%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F05%2Fthe-virtue-of-nationalism-a-review%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script data-cfasync="false" type="text/javascript">var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":84561,"post_name":"the-virtue-of-nationalism-a-review","post_title":"The Virtue of Nationalism\u2014An Internationalist's Critique","post_type":"post","post_author":"383","post_status":"publish"};_mmunch['postCategories']=[{"term_id":31,"name":"Review","slug":"review","term_group":0,"term_taxonomy_id":31,"taxonomy":"category","description":"","parent":0,"count":64,"filter":"raw","cat_ID":31,"category_count":64,"category_description":"","cat_name":"Review","category_nicename":"review","category_parent":0},{"term_id":124,"name":"Top Stories","slug":"top-stories","term_group":0,"term_taxonomy_id":124,"taxonomy":"category","description":"","parent":0,"count":265,"filter":"raw","cat_ID":124,"category_count":265,"category_description":"","cat_name":"Top Stories","category_nicename":"top-stories","category_parent":0}];_mmunch['postTags']=false;_mmunch['postAuthor']={"name":"Matt McManus","ID":383};</script><script async data-cfasync="false" data-mailmunch-site-id="405309" data-plugin="cc_mm" id="mailmunch-script" src="//a.mailmunch.co/app/v1/site.js"></script>
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+function external_links_in_new_windows_loop(){if(!document.links){document.links=document.getElementsByTagName('a');}
+var change_link=false;var force='';var ignore='';for(var t=0;t<document.links.length;t++){var all_links=document.links[t];change_link=false;if(document.links[t].hasAttribute('onClick')==false){if(all_links.href.search(/^http/)!=-1&&all_links.href.search('quillette.com')==-1){change_link=true;}
+if(force!=''&&all_links.href.search(force)!=-1){change_link=true;}
+if(ignore!=''&&all_links.href.search(ignore)!=-1){change_link=false;}
+if(change_link==true){document.links[t].setAttribute('onClick','javascript:window.open(\''+all_links.href+'\'); return false;');document.links[t].removeAttribute('target');}}}}
+function external_links_in_new_windows_load(func)
+{var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+external_links_in_new_windows_load(external_links_in_new_windows_loop);
+//]]></script>
+<script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}
+window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//quillette.com/?wordfence_lh=1&hid=AF535461AC9A6FBE6A3491BB9925FD0D');</script>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//i1.wp.com" rel="dns-prefetch"/>
+<link href="//i2.wp.com" rel="dns-prefetch"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">.widget-area p.summary a,.entry-content p a,.entry-content li a,.page .entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a{color: }.widget_zuki_recentposts_color .bg-wrap{background: }.archive-menu-content{background: }</style>
+<style id="zuki-header-css" type="text/css">#site-title h1,#site-title h2.site-description{display:none}</style>
+<style type="text/css">.jetpack-lazy-image{display:none}.jetpack-lazy-images-js .jetpack-lazy-image{display:inline-block}</style>
+<script>document.documentElement.classList.add('jetpack-lazy-images-js');</script>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon-precomposed"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">#menu ul li{font-size:12px;color:#000}h1,h2{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}aside.widget.AdWidget_HTMLWidget iframe{max-width:100%;margin-left:0;margin-right:0}@media screen and (min-width:1023px){.blog #primary,.attachment #primary,.single-post #primary,.error404 #primary,.search-no-results #primary,.archive #primary,.search-results #primary,#front-content-one,#front-content-two{width:60%!important}#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:36%!important}}@media screen and (min-width:1260px){#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:27%!important}}#post-82069 ol[type="a"]{list-style:lower-alpha}#post-82069 ol[type="i"]{list-style:lower-roman}</style>
+</link></link></meta></head>
+<body class="post-template-default single single-post postid-84561 single-format-standard">
+<div id="container">
+<header class="cf" id="masthead" role="banner">
+<nav id="header-top-nav">
+<ul class="menu" id="menu-about"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71157" id="menu-item-71157"><a href="https://quillette.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70992" id="menu-item-70992"><a href="https://quillette.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81209" id="menu-item-81209"><a href="https://quillette.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82074" id="menu-item-82074"><a href="https://quillette.com/terms-of-service/">Terms of Service</a></li>
+</ul> </nav><!-- end #header-top -->
+<div id="site-title">
+<div id="site-header">
+<a href="https://quillette.com/" rel="home"><img alt="" height="491" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10215232/cropped-Quillette_white1.png" width="1500"/></a>
+</div><!-- end #site-header -->
+<h1><a href="https://quillette.com/" title="Quillette">Quillette</a></h1>
+<h2 class="site-description">Free Thought Lives</h2>
+</div><!-- end #site-title -->
+<a href="#menuopen" id="mobile-menu-toggle"><span>Menu</span></a>
+<div class="cf" id="mobile-menu-wrap">
+<nav class="cf" id="site-nav">
+<ul class="nav-menu" id="menu-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71055" id="menu-item-71055"><a href="https://quillette.com/category/features/">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71142" id="menu-item-71142"><a href="https://quillette.com/category/science-tech/">Science / Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71141" id="menu-item-71141"><a href="https://quillette.com/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-71348" id="menu-item-71348"><a href="https://quillette.com/category/review/">Review</a></li>
+</ul> </nav><!-- end #site-nav -->
+<a href="#menuclose" id="mobile-menu-close"><span>Close Menu</span></a>
+</div><!-- end #mobile-menu-wrap -->
+</header><!-- end #masthead -->
+<div id="main-wrap">
+<div class="site-content cf" id="primary" role="main">
+<article class="post-84561 post type-post status-publish format-standard has-post-thumbnail hentry category-review category-top-stories" id="post-84561">
+<header class="entry-header">
+<div class="entry-cats">
+<a href="https://quillette.com/category/review/" rel="category tag">Review</a>, <a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+<div class="entry-date">
+			Published on <a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/">October 5, 2018</a>
+</div><!-- end .entry-date -->
+<div class="entry-comments">
+<a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comments">comments 31</a> </div><!-- end .entry-comments -->
+<h1 class="entry-title">The Virtue of Nationalism—An Internationalist’s Critique</h1>
+<div class="entry-author">
+			written by <a href="https://quillette.com/author/matt-mcmanus/" title="All posts by Matt McManus">Matt McManus</a> </div><!-- end .entry-author -->
+</header><!-- end .entry-header -->
+<div class="entry-thumbnail">
+<a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/" title="Permalink to The Virtue of Nationalism—An Internationalist’s Critique"><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg 1200w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg 1024w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01222211/courtney-hedger-336875-unsplash.jpg 840w" height="800" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1200"/></a>
+</div><!-- end .entry-thumbnail -->
+<div class="entry-content">
+<div class="mailmunch-forms-before-post" style="display: none !important;"></div><p><strong>A review of <a href="https://www.amazon.com/Virtue-Nationalism-Yoram-Hazony/dp/1541645375"><em>The Virtue of Nationalism</em></a></strong><strong><em> </em>by Yoram Hazony. Basic Books (September 2017) 304 pages. </strong></p>
+<p><img alt class="alignleft wp-image-84563 size-medium jetpack-lazy-image" data-lazy-sizes="(max-width: 194px) 100vw, 194px" data-lazy-src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01212704/51zw3Li9vZL._SX321_BO1204203200_-194x300.jpg?resize=194%2C300&amp;ssl=1" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01212704/51zw3Li9vZL._SX321_BO1204203200_.jpg 194w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01212704/51zw3Li9vZL._SX321_BO1204203200_.jpg 323w" data-recalc-dims="1" height="300" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="194"><noscript><img alt="" class="alignleft wp-image-84563 size-medium" data-recalc-dims="1" height="300" sizes="(max-width: 194px) 100vw, 194px" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01212704/51zw3Li9vZL._SX321_BO1204203200_-194x300.jpg?resize=194%2C300&amp;ssl=1" srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01212704/51zw3Li9vZL._SX321_BO1204203200_.jpg 194w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/01212704/51zw3Li9vZL._SX321_BO1204203200_.jpg 323w" width="194"/></noscript>The last 30 years have witnessed many arguments about the end of nationalism and the nation state, ranging from Fukuyama’s end of history thesis to Thomas Friedman’s claim that globalization was making the world “flat.” But, as they say, reports of the nation’s death now appear to be exaggerated. Over the past few years, from Brexit in the United Kingdom, to the rise of right wing nationalists such as Donald Trump in the United States, Viktor Orban in Hungary, and Poland’s Law and Justice Party, the specter of nationalism looms once again.</img></p>
+<p>Yoram Hazony’s welcome new book <a href="https://www.amazon.com/Virtue-Nationalism-Yoram-Hazony/dp/1541645375"><em>The Virtue of Nationalism</em></a> analyzes this political shift and offers a defense of its value. Hazony’s book is by far the most interesting and compelling articulation of the nationalist case put forward thus far. This makes <em>The Virtue of Nationalism </em>an important book, since those looking to defend the nationalist cause will surely want to arm themselves with its formidable intellectual resources, while those (such as myself) <a href="https://ottawacitizen.com/opinion/columnists/mcmanus-why-canada-doesnt-need-a-national-identity">who are critics of nationalism</a> must now contend seriously with its arguments. Moreover, the book is exceptionally readable, always thought provoking, and includes a number of passionate and touching asides which explain Hazony’s reasons for writing the book. Needless to say, this is unusual in an academic work, and Hazony deserves praise for being as forthcoming about his personal motivations as he is.</p>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/SJdlFUu49Yk" width="560"></iframe></p>
+<p>Before I discuss Hazony’s main arguments and offer some objections, I should offer a qualification. The book is clearly written with an inclination to defend Israel against criticism from international institutions. While important, I will not address these issues here because a substantial discussion of those debates exceeds the purview of this review.</p>
+<p><strong>Arguments</strong></p>
+<p>Hazony’s book is divided into three sections. The first, “Nationalism and Western Freedom,” is primarily a historical account linking the emergence of Western freedom and self-determination to the moral and spiritual influence of the Old Testament Bible, and later Protestantism’s emphasis on national self-determination. The second, “The Case for the National State,” is the longest and most powerful section. Here, Hazony puts forward a more principled argument for the nation state, drawing on an impressive combination of philosophy, Biblical analysis, history, and international relations theory. Finally, the concluding third section, “Anti-Nationalism and Hate,” is designed to rebut critics who believe nationalism abets violence and hatred.</p>
+<p>The first section of the book—“Nationalism and Western Freedom”—establishes the basic antagonism framing much of <em>The Virtue of Nationalism</em>:</p>
+<blockquote><p>For centuries, the politics of Western nations have been characterized by a struggle between two antithetical visions of world order: an order of free and independent nations, each pursuing the political good in accordance with its own traditions and understanding, and an order or people united under a single regime of law, promulgated and maintained by a single supranational authority.</p></blockquote>
+<p>Hazony understands the first vision of “free and independent nations” to be a product of two primary influences. The first is the Biblical nationalism of the Hebrew Bible, which he argues has continuously softened Western aspirations to universal empire, by ensuring “that the idea of the self-determining independent nation would be revived time and again.” Unfortunately, Hazony does not discuss this link between the Hebrew Bible and nationalism in much detail, though I suspect it is treater more thoroughly in his earlier books such as <em><a href="https://www.amazon.com/Philosophy-Hebrew-Scripture-Yoram-Hazony/dp/0521176670">The Philosophy of Hebrew Scripture</a>. </em>Still, more elaboration would have been helpful since Professor Hazony consistently emphasizes the importance of the Old Testament, while expressing a much more mixed appreciation for the New Testament.</p>
+<p>Having discussed the Hebrew state and its holy texts, Hazony moves on to criticizing the Western desire to establish a universal Christian Empire, a project which he claims was most ambitiously attempted by the German Holy Roman Empire and the Roman Catholic Church. This aspiration was abetted at the end of the Thirty Years War, which marked the end of both the Holy Roman Empire and the Church as the primary political actors of Western Civilization. According to Professor Hazony, the Treaty of Westphalia ended the Thirty Years War and inaugurated the “Protestant Construction of the West.” Countries like England and the Netherlands worked to re-found “the entire political order” on the basis of Westphalian nation states. These, it was hoped, would impose limits on government and support principles of national self-determination.</p>
+<p>However, Hazony admits that this “re-founding” was troubled and inconsistent, as many of the Protestant European states were quite content to preach nationalism at home while engaging in vast imperial projects abroad. He also has a mixed appreciation for the Protestant emphasis on individualism and economism, best embodied in the thinking of John Locke. Hazony admires capitalist markets and free exchange, believing the experimentalism and empiricism they embody contrasts favorably with the rationalistic desire of socialists to impose a given redistributive order atop the market. However, he also argues that the Lockean emphasis on individual self-interest as the basis for political legitimacy contributed to a growing indifference to tradition, shared values, and responsibility. He notes with approval Edmund Burke’s striking declaration that Locke’s <a href="https://www.amazon.com/Second-Treatise-Government-John-Locke/dp/1420955292/"><em>Second Treatise on Government </em></a>was “one of the worst” books ever written. This lukewarm appreciation towards liberalism extends to the present day. Hazony notes that modern liberals, wherever they sit on the political spectrum, have increasingly accepted a kind of radicalized Lockeanism which aims to “subordinate the independent nations” to the control of international federations such as the EU and liberal super-powers such as the United States.</p>
+<p>The second and most impressive section of the book lays out Hazony’s principled arguments for adopting a vision of the world order characterized by an “order of independent nation states.” Simplifying somewhat for the sake of brevity, Hazony argues that the traditional liberal individualist model of political legitimacy is wanting. He is especially critical of contractarian authors such as Hobbes, Locke, and Kant who believe that self-interest and/or hyper-individualism are or could be the legitimate foundations of the state. However, Hazony is not entirely willing to forgo the consent-based models of legitimacy these liberal authors rely on. Instead, he wants to socialize them by suggesting that it is in fact groups who are the foundational actors in politics by consenting to establish the nation state which is to govern them.</p>
+<p>Hazony develops a four-pronged typology of groups which I present in order of escalating scale: families, clans, tribes, and nations. Hazony argues that, historically, the formation of the nation-state proceeded through a gradual process of inclusion. Families consented to form political associations with clans with whom they shared traditions, languages, and religions in common. These clans then consent to form larger tribes, and these tribes finally established nation-states. Hazony then argues that this historical process of consensual inclusion into broader political associations should stop at the nation state level. Hazony’s ideal political association is a “free state.” A free state is “one in which the cooperation of the ruled is given to the government voluntarily. This can happen is the heads of a coalition of tribes, recognizing a common bond among them as well as a common need, come together to establish a national standing government.”</p>
+<p>While Hazony admits that nation states can fail to live up to this standard by becoming despotic, he believes they are less likely to give in to despotism than “universal” empires consisting of many nations. Moreover, Hazony argues that, even where nation-states <em>are</em> despotic, their propensity towards violence tends to be constrained relative to alternative political associations. Therefore, Hazony believes that national freedom should be the “ordering principle” of the world order, since even where it leads to disaster, it is freer and less violent than attempting to establish an international empire or law, whether oriented by liberal or any other principles.</p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p>The third part of the book is focused on rebutting those who immediately associate nationalism with hatred and violence. Hazony admits that under some circumstances, nationalism can indeed engender ethnocentric violence and brutal wars of self-interest. But he argues that such conflicts tend to be limited, because a proper nation state has little interest in expanding its authority beyond the confines of the tribes and clans of which it is comprised. When discussing the nationalist wars of Nazi Germany, Hazony maintains that these countries had more in common with the universalist internationalists than with nation states properly understood. Nazi Germany wished to establish an imperial hold on the different nations of the world, uniting them under the control of a single dominant race.</p>
+<p>Unfortunately, the evils wrought by the Axis powers brought nationalism into disrepute and the philosophies of internationalists like Immanuel Kant into vogue. In his seminal essay “Perpetual Peace: A Philosophical Sketch,” Kant argued that nation states were primitive and lawless political associations that needed to give way to a global federation of states organized by a system of liberal international law. In the aftermath of the Second World War, many Europeans and Americans accepted Kant’s argument, leading to the formation of the international legal system and federations like the EU. Hazony argues that this was the wrong lesson to draw from the Second World War. A world order of free and independent states, as framed by documents such as the Allied <em>Atlantic Charter, </em>would have been far preferable.</p>
+<p>Hazony goes on to argue that modern internationalists want to quash freedom and national particularity by establishing a new global empire in all but name. He brings up a number of examples, the most convincing of which are his criticisms of American interventionism. Unfortunately, Hazony also engages in needless hyperbole in parts of this section, a tendency captured in passages where he claims “the horror for the national and the particular, the hatred of emperors and imperialists, burns bright among liberal internationalists. They have taken up the yearning from universal empire, believing in it as Christians once believed, and as Marxists once believed.” This conflation of complex and different historical and philosophical movements, alongside the suggestion that they all hate the “national and the particular,” is unworthy of a scholar of Hazony’s ability.</p>
+<p><strong>Objections</strong></p>
+<p>There is a great deal to admire in Hazony’s book. The prose is sharp and lucid, the arguments always thought provoking, and the examples relevant. Moreover, Hazony is admirably undogmatic in many respects. He admits throughout the book that his order of nation states will never resemble any kind of utopia. Indeed, how could it? Permitting different nation states to pursue different conceptions of the good may lead to some unfortunate outcomes. But Hazony feels this is preferable to an “imperial” project which will have to be enforced by central authorities, and which he believes could only be achieved through immense repression. However, the book does have considerable problems which limit its capacity to convince internationalists such as myself.</p>
+<p>The first set of problems are empirical and historical. Hazony’s book leans heavily on a number of dichotomies—the order of nation states vs international empire, the particular vs the universal, Hebrew/Protestant nationalism vs Catholic/German/Liberal internationalism. But Hazony himself seems to recognize how fragile many of these dichotomies are in practice. Much of the text is spent qualifying his examples and discussing exceptions. One of the most obvious examples is the discussion of the Westphalian order, which Hazony holds up as an exemplar. Unfortunately, he admits that his idealization of the Westphalian order is troubled given that many of the states that supported it also engaged in significant empire building, often justifying this by appealing to narratives of national and cultural greatness. This includes the Dutch and, of course, the British, whose nationalist traditions are singled out for praise by Hazony. To abet this, Hazony has to admit that while these nations got the principles right, they didn’t adequately put them into practice. Perhaps this is true. But if so, this history substantially troubles Hazony’s argument that he is adopting an “empirical” and “pragmatic” approach which appeals to experience rather than rationalistic and utopian argumentation.</p>
+<p>Another example is Hazony’s attachment to capitalist markets. At various times, Hazony offers an olive branch to neoliberals who long for the breakdown of borders. He argues that, just as capitalism encourages experimentation in the economy, nationalism encourages experimentation in politics. Perhaps this is true but, whatever their resemblance, this does not mean the capitalist and nationalist projects can be so easily joined. At points, Hazony expresses confusion as to why fervent supporters of capitalism, such as F.A Hayek and Ludwig von Mises, had a frosty relationship to the nation state. But this is not really surprising. It is no coincidence that the European Union began life as an economic area designed to ease the flow of goods and migrants.</p>
+<p>Nor is it a coincidence that most nationalists today have a frosty relationship to international capitalism, and are highly critical of the free movement of labor and trade deficits, which—from the standpoint of capitalist individualism—are to be welcomed or are unimportant. Borders are economically inefficient, as are restrictions on the free movement of labor, protecting domestic industries for cultural reasons, letting traditional religious norms stand in the way of developing new industries—such as the sex industry—and so on. Moreover, Hazony doesn’t adequately engage the arguments of critics on the Left such as David Harvey, and critics on the Right such as Patrick Deneen (who otherwise praises Hazony’s book) who argue that capitalist dynamics are at least partially responsible for the devaluation of cultural particularity and communitarian attachments. For instance, one might ask which body is really more responsible for the devaluation of traditional religious norms around sexuality: the European Parliament or a global pornography industry <a href="https://www.nbcnews.com/business/business-news/things-are-looking-americas-porn-industry-n289431">allegedly worth $97 billion in 2015</a>. This is a major problem for those like Hazony who want both independent nations with strong religious-cultural traditions and free capitalist markets.</p>
+<p>The second big problem with the book is theoretical. Hazony has formulated a group-oriented account of political consent and legitimacy, wherein families, clans, and then tribes choose to establish ever broader political associations. The fact that this choice is uncoerced is crucial to Hazony’s claim that nation-states are “free.” But he then claims that the nation-state cannot legitimately join broader political associations, as expressed by his seventh principle for the order of nation states “the non-transference of powers of government to universal institutions.” Hazony admits that this principle seems to contradict the ideal of national independence and self-determination. After all, if families can consent to join clans, clans can consent to join tribes, and tribes join nations, why can’t free nations consent to join international unions? If this is a choice they make, that would seem to be the end of the matter.</p>
+<p>This possibility becomes especially problematic if, as still remains the case for many EU member states, a majority of individual citizens <a href="https://www.reuters.com/article/us-eu-election-poll/poll-shows-support-for-eu-at-35-year-high-across-bloc-idUSKCN1IO2SP">support remaining in an international Union</a>. Hazony’s only argument against this possibility is prudential. He believes that a Union like the EU will inevitably aspire to become a universal state which will pose a threat to the independence of both its members, and other states. But this is a radical claim to make, both about the EU (which has often been parsimonious in granting membership) and any such hypothetical union. Moreover it still doesn’t answer why independent nation states shouldn’t be allowed to consensually join such a Union, even one with extraordinary powers, if that is what their governments and citizens wish and the process is carried out without coercion. Robust national sovereignty doesn’t mean everything to everyone, and Hazony is hard pressed to establish why a consent-based theory of political legitimacy entails that it must be.</p>
+<p>That said, there is no doubt that Hazony’s book is a highly successful contribution to an important discussion. Hazony has repeatedly stated that he wished to spark a more serious discussion about nationalism and its virtues. He has no doubt accomplished that, and <em>The Virtue of Nationalism </em>deserves to be read by anyone interested in serious engagement with the world today.</p>
+<p> </p>
+<p><strong>Matt McManus is currently Visiting Professor of Politics and International Relations at Tec de Monterrey. His forthcoming books are <em>Overcoming False Necessity: Making Human Dignity Central to International Human Rights Law</em> and <em>What is Post-Modern Conservatism?</em> He can be reached at <a href="mailto:garion9@yorku.ca" rel="noopener" target="_blank">garion9@yorku.ca</a> or followed on Twitter <span class="m_-6369662802059456628m_2246014956344839773m_7270922915133526222m_717003177570355396m_2095633736662944447gmail-username m_-6369662802059456628m_2246014956344839773m_7270922915133526222m_717003177570355396m_2095633736662944447gmail-u-dir" dir="ltr"><a class="m_-6369662802059456628m_2246014956344839773m_7270922915133526222m_717003177570355396m_2095633736662944447gmail-ProfileHeaderCard-screennameLink m_-6369662802059456628m_2246014956344839773m_7270922915133526222m_717003177570355396m_2095633736662944447gmail-u-linkComplex m_-6369662802059456628m_2246014956344839773m_7270922915133526222m_717003177570355396m_2095633736662944447gmail-js-nav" data-saferedirecturl="https://www.google.com/url?q=https://twitter.com/MattPolProf&amp;source=gmail&amp;ust=1535651545560000&amp;usg=AFQjCNHu_UYJYVVIeSbTCbJT30_vYs4E0w" href="https://twitter.com/MattPolProf" rel="noopener">@<span class="m_-6369662802059456628m_2246014956344839773m_7270922915133526222m_717003177570355396m_2095633736662944447gmail-u-linkComplex-target">MattPolProf</span></a></span></strong></p>
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="cb_p6_patreon_button" style="text-align:left !important;margin-top:18px;margin-bottom:18px;"><div class="cb_p6_message_over_post_button" style="font-size:14px;margin-top:14px;margin-bottom:14px;">If you liked this article please consider becoming a patron of Quillette</div><a href="https://www.patreon.com/Quillette" rel="nofollow"><img class=" jetpack-lazy-image" data-lazy-src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" data-recalc-dims="1" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"><noscript><img data-recalc-dims="1" src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"/></noscript></img></a></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="twitter-share-button" data-text="The Virtue of Nationalism—An Internationalist's Critique" data-url="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/" data-via="QuilletteM" href="https://twitter.com/share">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/" data-layout="button_count"></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F05%2Fthe-virtue-of-nationalism-a-review%2F&amp;title=The%20Virtue%20of%20Nationalism%E2%80%94An%20Internationalist%27s%20Critique" width="120"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script data-counter="right" data-url="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/" type="in/share"></script></div></li><li class="share-email"><a class="share-email sd-button" data-shared="" href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/?share=email" rel="noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a class="share-print sd-button" data-shared="" href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#print" rel="noopener noreferrer" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
+<!-- WP QUADS Content Ad Plugin v. 1.7.8 -->
+<div class="quads-location quads-ad10" id="quads-ad10" style="float:none;margin:0px;">
+<script type="text/javascript">amzn_assoc_placement="adunit0";amzn_assoc_search_bar="true";amzn_assoc_tracking_id="quillette-20";amzn_assoc_ad_mode="manual";amzn_assoc_ad_type="smart";amzn_assoc_marketplace="amazon";amzn_assoc_region="US";amzn_assoc_title="";amzn_assoc_linkid="61b0c55dd7d4c5e769c244bd1137d009";amzn_assoc_asins="0143116649,0262039168,0198788606,0199609543";</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div><!-- end .entry-content -->
+<footer class="entry-meta">
+<div class="entry-cats">
+<span>Filed under: </span><a href="https://quillette.com/category/review/" rel="category tag">Review</a>, <a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+</footer><!-- end .entry-meta -->
+</article><!-- end .post-84561 -->
+<div class="comments-area" id="comments">
+<h3 class="comments-title">
+		31 Comments	</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-38838">
+<article class="comment" id="comment-38838">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Clay Ryder <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38838">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This is an otherwise good article let down by a tendentious misrepresentation of the EU all too typical of North American intellectuals.</p>
+<p>The blueprint for the EU was originally proposed by a totalitarian universalist of the communist variety.  The EU has always been about the destruction of the nations of Europe and their replacement by a bureaucratic superstate. The hatred of nations has been at its heart since its beginning. So there is nothing radical in Harzony’s claim that ‘the EU will inevitably aspire to become a universal state which will pose a threat to the independence of both its members, and other states’.  That aim is in its founding charter. </p>
+<p>The politicians seeking to impose the EU have never hesitated to make deceitful use of liberal agendas such as free trade. The last was one of the lies by which the British were deceived into the EU.  But it was never about free trade. </p>
+<p>The whole idea has been to put in place mechanisms that were expensive and potentially disastrous to get out of before the peoples of the nations of Europe realised what had happened. For example, the Euro currency was never an economic project but was entirely about forcing a political union. When the potentially disastrous economic effects of a currency union in the absence of a political union manifest, it would be easier to impose a political union that was never wanted.</p>
+<p>The European Parliament has no power: it is a deceitful fig leaf behind which the  EU conceals its fundamental anti-democratic nature. What should be attended to instead is the way the EU bureaucracy replaced the democratic governments in Italy and Greece during the Euro crisis. That shows you where the power lies and also the political nature and purpose of the currency union.</p>
+<p>The universalist belief that the EU would result in reforms of the corrupt southern European polities have been shown to be the fantasies they always were. Instead, their corruption has simply infiltrated the EU and functions as it always has: to extort money from the many and funnel it to the politically favoured to buy their support. The EU is an organization whose own auditors have refused to pass its accounts for something like 20 years. </p>
+<p>We haven’t the faintest idea whether the majority of national citizens want to stay in the EU because whenever a referendum went against the EU it was ignored or they were made to keep voting until they got the ‘right’ answer. Note that this is precisely what the remainers are trying to do in Britain at the moment. </p>
+<p>North American intellectuals have bought into all these deceits and propagated them, thereby making themselves, yet again, useful idiots in service of a malign political project. I do not know whether its cause is ignorance but it is disgraceful that these intellectuals have for many years misled their readers in this way.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Clay Ryder" class="comment-reply-link" href="#comment-38838" onclick='return addComment.moveForm( "comment-38838", "38838", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-38847">
+<article class="comment" id="comment-38847">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Aaron Martin <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38847">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Clay, </p>
+<p>I understand things are a little heated up there in the UK right now but I really think you should reconsider some of your statements.</p>
+<p>First, you claim that “the EU has always been about the destruction of the nations of Europe”. I could not disagree stronger here. The European Union has done an almost heroic job in trying to preserve national and regional identities in a more and more homogeneous, globalized world. Have you ever watched a parliamentary session? Members of the parliament are encouraged to speak in their respective mother tongues. Similarly, every document is translated into every single language spoken by Europeans. If you visit a, say, cultural festival in a town next to you, it’s likely to be funded by the EU. I find it very hard to find “totalitarian”/”communist” tendencies here.</p>
+<p>Second, you claim that the EU is a “bureaucratic superstate”. This is an interesting argument because if your goal really is to minimize bureaucracy and govern more efficiently, shouldn’t you want to see major and minor decisions being made by the EU instead of 28 national governments? Let’s take the current law on data regulation, the GDPR: Clearly, finding ways to deal with data is a big topic for every country in the 21. century. I am sure we can agree that, per capita, it would have cost much more to develop and implement such a law in every individual country. </p>
+<p>Thirdly, you claim that we have not even “the faintest idea whether the majority of national citizens want to stay in the EU”. Support for the European Union is at a 35 year high:</p>
+<p>reuters.com/article/us-eu-election-poll/poll-shows-support-for-eu-at-35-year-high-across-bloc-idUSKCN1IO2SP</p>
+<p>Why? Because the majority of Europeans understand that the complex problems we are facing today cannot be solved by individual countries. Also, Europeans think that the EU has had a positive impact on their lives. This goes from big, hard-to-grasp effects such as peace since more than 70 years to more narrow legislation like the elimination of roaming charges. </p>
+<p>Quillette readers love to be a little anti-mainstream and, admittedly, the EU does have a mainstream touch to it. But all in all, the EU still is the most ambitious and successful mega-project in politics and we should not neglect it’s importance in making Europe the peaceful, prosperous, and joyful place we live in.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Aaron Martin" class="comment-reply-link" href="#comment-38847" onclick='return addComment.moveForm( "comment-38847", "38847", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-38853">
+<article class="comment" id="comment-38853">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					clay ryder <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38853">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Typical irrelevant eurobabble propaganda topped by humbug and tailed by eurobabble fantasy.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to clay ryder" class="comment-reply-link" href="#comment-38853" onclick='return addComment.moveForm( "comment-38853", "38853", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-38900">
+<article class="comment" id="comment-38900">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Sean <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38900">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>AM<br/>
+If EU citizens love the EU so much why are nationalist parties growing rapidly? These parties seek to have strong borders for their countries and individual identities. Even mainstream political parties are moving to the right in these areas for fear of losing support. Just look at how the governing Social Democrats in Sweden  have changed their policies in this area over the last few years.<br/>
+As to your point about using native languages, 1) it is tokenism. The EU sets the rules and makes you use the Euro but tell you you still have power because you can speak in your own language. Great. 2) con men work by telling you what you want to hear and flattering you and say they are on your side until they feel the time is right and then they take what they want and you can do nothing about it.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Sean" class="comment-reply-link" href="#comment-38900" onclick='return addComment.moveForm( "comment-38900", "38900", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-38923">
+<article class="comment" id="comment-38923">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Aaron Martin <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38923">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Sean, nationalist parties are not growing rapidly anymore and you have to be careful to not mix up the refugee crisis with the overall concept of a united Europe. Yes, parties are moving to the right but that is mostly on the topic of refugees. For that too, we need a common European solution.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Aaron Martin" class="comment-reply-link" href="#comment-38923" onclick='return addComment.moveForm( "comment-38923", "38923", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39043">
+<article class="comment" id="comment-39043">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Dennis <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39043">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Discussing the origin and purpose of the European Union, you seem to forget one crucial factor: </p>
+<p>The unspeakable horrors of World War II. </p>
+<p>The political leaders back then, conservative, liberal and socialist alike, no matter how far apart they were, could all agree on one thing: NEVER! AGAIN!</p>
+<p>They created the EU in part to make sure that fighting another war among themselves would become impossible. To claim that “hatred of nations” was at the heart of the European project is a gross mischaracterization.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Dennis" class="comment-reply-link" href="#comment-39043" onclick='return addComment.moveForm( "comment-39043", "39043", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-39270">
+<article class="comment" id="comment-39270">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Heike <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39270">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The Americans enforced the peace after WWII, not the EU.  Hell, the European Left wanted to join the Soviet Union as SSRs and only the Americans stopped it.  In Greece and Italy, Communist internationalists were poised to win elections before American meddling altered the legitimate results.  The Americans had to drag Europe by the neck, kicking and squirming, to victory in the Cold War.  The EU had little to do with it.  </p>
+<p>The verdict was that nations caused the war, and eliminating nations was the solution.  You might phrase this attitude as “hatred of nations”.  Thus the European project was started to eliminate this problem.  </p>
+<p>This stuff makes a lot more sense when you realize the world’s first super-state, suprainternational coalition, or whatever you want to call it, was the Soviet Union.  Science told us that they were destined to join the whole world under one banner.  But, they couldn’t get the job done, so internationalists were forced to change gears.  </p>
+<p>Fun fact: you know the first real pan-European organization?  The Nazi SS.  Yup!  Its members didn’t consider themselves Dutch, Norwegian, or whatever.  They considered themselves <b>Europeans</b>. (Under German leadership, of course – now where have we heard that before?) I always thought it was weird that French SS were the dead-enders who died to the last man defending the Reichschancellery.  They died for some foreign country, WTF?  Completely inscrutable move.  But when you realize that they considered themselves Europeans, above mere nations, it makes perfect sense.  </p>
+<p>It was in the ranks of the SS that the first true European died.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Heike" class="comment-reply-link" href="#comment-39270" onclick='return addComment.moveForm( "comment-39270", "39270", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-38862">
+<article class="comment" id="comment-38862">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					KD <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38862">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Perhaps more appropriate is Meirsheimer’s new book, Great Delusion:  Liberal Dreams and International Reality, where he chronicles the rise of the nation-state (and the dynastic state) from the plurality of political forms in the early 16th Century.  The dynastic state arose in social darwinist fashion from the security competition in 16th Century Europe, and the nation-state arose in social darwinist fashion from the security competition in early 19th Century Europe.  The driver of both the dynastic state and the nation-state has always been realism, not liberalism.</p>
+<p>Ideologically, we can give greater standing to political liberalism and individual rights than questions of national survival, but pragmatically, where there is security competition, realism and nationalism will generally beat liberalism, even in purportedly liberal countries like the U.S.A. (witness practices such as the Japanese internment during WWII).</p>
+<p>The real question is which view, nationalism or realism, provides a more accurate social description of how people actually are.  Are they born isolated atoms in the void, or do they have a particular mother, a particular family of origin, a particular language, a particular religion and culture?  </p>
+<p>Likewise, do Americans agree on what their inalienable rights consist in?  Is there some kind of international consensus on what a person’s inalienable rights consist in?  Have notions of “human rights” changed shape across space and time, or do they remain invariant.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KD" class="comment-reply-link" href="#comment-38862" onclick='return addComment.moveForm( "comment-38862", "38862", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-38863">
+<article class="comment" id="comment-38863">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					KD <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38863">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Should say “The real question is which view, nationalism or liberalism, provides a more accurate description of how people actually are.”</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KD" class="comment-reply-link" href="#comment-38863" onclick='return addComment.moveForm( "comment-38863", "38863", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-38912">
+<article class="comment" id="comment-38912">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					KD <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38912">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It should be pointed out that Mearsheimer, nationalism is basically operationalized realism.  Nation-states exist in security competition, you want your nation-state to fare best in the security competition, ergo, the state should be run in the sole interest of the nation to the exclusion of outside concerns, ergo, you end up with nationalism (although it may be able to coexist with liberalism and/or socialism):</p>
+<p><a href="http://mearsheimer.uchicago.edu/pdfs/kissingcousins.pdf" rel="nofollow">http://mearsheimer.uchicago.edu/pdfs/kissingcousins.pdf</a></p>
+<p>Because realism provides the best description of international relations, nationalism becomes the best operational ideology to successfully compete in the international arena, and liberalism or socialism, etc. become secondary and essentially supported or resisted on utilitarian grounds.</p>
+<p>Classical liberalism sounds good, but unless it can provide a better model of how humans actually behave, nationalism is here to stay.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KD" class="comment-reply-link" href="#comment-38912" onclick='return addComment.moveForm( "comment-38912", "38912", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-38864">
+<article class="comment" id="comment-38864">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Nick <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38864">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I appreciated your response, Aaron. I know less than most about the article’s subject, so I appreciate the back and forth.  I am pushing back a little bit to get some more information.  I hope you and others will respond with more thoughts. </p>
+<p>First, Clay’s point about the “destruction of the nation’s of Europe” refers to the goals stated in the Treaty of Rome (or so I gather from his statements).  The treaty seeks unification and the “elimination of barriers.”  Clay says the concentration of political power, away from nation-states to the EU, was always a goal reflected by that language.  Whether he is right or not, citing to examples of the EU seeking to maintain regional and/or national variations in language and identity does not rebut the claim that the EU has “destroyed” the political power of individual European nations, which I think is Clay’s point.  Past events in Greece and Spain might support his point.  </p>
+<p>As to your second point, why do you think the goal is to make Europe, overall, more efficiently run?  Efficiency is great, of course, but in many situations subsidiary to other legitimate goals, right?  It seems clear that Clay’s complaint has little to do with efficiency. </p>
+<p>Finally, I’m not you can fairly attribute peace among EU nations over the last 70 years and the elimination of roaming charges to the existence of the EU.  Peace and the elimination of roaming charges between other countries have other sources, as evidenced by the rest of the world.  I agree the EU surely facilitated both, but so what?  That’s not Clay’s point.  Are you suggesting Europe would be war-torn without the EU, as well as being saddled with 2000’s era cell plans?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Nick" class="comment-reply-link" href="#comment-38864" onclick='return addComment.moveForm( "comment-38864", "38864", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-38887">
+<article class="comment" id="comment-38887">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Aaron Martin <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38887">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Hi Nick, </p>
+<p>To your first point: Yes, maybe my argument was lacking some precision. Indeed, the European Union’s goal is the “elimination of borders”. The gravity of power has shifted from Athens, Berlin, and London to Brussels and I hope that this process will continue until a European Republic has been achieved. See the concept here: <a href="https://european-republic.eu/en/" rel="nofollow">https://european-republic.eu/en/</a></p>
+<p>What annoyed me about Clay’s comment was the usage of the words “totalitarian” and “communist”. Yes, the EU’s goal is to eliminate borders incrementally but it is doing so in the least totalitarian way possible. One might even say that the criticism of the EU as a “slow bureaucracy” can be traced back to this intention. </p>
+<p>So yes, the EU is destroying political power in Spain and Greece but is that really such a bad thing? The assumption here is that a country like Greece would be better off without the EU. I do not want to dig too deeply here because the underlying issues (Euro but also tax evasion and corruption within Greece) are very complex and even economists do not agree. </p>
+<p>I see as the fifth evolutionary step on top of the one presented in the article: First families, then clans, tribes, nations, and now the EU, ideally a European Republic. The bottleneck, as for moving from tribes to nations, is identifications. The idea of a united Europe will succeed if i.e. German Europeans will identify as German Europeans. Looking at my generation, I guess that would be the generation Y, I am confident that we are much further on this than it might look from the outside. </p>
+<p>Briefly to your second point: Yes, efficiency is not everything but complaining about the EU’s bureaucracy and then neglecting the fact that making decisions at the EU level severly lowers overall bureaucracy in Europe is not cool. </p>
+<p>And lastly, to your third point: Obviously, this is difficult to prove. My best shot: Look at major Asian players after WW2 (China, Korea, Japan) and how their relationship has developed without some commitment to unify.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Aaron Martin" class="comment-reply-link" href="#comment-38887" onclick='return addComment.moveForm( "comment-38887", "38887", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38878">
+<article class="comment" id="comment-38878">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					McFly <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38878">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“After all, if families can consent to join clans, clans can consent to join tribes, and tribes join nations, why can’t free nations consent to join international unions? If this is a choice they make, that would seem to be the end of the matter.”</p>
+<p>I agree, with the caveat that it not be forgotten that the individual is the wellspring of sovereignty.  I forget who’s formulation it is, but the farther away from my front door an authority sits the less influence and impact it should have on my life.  I believe that.</p>
+<p>It makes sense to recognize the nation state as the outer-most boundary for any regime with vested powers to act on behalf or in defense of a discrete group of peoples with a shared common identity.  But there remains the thorny little issue of how to limit the scale of a nation state so as not to render it’s purpose impracticable…  Unfortunately, the American experiment may be on it’s way towards providing some meaningful insight into that question.  A discussion for a different day, perhaps.</p>
+<p>I don’t think supranational associations have to be structured as imperial super states, but I am certain that is a danger which must be guarded against.  So, the question really isn’t, “why can’t free nations consent to join international unions,” as much as it is, “for what legitimate purpose does a free nation join an international union, and at what cost?”</p>
+<p>What kind of authority does the union itself claim over the rights of self-determination of it’s member states?</p>
+<p>As a “nationalist,” I am not obstinately opposed to the idea that international order might require participation in an organized bureaucratic regime meant to facilitate diplomacy and on some level help resolve disputes. But, I am very skeptical of an institution of such grandeur’s ability to restrain itself to serving only those “universal” interests (right of self-determination) for which it may legitimately be argued constitute the basis of it’s primary functions.</p>
+<p>What is to be PRODUCED by these unions?  Improved relations?  That seems valid.  Edicts which impose on member nations restrictions that filter down to the individual — even abstractly?  That seems like a bridge too far.</p>
+<p>If it’s actions create obligations and enforcement mechanisms then it assumes too much power that it cannot justly possess.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to McFly" class="comment-reply-link" href="#comment-38878" onclick='return addComment.moveForm( "comment-38878", "38878", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-38918">
+<article class="comment" id="comment-38918">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Matt <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38918">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>McFly,</p>
+<p>Yes I think you are correct. I agree with Hazony’s pragmatism in that we should not unambiguously support greater internationalization, and that international institutions can pose a barrier to freedom and sovereignty. My contention is that it is not clear that they must pose such a barrier, particularly when they are established through consensual processes.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Matt" class="comment-reply-link" href="#comment-38918" onclick='return addComment.moveForm( "comment-38918", "38918", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-38943">
+<article class="comment" id="comment-38943">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					KD <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38943">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Matt:  As I see it, the chief problem of international institutions is their ability to effectively mobilize and exercise force in the international arena.  The modern system of nation-states came about because nation-states proved to be the most effective means of mobilizing and exercising force.  When nations are at war, whether internally communist or liberal, they seem to fall back on the same nationalist motifs like the USSR and the USA in WWII.</p>
+<p>Further, if you look at Clinton’s intervention in Somalia, which was a purely humanitarian intervention and in which the US had zero national interest, it became incredibly unpopular as soon as there were a handful of US casualties.  The idea that people will fight for international institutions, or for purely humanitarian purposes “over there” has no empirical evidence to support it.  </p>
+<p>If you need nation-states to effectively project force, then you need nationalism, and you better make sure your nation-state is good at projecting force–because otherwise another nation-state is going to effectively project force against you.  Economics, “values”, individual rights, humanitarianism, all take the back seat when a people is subjected to an existential threat–they will choose survival almost every time.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KD" class="comment-reply-link" href="#comment-38943" onclick='return addComment.moveForm( "comment-38943", "38943", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-38922">
+<article class="comment" id="comment-38922">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					EK <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38922">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>John Winthrop said the individual is the fundamental unit of religion but the family is the fundamental unit of secular society.  </p>
+<p>Essentially, that is the difference between an upper-class Whig and a working-class democratic republican.</p>
+<p>Careful students of US history will observe that the US Supreme Court has been busy exalting the individual and debasing the family since 1942.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to EK" class="comment-reply-link" href="#comment-38922" onclick='return addComment.moveForm( "comment-38922", "38922", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-38881">
+<article class="comment" id="comment-38881">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Farris <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38881">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This was an excellent, balanced and well written article, both sides and arguments were well represented. Kudos to the author.<br/>
+One area the author did not touch upon was defense. When to project power presents a problem for internationalist unions as the members generally resort back to self interest before giving consent to sacrifice citizens for internationalist union interests.<br/>
+Additionally internationalist unions face the problem of some members being more equal than others. Disparity in wealth and influence produce resentment as smaller weaker members feel they are subject to the dictates of the larger stronger members. This in turn leads to resentment from the larger stronger members who come to believe they are subsidizing the smaller/weaker and view them as not pulling their weight.<br/>
+Great article though!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Farris" class="comment-reply-link" href="#comment-38881" onclick='return addComment.moveForm( "comment-38881", "38881", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-38917">
+<article class="comment" id="comment-38917">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Matt <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38917">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Thank you Farris.  Yes I think the problem of inequality is a key one here, and something that Hazony’s book could have focused on both the buttress his arguments and as a problem to face.  I would add that many of the same problems persist within “national” groups, as we try to negotiate who acquires what level of power and influence over state policy.  I suspect these problems might also explain the current appeal of right wing populism.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Matt" class="comment-reply-link" href="#comment-38917" onclick='return addComment.moveForm( "comment-38917", "38917", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-38920">
+<article class="comment" id="comment-38920">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Sydney <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38920">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Very glad to see this piece, and comments by ‘Clay Ryder’.</p>
+<p>Just this week in Lord SJW High School in BC, Canada, my 15yo was taught by SJW Teacher #347 that Trump’s American nationalism is exactly the same as Hitler’s genocidal ultra-nationalism. This lesson – and its matching  anti-nationalist, anti-nation, anti-war (because the rest of us love war…) segment of the SJW textbook – are likely timed to coincide with Remembrance Day, which the SJWs loathe and disrespect.</p>
+<p>Nice that I can point to this current piece and comments. Kids like things that are current, and my son will be able to see that there are many sides to this discussion, and that the discussion isn’t limited the globalist drivel he’s being made to swallow by a dumb, intellectually lazy, indoctrinated union teacher.</p>
+<p>Hey, Quillette: Business opportunity here. Set up a smart kids’ version of Quillette, because parents badly need someplace central to go to combat the tsunami of SJW po-mo shit they’re receiving K-12.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Sydney" class="comment-reply-link" href="#comment-38920" onclick='return addComment.moveForm( "comment-38920", "38920", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39021">
+<article class="comment" id="comment-39021">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Adette <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39021">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>A kids’ version of Quillette would be wonderful!  I know my children would love it.  They are very aware of the indoctrination process currently being used against them at school and would love more factual based information catered to their level of understanding.  A for instance:  My son’s Spanish teacher (Spanish language teacher, that is; she is white and not Hispanic) just told my son’s class to use the word cafe (brown in Spanish) for black, instead of the correct word, negro.  My every-race-under-the-sun husband had to speak to her about it.  Things are getting ridiculous.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Adette" class="comment-reply-link" href="#comment-39021" onclick='return addComment.moveForm( "comment-39021", "39021", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38944">
+<article class="comment" id="comment-38944">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Charlie <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38944">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The book is too general and does not appreciate differences. Orwell said ” Patriotism is the Nationalism is the belief in the superiority one ‘s culture and a desire to impose it on others “. Consequently nationalism is neither good good or bad unless one defines characteristics. </p>
+<p>Only a few countries have national/linguistic /religious boundaries more a few hundreds years. China is one . Egypt had the Pharonic tradition wiped out by the Arab muslim invaders.  England had had a geographic/racial /linguistic boundary since 550 AD and an English identity derived from Alfred the Great and Wessex since about 900 AD. The coronation ceremony goes back to 973 AD and Edgar. </p>
+<p>The question which needs to be asked is what traits and benefits can be associated  with the nation?. In the case of the Anglo Saxons I would suggest the following:-<br/>
+1. Speak the truth  without fear or favour. Cooperation.<br/>
+2. Elected kingship.<br/>
+3. The Witan and consultation between king and ruled.<br/>
+4. Combining AS Laws with the Bible to draft laws by which al agree to live under . First known Laws Aethelbert of Kent in about 657 AD, Sine of Wessex 700AD, Offa of Mercia 750AD, Alfred 900AD, Edward the Confessor in about 1050 AD. A tradition no one is above the law and all freemen participated in the justice system<br/>
+5. Sound control of coinage such that along with  Byzantine was accepted through Europe.<br/>
+6. Good administration and laws such that a peaceful country enabled prosperity to develop- this  William invaded because of the wealth.<br/>
+7. Aversion to slavery- St Wilfred preached against in about 1008 AD.<br/>
+8. No belief in the divine right of kings and that all wealth and power flowed downwards .<br/>
+9. No rigid feudalism until 1066 AD. The armed Fyrd meant all men were armed and capable of fighting which prevented the development of a military aristocracy and unarmed serfs.<br/>
+10. A  much more egalitarian society with minimal slavery and serfdom compared to Continental Europe.<br/>
+11. Respect for scholarship- Lindisfarne, Alfred, etc, etc.<br/>
+12. Less absolutism, more give and take and more elasticity. The City of London provided an alternative centre of power to the military aristocracy</p>
+<p>The English developed a sense of nationalism from early 900s AD.  Even after the Norman Conquest , by 1140s, those of Norman descent were calling themselves English.  The Assizes of  Arms  1182  compelling freemen to be armed recreates the Fyrd  in order to defend England  .  From 1215 to the Model Parliament of 1295 there is the evolution that even Earls consider themselves English and not just  head of a family. By 1280s Edward 1  is saying ” That which affects all must be consulted by all “.</p>
+<p>I would say that British patriotism is the willingness for a free people to defend their freedom including  right to free speech; cooperation,to live under the laws drafted by themselves and accept  everyone is equal under them;  to be consulted by the rulers; only be taxed according to rules  agreed by them, to remove those rulers  who believe they are above the law and rule without consultation and impose taxes without agreements; to own property which cannot be confiscated unless a crime has bee committed, to be tried by one’s peers,  elections to be free and free from force.  The Statutes of Westminster 1275, stated that ”  common right is to be done to all, as well poor as rich, without respect of persons; on the other, elections are to be free, and no man is by force, malice or menace, to disturb them.”</p>
+<p>The EU is an attempt to create the Holy Roman Empire  , hence references to Charlemagne, which fell apart after his death. Charlemagne believed in divine Right of Kings  In the 1930s, hardly anyone was killed in political violence. Spain was violent from 1931 onwards, France practically had a civil war in the 1930s.   Ever since the French Revolution, there has been a conflict between  Catholic Conservatism and atheistic Socialism/Marxism in Europe but this has not occurred in the UK. The EU was created so that a bureaucracy could prevent the conflicts of the 1920s and 1930s which led to WW2 which means curtailing the power of the people to  act in ways in which they disagree.  The EU appears to believe in the Divine Right of Kings. Britain has a stable system and an emotionally mature people who only voted for a few communists MPs and no Nazis. The Labour Party of the 1930s was Non Conformist Christian, democratic, patriotic and against class warfare .</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Charlie" class="comment-reply-link" href="#comment-38944" onclick='return addComment.moveForm( "comment-38944", "38944", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38946">
+<article class="comment" id="comment-38946">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					codadmin <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38946">
+						October 5, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Borders are economically inefficient to internationalists in the same way as locks are economically inefficient to burglers. </p>
+<p>And, restrictions on the free movement of labor are a necessity for any first world welfare state, for obvious reasons.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to codadmin" class="comment-reply-link" href="#comment-38946" onclick='return addComment.moveForm( "comment-38946", "38946", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-38964">
+<article class="comment" id="comment-38964">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Hank Vandenburgh <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38964">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>He’s Habermasian in the defense of groups as<br/>
+political leaders, I favor his conclusions to an extent, but believe individuals are ideally key to political stance. Tradition should be deemphasized. Nations or macro-nations (the US, the EU) are the only potential repositories for ameliorative political outcomes. Marcuse (commodification in One Dimensional Man) is far more key to changing sexual morality. You can’t unscramble this egg.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Hank Vandenburgh" class="comment-reply-link" href="#comment-38964" onclick='return addComment.moveForm( "comment-38964", "38964", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-38994">
+<article class="comment" id="comment-38994">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Doug Deeper <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-38994">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Was the EU even possible without its unique history, 70 years of sovereign nations protected by one super power, the US, with limited intrusion into European affairs.  I would contend that only such an unusual incubation period makes possible such a creation as the EU.  But would it have ever been possible had Europe needed to defend itself against the Soviet Union and other powers.<br/>
+This reminds me of the only stable success of relatively pure communism, the Israeli Kibbutz system.  This also was a product of a period of time when Israelis were willing to make enormous personal sacrifices due to the enormity of the external threats.  As young Israelis gained confidence in the nation’s security, the Kibbutz system disappeared.<br/>
+Is it possible to see either of these as models in general for human organization when they are products of extraordinary conditions?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Doug Deeper" class="comment-reply-link" href="#comment-38994" onclick='return addComment.moveForm( "comment-38994", "38994", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39053">
+<article class="comment" id="comment-39053">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Greg Maxwell <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39053">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Why is it that people who imagine themselves to be intellectual have such a lazy streak in their writing that they use idiotic short-cuts like “right-wing nationalist”? Those are little more than vague buzzwords. These are lazy generalizations that serve no purpose other than cutting corners. Jeez, is it that hard to spend 7 extra words to explain what you fantasize a left-wing or right-wing ‘nationalist’ is – it’s not like this was a two sentence opinion piece. Lazy.<br/>
+Values have nothing to do with relativistic directions like right or left, up or down. And what has believing in the idea of individual sovereignty of nations got to do with “nationalist” and all the ugly implications that kind of laziness implies?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Greg Maxwell" class="comment-reply-link" href="#comment-39053" onclick='return addComment.moveForm( "comment-39053", "39053", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39072">
+<article class="comment" id="comment-39072">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Matt <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39072">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Lol I referred to “right-wing nationalism” since it is a book about the virtue of “nationalism” by someone who identifies with what is broadly termed the political right.  Also it strikes me as far more “lazy” to get hung up on a relatively specific label in the introduction while ignoring the rest of the review.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Matt" class="comment-reply-link" href="#comment-39072" onclick='return addComment.moveForm( "comment-39072", "39072", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-39074">
+<article class="comment" id="comment-39074">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Matt <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39074">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Frankly if you’re angry at anyone, get pissed at the author for using the term “nationalism” in his title and throughout the book.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Matt" class="comment-reply-link" href="#comment-39074" onclick='return addComment.moveForm( "comment-39074", "39074", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-39098">
+<article class="comment" id="comment-39098">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Greg Maxwell <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39098">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>LOL! No, what you said was “to the rise of right wing nationalists such as Donald Trump in the United States.” I guess you were too lazy to include the whole comment.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Greg Maxwell" class="comment-reply-link" href="#comment-39098" onclick='return addComment.moveForm( "comment-39098", "39098", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-39115">
+<article class="comment" id="comment-39115">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Matt <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39115">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>…yes. And my point, per the earlier comment, is that I used that terminology because it is what is deployed in the book I reviewed.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Matt" class="comment-reply-link" href="#comment-39115" onclick='return addComment.moveForm( "comment-39115", "39115", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39062">
+<article class="comment" id="comment-39062">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					david of Kirkland <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39062">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>If western values suggest national liberty over global government, why do they deny the nation as the central focus within the country, where it instead strives for individual liberty?  Shouldn’t western values that suggest the individual is central within a nation embrace the notion that the individual is central across the world?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to david of Kirkland" class="comment-reply-link" href="#comment-39062" onclick='return addComment.moveForm( "comment-39062", "39062", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39073">
+<article class="comment" id="comment-39073">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Matt <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/05/the-virtue-of-nationalism-a-review/#comment-39073">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>David, </p>
+<p>One of Hazony’s challenges is to such arguments for liberal individualism. He is far closer to what is sometimes referred to as the communitarian tradition, stressing the moral centrality of group identity. </p>
+<p>I personally disagree, but there are decent arguments for this position.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Matt" class="comment-reply-link" href="#comment-39073" onclick='return addComment.moveForm( "comment-39073", "39073", "respond", "84561" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- end .comment-list -->
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply					<small><a href="/2018/10/05/the-virtue-of-nationalism-a-review/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small>
+</h3>
+<form class="comment-form" id="commentform">
+<iframe class="jetpack_remote_comment" id="jetpack_remote_comment" name="jetpack_remote_comment" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&amp;postid=84561&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=0&amp;stb_enabled=0&amp;show_avatars=0&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_AU&amp;jetpack_version=6.3.2&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;sig=fa36854ec295f6c06d13f517ce94820da80331c4#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F05%2Fthe-virtue-of-nationalism-a-review%2F" style="width:100%; height: 430px; border:0;" title="Comment Form"></iframe>
+<!--[if !IE]><!-->
+<script>document.addEventListener('DOMContentLoaded',function(){var commentForms=document.getElementsByClassName('jetpack_remote_comment');for(var i=0;i<commentForms.length;i++){commentForms[i].allowTransparency=false;commentForms[i].scrolling='no';}});</script>
+<!--<![endif]-->
+</form>
+</div>
+<input id="comment_parent" name="comment_parent" type="hidden" value=""/>
+</div><!-- #comments .comments-area -->
+<div class="nav-wrap cf">
+<nav id="nav-single">
+<div class="nav-previous"><a href="https://quillette.com/2018/10/04/headline-rhymes-6/" rel="prev"><span class="meta-nav">Previous Post</span>Headline Rhymes</a></div>
+<div class="nav-next"><a href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" rel="next"><span class="meta-nav">Next Post</span>Writers Behind ‘Grievance Studies Scandal’ Address Criticisms</a></div>
+</nav><!-- #nav-single -->
+</div><!-- end .nav-wrap -->
+</div><!-- end #primary -->
+<div class="default-sidebar widget-area" id="blog-sidebar" role="complementary">
+<aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-25"><a alt="Ad" href="https://www.romepix.com/prints/a-love-letter-to-rome-photo-book-5fbkk-9f3yy" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/27050224/ad8.jpg" style="width: 100%;"/></a></aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-6"> <div id="fb-root"></div>
+<div class="fb-page" data-height="432" data-hide-cover="false" data-href="https://www.facebook.com/QuilletteM/" data-show-facepile="true" data-show-posts="false" data-width="340">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/QuilletteM/"><a href="https://www.facebook.com/QuilletteM/"></a></blockquote></div>
+</div>
+</aside><aside class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Stories</h3><ul class="widgets-list-layout no-grav">
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" title="The Grievance Studies Scandal: Five Academics Respond">
+<img alt="The Grievance Studies Scandal: Five Academics Respond" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/03013837/Image_1-e1538533061112.jpg?fit=1200%2C756&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/">
+								The Grievance Studies Scandal: Five Academics Respond							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" title="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms">
+<img alt="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05124955/MG_1643-Edit.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/">
+								Writers Behind ‘Grievance Studies Scandal’ Address Criticisms							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" title="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism">
+<img alt="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05061119/Communism.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/">
+								Don't Get Fooled Again: The Continuing Necessity of Anti-Communism							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title='When "Believe the Victim" Backfires'>
+<img alt='When "Believe the Victim" Backfires' class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">
+								When "Believe the Victim" Backfires							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="A New Kind of Economy—An Interview with Andrew Yang">
+<img alt="A New Kind of Economy—An Interview with Andrew Yang" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">
+								A New Kind of Economy—An Interview with Andrew Yang							</a>
+</div>
+</li>
+</ul>
+</aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-16"><a alt="Ad" href="http://hac.bard.edu/" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/07/11000422/600-500-ad_quillette2-300x250.png" style="width: 100%;"/></a></aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-19"><a alt="Ad" href="https://www.patreon.com/Quillette"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/18030918/Q19-September.jpeg"/></a></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="widget-title">Share</h3><div class="textwidget custom-html-widget"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<ul style="padding:0">
+<li>
+<button onclick="window.open('https://www.facebook.com/dialog/share?app_id=586833251482093&amp;display=popup&amp;href=' + encodeURIComponent(document.URL) + '&amp;redirect_uri=' + encodeURIComponent(document.URL), '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-facebook-official" style="font-size:48px"></i></button>
+</li>
+<li>
+<button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;via=QuilletteM', '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-twitter" style="font-size:48px"></i></button>
+</li>
+</ul></link></div></aside></div><!-- end #blog-sidebar -->
+<div class="cf" id="footerwidgets-wrap">
+<div class="default-sidebar widget-area" id="footer-five" role="complementary">
+<aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2"><div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="5" id="eu-cookie-law">
+<form method="post">
+<input class="accept" type="submit" value="Close and accept"/>
+</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br/>
+To find out more, including how to control cookies, see here:
+	<a href="https://automattic.com/cookies/">
+		Cookie Policy	</a>
+</div>
+</aside> </div><!-- end #footer-five -->
+</div><!-- end #footerwidgets-wrap -->
+<footer class="site-footer cf" id="colophon">
+<p class="site-description">Free Thought Lives</p>
+<div id="footer-social-nav">
+<h3 class="social-nav-title">Follow Us</h3>
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71138" id="menu-item-71138"><a href="https://www.facebook.com/Quillette-923721701039919/">Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71135" id="menu-item-71135"><a href="https://twitter.com/QuilletteM">Menu Item</a></li>
+</ul> </div><!-- end #footer-social -->
+<div id="site-info">
+<ul class="credit" role="contentinfo">
+<li>Copyright © 2018 Quillette Pty Ltd | All Rights Reserved</li>
+</ul><!-- end .credit -->
+</div><!-- end #site-info -->
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+</div><!-- end #container -->
+<div style="display:none">
+</div>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/quillette.com\/2018\/10\/05\/the-virtue-of-nationalism-a-review\/":84561};</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_AU/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}
+jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}
+(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/platform.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')
+IN.parse();});</script> <div id="sharing_email" style="display: none;">
+<form action="/2018/10/05/the-virtue-of-nationalism-a-review/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="https://quillette.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/comment-reply.min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var jpfbembed={"appid":"249643311490","locale":"en_US"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var q2w3_sidebar_options=[{"sidebar":"blog-sidebar","margin_top":30,"margin_bottom":0,"stop_id":"footerwidgets-wrap","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["adwidget_imagewidget-19","custom_html-2"]}];
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.3.2" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript"></script>
+<script async="async" src="https://quillette.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.8" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var sharing_js_options={"lang":"en","counts":"1"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.3.2" type="text/javascript"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+<script type="text/javascript">(function(){var comm_par_el=document.getElementById('comment_parent'),comm_par=(comm_par_el&&comm_par_el.value)?comm_par_el.value:'',frame=document.getElementById('jetpack_remote_comment'),tellFrameNewParent;tellFrameNewParent=function(){if(comm_par){frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84561&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=fa36854ec295f6c06d13f517ce94820da80331c4#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F05%2Fthe-virtue-of-nationalism-a-review%2F"+'&replytocom='+parseInt(comm_par,10).toString();}else{frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84561&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=fa36854ec295f6c06d13f517ce94820da80331c4#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F05%2Fthe-virtue-of-nationalism-a-review%2F";}};if('undefined'!==typeof addComment){addComment._Jetpack_moveForm=addComment.moveForm;addComment.moveForm=function(commId,parentId,respondId,postId){var returnValue=addComment._Jetpack_moveForm(commId,parentId,respondId,postId),cancelClick,cancel;if(false===returnValue){cancel=document.getElementById('cancel-comment-reply-link');cancelClick=cancel.onclick;cancel.onclick=function(){var cancelReturn=cancelClick.call(this);if(false!==cancelReturn){return cancelReturn;}
+if(!comm_par){return cancelReturn;}
+comm_par=0;tellFrameNewParent();return cancelReturn;};}
+if(comm_par==parentId){return returnValue;}
+comm_par=parentId;tellFrameNewParent();return returnValue;};}
+document.addEventListener('DOMContentLoaded',function(){var iframe_url="https:\/\/jetpack.wordpress.com";if(window.postMessage){if(document.addEventListener){window.addEventListener('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}else if(document.attachEvent){window.attachEvent('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}}})})();</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-201841.js" type="text/javascript"></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.3.2',blog:'101756249',post:'84561',tz:'0',srv:'quillette.com'}]);_stq.push(['clickTrackerInit','101756249','84561']);</script>
+</body>
+</html>

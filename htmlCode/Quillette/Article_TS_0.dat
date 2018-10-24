@@ -1,0 +1,1530 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="https://quillette.com/xmlrpc.php" rel="pingback">
+<!--[if lt IE 9]>
+		<script src="https://quillette.com/wp-content/themes/zuki/js/html5.js"></script>
+	<![endif]-->
+<title>When "Believe the Victim" Backfires - Quillette</title>
+<!-- This site is optimized with the Yoast SEO plugin v7.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content='When "Believe the Victim" Backfires - Quillette' property="og:title"/>
+<meta content="A few years ago the University of Montana, where I was teaching, found itself at the epicenter of a national crisis of campus rape. Even as the U. S. Department of Education directed colleges and universities to lower the level of evidence necessary for conviction in sexual assault cases, the Department of Justice censured the lax investigation and prosecution of such cases at UM in particular, in effect making UM an example to the nation. But not only was UM under the eyes of federal monitors. DOJ made it known that it would also be looking closely into the handling of allegations of rape in the city of Missoula, of which UM is part. In this charged atmosphere, and with the national press looking on as well, two members of the UM football team—one of them none other than the quarterback and team captain—were charged with sexual intercourse without consent. The respective incidents took place two years apart. In the first case, where the crime was reported to the police fifteen months after it occurred, …" property="og:description"/>
+<meta content="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" property="og:url"/>
+<meta content="Quillette" property="og:site_name"/>
+<meta content="https://www.facebook.com/QuilletteM/" property="article:publisher"/>
+<meta content="Top Stories" property="article:section"/>
+<meta content="2018-10-06T03:10:14+00:00" property="article:published_time"/>
+<meta content="2018-10-06T20:42:56+00:00" property="article:modified_time"/>
+<meta content="2018-10-06T20:42:56+00:00" property="og:updated_time"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1" property="og:image"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1" property="og:image:secure_url"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="800" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="A few years ago the University of Montana, where I was teaching, found itself at the epicenter of a national crisis of campus rape. Even as the U. S. Department of Education directed colleges and universities to lower the level of evidence necessary for conviction in sexual assault cases, the Department of Justice censured the lax investigation and prosecution of such cases at UM in particular, in effect making UM an example to the nation. But not only was UM under the eyes of federal monitors. DOJ made it known that it would also be looking closely into the handling of allegations of rape in the city of Missoula, of which UM is part. In this charged atmosphere, and with the national press looking on as well, two members of the UM football team—one of them none other than the quarterback and team captain—were charged with sexual intercourse without consent. The respective incidents took place two years apart. In the first case, where the crime was reported to the police fifteen months after it occurred, …" name="twitter:description"/>
+<meta content='When "Believe the Victim" Backfires - Quillette' name="twitter:title"/>
+<meta content="@QuilletteM" name="twitter:site"/>
+<meta content="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1" name="twitter:image"/>
+<meta content="@QuilletteM" name="twitter:creator"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/quillette.com\/","sameAs":["https:\/\/www.facebook.com\/QuilletteM\/","https:\/\/www.linkedin.com\/company\/quillette-magazine","https:\/\/twitter.com\/QuilletteM"],"@id":"https:\/\/quillette.com\/#organization","name":"Quillette","logo":"http:\/\/quillette.com\/wp-content\/uploads\/2017\/01\/quillette-Q-512pxby512px-white-on-black-0n-574pxby574px-transparency.png"}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://quillette.com/feed/" rel="alternate" title="Quillette » Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/comments/feed/" rel="alternate" title="Quillette » Comments Feed" type="application/rss+xml"/>
+<link href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/feed/" rel="alternate" title="Quillette » When “Believe the Victim” Backfires Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/quillette.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link href="https://quillette.com/wp-content/plugins/amazon-polly/public/css/amazonpolly-public.css?ver=1.0.0" id="amazonpolly-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-includes/css/dashicons.min.css?ver=4.9.8" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/style.css?ver=4.9.8" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zuki/js/flex-slider/flexslider.css?ver=4.9.8" id="zuki-flex-slider-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%7CKarla%3A400%2C400italic%2C700%2C700italic%26subset%3Dlatin%2Clatin-ext&amp;subset=latin%2Clatin-ext" id="zuki-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1" id="genericons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/themes/zukichildthemefolder/style.css?ver=20140630" id="zuki-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Inline jetpack_facebook_likebox -->
+<style id="jetpack_facebook_likebox-inline-css" type="text/css">.widget_facebook_likebox{overflow:hidden}</style>
+<link href="https://quillette.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" id="jetpack-widget-social-icons-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-1 .column-1,2{padding:4px}.tablepress-id-1 .column-1{width:40%}.tablepress-id-1 .column-2{width:40%}</style>
+<link href="https://quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/plugin/templates/default/style.css?ver=4.9.8" id="cb_p6-css-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1" id="social-logos-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://quillette.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/amazon-polly/public/js/amazonpolly-public.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/flex-slider/jquery.flexslider-min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/themes/zuki/js/functions.js?ver=20140426" type="text/javascript"></script>
+<link href="https://quillette.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://quillette.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://quillette.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.8" name="generator"/>
+<link href="https://wp.me/p6SXrP-lYj" rel="shortlink"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fwhen-believe-the-victim-backfires%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://quillette.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fwhen-believe-the-victim-backfires%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script data-cfasync="false" type="text/javascript">var _mmunch={'front':false,'page':false,'post':false,'category':false,'author':false,'search':false,'attachment':false,'tag':false};_mmunch['post']=true;_mmunch['postData']={"ID":84463,"post_name":"when-believe-the-victim-backfires","post_title":"When \"Believe the Victim\" Backfires","post_type":"post","post_author":"531","post_status":"publish"};_mmunch['postCategories']=[{"term_id":124,"name":"Top Stories","slug":"top-stories","term_group":0,"term_taxonomy_id":124,"taxonomy":"category","description":"","parent":0,"count":265,"filter":"raw","cat_ID":124,"category_count":265,"category_description":"","cat_name":"Top Stories","category_nicename":"top-stories","category_parent":0}];_mmunch['postTags']=false;_mmunch['postAuthor']={"name":"Stewart Justman","ID":531};</script><script async data-cfasync="false" data-mailmunch-site-id="405309" data-plugin="cc_mm" id="mailmunch-script" src="//a.mailmunch.co/app/v1/site.js"></script>
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+function external_links_in_new_windows_loop(){if(!document.links){document.links=document.getElementsByTagName('a');}
+var change_link=false;var force='';var ignore='';for(var t=0;t<document.links.length;t++){var all_links=document.links[t];change_link=false;if(document.links[t].hasAttribute('onClick')==false){if(all_links.href.search(/^http/)!=-1&&all_links.href.search('quillette.com')==-1){change_link=true;}
+if(force!=''&&all_links.href.search(force)!=-1){change_link=true;}
+if(ignore!=''&&all_links.href.search(ignore)!=-1){change_link=false;}
+if(change_link==true){document.links[t].setAttribute('onClick','javascript:window.open(\''+all_links.href+'\'); return false;');document.links[t].removeAttribute('target');}}}}
+function external_links_in_new_windows_load(func)
+{var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+external_links_in_new_windows_load(external_links_in_new_windows_loop);
+//]]></script>
+<script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}
+window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//quillette.com/?wordfence_lh=1&hid=2929EE1850820252D825B998C03B3DA6');</script>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="//i1.wp.com" rel="dns-prefetch"/>
+<link href="//i2.wp.com" rel="dns-prefetch"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">.widget-area p.summary a,.entry-content p a,.entry-content li a,.page .entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a{color: }.widget_zuki_recentposts_color .bg-wrap{background: }.archive-menu-content{background: }</style>
+<style id="zuki-header-css" type="text/css">#site-title h1,#site-title h2.site-description{display:none}</style>
+<style type="text/css">.jetpack-lazy-image{display:none}.jetpack-lazy-images-js .jetpack-lazy-image{display:inline-block}</style>
+<script>document.documentElement.classList.add('jetpack-lazy-images-js');</script>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192"/>
+<link href="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon-precomposed"/>
+<meta content="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10212458/cropped-Q_black2.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">#menu ul li{font-size:12px;color:#000}h1,h2{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}aside.widget.AdWidget_HTMLWidget iframe{max-width:100%;margin-left:0;margin-right:0}@media screen and (min-width:1023px){.blog #primary,.attachment #primary,.single-post #primary,.error404 #primary,.search-no-results #primary,.archive #primary,.search-results #primary,#front-content-one,#front-content-two{width:60%!important}#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:36%!important}}@media screen and (min-width:1260px){#blog-sidebar,#front-sidebar-one,#front-sidebar-two{width:27%!important}}#post-82069 ol[type="a"]{list-style:lower-alpha}#post-82069 ol[type="i"]{list-style:lower-roman}</style>
+</link></link></meta></head>
+<body class="post-template-default single single-post postid-84463 single-format-standard">
+<div id="container">
+<header class="cf" id="masthead" role="banner">
+<nav id="header-top-nav">
+<ul class="menu" id="menu-about"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71157" id="menu-item-71157"><a href="https://quillette.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70992" id="menu-item-70992"><a href="https://quillette.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81209" id="menu-item-81209"><a href="https://quillette.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82074" id="menu-item-82074"><a href="https://quillette.com/terms-of-service/">Terms of Service</a></li>
+</ul> </nav><!-- end #header-top -->
+<div id="site-title">
+<div id="site-header">
+<a href="https://quillette.com/" rel="home"><img alt="" height="491" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/03/10215232/cropped-Quillette_white1.png" width="1500"/></a>
+</div><!-- end #site-header -->
+<h1><a href="https://quillette.com/" title="Quillette">Quillette</a></h1>
+<h2 class="site-description">Free Thought Lives</h2>
+</div><!-- end #site-title -->
+<a href="#menuopen" id="mobile-menu-toggle"><span>Menu</span></a>
+<div class="cf" id="mobile-menu-wrap">
+<nav class="cf" id="site-nav">
+<ul class="nav-menu" id="menu-categories"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71055" id="menu-item-71055"><a href="https://quillette.com/category/features/">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71142" id="menu-item-71142"><a href="https://quillette.com/category/science-tech/">Science / Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71141" id="menu-item-71141"><a href="https://quillette.com/category/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71348" id="menu-item-71348"><a href="https://quillette.com/category/review/">Review</a></li>
+</ul> </nav><!-- end #site-nav -->
+<a href="#menuclose" id="mobile-menu-close"><span>Close Menu</span></a>
+</div><!-- end #mobile-menu-wrap -->
+</header><!-- end #masthead -->
+<div id="main-wrap">
+<div class="site-content cf" id="primary" role="main">
+<article class="post-84463 post type-post status-publish format-standard has-post-thumbnail hentry category-top-stories" id="post-84463">
+<header class="entry-header">
+<div class="entry-cats">
+<a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+<div class="entry-date">
+			Published on <a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">October 6, 2018</a>
+</div><!-- end .entry-date -->
+<div class="entry-comments">
+<a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comments">comments 51</a> </div><!-- end .entry-comments -->
+<h1 class="entry-title">When “Believe the Victim” Backfires</h1>
+<div class="entry-author">
+			written by <a href="https://quillette.com/author/stewart-justman/" title="All posts by Stewart Justman">Stewart Justman</a> </div><!-- end .entry-author -->
+</header><!-- end .entry-header -->
+<div class="entry-thumbnail">
+<a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title="Permalink to When “Believe the Victim” Backfires"><img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg 1200w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg 300w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg 768w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg 1024w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg 840w" height="800" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="1200"/></a>
+</div><!-- end .entry-thumbnail -->
+<div class="entry-content">
+<div class="mailmunch-forms-before-post" style="display: none !important;"></div><p>A few years ago the University of Montana, where I was teaching, found itself at the epicenter of a national crisis of campus rape. Even as the U. S. Department of Education directed colleges and universities to lower the level of evidence necessary for conviction in sexual assault cases, the Department of Justice censured the lax investigation and prosecution of such cases at UM in particular, in effect making UM an example to the nation. But not only was UM under the eyes of federal monitors. DOJ made it known that it would also be looking closely into the handling of allegations of rape in the city of Missoula, of which UM is part.</p>
+<p>In this charged atmosphere, and with the national press looking on as well, two members of the UM football team—one of them none other than the quarterback and team captain—were charged with sexual intercourse without consent. The respective incidents took place two years apart. In the first case, where the crime was reported to the police fifteen months after it occurred, the facts were not in dispute: a woman was raped while asleep. The perpetrator pleaded guilty and in 2013 was sentenced to thirty years in prison, with twenty suspended. Here I address the second case, in which a woman claimed that quarterback Jordan Johnson raped her after she refused to engage in intercourse after mutual petting, while he maintained that she never refused and he would have stopped if she had. Johnson was acquitted by a jury, also in 2013.</p>
+<p><img alt class="alignright wp-image-84464 size-medium jetpack-lazy-image" data-lazy-sizes="(max-width: 195px) 100vw, 195px" data-lazy-src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28144832/51X0j5XoRTL._SX322_BO1204203200_-195x300.jpg?resize=195%2C300&amp;ssl=1" data-lazy-srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28144832/51X0j5XoRTL._SX322_BO1204203200_.jpg 195w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28144832/51X0j5XoRTL._SX322_BO1204203200_.jpg 324w" data-recalc-dims="1" height="300" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" width="195"><noscript><img alt="" class="alignright wp-image-84464 size-medium" data-recalc-dims="1" height="300" sizes="(max-width: 195px) 100vw, 195px" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28144832/51X0j5XoRTL._SX322_BO1204203200_-195x300.jpg?resize=195%2C300&amp;ssl=1" srcset="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28144832/51X0j5XoRTL._SX322_BO1204203200_.jpg 195w, https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28144832/51X0j5XoRTL._SX322_BO1204203200_.jpg 324w" width="195"/></noscript>Both sets of events are chronicled in painful detail by Jon Krakauer in <a href="https://www.amazon.com/Missoula-Rape-Justice-System-College/dp/0804170568/"><em>Missoula: Rape and the Justice System in a College Town</em></a> (2015), a work fired by the belief that the authorities in Missoula and elsewhere, and the legal system in general, all too often serve the perpetrators instead of the victims of rape. Krakauer pleads for policies that will aid the prosecution of sexual assault in the courts and guarantee the victims of such crimes the sympathy of the police in particular. Though he acknowledges the rights of the accused and knows that demanding an end to the presumption of innocence in rape cases would provoke outrage, Krakauer clearly leans to the view that the presumption of innocence has done great injury to victims of rape and constitutes, therefore, an outrage in its own right. It’s a measure of Krakauer’s antipathy to what was once called the liberal tradition that he repeatedly endorses rules requiring the police not just to handle allegations of sexual assault with due sensitivity, but to believe every allegation as soon as they learn of it. He cites with approval, for example, a new policy of the Missoula police mandating “that investigators believe everybody who comes through their doors complaining of a sexual assault.”</img></p>
+<p>Can belief be prescribed? Locke and Jefferson thought not. Locke’s <em>Letter Concerning Toleration</em> (1689), which underwrites the separation of church and state in our nation, constitutes an extended argument against the proposition that a human being can be compelled to believe a religious tenet or indeed anything at all. “Such is the nature of the understanding that it cannot be compelled to the belief of anything by outward force.” It was under Locke’s influence that Jefferson began the “Bill for Establishing Religious Freedom” (1779) by stipulating that “the opinions and beliefs of men depend not on their own will, but follow involuntarily the evidence proposed to their minds.” Krakauer turns Jefferson on his head, making belief voluntary and enforceable and demanding that the police credit accusations of rape before investigating the evidence. Not once in his tireless polemic does he concede that any problem, philosophical or otherwise, attaches to the policy of requiring a fellow citizen in an open society to believe something.</p>
+<p>As a practical matter, the belief rule endorsed by Krakauer will tend to inhibit any line of inquiry that could indicate doubt of a report of sexual assault. Krakauer emphasizes that the rule must govern the investigation of such an assault until contrary evidence (if any) overcomes it; but unless the story of the “victim” is a complete fabrication (as in the Duke lacrosse case), it’s hard to see how evidence against Jane Roe’s claims can mount up if the investigators believe them as required, or merely refrain from questioning them. However, if the case goes to trial, the ground rules will be less accommodating and the infamous difficulty of getting convictions in rape cases will come into play. At that point each and every one of her claims will be subjected to all the questioning from which they have been carefully shielded, as happened in the second of the two cases occupying most of the Krakauer book: that of the acquitted quarterback. In that instance, the policy of believing the victim from the beginning delivered her ultimately into a courtroom where the claims accepted by investigators were torn to pieces, with damage to her that can scarcely be imagined.</p>
+<p>Records of the case in question show how weak, and therefore how vulnerable to demolition in the courtroom, evidence accepted by a sympathetic investigator can be. On March 27, 2012, UM’s Dean of Students stated in a letter to the accused quarterback, Jordan Johnson, that he had found by a preponderance of evidence—the standard required by DOE—that Johnson raped the student given the pseudonym Cecilia Washburn by Krakauer. He recommended expulsion, a penalty upheld by UM’s President, Royce Engstrom. The only evidence cited by the dean is the following:</p>
+<ol>
+<li>“Contrary to your repeated assertion, text messages between you and the victim prove you and the victim were more than mere acquaintances.”</li>
+<li>“Your previous conduct in your University residence hall.” [Johnson had been disciplined for being drunk and disorderly.]</li>
+<li>“Your assertion that you and the victim had jointly initiated getting together the night of the rape; a copy of your text message to the victim clearly proves you initiated the meeting.”</li>
+<li>“The complete and immediate cessation of your friendship with the victim following the night of the rape.”</li>
+<li>“Your failure to attempt to retrieve your watch that you forgot at the victim’s house, despite your assertion that this watch had been a present to you from your sister.”</li>
+</ol>
+<p>Despite the dean’s robust language, none of this “evidence” establishes that Jordan Johnson raped Cecilia Washburn. Indeed, to someone not already convinced of Johnson’s guilt, the entire stack amounts to little if anything. That Johnson and his accuser were more than acquaintances proves precisely nothing, as is also true of the trail of messages showing that the encounter in question was initiated by Johnson. Johnson’s offense of being drunk and disorderly at a party a year before has no bearing on the case. The “immediate and complete cessation” of friendship covers a total of eight days, the period from the date of the alleged rape (February 4) to the date of Johnson’s receipt of a letter from the dean notifying him that he was charged with rape (February 12), after which we might well expect a total severance of communication. Indeed, Cecilia Washburn obtained a restraining order against Johnson on March 9, after she saw him at a distance. What about the watch?<em> </em>Only if you already believe that Jordan Johnson raped Cecilia Washburn does it becoming incriminating.  “He left an item of sentimental value at the victim’s house because he couldn’t bring himself to confront the woman he raped.  It’s a damning confession of guilt.” If you don’t presume the defendant’s guilt, his failure to retrieve a watch certainly doesn’t establish it. While the dean accepted the accuser’s account without being required to do so by a belief rule, his enumeration of the evidence against Johnson shows how greatly a belief in the truth of an allegation of sexual assault can change the weight and value of the evidence itself.</p>
+<p>Under the influence of a presumption of guilt, many details ambiguous in themselves suddenly assume the appearance of incriminating evidence. In an unrelated case, the same Dean of Students included the theft of the victim’s jeans as evidence against a student accused and convicted of rape. While the jeans could have been taken as a trophy of a crime, they could also have been taken as a souvenir of a sexual encounter the male acknowledged to be his first. In the Jordan Johnson case, both the prosecutor and Krakauer himself construe the fact that Cecilia Washburn “had not showered for more than twenty-four hours” at the time of her encounter with Johnson as evidence that she had no intention of a sexual liaison (even though she is reported by a witness to have said to Johnson the night before, “Jordy, I would do you anytime”). Unless governed by a prior belief in the guilt of the accused, the significance of a detail like this is too indeterminate to bear the weight of evidence. As in these instances, the presumption of guilt generally acts as a heat source that inflames the meaning of what would otherwise be equivocal or incidental details.</p>
+<p>When we refer to someone who brings an allegation of sexual assault as a <em>victim</em> of sexual assault—as in the “always believe the victim” policy—prejudgments that influence the weight and power of the evidence have already taken effect.</p>
+<p style="text-align: center;">*     *     *</p>
+<p>Some years before the Jordan Johnson case, I was instrumental in raising the burden of proof in disciplinary hearings under the UM Student Conduct Code to “clear and convincing evidence,” a standard higher than preponderance but lower than the criminal standard of guilt beyond a reasonable doubt. I reasoned that no student should be disciplined, even possibly expelled from the University, on the strength of evidence that was unclear and unconvincing. UM’s then-Legal Counsel agreed, the change was made, and there the UM Student Conduct Code stood until the Obama administration in 2011 ordered the standard of evidence in all such documents lowered to expedite the prosecution of sexual assault.</p><div class="mailmunch-forms-in-post-middle" style="display: none !important;"></div>
+<p>When Jordan Johnson appealed his expulsion from UM to the Commissioner of Higher Education, Clayton Christian, in 2012, the Commissioner reverted to the “clear and convincing evidence” standard, voided Johnson’s conviction, and remanded the case to UM, where a new dean of students (the original dean having retired) now determined that “there was not clear and convincing evidence to find that [Johnson] committed sexual misconduct.” (Krakauer filed a lawsuit against Christian over the latter’s refusal to release documents pertaining to the Jordan Johnson case on grounds of privacy.) Both the DOJ and the DOE then reprimanded UM for failing to use the preponderance standard as required. In a case like that of Jordan Johnson where the facts are disputed and the evidence unclear, it’s plain that much can depend on the evidentiary standard in use.</p>
+<p>Mandated specifically to generate more convictions at the campus level for sexual assault, the preponderance standard represents the lowest evidentiary threshold, signifying only that it’s more probable than not that the defendant committed the offense. A dean who took to heart Krakauer’s argument that true allegations of rape vastly outnumber false ones could easily conclude that <em>any</em> allegation of rape that comes before him or her is automatically more likely to be true than not. Maybe it was this sort of thinking that led the original Dean of Students to accept evidence in the Johnson case whose probative value depends entirely on presumption.  In my estimation the evidence against Johnson cited by the dean is so flimsy that it fails to meet even the lowest standard. How then can evidence like this hold up in a courtroom where the burden of proof is set at the highest level known to the law—guilt beyond a reasonable doubt?</p>
+<p>The dean’s tribunal was not a court of law. Non-university investigators who interpret equivocal evidence as highly incriminating (because they interpret it in the light of a compulsory belief in the guilt of the accused) may find themselves leading the victim down a garden path that ends in a court of law. Again, this is just what happened in the Johnson case, where the jury delivered a swift verdict of Not Guilty in direct opposition to the judgments and prejudgments of advocates, sympathetic investigators and Jon Krakauer.</p>
+<p>Press reports as well as Krakauer’s interview with a juror suggest that the jury couldn’t be sure that Cecilia Washburn communicated refusal to Jordan Johnson, as a result of which it acquitted Johnson after only two and a half hours of deliberation. Paradoxically enough, even Krakauer, who views the trial as a travesty of justice, concedes that the evidence put forward by the prosecution was open to reasonable doubt:</p>
+<blockquote><p>Cecilia Washburn was lying, or Jordan Johnson was lying.  Or perhaps both of them were misrepresenting key details of their respective accounts.  There wasn’t enough incontrovertible evidence to prove whose version came closest to the truth, however. …  Most of the evidence was subject to conflicting interpretations.</p></blockquote>
+<p>Given the less than compelling evidence against the accused, how could the prosecution team have exposed Cecilia Washburn to the distinct risk of a devastating public defeat? I suggest that because they, like the dean and the victim’s advocates, <em>believed </em>Cecilia Washburn (with all this credence creating an effect of mutual reinforcement), evidence that was obviously “subject to conflicting interpretations” seemed to them indisputable enough to withstand the fray of the courtroom.  It was not.</p>
+<p>According to Krakauer, a police investigation of a report of rape should always “begin by believing the victim.” However, once belief is invested, evidence can look a lot stronger than it actually is, as in UM’s adjudication of the Jordan Johnson case. Once belief is invested, a case can even become a sort of metaphysical drama, which is why the question of compelled belief leads back to the 17<sup>th</sup> century wars of religion, and why Krakauer’s advocacy has the tone of a crusade.  In the courtroom, however, no one can claim a right to be believed. No wonder Krakauer gives the distinct impression that he detests the open skepticism to which Cecilia Washburn was subjected in court, and, beyond this, that he detests the adversarial system of justice itself.</p>
+<p>For now, we have a system in which the defense and prosecution clash, defendants are to be presumed innocent, and evidence must meet a high standard in order to convict. This being so, a woman who claims to have been sexually assaulted may be ill served by receiving from investigators the automatic credence she will not receive if her case goes to court. Let the story of Cecilia Washburn serve as a cautionary example.</p>
+<p> </p>
+<p><strong>Stewart Justman taught English and humanities at the University of Montana from 1975 to 2016. He writes on literature and medicine and has received the PEN Award for the Art of the Essay.</strong></p>
+<div class="mailmunch-forms-after-post" style="display: none !important;"></div><div class="cb_p6_patreon_button" style="text-align:left !important;margin-top:18px;margin-bottom:18px;"><div class="cb_p6_message_over_post_button" style="font-size:14px;margin-top:14px;margin-bottom:14px;">If you liked this article please consider becoming a patron of Quillette</div><a href="https://www.patreon.com/Quillette" rel="nofollow"><img class=" jetpack-lazy-image" data-lazy-src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" data-recalc-dims="1" src="https://quillette.com/wp-content/plugins/jetpack/modules/lazy-images/images/1x1.trans.gif" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"><noscript><img data-recalc-dims="1" src="https://i0.wp.com/quillette.com/wp-content/plugins/patron-button-and-widgets-by-codebard/images/become_a_patron_button.png?w=1023&amp;ssl=1" style="margin-top: 10px;margin-bottom: 10px;max-width:200px;width:100%;height:auto;"/></noscript></img></a></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="twitter-share-button" data-text='When "Believe the Victim" Backfires' data-url="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" data-via="QuilletteM" href="https://twitter.com/share">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" data-layout="button_count"></div></li><li class="share-reddit"><div class="reddit_button"><iframe frameborder="0" height="22" scrolling="no" src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fwhen-believe-the-victim-backfires%2F&amp;title=When%20%22Believe%20the%20Victim%22%20Backfires" width="120"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/"></div></div></li><li class="share-linkedin"><div class="linkedin_button"><script data-counter="right" data-url="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" type="in/share"></script></div></li><li class="share-email"><a class="share-email sd-button" data-shared="" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/?share=email" rel="noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a class="share-print sd-button" data-shared="" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#print" rel="noopener noreferrer" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li></ul></div></div></div>
+<!-- WP QUADS Content Ad Plugin v. 1.7.8 -->
+<div class="quads-location quads-ad3" id="quads-ad3" style="float:none;margin:0px 0 0px 0;text-align:center;">
+<script type="text/javascript">amzn_assoc_placement="adunit0";amzn_assoc_search_bar="true";amzn_assoc_tracking_id="quillette-20";amzn_assoc_ad_mode="manual";amzn_assoc_ad_type="smart";amzn_assoc_marketplace="amazon";amzn_assoc_region="US";amzn_assoc_title="";amzn_assoc_linkid="61b0c55dd7d4c5e769c244bd1137d009";amzn_assoc_asins="1250183863,0812979680,1607102129,B001KC36CG";</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</div>
+</div><!-- end .entry-content -->
+<footer class="entry-meta">
+<div class="entry-cats">
+<span>Filed under: </span><a href="https://quillette.com/category/top-stories/" rel="category tag">Top Stories</a> </div><!-- end .entry-cats -->
+</footer><!-- end .entry-meta -->
+</article><!-- end .post-84463 -->
+<div class="comments-area" id="comments">
+<h3 class="comments-title">
+		51 Comments	</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-39092">
+<article class="comment" id="comment-39092">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Will Crusher <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39092">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Women will always lie about rape and sexual assault. Their only real power is in their anatomy, and they stand to lose little but gain much if they accuse without cause. Honestly, they have nothing to lose because who expects more of women? Of course they lie. Dissimulation is a woman’s stock and trade.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Will Crusher" class="comment-reply-link" href="#comment-39092" onclick='return addComment.moveForm( "comment-39092", "39092", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39096">
+<article class="comment" id="comment-39096">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					yandoodan <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39096">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Troll.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to yandoodan" class="comment-reply-link" href="#comment-39096" onclick='return addComment.moveForm( "comment-39096", "39096", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-39239">
+<article class="comment" id="comment-39239">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39239">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Will Crusher, you’ve nailed it.  There’s no need to read any further in this discussion thread.  Subsequent comments are based on the same principles: women are liars, men are the real victims, we should reserve all of our compassion and outrage for the small number of men who are falsely accused of rape and dismiss or blame the far larger number of rape survivors who remain silent because they fear they won’t be believed.  Will, your comment is concise and to the point; its misogyny is concentrated.  Other commenters use more words to express the same sentiments, so readers can save themselves some time by stopping here.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39239" onclick='return addComment.moveForm( "comment-39239", "39239", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39254">
+<article class="comment" id="comment-39254">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39254">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Kad,<br/>
+Some women are liars and some men are rapists. The fact that some women may not come forward because they fear they will be accused of lying is a problem, but you do not solve that problem by unquestioningly believing all complainants. We don’t automatically believe the victim in any other crime, why should rape be an exception?<br/>
+What investigators should do is be courteous and understanding to those claiming to be victims. They should then investigate the matter calmly and dispassionately t determine whether there is sufficient evidence to prove that a crime took place. If there is sufficient evidence, the matter should be sent for trial.<br/>
+There is strong evidence that many women now mistake their regret after the fact for a lack of consent at the time intercourse took place. They are not lying as such, but are mistaken in their recollections, because such regret can be psychologically damaging.<br/>
+It should always be remembered that in a criminal case, the alleged victim is not a party.  A criminal case is not about giving the victim recompense, but about punishing a crime against society’s rules. Yes, it is very important to victims to ensure that they get closure from seeing their assailant punished, but that is not the main function of criminal justice which is about protecting society from miscreants who by their crimes break the social contract.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Peter from Oz" class="comment-reply-link" href="#comment-39254" onclick='return addComment.moveForm( "comment-39254", "39254", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-39337">
+<article class="comment" id="comment-39337">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39337">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“There is strong evidence that many women now mistake their regret after the fact for a lack of consent at the time intercourse took place. They are not lying as such, but are mistaken in their recollections, because such regret can be psychologically damaging.” – This may be true, but do you have evidence to support your claim?  Also, do you have evidence that women who suffer from “post-coital regret” (the phrase you used in another comment) are likely to file false rape charges?</p>
+<p>For the record, I don’t think accusers should automatically be believed, nor do I think the presumption of innocence should be abandoned in investigating any crime.  I also think your suggestion (below) that victims file civil suits against their rapists is a good one —  it worked against O.J.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39337" onclick='return addComment.moveForm( "comment-39337", "39337", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-39318">
+<article class="comment" id="comment-39318">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Morgan <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39318">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>KAD and Will Crusher are the same person.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Morgan" class="comment-reply-link" href="#comment-39318" onclick='return addComment.moveForm( "comment-39318", "39318", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-4" id="li-comment-39336">
+<article class="comment" id="comment-39336">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39336">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Morgan: I wish I were that clever!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39336" onclick='return addComment.moveForm( "comment-39336", "39336", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39094">
+<article class="comment" id="comment-39094">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39094">
+						October 6, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Let me see if we can look at this “evidence” another way:</p>
+<p>“Contrary to your repeated assertion, text messages between you and the victim prove you and the victim were more than mere acquaintances.” – contrary to popular belief, just because I’m the QB doesn’t mean I have sex with total strangers.</p>
+<p>“Your previous conduct in your University residence hall.” [Johnson had been disciplined for being drunk and disorderly.] – are we to assume that all students accused of d&amp;d are considered rapists by the administration?</p>
+<p>“Your assertion that you and the victim had jointly initiated getting together the night of the rape; a copy of your text message to the victim clearly proves you initiated the meeting.” – isn’t it most common that the man initiates dates with a woman?  Are all men who ask women out on dates considered rapists by the administration?  Is there any indication that the “victim” was forced to go on the date?</p>
+<p>“The complete and immediate cessation of your friendship with the victim following the night of the rape.” – am I supposed to believe that I’m the first guy who failed to call the next day?  Do you think it is possible that this sexual encounter only became “rape” after the “victim” failed to get the post-sex attention she desired?</p>
+<p>“Your failure to attempt to retrieve your watch that you forgot at the victim’s house, despite your assertion that this watch had been a present to you from your sister.” – how many rapists take the time to remove their watches during the rape act?</p>
+<p>If this is the kind of “evidence” that can expel a student and send him to court for a possible 30 year sentence, then it would seem prudent for males to avoid going to college, but then what would we watch on Saturday afternoons during the fall?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39094" onclick='return addComment.moveForm( "comment-39094", "39094", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39247">
+<article class="comment" id="comment-39247">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					GM <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39247">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<blockquote><p><i>Do you think it is possible that this sexual encounter only became “rape” after the “victim” failed to get the post-sex attention she desired?</i></p></blockquote>
+<p>There are many other situations of similar nature </p>
+<p>There is the old one that goes like this:</p>
+<p>A woman hands a banknote to the cashier. He looks at it a bit and says </p>
+<p>“Ma’am, this bill is counterfeit”</p>
+<p>The woman then bursts into tears and starts screaming:</p>
+<p>“OMG, call the police, I was raped yesterday”</p>
+<p>Etc.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to GM" class="comment-reply-link" href="#comment-39247" onclick='return addComment.moveForm( "comment-39247", "39247", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39101">
+<article class="comment" id="comment-39101">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Benjamin Perez <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39101">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>In the not-so-distant past, liberals used to mock the religious for believing things without evidence. Today, liberals command others to believe things without evidence (#BelieveAllWomen, etc. = faith). In the not-so-distant past, liberals used to argue against racial profiling and gender stereotyping. Today, liberals never stop demonizing whites and pathologizing males – Bernie Sanders and Donald Trump (hell, Noam Chomsky and George Will) are both “white males”: if that’s all one knew about them, one would know close to nothing. The Left’s current strategy isn’t just a losing strategy for the Left, it’s a losing strategy for civilization.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Benjamin Perez" class="comment-reply-link" href="#comment-39101" onclick='return addComment.moveForm( "comment-39101", "39101", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39110">
+<article class="comment" id="comment-39110">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					4M <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39110">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The tipping point for me was when Bernie Sanders was referred to as a “white supremacist” by a Clinton surrogate for suggesting that we should focus on candidates’ policy positions rather than characteristics like race, gender, sexuality, et cetera</p>
+<p>It makes me sick to my stomach to think about how Senator Sanders was railroaded by the Clintons, the Democratic Party, and the identitarians. They red baited him and painted his redistributive agenda focused on combatting economic inequality as inherently racist and white supremacist. Adolph Reed has called this BS out repeatedly in his writing, but we need to keep calling it out.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to 4M" class="comment-reply-link" href="#comment-39110" onclick='return addComment.moveForm( "comment-39110", "39110", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39248">
+<article class="comment" id="comment-39248">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					GM <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39248">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<blockquote><p><i>The tipping point for me was when Bernie Sanders was referred to as a “white supremacist” by a Clinton surrogate for suggesting that we should focus on candidates’ policy positions rather than characteristics like race, gender, sexuality, et cetera</i></p></blockquote>
+<p>Unfortunately, you don’t see much commentary on this aspect of the situation, because it is convenient for both mainstream sides of the divide. The republicans want to demonize and suppress anything remotely resembling socialism and wealth redistribution, the corporate democrats are not that much different, they just serve a different set of masters and interests. </p>
+<p>So what happens is that the SJWs are a very convenient tool of suppressing the authentic left.</p>
+<p>1. By replacing it and making sure class is never a topic of discussion. Notice how it very rarely features prominently in the list of oppression axes. That is not an accident — these are mostly fairly comfortable upper middle class people who are quite well served by the system as it is, their objective is preservation and expansion of their status through a power grab within the system. </p>
+<p>2. By associating the left with complete lunacy of all sorts, they discredit it. I see so many young people online who are pushed to the right and towards libertarianism because they think “the left” is crazy. But they have no idea that someone like Stalin would have never tolerated a single SJW for even a day — any radical feminist would have been sent to a labor camp immediately because the bourgeois origins and nature and the corrosive effects on society of that movement would have been immediately recognized.</p>
+<p>3. SJWs provide a very convenient tool for suppressing dissent. Someone is inconvenient? Call him a racist, and if that does not do, accuse him of something. No evidence is needed. Problem solved</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to GM" class="comment-reply-link" href="#comment-39248" onclick='return addComment.moveForm( "comment-39248", "39248", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-39137">
+<article class="comment" id="comment-39137">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					c young <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39137">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Good points.</p>
+<p>But there’s an even more profound problem. The progressivism of the 17th century was dedicated to finding objective, neutral systems on which to re-found society, whether these be in philosophy, science, politics or law. Progressives were in reaction against irrational autocracy and religious superstition.</p>
+<p>The radicalism of today is founded upon skepticism about the very possibility of objectivity and neutrality. Everywhere the systems produced by the Enlightenment are being challenged as skewed towards the privileged. Radicals don’t want those systems reformed, they want them gone, to be replaced with what feels right, right now.</p>
+<p>Free speech, politically independent courts, and a free and independent academia, are all under threat, not from the anti-enlightenment right (who have been with us since the start),but from the anti-enlightenment radical leftt.</p>
+<p>A society without commonly accepted neutral foundations quickly falls into chaos and disorder, so yes this is a losing strategy for civilization.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to c young" class="comment-reply-link" href="#comment-39137" onclick='return addComment.moveForm( "comment-39137", "39137", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39212">
+<article class="comment" id="comment-39212">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ADM64 <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39212">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Small correction. It was liberals – in the only true sense – who sought objective, neutral systems to reform society.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to ADM64" class="comment-reply-link" href="#comment-39212" onclick='return addComment.moveForm( "comment-39212", "39212", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39111">
+<article class="comment" id="comment-39111">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39111">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Universities are neither the place to investigate nor try criminal proceedings. That is the realm of police, prosecutors, and the judiciary. It’s happened on campus for so long people consider it normal, but there’s nothing normal about an organisation not accoutable to the voters having its own police force and its own legal system. Does McDonald’s or Facebook have the same?</p>
+<p>Virtually all public colleges with more than 2,500 students, as well 91 percent of private colleges of that size, have their own police forces, ones that have the power to arrest. Though Yale established the first campus police department in 1894, it wasn’t until the 1960s that most other schools got into the act. Then, local police were increasingly called to campuses to deal with student protests. Those encounters often turned violent; one of the most infamous at Columbia University in 1968. Upset parents and alumni were displeased to see New York City police handling precious students roughly and criticised the administration for calling police. Faculty hollered how dare police enter the campus. </p>
+<p>College presidents began to lobby state legislatures for the right to create their own police departments. This was done to protect most students from the consequences of their actions. Can’t have their bright futures diminished with a criminal record. It was OK for police to battle and arrest working-class strikers, but university students were special. If charged after their arrest, they would be handled by administrative processes in-house. This had the added benefit of keeping scandalous reports out of the local police blotter, off the front pages, and unseen by alumni donors. (Until the Clery Act campus police and uni administrators generally did not have the same crime reporting requirements to government authorities and watchdogs as local police.) The university became a quasi-state, a much less accountable one, within the state. Interestingly, campus policing began to move off campus with the approval of local government. According to DOJ statistics, eight of ten college police can patrol off-campus areas and 86% are allowed to make off-campus arrests, including of those who are not students. </p>
+<p>Later, progressives and activist observed that universities had a police force, were conducting administrative procedures and trials of students accused of committing minor crimes and infractions, and they found an opportunity to expand the process to include sexual assault and rape, crimes that have historically been treated as felonies, far more serious than what the schools had been handling in-house. Through lobbying and court cases, they did an end around to bypass what was enshrined in the Constitution and legal tradition to create an alternate reality. Then Obama’s “Dear Colleagues” letter of 2011 was delivered, requiring all adjudications involving allegations of sexual misconduct to use “preponderance of evidence”, the lowest possible burden of proof. Most universities were already using the low standard of “clear and convincing evidence”, which is lower than “beyond a reasonable doubt”, and Obama’s decree knocked it even lower.  Presumption of innocence was rubbished, the right to face one’s accuser was dispensed with, and even the right to legal representation was refused. In many cases the defendant never receives specific, written notice of the allegations against him. Often the outcome is kangaroo courts. Defenders of this injustice claim the defendants aren’t entitled to the same protections as those in bona fide criminal proceedings, but since the charge and the verdict are added to the student’s records the consequence is these are attached to the person for the rest of his life. </p>
+<p>Presently, universities are required to conduct their own proceeding for every sexual allegation, even if a police investigation or criminal-justice process is under way. Though the Trump administration rescinded Obama’s cockamamie Dear Colleagues letter, school administrators replied they’d continue with the lowest standard nonetheless. Actual authoritarian behaviour in the face of imagined authoritarianism. </p>
+<p>What the progressives can’t obtain in normal society they create on university campuses as a laboratory to test and to tinker policies and procedure for the outcomes they want. These laboratories continuously subvert justice and trample people’s rights. For (egregious) example, at an Oregon college a male student was investigated and told to stay away from a female student, resulting in the loss of his campus job and eviction from his dorm. He didn’t know why he was being investigated, because that right has been dispensed with, but it turned out <i>he resembled a man who had raped the female student months before and thousands of miles away.</i> He was found innocent of any sexual misconduct because he had an alibi proving he was thousands of miles from the place of the assault. The no-contact order was not lifted, presumably because he still resembled the assailant and this resemblance distressed the victim. The indifference to the person’s innocence follows overly expansive duties to prevent hostile environments.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to ga gamba" class="comment-reply-link" href="#comment-39111" onclick='return addComment.moveForm( "comment-39111", "39111", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39136">
+<article class="comment" id="comment-39136">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39136">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Thanks for the very informative comment.  As with any public funded administrative body, any excuse to expand the mission and scope of the body is welcomed as an expansion opportunity, which makes it that much harder to downsize or shut it down entirely.  Thus the Obama directive was a nice expansion opportunity, and Trump’s attempt at reversal is being ignored.  I also have to wonder if the “in-house” policing and “court” system isn’t seen as offering more control for achieving social justice goals.  Thus if you have an accused white frat boy assailant = opportunity to check some privilege (i.e. front-page story), but an accused affirmative action assailant = opportunity to invoke some reparations for past injustices (i.e. cover-up).</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39136" onclick='return addComment.moveForm( "comment-39136", "39136", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-39169">
+<article class="comment" id="comment-39169">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					KDM <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39169">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@E. Olson<br/>
+Indeed, I think you’re hitting upon an up and coming trend that I believe actually began with OJ Simpson. This is where Critical Race Theory and Redistributive Justice clash with a neutral and blind justice system. Which one will win in our Brave New 1984 World? </p>
+<p>Jeffery Rosen, writing in The New Republic in 1996, said that CRT (critical race theory) represents a stark challenge to our liberal ideal of the rule of law:<br/>
+      “And the challenge is not merely academic. Despite the       subversiveness of the descriptive and prescriptive claims with which critical race scholars confront American society, the rhetoric of the movement is already reverberating beyond the lecture hall and seminar room. It is finding echoes in the courtroom, too, and in popular culture. Gangsta rappers call openly for race war. A new movie, Set It Off, admiringly portrays a group of young, attractive African American women who decide to rob banks as a form of self-empowerment, and then go on sisterly shopping sprees with their ill-gotten gains. And surely the most striking example of the influence of the critical race theorists on the American legal system is the O.J. Simpson case, in which Johnnie L. Cochran dramatically enacted each of the most controversial postulates of the movement before a transfixed and racially divided nation. Indeed, Cochran’s strategy in the courtroom might be best described as applied critical race theory.”</p>
+<p>This really stuck out to me “Indeed, Cochran’s strategy in the courtroom might be best described as applied critical race theory.” So basically, in my understanding, a great deal of the black community did not see OJ as a man who murdered his wife in a crime of passion. What they saw was a history of the black man being sent down the hill because of a white women. This represented a chance for historical race justice. There were no individuals here. Nicole was every white female slave owner or black accuser in history and O.J. was every black male or slave ever falsely accused of a crime. </p>
+<p>This scares the holy bejeezus out of me! Can we extend this kind of Social Justice unto males and females as well? This is the real “race” and “sexual assault” discussion we should be having but never will.<br/>
+Is the #METOO moment about real justice for women right now? Or is it Critical Legal Theory in practice? Are there no individual men anymore or is a man every man that ever lived?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KDM" class="comment-reply-link" href="#comment-39169" onclick='return addComment.moveForm( "comment-39169", "39169", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39128">
+<article class="comment" id="comment-39128">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					John Craigton <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39128">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Is the USA the only nation in which universities have their own legal system? Reading this story, it seems big US universities have both police and court systems. Here in the UK we have university security who can call the real police when necessary. We do not have university courts, etc.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to John Craigton" class="comment-reply-link" href="#comment-39128" onclick='return addComment.moveForm( "comment-39128", "39128", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39154">
+<article class="comment" id="comment-39154">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					ga gamba <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39154">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>As I understanding US unis don’t have courts either, but there a few thousand schools, so it may vary a bit. They have panels that are convened to take testimony, ask questions, issue a ruling, and impose sanctions, if appropriate.  </p>
+<p>About the UK:</p>
+<p><i>The University of Cambridge is considering lowering the standard of proof in disciplinary cases under pressure from students after it admitted it has a significant problem with sexual misconduct.</i></p>
+<p>More than 800 students wrote an open letter to the institution’s vice-chancellor demanding the change in policy, saying the criminal standard currently required, which calls for allegations to be proven beyond reasonable doubt, was putting some people off coming forward.</p>
+<p>Instead, disciplinary proceedings should adopt the civil standard, demanding only that allegations be proven on the balance of probability, the students said. Doing so would “give survivors and victims of sexual assault more confidence” to report wrongdoing. Source: www(dot)theguardian(dot)com/uk-news/2018/may/10/cambridge-students-pressure-university-to-improve-sex-assault-rules</p>
+<p>Cambridge’s Office of Student Conduct, Complaints and Appeals (OSCCA) provides procedural advice, case handling and oversight of a number of student procedures including: complaints, the review of examination results, fitness to study, harassment and sexual misconduct, discipline, and a number of final appeal stage processes.</p>
+<p><i>If you wish your complaint to be investigated with findings made and the possibility of sanctions  being imposed. . . . a case is referred to the University Discipline Procedure:</i></p>
+<p>The University Advocate will acknowledge your complaint and offer to meet with you to discuss it in more detail. She will investigate the complaint and decide whether there is enough evidence to consider ‘charging’ a student with a breach of the University regulations;</p>
+<p>If there is not enough evidence to ‘charge, the Advocate can take no action or recommend that action is taken using the Procedure for Student Harassment &amp; Sexual Misconduct;</p>
+<p>If the student is ‘charged’ then there is likely to be a hearing and you may need to attend as a witness;</p>
+<p>At the hearing a panel will decide whether the student has breached the University’s rules using the ‘beyond reasonable doubt’ standard of proof;</p>
+<p>If the rules have been breached then the panel can impose sanctions, in the most serious cases this can include temporary or permanent exclusion from the University.</p>
+<p>BTW, the Universities Act of 1825 permitted Oxford and Cambridge to establish their own constabularies with the remit to arrest people on campus and within an area a few miles beyond it – a 5-mile radius of Cambridge’s Great St Mary’s church, for example. Section 3 of the Act provided for the apprehension of prostitutes within the precincts of the university – this section was repealed in 1989. Unlike other police, neither fell under the Home Office; they were accountable to the universities themselves. This Act was four years prior to the establishment of London’s constabulary.</p>
+<p>You may see the constables here, www(dot)proctors(dot)cam(dot)ac(dot)uk/directory/the-constables. They don’t look spry or formidable. </p>
+<p>Oxford discontinued its constabulary a few years ago. Cambridge’s constabulary is mostly, but not entirely, ceremonial today as the school moved from proactive to reactive policing in the 1960s and all serious crime/incidents are referred to the Cambridgeshire Constabulary. In a response to a <a href="https://www.whatdotheyknow.com/request/usage_of_arrest_powers_outside_o#incoming-717588" rel="nofollow">freedom of information request</a> in 2015, Cambridge’s constabulary replied it hadn’t arrested anyone in the past 5 years and couldn’t find records for arrests going back 15 years.  </p>
+<p>It appears UK unis look less like American ones in policing, but more alike in disciplinary proceedings.</p>
+<p>As for the rest of the world, that would require a more exhaustive examination.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to ga gamba" class="comment-reply-link" href="#comment-39154" onclick='return addComment.moveForm( "comment-39154", "39154", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39132">
+<article class="comment" id="comment-39132">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Damian O'Connor <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39132">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It seems to me that the essential problem is that rape allegations are difficult to prove in court.  This cries out for an obvious answer – that more care is taken when selecting a sexual partner by both parties and that perhaps those old bodice-ripper patterns of courtship were not such a bad idea after all.  Of course, this would not solve the problem but it might make it a less of an occurrence.  And giving up the idea of ‘innocent until proven guilty’ on decent evidence tested in open court would be disastrous.  The system is not perfect, but it is better than any other.</p>
+<p>Dr Damian P.O’Connor</p>
+<p>Author of ‘A Short Guide to the History of South Africa’ and other works.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Damian O'Connor" class="comment-reply-link" href="#comment-39132" onclick='return addComment.moveForm( "comment-39132", "39132", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39205">
+<article class="comment" id="comment-39205">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Giselle P. <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39205">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@Damian O’Connor</p>
+<p>“that more care is taken when selecting a sexual partner by both parties and that perhaps those old bodice-ripper patterns of courtship were not such a bad idea after all”</p>
+<p>Inject common sense into this issue?</p>
+<p>Common sense is a devious tool of the patriarchy. Courtship and slow-walking to sex leads to things like respect, hierarchy, traditional marriage, and systems of trust. Soon, young women start to feel pressure about going braless in butt shorts to class or to memorize the name of the man they are sleeping with. Before you know it, we are all living in some combination of Saudi Arabia and “The Handmaid’s Tale.”</p>
+<p>Your wrongheaded way of thinking rests on the idea that men have an evolved “nature” that makes them pursue women in an aggressive and single-minded way. How quaint. Really, men are just trained by a toxic rapist society to be this way. Properly trained men are calm, reasonable creatures not unlike eunuchs. They prefer skinny jeans, vegan living, and journaling about their feelings. They don’t need sex to be happy; they prefer to play Magic The Gathering and support women as allies. </p>
+<p>They will sacrifice their bodies to women for physical pleasure if they must, but only after lengthy assurances that the woman truly wants physical contact with a man (for some reason) and is under no duress or altered state whatsoever. Ideally, this involves a signed declaration of intent with initials at each stage (“may I take off your bra? If yes, initial here  __”) and a breathalyzer test administered by a third party, preferably a third party with a feminist studies background who understands the stakes and process. </p>
+<p>Properly socialized men read books on how to choose ethical pornography and to more fully understand their privilege. Of great concern to them is whether their T-shirts express irony without marginalizing any vulnerable group and whether their beards are long enough to avoid a look of improper masculinity (the sharply shaven banker or marine) but still short enough to avoid looking like a lumberjack, biker, or other unapologetic fossil fuel user. </p>
+<p>Real men spend at least 27% of their time apologizing. They never, ever express support for other men, whether by going to battle or by voting for them, unless (1) all said men prefer anal intercourse with men; (2) possess an aftermarket dong; or (3) those men are presently engaged in apologizing. Real men correct other men frequently with judgmental silences or lessons drawn from feminist literature. Sometimes, they do this by putting their references from feminist literature on large signs and joining women to correct men publicly. </p>
+<p>And most of all, real men do not believe there is any such thing as “real men.”</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Giselle P." class="comment-reply-link" href="#comment-39205" onclick='return addComment.moveForm( "comment-39205", "39205", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39217">
+<article class="comment" id="comment-39217">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Smarty Mom <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39217">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Best. Comment. Ever. 😂😂😂</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Smarty Mom" class="comment-reply-link" href="#comment-39217" onclick='return addComment.moveForm( "comment-39217", "39217", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-3" id="li-comment-39219">
+<article class="comment" id="comment-39219">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39219">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Great stuff!!</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Peter from Oz" class="comment-reply-link" href="#comment-39219" onclick='return addComment.moveForm( "comment-39219", "39219", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39249">
+<article class="comment" id="comment-39249">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					GM <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39249">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I don’t necessarily agree about the old patterns of courtship, but what we have right now is a combination of sexual promiscuity and still Victorian attitudes towards sex that is completely toxic. </p>
+<p>There is no need for the old patterns of courtship because sex has been quite successfully decoupled from reproduction, and thus the consequences of it are not longer as serious as they once were. </p>
+<p>But people, women especially, are still very prone to still seeing it the same way as they did 150 years ago, even though that is completely irrational.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to GM" class="comment-reply-link" href="#comment-39249" onclick='return addComment.moveForm( "comment-39249", "39249", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-39303">
+<article class="comment" id="comment-39303">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Lert345 <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39303">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I’d also recommend going back to gender segregated dorms.  Might decrease the drunken hookup encounters quite a bit.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Lert345" class="comment-reply-link" href="#comment-39303" onclick='return addComment.moveForm( "comment-39303", "39303", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39141">
+<article class="comment" id="comment-39141">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Daath <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39141">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Say what you will about the Jim Crow South, but at least they believed the victim.</p>
+<p>Sarcasm aside, the university courts are a joke. They don’t have the expertise to properly investigate criminal cases, and their primary motivation is to protect the good name of the institution. In the past that meant sweeping rape cases under the rug, so people wouldn’t hear about them. These days they fall upon the accused like an avalanche, so no one can accuse them of being soft on rape. Neither of these is an acceptable approach to serious crimes.</p>
+<p>As for proper courts, the presumption of innocence and the requirement of proof beyond reasonable doubt do have their downsides. The process is painful for victims of rape, and since there isn’t always anything else than “he said, she said” to go on, genuinely guilty can end up walking away free. This is discouraging enough that a fair number of rapes never even get reported. None of this is good in any way. It’s also not a justification for wrecking the basic principles of the entire judicial system. Innocent men have been sentenced of rape even under the current system, and many more would, if feminists had their way. Mind, I don’t even think that would be good for them. The easier it is to convict an innocent man, the more effective weapon the false accusation becomes. Since women aren’t angels, there would be more of those. This would, in time, erode the stigma of having been convicted of rape.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Daath" class="comment-reply-link" href="#comment-39141" onclick='return addComment.moveForm( "comment-39141", "39141", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39152">
+<article class="comment" id="comment-39152">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					4M <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39152">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The Jim Crow South and the lynchings of countless black men should serve as a warning and precedent for why the current approach is incredibly wrong-headed.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to 4M" class="comment-reply-link" href="#comment-39152" onclick='return addComment.moveForm( "comment-39152", "39152", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-39142">
+<article class="comment" id="comment-39142">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					d <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39142">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>This sickens me to such an extent I can’t read the whole thing. I’m female and a rape victim and I’m disgusted by the quasi-religious hysteria-driven witch hunt conducted at our universities, initiated by Obama. I don’t even know where to start.</p>
+<p>1. It’s utterly illogical. Let me see if I can try to restate the ‘thinking’: Rape of women has been a problem and sometimes guilty male rapists are acquitted. Therefore, we must judge all men as a collective, not individually, &amp; believe them guilty unless proven innocent. This is ok because in the past some women were disbelieved.</p>
+<p>2. It utterly ignores rape of men, or rape by women of women. Indeed, the language of rape legally includes ‘penetration.’ If I’m a man, and drunk, and a woman has sex against my consent – say I’m unconscious or drunk or say no &amp; she ties me up – there are no words to describe my experience. According to the new ‘law’ I cannot be raped because there is no penetration.  This is a gross injustice.</p>
+<p>3. The whole thing is Victorian &amp; highly regressive in the way the genders are viewed. Men are animals who always ‘want it’ (why they “can’t” be raped I guess) &amp; women have no sexuality &amp; are timid fearful babies who must be protected since they can’t protect themselves.  This is not reality &amp; also harmful to both women &amp; men.</p>
+<p>4. Under this ‘law’ any woman can punish any man for any reason, often for life. So if she’s mentally ill or a psychopath or a narcissist or just plain evil, &amp; she wants revenge on a man (for whatever reason), all she needs to do is say the sex she had was rape. She can say this years later, too. Appalling.</p>
+<p>5. This is defacto racist &amp; classist. Don’t tell me that ‘if clinton had sons” they would be accused even if they *did* do something. (well, clinton himself was accused many times and they didn’t care.) They are going to choose the powerless for their accusations (here African Americans) &amp;/or political enemies. </p>
+<p>6, The Leftists love to talk about fascism &amp; kangaroo courts. Talk about projection.</p>
+<p>We need to stop this before it spirals even worse. It’s one of the most evil things the gov’t did in my opinion &amp; is not conducive to our democracy in any way.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to d" class="comment-reply-link" href="#comment-39142" onclick='return addComment.moveForm( "comment-39142", "39142", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39158">
+<article class="comment" id="comment-39158">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39158">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Very thoughtful comment, but sorry you have such personal experience with the topic.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39158" onclick='return addComment.moveForm( "comment-39158", "39158", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="li-comment-39210">
+<article class="comment" id="comment-39210">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Susan Chakmakian <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39210">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Thanks for articulating my thoughts. I’m a survivor but also a Mom to a son. Believing all victims makes him a walking bullseye. But believing perpetrators bc of class, money, race or political affiliation is unequal justice at the least.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Susan Chakmakian" class="comment-reply-link" href="#comment-39210" onclick='return addComment.moveForm( "comment-39210", "39210", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-2" id="li-comment-39286">
+<article class="comment" id="comment-39286">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Aleph from Paris (it's a town in France) <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39286">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>I appreciated reading your clever comment. Thanks. And may you find all the comforting support and playful admiration you deserve.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Aleph from Paris (it's a town in France)" class="comment-reply-link" href="#comment-39286" onclick='return addComment.moveForm( "comment-39286", "39286", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39145">
+<article class="comment" id="comment-39145">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Shatterface <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39145">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Universities should no more investigate crime than the police teach Philosophy. A civilisation is built on a division of labour.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Shatterface" class="comment-reply-link" href="#comment-39145" onclick='return addComment.moveForm( "comment-39145", "39145", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39170">
+<article class="comment" id="comment-39170">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="http://deleted" rel="external nofollow">KDM</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39170">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>So… The Pence Rule then? Mike Pence, somehow, looks saner and saner after the #MeToo moment.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KDM" class="comment-reply-link" href="#comment-39170" onclick='return addComment.moveForm( "comment-39170", "39170", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39206">
+<article class="comment" id="comment-39206">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					E. Olson <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39206">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Yes it does, but did Pence follow his rule in high school, and can he prove against some almost attempted rape charge derived from a 42 year old recovered memory?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to E. Olson" class="comment-reply-link" href="#comment-39206" onclick='return addComment.moveForm( "comment-39206", "39206", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="li-comment-39204">
+<article class="comment" id="comment-39204">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Annie Simon <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39204">
+						October 7, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Stuart Justman is being courageous to counter the highly-charged believe-the-victim argument.  Beyond his rather pragmatic reasoning, there is the bedrock principle of The Presumption of Innocence — even in accusations of sexual assault.  Nothing else will work.  If the complexities of private male/female interaction are difficult to sort out in a courtroom, so be it.  In the past those realities gave rise to many traditional standards of female and male behavior, and wisely so.  Should we expect women to avoid compromising situations with a man they do not fully know and trust?  My sisters and I were taught to do so.  And that helps avoid sending innocent men to prison.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Annie Simon" class="comment-reply-link" href="#comment-39204" onclick='return addComment.moveForm( "comment-39204", "39204", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-2" id="li-comment-39237">
+<article class="comment" id="comment-39237">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39237">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Does a woman who places herself in a “compromising situation” by failing to abide by “traditional standards” of behavior deserve to be raped?  Can we expect men to refrain from raping women, or is that too much to ask of them?  Should we reserve all of our concern for the relatively small number of men who are falsely accused or rape and ignore the vastly greater number of women who are sexually assaulted and are afraid to report it because they know they’ll be doubted and demonized?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39237" onclick='return addComment.moveForm( "comment-39237", "39237", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-3" id="li-comment-39250">
+<article class="comment" id="comment-39250">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Anne Simon <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39250">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It is said that rape is about power, not about sexual desire.  If so, then women’s sexual display and behavior  can also be about power.   Courts of Law need to seek balance somewhere in the middle.  If they hold men to a high standard, then they should hold women to a high standard as well.  Unless you want to turn men into eunuchs and MGTOWs, some constraint on women’s power is needed, Victim identity and toxic femininity are ruining the character of young women.  In my rural neighborhood the young boys are open and friendly, and the young girls are unfriendly and suspicious.   I am 77 years old, and can remember when young girls were fair-minded and friendly.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Anne Simon" class="comment-reply-link" href="#comment-39250" onclick='return addComment.moveForm( "comment-39250", "39250", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-4" id="li-comment-39333">
+<article class="comment" id="comment-39333">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39333">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Anne: “Some constraint on women’s power is needed”?  Really?  I don’t know what kind of matriarchal dystopia you think you’re living in, but in the real world men possess significantly more power than women in almost every sphere.  By “toxic femininity,” are you referring to women who speak up for themselves and refuse to accept the kind of subordinate role you were born into?  If some men feel so threatened by empowered women that they retreat into the land of self-pitying eunuchs and MGTOWs, they’re doing women (and the gene pool) a favor: good riddance.  Based on this comment section, it sounds like *men* are far more likely to portray themselves as victims than women are, at least among the reactionary anti-SJW set.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39333" onclick='return addComment.moveForm( "comment-39333", "39333", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-5" id="li-comment-39344">
+<article class="comment" id="comment-39344">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Anne Simon <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39344">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>KAD, ask men what women’s power is and get educated.  We are all nature-based and attempts to improve women’s lives will fail if we subscribe to unrealistic ideas.<br/>
+   You are free because Western men LET you be free — they were quite capable of keeping women subordinate as in Saudi Arabia.<br/>
+   “Toxic” means negativity and anger, self-righteousness and unwillingness to listen.  Watch Cassie Jaye on youtube.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3" id="li-comment-39255">
+<article class="comment" id="comment-39255">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter Kriens <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39255">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@KAD The fact that it is illegal to steal a bike does not make it stupid to lock my bike … </p>
+<p>When a woman is raped the innocence of the victim and the guilt of the rapist is perfectly clear. The fact that it would not have happened if she had been more careful is , and should be, irrelevant for <i>justice</i>.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Peter Kriens" class="comment-reply-link" href="#comment-39255" onclick='return addComment.moveForm( "comment-39255", "39255", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even depth-3" id="li-comment-39256">
+<article class="comment" id="comment-39256">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Peter from Oz <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39256">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>”… the relatively small number of men who are falsely accused or rape and ignore the vastly greater number of women who are sexually assaulted and are afraid to report it because they know they’ll be doubted and demonized”<br/>
+We have no way of knowing the numbers of either.<br/>
+We cannot test whether the women who didn’t come forward were actually victims at all. They say they won’t come forward because they don’t want to be questioned.  But surely if they were sure they were victims of a crime they would come forward anyway.  I realise of course that many do not come forward because the whole process will force them to relive the horror of their ordeal. But I suspect that more don’t come forward because they know that what happened was not rape but post-coital regret. it is very easy to claim in an anonymous survey that you have been raped but were too frightened to come forward. We have absolutely no proof that such claims are true.<br/>
+But more importantly, I suspect you need to think more carefully about Lord Blackstone’s old dictum “It is better that ten guilty persons escape than that one innocent suffer.”<br/>
+The problem is that there is quite an imbalance of consequence here.  If a man is falsely convicted of rape in a court of law or of public opinion, then he suffers quite drastic repercussions, involving loss of liberty. livelihood, and reputation. In fact in many cases men who have been acquitted in court have lost their reputations or livelihoods because of the evil behaviuor of feminists and their fellow travellers.<br/>
+In contrast, the victim does not stand lose liberty, reputation or livelihood if the accused is not charged or is found not guilty.<br/>
+That is why it is more important to ensure that accused people have the benefit of doubt in criminal proceedings.<br/>
+I am of the opinion that women should be enabled to sue men for the tort of assault in connection with rape. In such cases it would be the woman versus the man.  Given that in civil cases the standard of proof is only 50% plus a feather, I suspect that women would get a finding of rape much more often. They could then get damages and see the man who raped them publicly outed and shamed.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Peter from Oz" class="comment-reply-link" href="#comment-39256" onclick='return addComment.moveForm( "comment-39256", "39256", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-4" id="li-comment-39334">
+<article class="comment" id="comment-39334">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39334">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>It’s true that we can’t know the numbers of false accusations and unreported assaults with certainty, but it’s false to claim that there’s no evidence either way.  See, for example, <a href="https://www.bbc.com/news/world-us-canada-45565684" rel="nofollow">https://www.bbc.com/news/world-us-canada-45565684</a>.  I think common sense would lead you to the same conclusions.  Does it really seem plausible that a significant number women with “post-coital regret” will decide to file charges against the men they had sex with?  What could possibly motivate them?  In your experience, are most women that petty and vindictive? (If so, you might want to consider the possibility that you’re the problem.) On the contrary, it’s not surprising in the least that a majority of women who are raped would refrain from reporting the assault, especially when it’s a “he said, she said” situation and there’s no physical evidence to support their claim.  Yes, it would be absolutely devastating to be falsely accused of rape, but I think you’re minimizing the trauma that survivors of rape experience — I would encourage you to read firsthand accounts by women who have written about their ordeal.  I’m flabbergasted by the lack of compassion and empathy expressed for rape victims in this comment section.  I’m certainly willing to acknowledge that false accusations are unjust and the presumption of innocence should be maintained.  Are you willing to admit that sexual assault is a serious societal problem and that men should stop raping women?  I find it astonishing that I even have to ask that question in 2018, but here we are.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39334" onclick='return addComment.moveForm( "comment-39334", "39334", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39260">
+<article class="comment" id="comment-39260">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Spike <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39260">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Do women and men need to worry about allegations (postsecondary institution’s) ?  Yes.</p>
+<p>Criminal matters should only be in the jurisdiction of the police/courts.</p>
+<p><a href="https://nationalpost.com/opinion/christie-blatchford-sex-assault-survivor-mandi-gray-takes-university-to-human-rights-tribunal-again" rel="nofollow">https://nationalpost.com/opinion/christie-blatchford-sex-assault-survivor-mandi-gray-takes-university-to-human-rights-tribunal-again</a></p>
+<p>Diana Davison (you tube), covers this debacle quite well.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Spike" class="comment-reply-link" href="#comment-39260" onclick='return addComment.moveForm( "comment-39260", "39260", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39296">
+<article class="comment" id="comment-39296">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					peterschaeffer <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39296">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The Krakauer book was both praised and condemned by reviewers. Some of the critical reviews follow.</p>
+<p>The Usual Nonsense About the Mythical “Campus Rape Epidemic”</p>
+<p>In considering this book a couple of very basic facts need to be considered. First, there is no rape epidemic. The overall incidence of rape has fallen (not risen) dramatically in recent years. Second, college campuses are not exactly hotbeds of sexual assault. The overall incidence of rape on college campuses is somewhat lower than society as a whole.</p>
+<p>For anyone who cares about “facts”, consider all of the following from “New DOJ Data On Sexual Assaults: College Students Are Actually Less Likely To Be Victimized” […]. In case, you aren’t inclined to believe The Federalist (a conservative web site), the data is actually form Obama’s Department of Justice (www.bjs.gov/content/pub/pdf/rsavcaf9513.pdf).</p>
+<p>“A new report on sexual assault released today by the U.S. Department of Justice (DOJ) officially puts to bed the bogus statistic that one in five women on college campuses are victims of sexual assault. In fact, non-students are 25 percent more likely to be victims of sexual assault than students, according to the data. And the real number of assault victims is several orders of magnitude lower than one-in-five.”</p>
+<p>That’s actually wrong, “several orders of magnitude” would have to be at least 100 fold. The data shows that the incidence of rape is roughly 30 fold less than “one-in-five”. Quote</p>
+<p>“The full study, which was published by the Bureau of Justice Statistics, a division within DOJ, found that rather than one in five female college students becoming victims of sexual assault, the actual rate is 6.1 per 1,000 students, or 0.61 percent (instead of 1-in-5, the real number is 0.03-in-5). For non-students, the rate of sexual assault is 7.6 per 1,000 people.”</p>
+<p>Figure 2 from the same DOJ report shows that overall incidence of rape has fallen by at least 50% since 1997.</p>
+<p>Why then is America is wracked with accusations (some of them hoaxes) of a “college rape epidemic”? Several reasons come to mind. The first is the most obvious. Colleges may not be hotbeds of rape (they aren’t), but they are certainly hotbeds of radical feminism. Conjuring up a mythical “college rape epidemic” gives power, authority, and a (bogus) legitimacy to radical feminists who might otherwise be simply ignored.</p>
+<p>Perhaps the best way of understanding this is the history of McCarthyism. There certainly were communists in the U.S. government in the 1930s and 1940s (including a few highly places ones). See the Venona project for details. However, by the time McCarthy launched his crusade, the era of large-scale communist influence in government was over. His anti-communist campaign might not have been factually based, but it certainly game him and his supporters considerable power and publicity before it crashed down upon itself.</p>
+<p>Like it or not, today’s radical feminists are using the same tactics, the same methods, and the same distortions as Joe McCarthy more the 50 years ago. Hopefully, there fate will be every bit as miserable.</p>
+<p>While the above observations are well substantiated. There is clearly more to the story. Any reading of the history of recent rape accusations shows that they are being used for ethnic politics as well as sexual politics. Stated directly, they are being used to vilify a class (the dreaded, much feared, and generally terrifying “middle-class non-minority male”) irrespective of the facts. The UVA and Duke rape hoaxes were obviously (and in the UVA case admittedly) motivated a political agenda. By contrast, the terrible Vanderbilt case (where the defendants were found guilty on all charges and in some cases don’t deny them) has attracted almost no national interest. The even worse UVA case where the victim (Hannah Graham) was raped and murdered has attracted almost zero publicity.</p>
+<p>If radical feminists really cared about rape and rape victims (for reasons other than how they can be exploited to advance a political agenda), they would focus on non-college, lower-income women who actually more likely to be attacked. Of course, the attackers in those cases would also be less likely to serve the PC agenda, making such a course of action unthinkable.</p>
+<p>Overall, this is a poorly timed and arguably ill-considered book, particularly given that the core factual premises are simply wrong. There is no rape epidemic. There is no college rape epidemic. There is however, an epidemic of rape hoaxes of late. This observation is not based on any statistics and may not be correct. However, after the University of Virginia rape hoax, the Duke rape hoax, the fraudulent charges against Julian Assange (who is clearly a sleaze, but not a rapist), and the very questionable accusations of Emma Sulkowicz. Krukauer’s book probably won’t get the attention it once might of. Of course, a book telling the truth, that the crime of rape is in decline and not centered on college campuses wouldn’t get any publicity at all.</p>
+<p>Utterly Disgusting</p>
+<p>It never stops. Satanic ritual abuse. Rampant pedophilia in daycare centers. Male predators dominating and manipulating virtuous women trying to protect the flowers of their youth. A national epidemic of domestic violence. And now, Jon Krakauer gets his cut of the action by making Missoula, Montana out to be something akin to the rape rooms of Boko Haram, the Khmer Rouge, or the tortured comfort women kidnapped by the Imperial Japanese Army during World War II. The problem with this book is that Krakauer is lying – and he knows it. Many of the citations, as he is fully aware, are at best apocryphal if not outright fabrications. But clearly the lure big bucks was too much and he jumped on the sexual assault gravy train so that he could reap the easy money and notoriety that goes along with it.</p>
+<p>Please let me state at the onset that I served in military, municipal, and federal law enforcement for 30 years, 17 of which were spent conducting criminal investigations, including cases focused on a wide spectrum of issues related to sexual deviancy. And I can assure everyone that there is no epidemic of rape or sexual assault anywhere in the United States of America – which is no news, Krakauer, who has researched this can make the same assurance.</p>
+<p>In fomenting the current hysteria, the Progressive Left, particularly the Feminist Movement, has adopted Goebbels’ modality of propaganda – repeating a lie until it eventually becomes the truth. In accomplishing this, the feminists throw out nonsensical statistics that are easily disprovable. Two of my favorites are that 1 in 5 women will be the victim of sexual assault or that 1 in 4 will be the victim of “severe physical violence” at the hands of a domestic partner (Read: male domestic partner), at some point in their lives. One in 4? That would mean that if you went a church service attended by a 1,000 adults, if 500 were females, 125 were or are going to experience “severe physical violence” and that approximately the same number of males, logically, were going to be perpetrators. That is correct! Every Sunday, according to the feminists, when you sit down in a church service attended by 500 couples, a total of 250 males and females will either be victims or batterers involved in “severe physical violence.” Two hundred and fifty! And they say that with a straight face demanding that everyone else accept that as fact.</p>
+<p>The use of phony statistics is one of the greatest weapons that the feminists have in trying to perpetuate the myth of a nonexistent epidemic. And Krakauer liberally cited them in his book even though he knows that the figures are false. One of the most prevalent is Susan Brownmiller’s 2% false rape report rate as presented in her book, Against Our Will, published in 1975. “A decade ago the FBI’s Uniform Crime Reports noted that 20 percent of all rapes reported to the (New York) police ‘were determined by investigation to be unfounded,”’ Brownmiller said. “By 1973 the figure had dropped to 15 percent . . . yet when (the) City instituted a special sex crime analysis squad and put policewomen (instead of men) in charge . . . the number of false charges in New York dropped dramatically to 2 percent . . . The lesson in the mystery of the vanishing statistic is obvious. Women believe the word of other women. Men do not.”</p>
+<p>Anyone who knows anything about crime statistics will immediately note the obvious: The Uniform Crime Reports (UCR) do not present that type of information and that is to say nothing of the significant technical and statistical problems that are inherent to the publication that everyone knows about who is familiar with crime statistics. When I first read this, I was intrigued and did some research. I was horrified to discover that Brownmiller’s statistic was cited in several Justice Department publications as well as in a manual currently being used by the military, A National Training Manual for Law Enforcement: Successfully Investigating Acquaintance Sexual Assault, written by Kimberly A. Lonsway, Ph.D., the research director for the National Center for Women &amp; Policing, an affiliate of the Feminist Majority Foundation.</p>
+<p>Because it was impossible for the 2% statistic to have come from the UCRs, I continued to research and discovered that soon after the publication of Against Our Will, a large number of scholars noticed the same thing that I did and criticized Brownmiller for citing a non-peer reviewed study. Brownmiller refused to discuss the matter for twenty years until confronted by a student reporter who was getting ready to post an online article. In response to an inquiry, Brownmiller replied, “The cite from the New York City Rape Analysis Squad was reported by (Appellate Court) Judge Lawrence Cooke to the NY Bar Association in 1974 . . . Cooke, the Bar Association, and the NYC Rape Analysis Squad were impeccable sources. The information was fresh and exciting. It had appeared nowhere else. The person who attempted to discount it in the post you reproduced denigrated New York State’s leading appellate justice, a city agency, and me.”</p>
+<p>Brownmiller neglected to say that while the information was “fresh” and “exciting,” it was also nonexistent. And we will never know where Judge Cooke got the information because he refused to discuss it and is today dead. And the NYPD had no idea as to where Judge Cooke would have gotten that information since it did not come from them. Ditto the FBI.</p>
+<p>Lonsway, who is also cited by Krakauer, went even further than Brownmiller and reported that the false rape report rate was .025%! That is correct. POINT ZERO two five percent! She got that information from Henry J. O’Reilly, a former NYPD sex crimes investigator and advocate for feminist theory. As reported in her Manual, Lonsway said that according to O’Reilly “during a six month period in New York City there were about 2,000 reports of rape, of which approximately 250 were determined to be unfounded.” But he continued that, “200 of the 250 were simple administrative errors . . . For example, when arguing with their husbands or boyfriends, some women could yell rape to expedite a police response. We are therefore left with potentially 50 liars out of a total of 2000 complainants. Of that 50, perhaps 20 cases of false report[s] were made as some kind of attempt by the woman to protect herself against a tyrannical father or husband . . . (But in the end) . . . “we found that there were actually only five cases of women maliciously telling lies and deliberately falsely accusing men of rapes that had never been committed . . . The bottom line, then is that out of 2000 charges of rape, there were five proven liars.” O’Reilly concluded, “That is good enough evidence for me to conclude that most victims are telling the truth!”</p>
+<p>Lonsway cited this information in 2001. The information first appeared in April 1981 when O’Reilly gave a lecture to the social studies department at Teesside Polytechnic University in Middlesbrough, England. Three years later, it was published in the compendium, Perspectives on Rape and Sexual Assault by June Hopkins. Nowhere, repeat nowhere, did O’Reilly credit a source and the NYPD has no information about any such study or analysis. In short, he made it up as should be obvious. O’Reilly not only summarily excluded 200 women who had made false reports of rape to motivate faster police responses, there is no supporting evidence anywhere of this astonishing claim. Such calls would have generated multi-unit emergency responses through the streets of New York and some if not most of those women would have been arrested. Yet, there is no six month period in the history of the NYPD where even 25 to 50 women, let alone 200, have been charged for making false 911 calls of this nature. To believe O’Reilly, one would have to believe that in a six month period in New York City alone, there existed 200 women who were conniving, manipulative, and single-minded enough to have called 911 and falsely reported rapes. Why would O’Reilly have invented this statistic? Politics. It is in vogue. And financial gain, the same reason as Krakauer.</p>
+<p>Lonsway is particularly frightening. Even though she has no police or investigative experience her Manual is being used to train sex crimes investigators. “Ultimately, a poorly trained investigator who believes the victim and takes the case seriously is eminently preferable to a well-trained investigator who nonetheless thinks that most sexual assault allegations are false,” she said. She then goes on to say that “all complaints must, of necessity, be taken at face value and, unless there is some specific reason to believe otherwise, handled accordingly.” The Manual teaches that contrary to past practices, inconsistencies have no relevance in determining whether or not accusations are true. In other words, according to the research director of the National Center for Women &amp; Policing who is writing training manuals for police officers, it is better to have poorly trained investigators who cannot question the veracity of complainants even when their stories are inconsistent with known facts or otherwise do not make any sense.</p>
+<p>Credible information concerning the high incidence of false reporting, if anyone is interested, is not difficult to find and like all reliable scientific data, it is devoid of speculation and reveals supportable consistency. In the book, Krakauer cited two studies, one by Purdue University sociologist Eugene Kanin and the other by Charles P. McDowell, Ph.D., a researcher at the U.S. Air Force Special Studies Division, and said that “Scholars have debunked both of these (studies).” From there, Krakauer outright lied, “Kanin examined a single police department in a small Midwestern city and merely took police officers at their word when they classified a rape allegation as false. He made no effort to independently corroborate whether the allegations were actually false.” In fact, the standard that the police used was “the intentional reporting of a forcible rape by an alleged victim when no rape occurred” and as a matter of policy, for the police to declare a sex crime allegation false, the complainant had to voluntarily recant the initial accusation. “In short,” said Kanin, “these cases [were] declared false only because the complainant admitted they are false.” The police offered each complainant, all woman, a polygraph examination, however, there was no requirement that they accept. The study analyzed 109 forcible rape cases reported from 1978 to 1987. Using an analytical model, Kanin deconstructed each investigative report. Of the 109 reports, 45 or 41% were false in that the complainant retracted the allegation and admitted that she had lied. Repeat: It was not the police, but the “victims” who admitted that they had not been raped, a fact that Krakauer knows, but lied about anyway. According to the women who had made the reports, they had done so either to obtain an alibi, such as in the case of a married woman having an affair and being concerned that she might be pregnant; revenge; and to generate attention or sympathy.</p>
+<p>And contrary to Krakauer assertion that the findings had not been verified, two later independent studies employing essentially the same modality were conducted at two major Midwestern universities with the cooperation of the institutions’ police. Primarily the variables were that no polygraphs were offered and the investigations were exclusively conducted by female police officers. In each study, three years of forcible rape reports were analyzed. In total, at both universities, 64 rapes were reported of which 32, or 50%, were false in that the complainants retracted their allegations. So much for Brownmiller’s assertion that “Women believe the word of other women. Men do not.” The complainants, again all women, reported that they had lied for the same three reasons that had been developed by the metropolitan police department.</p>
+<p>The other study that Krakauer dismissed was published by Dr. McDowell in 1985. While Krakauer did not go into detail about this, the study which analyzed 1,218 rape complaints made to the Air Force Office of Special Investigations (OSI) worldwide between 1980 to 1984. Of a total reports, 460 were “proven” to be true either through an “overwhelming preponderance of the evidence” or a resulting criminal conviction. Of the remaining 758 cases, 212 were determined to be “disproved” as a result of the victim admitting that she had lied. The remaining 546, initially, were unresolved. Further investigative efforts, however, including the employment of polygraph examinations, disclosed that 27% of the 546 “unresolved” cases were hoaxes. Specifically, all of these women, either right before taking a polygraph or immediately after they had failed, admitted that they had lied. McDowell noted that if there was any doubt about an “unresolved” case, it was reclassified as “proven.” In combining 27% with the initial 212 “disproved” cases, a false rape report rate of 45% was developed. The false reports were primarily motivated by a desire for revenge or the need for an alibi.</p>
+<p>While Krakauer made several references to U.S. Department of Justice studies, he again made a number of deliberate misrepresentations. In 1996, for example, the Justice Department’s study, Convicted by Juries, Exonerated by Science: Case Studies in the Use of DNA Evidence to Establish Innocence After Trial, reported that according to the FBI, “Every year since 1989, in about 25 percent of the sexual assault cases referred to the FBI where results could be obtained . . . the primary suspect has been excluded by forensic DNA testing.” The agency found “that out of roughly 10,000 sexual assault cases since 1989, about 2,000 tests have been inconclusive . . . about 2,000 tests have excluded the primary suspect, and about 6,000 have ‘matched’ or included the primary suspect.” The researchers concluded that, “The fact that these percentages have remained constant for 7 years, and that the National Institute of Justice’s informal survey of private laboratories reveals a strikingly similar 26-percent exclusion rate, strongly suggests that postarrest and postconviction DNA exonerations are tied to some strong, underlying systemic problems that generate erroneous accusations and convictions.”</p>
+<p>This is a book of pure fiction meant to foment hysteria. I would suggest that Krakauer, and I did like his other books, should feel ashamed because without question, he knows exactly what he did. And he did it intentionally to sell books. People! When you read garbage like this, think it through. Does it make sense? Think about how many women you have known throughout your life time. How many of them have been raped, sexually assaulted, or otherwise abused? Sure, you may know some. I know some. My wife knows some. But 1 in 4? The rape hysteria is exactly that. It is Ebola. It is the Bird Flu. And it is necessary for the Feminist Movement to achieve their objective. Their “cure” cannot be forced with an “epidemic.” They need it. To the Progressives, like the National Socialists, ideology is everything. There is nothing else and truth only matters if it furthers the ideology. With respect to rape and sexual assault, the truth will never help them<br/>
+realize their goals. That is why the truth is their first victim.</p>
+<p>A sad, biased tirade from an author with an unknown agenda…</p>
+<p>“We will have to wait a while longer for the book Krakauer might have written, the one that explores from the inside all the social factors that produce and enable so many young men who prefer drunk, drugged, supine, knocked-cold or forcibly restrained female flesh to consensual sex with conscious and willing women.”– Newsweek. Poorly written and extremely biased. If this author wanted to truly be taken seriously, he should have interviewed the persons involved with the cases mentioned in this book instead of playing it safe by just reading static court documents. Personally, as forensic professional involved with 25+ years experience in abuse and sexual battery cases, we remain objective, neutral and unbiased in our case work – this author demonstrated nothing but bias due to emotional response. Before attempting to author any more books concerning abuse (if he wants them to be taken seriously) he needs to consider educating himself and read: “When Women Sexually Abuse Men: The Hidden Side of Rape, Stalking, Harassment, and Sexual Assault” by Philip W. Cook and Tammy L Hodo or “Abused Men: The Hidden Side of Domestic Violence” by Philip W. Cook, “Rape Work: Victims, Gender, and Emotions in Organization and Community Context” by Patricia Yancey Martin as well as establish a better familiarity and understanding of the CDC and DOJ statistics for a more rounded perspective. Another source of information: <a href="http://time.com/3393442/cdc-rape-numbers/" rel="nofollow">http://time.com/3393442/cdc-rape-numbers/</a> . Sadly, his finger pointing demonstrates a close to fanatical agenda that makes his book raw and near ridiculous. Certainly, not the work of what you would expect from a “professional”. This had the potential of being a stand out piece but will remain mediocre at best.</p>
+<p>A biased book; not every drunken round of s*x is a felony</p>
+<p>This book is way too biased. The author seems to think that every man accused of raape is guilty, and every co-ed who cries “raape” is a victim of a brute, and the brute should be prosecuted and kicked out of school. I am a woman, and when I was in my early 20s, I was raaped, so I understand how awful that is. But I also know that if a girl announces (in front of witnesses) that she wants to have s*x with a guy, then gets drunk and crawls into bed with that guy, then takes off half her clothes and engages in petting, and then it ends up in them having s*x, well…..it’s going to difficult for a jury to find the guy guilty. And even more so, if she drives him home afterwards.</p>
+<p>But Krakauer seems to think that in those situations, the young man is always guilty, and the young woman has every right to bring him to trial and try to get him send to prison, even if a jury would never convict. Heck, I’m a former raape victim, and I wouldn’t convict in those situations because it’s not so clear what happened. And that’s as it should be. God forbid, if we get to the point where anyone accused is automatically guilty, just because he’s a man. That’s not right. That’s not fair. And that is what I did not like about this book. It makes these foolish girls out to be “victims,” when actually they set themselves up to not be believed. They set themselves up by publicly announcing they wanted to have s*x, by getting really drunk, by hopping into bed with the guy, by taking off clothes and petting, and so on. I am not jusitfying a raape. I am just saying that it’s mighty hard to prove, in those circumstances. So these girls need to use some common sense, and realize why the case cannot be prosecuted. The young men also need to use some common sense, and not get into bed with mixed-up young women who are publicly announcing their s*xual desires. Girls like that have no class, and are not to be trusted. Look at what happened to some of the guys in this book.</p>
+<p>P.S. I misspelled “raape” and “s*x”, because when I tried to review this book before, they wouldn’t accept my using those terms, even though that’s what the book is about. Go figure.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to peterschaeffer" class="comment-reply-link" href="#comment-39296" onclick='return addComment.moveForm( "comment-39296", "39296", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment even depth-2" id="li-comment-39335">
+<article class="comment" id="comment-39335">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39335">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Hopefully readers took my advice at the top of the section and didn’t read this entire post!  As I did there, I’ll summarize it here: women are liars, men are the real victims, we should reserve all of our compassion and outrage for the small number of men who are falsely accused of rape and dismiss or blame the far larger number of rape survivors who remain silent because they fear they won’t be believed.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39335" onclick='return addComment.moveForm( "comment-39335", "39335", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+<ul class="children">
+<li class="comment odd alt depth-3" id="li-comment-39339">
+<article class="comment" id="comment-39339">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+<a class="url" href="https://plus.google.com/106490064021861758481" rel="external nofollow">KAD</a> <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39339">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>The reviewer cherry-picked studies which found high rates of false reporting and ignored or dismissed those which found much lower rates (less than 5%).  For those actually interested in a balanced approach to the issue, I recommend <a href="https://www.psychologytoday.com/us/blog/finding-new-home/201810/rape-allegations" rel="nofollow">https://www.psychologytoday.com/us/blog/finding-new-home/201810/rape-allegations</a>.  </p>
+<p>The “feminists are Nazis” trope?  Really?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to KAD" class="comment-reply-link" href="#comment-39339" onclick='return addComment.moveForm( "comment-39339", "39339", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39304">
+<article class="comment" id="comment-39304">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					OWG <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39304">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>How does all this play out under the Napoleonic Code in France, for example?</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to OWG" class="comment-reply-link" href="#comment-39304" onclick='return addComment.moveForm( "comment-39304", "39304", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39313">
+<article class="comment" id="comment-39313">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Aleph <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39313">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>We still have the presomption of innocence for crimes in court, and false accusations are punished as well. </p>
+<p>However, administrative sanctions have to be taken in amateurish fashion by civil servants, and their hands are tied by the fact that real justice is slow and the sanction has to be quick, that is, without the means of proper enquiry, and before professionnals established the facts in court. I fear that all the Title IX mess will occur here as well. </p>
+<p>Last, but not least, the European Court of Justice decided to reverse the burden of the proof in some cases (“otherwise we would not condemn guilty people, ya know”). These cases include harassment, with its loose definition, and discriminations, even when there is no discrimination at all. </p>
+<p>For instance, in a company, ladies sorted small items (mushrooms I remember) and guys did the muscle job of lifting heavy cases and loading trucks. Girls could have applied for such a job, but probably would not have fit because it is exhausting. Girls were paid less than men. Of course, they were doing completely another job, and if a man had done theirs, he would have been paid what they earned. The market of employment for sorting items being different in that area from the market of carrying heavy loads, this resulted in both sexes earning differently. The judge ignored the difference between the jobs, ignored the job market, and not only had the company pay the ladies as much as the guys, he showered them with punishing compensation arguing there was a discrimination, and the company could not prove otherwise. And of course the company couldn’t, because every relevant intel was left aside.</p>
+<p>That is just class warfare under the belt.</p>
+<p>Needless to say, guys can’t be discrimnate against. Not a chance.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Aleph" class="comment-reply-link" href="#comment-39313" onclick='return addComment.moveForm( "comment-39313", "39313", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39314">
+<article class="comment" id="comment-39314">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Aleph from Paris <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39314">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>@OWG my answer is below.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Aleph from Paris" class="comment-reply-link" href="#comment-39314" onclick='return addComment.moveForm( "comment-39314", "39314", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="li-comment-39316">
+<article class="comment" id="comment-39316">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Daniel <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39316">
+						October 8, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>Equal under the law. </p>
+<p>Presumption of innocence of the accused except when they are accused of sexual assault by a woman. </p>
+<p>Not so equal.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Daniel" class="comment-reply-link" href="#comment-39316" onclick='return addComment.moveForm( "comment-39316", "39316", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-39343">
+<article class="comment" id="comment-39343">
+<div class="comment-avatar">
+</div>
+<div class="comment-details cf">
+<div class="comment-author">
+					Mitch <span class="says">says</span> </div><!-- end .comment-author -->
+<ul class="comment-meta">
+<li class="comment-time"><a href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/#comment-39343">
+						October 9, 2018</a>
+</li>
+</ul><!-- end .comment-meta -->
+</div><!-- end .comment-details -->
+<div class="comment-text">
+<p>“As in these instances, the presumption of guilt generally acts as a heat source that inflames the meaning of what would otherwise be equivocal or incidental details.”</p>
+<p>Enough said.</p>
+</div><!-- end .comment-text -->
+<div class="comment-reply"><a aria-label="Reply to Mitch" class="comment-reply-link" href="#comment-39343" onclick='return addComment.moveForm( "comment-39343", "39343", "respond", "84463" )' rel="nofollow">Reply</a></div>
+</article><!-- end .comment -->
+</li><!-- #comment-## -->
+</ol><!-- end .comment-list -->
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply					<small><a href="/2018/10/06/when-believe-the-victim-backfires/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small>
+</h3>
+<form class="comment-form" id="commentform">
+<iframe class="jetpack_remote_comment" id="jetpack_remote_comment" name="jetpack_remote_comment" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&amp;postid=84463&amp;comment_registration=0&amp;require_name_email=1&amp;stc_enabled=0&amp;stb_enabled=0&amp;show_avatars=0&amp;avatar_default=mystery&amp;greeting=Leave+a+Reply&amp;greeting_reply=Leave+a+Reply+to+%25s&amp;color_scheme=light&amp;lang=en_AU&amp;jetpack_version=6.3.2&amp;show_cookie_consent=10&amp;has_cookie_consent=0&amp;sig=bf47767756eea69425f02324318957afd0b8eb7f#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fwhen-believe-the-victim-backfires%2F" style="width:100%; height: 430px; border:0;" title="Comment Form"></iframe>
+<!--[if !IE]><!-->
+<script>document.addEventListener('DOMContentLoaded',function(){var commentForms=document.getElementsByClassName('jetpack_remote_comment');for(var i=0;i<commentForms.length;i++){commentForms[i].allowTransparency=false;commentForms[i].scrolling='no';}});</script>
+<!--<![endif]-->
+</form>
+</div>
+<input id="comment_parent" name="comment_parent" type="hidden" value=""/>
+</div><!-- #comments .comments-area -->
+<div class="nav-wrap cf">
+<nav id="nav-single">
+<div class="nav-previous"><a href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" rel="prev"><span class="meta-nav">Previous Post</span>A New Kind of Economy—An Interview with Andrew Yang</a></div>
+<div class="nav-next"><a href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" rel="next"><span class="meta-nav">Next Post</span>Don’t Get Fooled Again: The Continuing Necessity of Anti-Communism</a></div>
+</nav><!-- #nav-single -->
+</div><!-- end .nav-wrap -->
+</div><!-- end #primary -->
+<div class="default-sidebar widget-area" id="blog-sidebar" role="complementary">
+<aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-25"><a alt="Ad" href="https://www.romepix.com/prints/a-love-letter-to-rome-photo-book-5fbkk-9f3yy" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/27050224/ad8.jpg" style="width: 100%;"/></a></aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-6"> <div id="fb-root"></div>
+<div class="fb-page" data-height="432" data-hide-cover="false" data-href="https://www.facebook.com/QuilletteM/" data-show-facepile="true" data-show-posts="false" data-width="340">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/QuilletteM/"><a href="https://www.facebook.com/QuilletteM/"></a></blockquote></div>
+</div>
+</aside><aside class="widget widget_top-posts" id="top-posts-2"><h3 class="widget-title">Top Stories</h3><ul class="widgets-list-layout no-grav">
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/" title="The Grievance Studies Scandal: Five Academics Respond">
+<img alt="The Grievance Studies Scandal: Five Academics Respond" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/03013837/Image_1-e1538533061112.jpg?fit=1200%2C756&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/01/the-grievance-studies-scandal-five-academics-respond/">
+								The Grievance Studies Scandal: Five Academics Respond							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/" title="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms">
+<img alt="Writers Behind ‘Grievance Studies Scandal’ Address Criticisms" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05124955/MG_1643-Edit.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/05/writers-behind-grievance-studies-hoax-address-criticisms/">
+								Writers Behind ‘Grievance Studies Scandal’ Address Criticisms							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/" title="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism">
+<img alt="Don't Get Fooled Again: The Continuing Necessity of Anti-Communism" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05061119/Communism.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/dont-get-fooled-again-the-continuing-necessity-of-anti-communism/">
+								Don't Get Fooled Again: The Continuing Necessity of Anti-Communism							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/" title='When "Believe the Victim" Backfires'>
+<img alt='When "Believe the Victim" Backfires' class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/28205322/AdobeStock_164581217.jpeg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/when-believe-the-victim-backfires/">
+								When "Believe the Victim" Backfires							</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/" title="A New Kind of Economy—An Interview with Andrew Yang">
+<img alt="A New Kind of Economy—An Interview with Andrew Yang" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="40" src="https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/10/05062249/Andrew-Yang.jpg?fit=1200%2C800&amp;ssl=1&amp;resize=40%2C40" width="40"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://quillette.com/2018/10/06/a-new-kind-of-economy-an-interview-with-andrew-yang/">
+								A New Kind of Economy—An Interview with Andrew Yang							</a>
+</div>
+</li>
+</ul>
+</aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-16"><a alt="Ad" href="http://hac.bard.edu/" target="_blank"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/07/11000422/600-500-ad_quillette2-300x250.png" style="width: 100%;"/></a></aside><aside class="widget AdWidget_ImageWidget" id="adwidget_imagewidget-19"><a alt="Ad" href="https://www.patreon.com/Quillette"><img alt="Ad" src="https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/09/18030918/Q19-September.jpeg"/></a></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><h3 class="widget-title">Share</h3><div class="textwidget custom-html-widget"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+<ul style="padding:0">
+<li>
+<button onclick="window.open('https://www.facebook.com/dialog/share?app_id=586833251482093&amp;display=popup&amp;href=' + encodeURIComponent(document.URL) + '&amp;redirect_uri=' + encodeURIComponent(document.URL), '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-facebook-official" style="font-size:48px"></i></button>
+</li>
+<li>
+<button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL) + '&amp;text=' + encodeURIComponent(document.title) + '&amp;via=QuilletteM', '_blank', 'width=550,height=420')" onmouseenter="this.style.color='#999'" onmouseout="this.style.color=''" onmouseover="this.style.cursor='pointer'" style="border:0;background:none;padding:0"><i aria-hidden="true" class="fa fa-twitter" style="font-size:48px"></i></button>
+</li>
+</ul></link></div></aside></div><!-- end #blog-sidebar -->
+<div class="cf" id="footerwidgets-wrap">
+<div class="default-sidebar widget-area" id="footer-five" role="complementary">
+<aside class="widget widget_eu_cookie_law_widget" id="eu_cookie_law_widget-2"><div class="hide-on-button" data-consent-expiration="180" data-hide-timeout="5" id="eu-cookie-law">
+<form method="post">
+<input class="accept" type="submit" value="Close and accept"/>
+</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br/>
+To find out more, including how to control cookies, see here:
+	<a href="https://automattic.com/cookies/">
+		Cookie Policy	</a>
+</div>
+</aside> </div><!-- end #footer-five -->
+</div><!-- end #footerwidgets-wrap -->
+<footer class="site-footer cf" id="colophon">
+<p class="site-description">Free Thought Lives</p>
+<div id="footer-social-nav">
+<h3 class="social-nav-title">Follow Us</h3>
+<ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71138" id="menu-item-71138"><a href="https://www.facebook.com/Quillette-923721701039919/">Menu Item</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71135" id="menu-item-71135"><a href="https://twitter.com/QuilletteM">Menu Item</a></li>
+</ul> </div><!-- end #footer-social -->
+<div id="site-info">
+<ul class="credit" role="contentinfo">
+<li>Copyright © 2018 Quillette Pty Ltd | All Rights Reserved</li>
+</ul><!-- end .credit -->
+</div><!-- end #site-info -->
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+</div><!-- end #container -->
+<div style="display:none">
+</div>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/quillette.com\/2018\/10\/06\/when-believe-the-victim-backfires\/":84463};</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_AU/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}
+jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}
+(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/platform.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')
+IN.parse();});</script> <div id="sharing_email" style="display: none;">
+<form action="/2018/10/06/when-believe-the-victim-backfires/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<img alt="loading" class="loading" height="16" src="https://quillette.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/comment-reply.min.js?ver=4.9.8" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var jpfbembed={"appid":"249643311490","locale":"en_US"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var q2w3_sidebar_options=[{"sidebar":"blog-sidebar","margin_top":30,"margin_bottom":0,"stop_id":"footerwidgets-wrap","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["adwidget_imagewidget-19","custom_html-2"]}];
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4" type="text/javascript"></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.3.2" type="text/javascript"></script>
+<script src="https://quillette.com/wp-includes/js/wp-embed.min.js?ver=4.9.8" type="text/javascript"></script>
+<script async="async" src="https://quillette.com/wp-content/plugins/akismet/_inc/form.js?ver=4.0.8" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+var sharing_js_options={"lang":"en","counts":"1"};
+//]]></script>
+<script src="https://quillette.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=6.3.2" type="text/javascript"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}
+windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+<script type="text/javascript">(function(){var comm_par_el=document.getElementById('comment_parent'),comm_par=(comm_par_el&&comm_par_el.value)?comm_par_el.value:'',frame=document.getElementById('jetpack_remote_comment'),tellFrameNewParent;tellFrameNewParent=function(){if(comm_par){frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84463&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=bf47767756eea69425f02324318957afd0b8eb7f#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fwhen-believe-the-victim-backfires%2F"+'&replytocom='+parseInt(comm_par,10).toString();}else{frame.src="https://jetpack.wordpress.com/jetpack-comment/?blogid=101756249&postid=84463&comment_registration=0&require_name_email=1&stc_enabled=0&stb_enabled=0&show_avatars=0&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_AU&jetpack_version=6.3.2&show_cookie_consent=10&has_cookie_consent=0&sig=bf47767756eea69425f02324318957afd0b8eb7f#parent=https%3A%2F%2Fquillette.com%2F2018%2F10%2F06%2Fwhen-believe-the-victim-backfires%2F";}};if('undefined'!==typeof addComment){addComment._Jetpack_moveForm=addComment.moveForm;addComment.moveForm=function(commId,parentId,respondId,postId){var returnValue=addComment._Jetpack_moveForm(commId,parentId,respondId,postId),cancelClick,cancel;if(false===returnValue){cancel=document.getElementById('cancel-comment-reply-link');cancelClick=cancel.onclick;cancel.onclick=function(){var cancelReturn=cancelClick.call(this);if(false!==cancelReturn){return cancelReturn;}
+if(!comm_par){return cancelReturn;}
+comm_par=0;tellFrameNewParent();return cancelReturn;};}
+if(comm_par==parentId){return returnValue;}
+comm_par=parentId;tellFrameNewParent();return returnValue;};}
+document.addEventListener('DOMContentLoaded',function(){var iframe_url="https:\/\/jetpack.wordpress.com";if(window.postMessage){if(document.addEventListener){window.addEventListener('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}else if(document.attachEvent){window.attachEvent('message',function(event){var origin=event.origin.replace(/^http:\/\//i,'https://');if(iframe_url.replace(/^http:\/\//i,'https://')!==origin){return;}
+jQuery(frame).height(event.data);});}}})})();</script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-201841.js" type="text/javascript"></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.3.2',blog:'101756249',post:'84463',tz:'0',srv:'quillette.com'}]);_stq.push(['clickTrackerInit','101756249','84463']);</script>
+</body>
+</html>
