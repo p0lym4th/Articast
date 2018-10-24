@@ -1,11 +1,11 @@
 #This is an article extractor for the Quillette web page
 #
 #Steven Large
-#August 15ht 2018
+#August 15th 2018
 
 from urllib import urlopen
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import os
 from bs4 import BeautifulSoup
 	
@@ -42,7 +42,7 @@ def GetArticleContent_Revised(soup_Article): 					#Revised extractor, utilizing 
 	Content = soup_Article.find("div", {"class":"entry-content"}).findAll("p")
 
 	for index in range(len(Content)):
-		TextContent.append(Content[index]).encode("UTF-8")
+		TextContent.append(Content[index].text.encode("UTF-8"))
 
 	return TextContent
 
@@ -66,8 +66,8 @@ def WriteArticleText_Revised(Path,Filename,ArticleContent):
 
 	CompleteName = os.path.join(Path,Filename)
 	file1 = open(CompleteName,'w')
-	for index in range(len(AricleContent)):
-		file1.write(ArticleContent[index])
+	for index in range(len(ArticleContent)):
+		file1.write(ArticleContent[index] + "\n")
 	file1.close()
 
 def GetArticleURLs_Quillette(soup_TS):
@@ -100,7 +100,9 @@ def GetArticleURLs_Quillette_Revised(soup):
 	for article in soup.findAll("h2",{"class":"entry-title"}):
 		ArticleURLs.append(article.find("a").get("href").encode("UTF-8"))
 		Title = article.text.encode("UTF-8")
-		CollapsedTitle = TItle.replace(" ","-")
+		CollapsedTitle = Title.replace(" ","-")
+		CollapsedTitle = CollapsedTitle.replace("'","")
+		CollapsedTitle = CollapsedTitle.replace("`","")
 		ArticleTitles.append(CollapsedTitle + ".txt")
 
 	return ArticleURLs,ArticleTitles
@@ -163,6 +165,12 @@ def WriteHTMLCode(WritePath,WriteName,Soup):
 	file1.write(str(Soup))
 	file1.close()
 
+def WriteHTMLCode_Prettify(WritePath,WriteName,Soup):
+
+	CompleteName = os.path.join(WritePath,WriteName)
+	file1 = open(CompleteName,'w')
+	file1.write(str(Soup.prettify()).encode("UTF-8"))
+	file1.close()
 
 WritePath_html = "htmlCode/Quillette/"
 
@@ -210,7 +218,7 @@ print("\t\tFound --> " + str(len(RepCheck) - sum(RepCheck)) + " <-- new articles
 
 for index in range(len(ArticleURLs_TS)):
 	
-	if(RepCheck[index]==0):
+	#if(RepCheck[index]==0):
 
 		WriteName = "Article_TS_" + str(index) + ".dat"
 
@@ -229,7 +237,7 @@ print("\t\tFound --> " + str(len(RepCheck) - sum(RepCheck)) + " <-- new articles
 
 for index in range(len(ArticleURLs_SL)):
 
-	if(RepCheck[index]==0):
+	#(RepCheck[index]==0):
 
 		WriteName = "Article_SL_" + str(index) + ".dat"
 
@@ -237,7 +245,7 @@ for index in range(len(ArticleURLs_SL)):
 		soup_Temp = BeautifulSoup(htmlCode_Temp,'html.parser')
 		#WriteHTMLCode(WritePath_html,WriteName,soup_Temp)
 		#ArticleContent = GetArticleContent(soup_Temp)
-		ArticleContent = GetArticleURLs_Quillette_Revised(soup_Temp)
+		ArticleContent = GetArticleContent_Revised(soup_Temp)
 
 		WriteName = ArticleTitles_SL[index]
 		#WriteArticleText(WritePath,WriteName,ArticleContent)
