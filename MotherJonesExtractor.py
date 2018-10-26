@@ -8,6 +8,7 @@ import numpy as np
 #import matplotlib.pyplot as plt
 import os
 from bs4 import BeautifulSoup
+import re
 
 def GetArticleContent(soup_Article):
 	pass
@@ -15,8 +16,29 @@ def GetArticleContent(soup_Article):
 def WriteArticleText(WritePath,WriteName,Content):
 	pass
 
-def GetArticleURLs(soup_Directory):
-	pass
+def DeleteRepeatedEntries(LinkList):
+
+	NewList = []
+	for index1 in range(len(LinkList)):
+		RepCond = False
+		for index2 in range(len(NewList)):
+			for index3 in range(len(LinkList)):
+				if(NewList[index2]==LinkList[index3]):
+					RepCond = True
+		if(RepCond==True):
+			NewList.append(LinkList[index1])
+
+	return NewList
+
+def GetArticleURLs_Main(soup_Directory):
+
+	LinkList = []
+	LinksEmbedded = soup_Directory.findAll("a",{"data-ga-category":"Homepage"})
+	for index in range(len(LinksEmbedded)):
+		LinkList.append(LinksEmbedded[index].get('href').encode("UTF-8"))
+	LinkList = DeleteRepeatedEntries(LinkList)
+
+	return LinkList
 
 def UpdateDictionary(ReadPath,DictName,ArticleURLs):
 	pass
@@ -24,7 +46,7 @@ def UpdateDictionary(ReadPath,DictName,ArticleURLs):
 def WriteHTMLCode(WritePath,WriteName,soup):
 
 	CompleteName = os.path.join(WritePath,WriteName)
-	file1 = open(CompleteName'w')
+	file1 = open(CompleteName,'w')
 	file1.write(str(soup))
 	file1.close()
 
@@ -75,5 +97,5 @@ soup_Election = BeautifulSoup(htmlCode_Election2018,'html.parser')
 WriteHTMLCode_Pretty(writePath_html,'MainPage.dat',soup_Main)
 WriteHTMLCode_Pretty(writePath_html,'PoliticsPage.dat',soup_Politics)
 WriteHTMLCode_Pretty(writePath_html,'CrimePage.dat',soup_Crime)
-WriteHTMLCode_Pretty(writePath_html,'ElectionPage.dat',soup_Election2018)
+WriteHTMLCode_Pretty(writePath_html,'ElectionPage.dat',soup_Election)
 

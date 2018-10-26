@@ -1,0 +1,1446 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+ <head>
+  <meta charset="utf-8">
+   <script type="text/javascript">
+    window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);
+   </script>
+   <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta content="default-src https://* 'unsafe-inline' 'unsafe-eval' data:; upgrade-insecure-requests;" http-equiv="Content-Security-Policy">
+     <style>
+      @font-face{font-family:'MallorySubset';src:url(data:application/font-woff;charset=utf-8;base64,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)format('woff');unicode-range:U+0021-U+007E}body,caption,input,textarea,select,option,legend,fieldset{font-family:Georgia,"Times New Roman","Bitstream Vera Serif",serif;font-size:16px;line-height:1.5}.fonts-stage-1 h1,.fonts-stage-1 h2,.fonts-stage-1 h3,.fonts-stage-1 h4,.fonts-stage-1 h5{font-family:MallorySubset,sans-serif;font-weight:bold;font-style:normal}
+     </style>
+     <script>
+      !function(){if(sessionStorage.criticalFoftDataUriFontsLoaded)document.documentElement.className+=" fonts-stage-1 fonts-stage-2";else{!function(){function e(e,t){document.addEventListener?e.addEventListener("scroll",t,!1):e.attachEvent("scroll",t)}function t(e){document.body?e():document.addEventListener?document.addEventListener("DOMContentLoaded",function t(){document.removeEventListener("DOMContentLoaded",t),e()}):document.attachEvent("onreadystatechange",function t(){"interactive"!=document.readyState&&"complete"!=document.readyState||(document.detachEvent("onreadystatechange",t),e())})}function n(e){this.a=document.createElement("div"),this.a.setAttribute("aria-hidden","true"),this.a.appendChild(document.createTextNode(e)),this.b=document.createElement("span"),this.c=document.createElement("span"),this.h=document.createElement("span"),this.f=document.createElement("span"),this.g=-1,this.b.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.c.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.f.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.h.style.cssText="display:inline-block;width:200%;height:200%;font-size:16px;max-width:none;",this.b.appendChild(this.h),this.c.appendChild(this.f),this.a.appendChild(this.b),this.a.appendChild(this.c)}function o(e,t){e.a.style.cssText="max-width:none;min-width:20px;min-height:20px;display:inline-block;overflow:hidden;position:absolute;width:auto;margin:0;padding:0;top:-999px;left:-999px;white-space:nowrap;font:"+t+";"}function i(e){var t=e.a.offsetWidth,n=t+100;return e.f.style.width=n+"px",e.c.scrollLeft=n,e.b.scrollLeft=e.b.scrollWidth+100,e.g!==t&&(e.g=t,!0)}function a(t,n){function o(){var e=a;i(e)&&null!==e.a.parentNode&&n(e.g)}var a=t;e(t.b,o),e(t.c,o),i(t)}function s(e,t){var n=t||{};this.family=e,this.style=n.style||"normal",this.weight=n.weight||"normal",this.stretch=n.stretch||"normal"}function d(){if(null===r){var e=document.createElement("div");try{e.style.font="condensed 100px sans-serif"}catch(e){}r=""!==e.style.font}return r}function l(e,t){return[e.style,e.weight,d()?e.stretch:"","100px",t].join(" ")}var c=null,r=null,h=null;s.prototype.load=function(e,i){var s=this,d=e||"BESbswy",r=i||3e3,f=(new Date).getTime();return new Promise(function(e,i){if(null===h&&(h=!!window.FontFace),h){var u=new Promise(function(e,t){function n(){(new Date).getTime()-f>=r?t():document.fonts.load(l(s,s.family),d).then(function(t){1<=t.length?e():setTimeout(n,25)},function(){t()})}n()}),m=new Promise(function(e,t){setTimeout(t,r)});Promise.race([m,u]).then(function(){e(s)},function(){i(s)})}else t(function(){function t(){var t;(t=-1!=w&&-1!=v||-1!=w&&-1!=y||-1!=v&&-1!=y)&&((t=w!=v&&w!=y&&v!=y)||(null===c&&(t=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent),c=!!t&&(536>parseInt(t[1],10)||536===parseInt(t[1],10)&&11>=parseInt(t[2],10))),t=c&&(w==g&&v==g&&y==g||w==b&&v==b&&y==b||w==x&&v==x&&y==x)),t=!t),t&&(null!==E.parentNode&&E.parentNode.removeChild(E),clearTimeout(F),e(s))}function h(){if((new Date).getTime()-f>=r)null!==E.parentNode&&E.parentNode.removeChild(E),i(s);else{var e=document.hidden;!0!==e&&void 0!==e||(w=u.a.offsetWidth,v=m.a.offsetWidth,y=p.a.offsetWidth,t()),F=setTimeout(h,50)}}var u=new n(d),m=new n(d),p=new n(d),w=-1,v=-1,y=-1,g=-1,b=-1,x=-1,E=document.createElement("div"),F=0;E.dir="ltr",o(u,l(s,"sans-serif")),o(m,l(s,"serif")),o(p,l(s,"monospace")),E.appendChild(u.a),E.appendChild(m.a),E.appendChild(p.a),document.body.appendChild(E),g=u.a.offsetWidth,b=m.a.offsetWidth,x=p.a.offsetWidth,h(),a(u,function(e){w=e,t()}),o(u,l(s,'"'+s.family+'",sans-serif')),a(m,function(e){v=e,t()}),o(m,l(s,'"'+s.family+'",serif')),a(p,function(e){y=e,t()}),o(p,l(s,'"'+s.family+'",monospace'))})})},"undefined"!=typeof module?module.exports=s:(window.FontFaceObserver=s,window.FontFaceObserver.prototype.load=s.prototype.load)}();var e=new FontFaceObserver("MallorySubset");Promise.all([e.load()]).then(function(){document.documentElement.className+=" fonts-stage-1";var e=new FontFaceObserver("Mallory"),t=new FontFaceObserver("Calluna");Promise.all([e.load(),t.load()]).then(function(){document.documentElement.className+=" fonts-stage-2",sessionStorage.criticalFoftDataUriFontsLoaded=!0})})}}();
+     </script>
+     <title>
+      Crime and Justice – Mother Jones
+     </title>
+     <!-- Jetpack Site Verification Tags -->
+     <meta content="Vszdhhc4evgm_TsXnyu3OflD21DCmCMnElpbSe18Jmg" name="google-site-verification"/>
+     <link href="//s0.wp.com" rel="dns-prefetch"/>
+     <link href="//s.w.org" rel="dns-prefetch"/>
+     <link href="https://www.motherjones.com/feed/" rel="alternate" title="Mother Jones » Feed" type="application/rss+xml"/>
+     <link href="https://www.motherjones.com/comments/feed/" rel="alternate" title="Mother Jones » Comments Feed" type="application/rss+xml"/>
+     <link href="https://www.motherjones.com/./crime-justice/feed/" rel="alternate" title="Mother Jones » Crime and Justice Category Feed" type="application/rss+xml"/>
+     <script type="text/javascript">
+      window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.motherjones.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+     </script>
+     <style type="text/css">
+      img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+     </style>
+     <link href="https://www.motherjones.com/_static/??-eJyVy9EOgjAMheEXEqoRA1wYn2UZjQzWdlkLhLd3Gi9NDHf/Sc4HW6q8sCEb2IiECiQl8iRc2quC2h6xpsB1WSf4D9wwogbhI0ZWzNHtR4gGwy279NPQUqW4PAMrTGjJ+fljvv2+P+h+uTXna9f3bfcC4ddirA==" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+     <script type="text/javascript">
+      /* <![CDATA[ */
+var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&gtm_preview=env-2&gtm_cookies_win=x"};
+/* ]]> */
+     </script>
+     <script src="https://www.motherjones.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/themes/motherjones/js/header-analytics.min.js?m=1534366345j" type="text/javascript">
+     </script>
+     <link href="https://www.motherjones.com/wp-json/" rel="https://api.w.org/"/>
+     <link href="https://www.motherjones.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+     <link href="https://www.motherjones.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+     <meta content="WordPress 4.9.8" name="generator"/>
+     <meta content="7642602143" property="fb:pages"/>
+     <style type="text/css">
+      img#wpstats{display:none}
+     </style>
+     <meta content="https://www.motherjones.com/crime-justice/" property="og:url"/>
+     <meta content="Mother Jones: Crime and Justice" property="og:title"/>
+     <meta content="webpage" property="og:type"/>
+     <meta content="https://www.motherjones.com/wp-content/themes/motherjones/img/mojo_nomaster.jpg" property="og:image"/>
+     <meta content="Mother Jones" property="og:site_name"/>
+     <meta content="13301307,670317733,1198876232,38509772,106892,2907757,306289,602422192,4101301,513450539" property="fb:admins"/>
+     <meta content="7642602143" property="fb:pages"/>
+     <meta content="1072916546168933" property="fb:pages"/>
+     <meta content="416261761736915" property="fb:pages"/>
+     <meta content="149244498452823" property="fb:pages"/>
+     <meta content="111917028836008" property="fb:pages"/>
+     <meta content="https://www.motherjones.com/crime-justice/" property="twitter:url"/>
+     <meta content="@Motherjones" property="twitter:site"/>
+     <meta content="summary_large_image" property="twitter:card"/>
+     <meta content="on" name="twitter:dnt"/>
+     <style type="text/css">
+      html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+					display: none;
+				}
+     </style>
+     <script>
+      document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+     </script>
+     <link href="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=32" rel="icon" sizes="32x32"/>
+     <link href="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=192" rel="icon" sizes="192x192"/>
+     <link href="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180" rel="apple-touch-icon-precomposed"/>
+     <meta content="https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=270" name="msapplication-TileImage"/>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="archive category category-crime-justice category-16720">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-55MKBQW&amp;gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&amp;gtm_preview=env-2&amp;gtm_cookies_win=x" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <a class="visuallyhidden" href="#main">
+   Skip to main content
+  </a>
+  <nav id="navbar" role="navigation">
+   <ul>
+    <li class="logo">
+     <a data-ga-category="Navbar|Floating" data-ga-label="Home" href="/">
+      <svg viewbox="0 0 813.67 165.61" xmlns="http://www.w3.org/2000/svg">
+       <path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z">
+       </path>
+       <path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z">
+       </path>
+      </svg>
+     </a>
+    </li>
+    <li class="menu-button">
+     <a data-ga-category="Navbar|Floating" data-ga-label="MenuExpand" onclick="expandMenu();" tabindex="0">
+      <svg enable-background="new 0 0 125 125" height="25px" id="nav-menu-svg" version="1.1" viewbox="0 0 125 125" width="25px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+       <path d="m0 100.87">
+       </path>
+       <rect height="15" width="125" y="30">
+       </rect>
+       <rect height="15" width="125" y="70">
+       </rect>
+       <rect height="15" width="125" y="110">
+       </rect>
+      </svg>
+      <svg height="22px" id="nav-close-svg" version="1.1" viewbox="0 0 19.8 19.8" width="22px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0px">
+       <polygon points="19.8,2.4 17.4,0 9.9,7.5 2.4,0 0,2.4 7.5,9.9 0,17.4 2.4,19.8 9.9,12.3 17.4,19.8 19.8,17.4 12.3,9.9 ">
+       </polygon>
+      </svg>
+     </a>
+    </li>
+    <li class="donate-link article-page desktop">
+     <a data-ga-category="Navbar|Floating" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP002&amp;term=XX.1.50.00.DON.D.0.7252" target="_blank" title="Donate">
+      Donate
+     </a>
+    </li>
+    <li class="donate-link article-page mobile" style="display:none;">
+     <a data-ga-category="Navbar|Floating" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP007&amp;term=XX.1.50.00.DON.D.0.7252" target="_blank" title="Donate">
+      Donate
+     </a>
+    </li>
+    <li class="subscribe-link article-page hidden-xxs">
+     <a data-ga-category="Navbar|Floating" data-ga-label="Subscribe" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1" target="_blank" title="Subscribe">
+      Subscribe
+     </a>
+    </li>
+   </ul>
+   <div class="menu-floating-navbar-container" id="mj_menu_select">
+    <ul id="mj_menu_options">
+     <li>
+      <form action="https://www.motherjones.com/" class="search-form" data-ga-category="Search" data-ga-label="Search" method="get" role="search">
+       <label>
+        <input class="search-field" name="s" placeholder="SEARCH…" title="Search for:" type="search" value=""/>
+       </label>
+       <input class="search-submit" type="submit" value="SUBMIT"/>
+       <button type="submit">
+        <i class="icon-search">
+        </i>
+       </button>
+      </form>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405555" id="menu-item-405555">
+      <a data-ga-action="https://www.motherjones.com/./politics/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_1" href="https://www.motherjones.com/./politics/">
+       Politics
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405556" id="menu-item-405556">
+      <a data-ga-action="https://www.motherjones.com/./environment/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_2" href="https://www.motherjones.com/./environment/">
+       Environment
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405557" id="menu-item-405557">
+      <a data-ga-action="https://www.motherjones.com/./media/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_3" href="https://www.motherjones.com/./media/">
+       Media
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-405558" id="menu-item-405558">
+      <a data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_4" href="https://www.motherjones.com/./crime-justice/">
+       Crime and Justice
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405559" id="menu-item-405559">
+      <a data-ga-action="https://www.motherjones.com/./food/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_5" href="https://www.motherjones.com/./food/">
+       Food
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405562" id="menu-item-405562">
+      <a data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_6" href="https://www.motherjones.com/topics/photoessays/">
+       Photos
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405563" id="menu-item-405563">
+      <a data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_7" href="https://www.motherjones.com/topics/investigations/">
+       Investigations
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615549" id="menu-item-615549">
+      <a data-ga-action="/magazine" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_8" href="/magazine">
+       Magazine
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405598" id="menu-item-405598">
+      <a data-ga-action="https://www.motherjones.com/podcasts/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_9" href="https://www.motherjones.com/podcasts/">
+       Podcasts
+      </a>
+     </li>
+     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579708" id="menu-item-579708">
+      <a data-ga-action="https://www.motherjones.com/newsletters/" data-ga-category="Navbar|Floating" data-ga-label="NavPosition_10" href="https://www.motherjones.com/newsletters/">
+       Newsletters
+      </a>
+     </li>
+    </ul>
+   </div>
+  </nav>
+  <!-- end following navbar -->
+  <div class="dfw-unit" data-adunit="Site_Skin_Left" data-size-mapping="mapping1" id="Site_Skin_Left">
+  </div>
+  <div class="dfw-unit" data-adunit="Site_Skin_Right" data-size-mapping="mapping2" id="Site_Skin_Right">
+  </div>
+  <div class="hidden" id="overlay-ad-bg">
+   <div class="overlay-ad-wrapper">
+    <p class="overlay-ad-aux">
+     <span class="ad-label">
+      Advertisement
+     </span>
+     <span class="close">
+      Close X
+     </span>
+    </p>
+    <div class="dfw-unit" data-adunit="Overlay" data-size-mapping="mapping3" id="Overlay">
+    </div>
+   </div>
+  </div>
+  <div class="grid" id="page">
+   <div class="ad-unit col-12" id="TopROS970x250">
+    <div class="dfw-unit" data-adunit="ROS_ATF_970x250" data-size-mapping="mapping4" id="ROS_ATF_970x250">
+    </div>
+   </div>
+   <header class="site-header col-12" id="masthead">
+    <section class="banner grid" role="banner">
+     <div class="logo col-5">
+      <a data-ga-category="Masthead" data-ga-label="Home" href="/" title="Return to Mother Jones Homepage">
+       <svg viewbox="0 0 813.67 165.61" xmlns="http://www.w3.org/2000/svg">
+        <path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z">
+        </path>
+        <path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z">
+        </path>
+       </svg>
+      </a>
+     </div>
+     <div class="subscribe-donate col-7">
+      <a data-ga-category="Masthead" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP001&amp;term=XX.1.50.00.DON.D.0.2157" title="Donate">
+       <button class="donate">
+        Donate
+       </button>
+      </a>
+      <a data-ga-category="Masthead" data-ga-label="Subscribe" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN" title="Subscribe">
+       <button class="subscribe">
+        Subscribe
+       </button>
+      </a>
+     </div>
+    </section>
+    <nav id="static-navbar" role="navigation">
+     <a id="navigation" name="navigation">
+     </a>
+     <ul class="menu">
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405545" id="menu-item-405545">
+       <a data-ga-action="https://www.motherjones.com/./politics/" data-ga-category="Masthead" data-ga-label="NavPosition_1" href="https://www.motherjones.com/./politics/">
+        Politics
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405546" id="menu-item-405546">
+       <a data-ga-action="https://www.motherjones.com/./environment/" data-ga-category="Masthead" data-ga-label="NavPosition_2" href="https://www.motherjones.com/./environment/">
+        Environment
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405547" id="menu-item-405547">
+       <a data-ga-action="https://www.motherjones.com/./food/" data-ga-category="Masthead" data-ga-label="NavPosition_3" href="https://www.motherjones.com/./food/">
+        Food
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405548" id="menu-item-405548">
+       <a data-ga-action="https://www.motherjones.com/./media/" data-ga-category="Masthead" data-ga-label="NavPosition_4" href="https://www.motherjones.com/./media/">
+        Media
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-405549" id="menu-item-405549">
+       <a data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-category="Masthead" data-ga-label="NavPosition_5" href="https://www.motherjones.com/./crime-justice/">
+        Crime &amp; Justice
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405550" id="menu-item-405550">
+       <a data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-category="Masthead" data-ga-label="NavPosition_6" href="https://www.motherjones.com/topics/photoessays/">
+        Photos
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405551" id="menu-item-405551">
+       <a data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-category="Masthead" data-ga-label="NavPosition_7" href="https://www.motherjones.com/topics/investigations/">
+        Investigations
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405552" id="menu-item-405552">
+       <a data-ga-action="/magazine" data-ga-category="Masthead" data-ga-label="NavPosition_8" href="/magazine">
+        Magazine
+       </a>
+      </li>
+      <li id="search-li" role="search" tabindex="0">
+       <i class="icon-search">
+       </i>
+       <form action="https://www.motherjones.com/" class="search-form" data-ga-category="Search" data-ga-label="Search" method="get" role="search">
+        <label>
+         <input class="search-field" name="s" placeholder="SEARCH…" title="Search for:" type="search" value=""/>
+        </label>
+        <input class="search-submit" type="submit" value="SUBMIT"/>
+        <button type="submit">
+         <i class="icon-search">
+         </i>
+        </button>
+       </form>
+      </li>
+     </ul>
+    </nav>
+    <div class="col-12" id="ticker">
+     <section class="widget_text widget widget_custom_html" id="custom_html-3">
+      <h2 class="widget-title">
+       Support Mother Jones
+      </h2>
+      <div class="textwidget custom-html-widget">
+       <div class="ticker-content format-letter">
+        <style>
+         .ticker-content.format-letter {
+		  background:#fff;
+		  border:1.5px solid #f2f3ef;
+		  padding:1.5rem;
+		}
+		.ticker-content.format-letter p {
+			text-align:left;
+			font-size:1.1875rem;
+			line-height:1.5;
+		}
+		.ticker-content.format-letter p a.ticker-read-more {
+			color:inherit;
+			background-image: url('https://motherjones.com/wp-content/themes/motherjones/img/orange-border.png');
+		  background-repeat: repeat-x;
+		  text-decoration: none;
+		  text-shadow: -1px 0 0 #fff, 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff,
+		  -1px -1px 0 #fff, 1px 1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+		}
+		.ticker-content.format-letter p a.ticker-read-more:hover {
+			background-image: none;
+			color: #ff6900;
+			text-shadow: none;
+			opacity:1;
+		  }
+		.ticker-content.format-letter .letter-headshot {
+		  border-radius:50%;
+		  float:right;
+		  margin:0 0 2rem 2rem;
+		}
+		.ticker-content.format-letter .letter-signature {
+			display: block;
+			margin: 1rem 0 0 0;
+		}
+		.ticker-content.format-letter p.salutation {
+			font-size:1.5rem;
+			margin-bottom: 1rem;
+			line-height: 1rem;
+		}
+		.ticker-content.format-letter p.letter-body {
+			font-family: Calluna, serif;
+			font-weight:normal;
+			position:relative;
+		}
+		.ticker-content.format-letter p.letter-body .btn-primary {
+			border-radius:.5rem;
+			margin-left:2rem;
+			display:inline-block;
+			margin-top: -1.5rem;
+			vertical-align: text-bottom;
+			zoom: 80%;
+		}
+		@media only screen and (max-width: 992px) {
+			#ticker .widget {
+				padding:0;
+			}
+		}
+		@media only screen and (max-width: 768px) {
+			.ticker-content.format-letter {
+				padding:1rem;
+			}
+			.ticker-content.format-letter p,
+			.ticker-content.format-letter p.salutation {
+				font-size:1rem;
+			}
+			.ticker-content.format-letter p.salutation {
+				margin-bottom: .5rem;
+			}
+			.ticker-content.format-letter .letter-headshot {
+				width: 120px;
+				margin:0 0 1rem 1rem;
+			}
+		}
+		@media only screen and (max-width: 480px) {
+			.ticker-content.format-letter .letter-headshot {
+				width: 90px;
+				position:absolute;
+				bottom:3rem;
+				right:1rem;
+				margin:1rem;
+			}
+			.ticker-content.format-letter .letter-signature {
+				max-width:160px;
+			}
+			.ticker-content.format-letter p.letter-body .btn-primary {
+				position:relative;
+				display:block;
+				margin-left:0;
+				margin-top:1rem;
+				zoom:80%;
+			}
+		}
+		@media only screen and (max-width: 400px) {
+			.ticker-content.format-letter .letter-title {
+				display:block;
+			}
+			.ticker-content.format-letter .letter-headshot {
+				width: 80px;
+				margin:1.5rem 1rem;
+			}
+		}
+        </style>
+        <img alt="David Corn photo" class="letter-headshot jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/CornDavid-2017toned-800px.jpg?w=200&amp;is-pending-load=1" src="https://www.motherjones.com/wp-content/uploads/2018/10/CornDavid-2017toned-800px.jpg?w=200" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200">
+         <noscript>
+          <img alt="David Corn photo" class="letter-headshot" src="https://www.motherjones.com/wp-content/uploads/2018/10/CornDavid-2017toned-800px.jpg?w=200" width="200"/>
+         </noscript>
+         <p class="salutation">
+          Dear Reader,
+         </p>
+         <p class="letter-body">
+          “
+          <a class="ticker-read-more" data-ga-category="MembershipBar" data-ga-label="ReadMore" href="https://www.motherjones.com/politics/2018/10/the-most-important-election-of-our-lives-1/?list_source=7H88PR06&amp;term=XX.1.50.00.DON.D.0.15422" target="_blank">
+           The Most Important Election of Our Lives
+          </a>
+          .” That's my new column, and you hear it every time, but this year
+          <em>
+           really
+          </em>
+          is the most important contest in decades (or at least since 2016). Truth and accountability are on the ballot, and since that's the driving force for all of us at
+          <em>
+           MoJo
+          </em>
+          , I am going to make an ask:
+          <strong>
+           Will you pitch in $5 a month to support our kick-ass and uncompromising journalism today?
+          </strong>
+         </p>
+         <svg class="letter-signature" style="enable-background:new 0 0 379.7 77.9;" version="1.1" viewbox="0 0 379.7 77.9" width="160" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+          <style type="text/css">
+           .st0{fill:#050505;} .st1{fill:#A7A7A7;} .st2{fill:#474747;} .st3{fill:#666666;} .st4{fill:#B4B4B4;} .st5{fill:#C1C1C1;} .st6{fill:#A6A6A6;} .st7{fill:#AFAFAF;} .st8{fill:#CECECE;} .st9{fill:#3B3B3B;} .st10{fill:#4B4B4B;} .st11{fill:#4E4E4E;} .st12{fill:#CDCDCD;} .st13{fill:#B1B1B1;} .st14{fill:#595959;} .st15{fill:#323232;} .st16{fill:#3A3A3A;} .st17{fill:#080808;} .st18{fill:#0C0C0C;} .st19{fill:#C5C5C5;} .st20{fill:#F5F5F5;}
+          </style>
+          <g>
+           <path class="st0" d="M101.8,20.8c0.3,0.4,0.6,0.7,0.9,1.1c2.5,3.8,2,7.4-1.5,11.2c-1.9,2.1-4,4-6.3,5.6c-4.3,2.4-8.4,5.2-12.9,7.3
+		c-9.3,4.5-18.5,9.1-28.1,13c-0.3,0.1-0.5,0.4-0.8,0.6c-11.5,4.9-23,9.6-34.8,13.7c-1.9,0.7-3.9,1.2-5.9,1.8c-1.2,0.7-2.6,1-3.9,1.5
+		c-1.3,0.5-2.7,0.9-4.1,1c-1,0.1-1.8-0.3-2.1-1.3c-0.3-1.1-0.1-2.1,1-2.5c1.6-0.5,2.9-1.3,4.9-1.2c2.7,0.2,5.4-1.2,8.1-2.1
+		c14.5-5,28.6-10.9,42.6-17.2c10.7-4.8,21.3-9.8,31.3-15.8c3.5-2.1,6.7-4.6,9.1-8c1.2-1.7,1.4-3.3,0.4-5.1c-1.5-2.7-3.9-4.3-6.4-5.8
+		c-5.6-3.3-11.8-4.8-17.8-6.9c-4.6-1.6-9.5-2.5-14.3-3.2c-5.6-0.8-11.2-1.9-16.9-2.5C36.6,5.3,28.8,5,21,5.7C17.5,6,13.8,6.4,11,8.9
+		c-1.3,1.5-0.5,2.7,0.6,3.9c1.3,1.3,2.8,2.3,4.3,3.3c1.1,0.7,1.7,1.7,1.1,2.9c-0.7,1.3-2,0.8-2.9,0.3c-3.3-1.8-5.7-4.6-7.6-7.7
+		C5.7,10.3,6,8.4,7.4,6.9c1.7-1.8,3.7-3,6.2-3.3c6.6-2.1,13.5-2,20.3-1.6c5.4,0.3,10.9,0.4,16.3,1.3c3.6,0.6,7.4,1,11,1.6
+		c3.6,0.6,7.3,1.5,10.9,2.5c7.2,2,14.5,3.7,21.1,7.2C96.4,16.2,99.5,18,101.8,20.8z">
+           </path>
+           <path class="st1" d="M10.7,8.8c2-2.7,5.1-2.8,8-3.3C24.4,4.5,30.3,4.6,36.1,5c6.8,0.4,13.5,1.2,20.2,2.3c6.5,1.1,13.1,2.1,19.4,4.2
+		c6.7,2.3,13.6,3.8,19.6,7.9c0.5,0.3,1,0.6,1.4,1c4.4,3.6,6.2,6.6,1.1,11.7c-3.9,4-8.8,6.8-13.7,9.4c-16,8.3-32.4,15.7-49.2,22.4
+		c-8,3.2-16,6.4-24.3,8.9c-2.1,0.6-4.4-0.6-6.4,1c-0.9,0.7-1.8,1.2-1.4,2.5c0.4,1.2,1.5,1.1,2.5,0.8c1.1-0.3,2.3-0.6,3.4-0.8
+		c0.8-0.2,1.5-0.9,2.5-0.5c-2.4,1.6-5,2.4-7.9,2c-1.6-0.3-2.3-2.4-1.1-3.6c1.2-1.2,2.9-2.6,4.5-2.3c3.6,0.7,6.5-0.9,9.5-1.9
+		c12-4.3,23.9-9.1,35.6-14.2c11.6-5.1,23-10.5,34.1-16.4c4.8-2.5,9.4-5.3,12.7-9.7c1.8-2.3,1.8-3.7,0-6c-3.2-4.2-7.9-5.9-12.5-7.7
+		C79.7,13.3,73,11.3,66.1,10c-4.4-0.9-8.9-1.2-13.3-2.1c-2.4-0.5-4.7-1-7.1-1c-1.7-0.2-3.4-0.3-5.1-0.8c-1.1-0.1-2.3-0.1-3.4-0.2
+		c-4.5-0.3-9-0.3-13.5,0C19.4,6.2,15.1,6.7,11.3,9C11.1,9.1,10.9,9,10.7,8.8z">
+           </path>
+           <path class="st2" d="M227.2,37.4c-4.6,0.7-9.2,1.5-13.8,2c-3.8,0.4-7.6,0.8-11.3,1.6c-0.9,0.2-1.8,0.5-2.7,0.2
+		c-1.1-0.3-1.8-1-1.8-2.1c0-1.2,0.9-1.6,2-1.8c5.2-0.8,10.3-1.4,15.5-2c6.4-0.8,12.8-1.9,19.2-2.8c7.7-1.1,15.4-1.6,23-2.4
+		c16.4-1.6,32.9-1.2,49.3-1.8c10.2-0.4,20.3,0.5,30.4,0.1c0.2,0.3,0.1,0.6-0.2,0.7c-1.3,0.6-2.6,0.4-3.9,0.4
+		c-11.7,0-23.5-0.2-35.2,0.1c-10.4,0.3-20.8,0.5-31.2,1.2c-8.4,0.5-16.9,1.4-25.3,2.5c-8.9,1.1-17.8,2.3-26.7,3.4
+		c-4.8,0.6-9.8,0.3-14.5,2.2c0.3,0.7,0.8,0.5,1.2,0.4c7.5-1.4,15.1-2.3,22.7-2.8c1.4-0.1,2.7-1,4.1-0.6
+		C228.8,36.8,228.8,36.8,227.2,37.4z">
+           </path>
+           <path class="st3" d="M227.2,37.4c0.3-0.7,1.1-0.4,1.5-0.9c1.9-1.4,4.3-1.3,6.4-1.6c14.3-2.1,28.6-3.7,43.2-3.8
+		c14-0.2,27.9-1,41.9-0.9c12.1,0.1,24.1,0.6,36.1,1.1c6.1,0.3,12.3,0.1,17.2,0.9c-3.2-0.3-7.5-0.5-11.8-0.5c-1.5,0-3.2,0.2-4.1-1.6
+		c1.3-0.6,2.8-0.4,4.2-0.3c5,0.3,10.1,0.6,15.1,1.2c1.1,0.1,2.4,0,2.3,1.5c-0.1,1.5-1.2,1.8-2.5,1.7c-1.6-0.2-3.3,0.3-4.9-0.3l0,0
+		c-2.5-0.5-5.1-0.3-7.7-0.4c-22.8-1.4-45.6-1-68.4-1c-6.5,0-13-0.1-19.4,0.3c-5.9,0.4-11.7,0.5-17.6,1.1c-8.1,0.6-16.1,1.3-24.1,2.7
+		C232.2,37,229.7,37.1,227.2,37.4z">
+           </path>
+           <path class="st4" d="M176.3,50.9c-1.4-4.6-0.6-9.1,1-13.4c2.2-6,6.1-10.9,10.3-15.8c4.2-4.9,8.7-9.1,14.5-11.8
+		c3.6-1.7,7.5-2.5,11.6-1.6c2.9,0.6,4.7,3.1,4,6.1c-1.6,7.2-6.2,12.6-11.6,17.3c-1.3,1.1-2.7,0.8-3.8-0.4c-1.2-1.3-0.1-2.1,0.7-2.9
+		c3-3.2,6.2-6.3,8.2-10.3c0.5-0.9,0.8-1.8,1.1-2.8c0.7-2.2,0.1-2.8-2.2-2.6c-3.6,0.2-6.7,1.9-9.5,3.7c-4,2.6-7.6,5.6-10.4,9.5
+		c-0.2,0.2-0.4,0.2-0.6-0.1c-0.4-1.1,0.3-2,1-2.7c4.3-4.5,8.8-8.7,14.7-10.9c1.7-0.6,3.4-0.8,5.1-1.2c2.7-0.6,4.5,1.6,3.5,4.3
+		c-1.7,4.7-4.5,8.7-8.1,12.2c-0.7,0.7-2.5,1.5-1.5,2.6c0.8,0.9,2.1-0.6,2.8-1.3c3.6-3.8,6.9-7.9,8.5-13c1.3-4.1,0-6.2-4.3-6.2
+		c-5.2,0-9.8,1.7-13.9,4.8c-6.9,5.2-12.1,11.8-16.6,19.1c-2.4,3.8-3.4,8.1-3.4,12.6c0,1.6,0.3,3.2-0.4,4.7
+		C176.7,51,176.5,51,176.3,50.9z">
+           </path>
+           <path class="st5" d="M189.6,25.8c0.2,0,0.4,0,0.6,0c-2.8,3.7-5.7,7.3-7.5,11.7c-1.2,2.9-2,6-2,9.2c0.1,5.8,2.8,8,8.4,7.1
+		c3.9-0.6,8-0.7,11.8-1.6c5.1-1.3,10.4-1.3,15.5-2.6c2.1-0.5,4.4-0.7,6.5-1.2c1.5-0.3,3-0.8,3.9-2c0.9-1.3,2.1-1.5,3.2-0.7
+		c1.2,0.8,0.9,2.1,0.4,3.2c-1.1,2.7-3.7,3.4-6.1,4.1c-9.7,2.6-19.7,3.5-29.6,5.1c-3,0.5-6,0.9-9.1,1.1c-5.1,0.2-8.3-3.5-9.4-8.2
+		c0.2,0,0.4,0,0.6,0c0.9,0.4,1.3,1.3,1.7,2.1c2.4,3.8,5.9,5.3,10.2,4.5c8.3-1.7,16.7-2.8,25.1-3.8c3.6-0.4,7.2-1.2,10.7-2.3
+		c1.8-0.6,3.8-1.2,4.2-4.1c-4,3.4-8.6,3.5-13.1,4.2c-8.6,1.4-17.3,2.6-25.9,3.9c-7.7,1.2-12.2-3.7-10.7-11.5
+		c1.2-6.3,4-11.8,8.2-16.6C188,26.5,188.5,25.7,189.6,25.8z">
+           </path>
+           <path class="st6" d="M142.8,32c0.1,2.1,0.3,4.1,1,6.1c1.8,4.7,4.9,7,9.9,7.1c4.1,0.1,8.2,0.3,12.2-0.3c0.6-0.1,1.2,0,1.7,0
+		c1.2,0,2.8-0.2,3,1.5c0.2,1.5-1.3,1.9-2.3,2.2c-7,1.5-14,2.4-20.9,0.1c-5.1-1.7-7.5-6-8.8-11c-0.2-0.6-0.2-1.3-0.2-2
+		c0-1.5-0.3-1.9-1.8-1c-6.9,3.8-14.1,7-21.5,9.7c-2.1,0.8-3.8,0.4-4.9-1.1c-1.1-1.5-2.1-1.6-3.5-1c-0.6,0.2-1.3,0.1-2,0
+		c-1.1-0.3-1.9-0.9-2-2.2c-0.1-1.3,0.5-2.1,1.6-2.6c1.7-0.8,3.5-1.1,5.3-1.2c0.3-0.1,0.5-0.1,0.7,0.1c0,1.3-1.1,1.3-1.9,1.5
+		c-0.7,0.2-1.5,0.2-2.2,0.4c-0.7,0.2-1.6,0.5-1.4,1.5c0.2,0.9,1.2,1,1.8,0.8c1.9-0.6,3.3-0.1,4.6,1.5c1.2,1.4,2.8,1.2,4.4,0.6
+		c6.5-2.8,13.2-5.1,19.3-8.8c0.3-0.2,0.6-0.4,0.9-0.5c2.7-1.4,3.9-0.8,4.1,2.2c0.1,1.9,0.7,3.5,1.4,5.2c1.7,4,4.8,6.1,8.8,6.9
+		c5.9,1.3,11.7,0,17.6-0.8c-1.5-0.4-3-0.3-4.4-0.3c-1.6,0-3.2,0.1-4.7,0.1c-3.3,0-6.6,0.2-9.8-1.1c-3.2-1.3-5.2-3.5-6.2-6.7
+		c-0.5-1.7-0.9-3.4-1.1-5.1c-0.1-1.2-0.3-2.6,1.5-2.9C143,31.2,143,31.6,142.8,32z">
+           </path>
+           <path class="st7" d="M110.2,36.4c-0.2,0-0.5-0.1-0.7-0.1c0.7-0.5,1.4-1.2,2.2-1.6c1.9-1.1,3.8-0.3,4.1,1.7c0.4,2.2,1.2,2.2,3.1,1.5
+		c6.2-2.4,12.2-5.4,18-8.6c1.1-0.6,1.7-1.5,2-2.7c3.2-10,9.5-17.7,17.3-24.4c0.8-0.7,1.7-1.4,2.7-1.7c5-1.6,7.8,1,7.1,6.3
+		c-0.5,3.7-2.3,6.7-4.8,9.3c-3.8,3.9-7.9,7.6-12.1,11c-1.3,1-2.8,1.7-4.2,2.5c-1,0.5-1.7,1.3-2.2,2.3c0-0.4-0.1-0.9-0.1-1.3
+		c-0.3-1.9,1.4-2.3,2.5-3c5.6-3.5,10.5-7.9,15.1-12.5c2.8-2.8,4.6-6.1,4.4-10.3c-0.2-2.7-1.8-3.8-4.4-3.1c-1.6,0.4-2.9,1.3-4.1,2.4
+		c-6,5.6-11.3,11.8-14.6,19.4c-0.2,0.5-0.6,1.1-0.7,1.6c-0.3,3.6-2.8,5.2-5.6,6.8c-5.6,3.1-11.7,5.3-17.5,7.9c-2,0.9-3,0.4-3.4-1.9
+		c-0.4-2.3-1.3-2.6-3.2-1.6C110.9,36.6,110.5,36.6,110.2,36.4z">
+           </path>
+           <path class="st8" d="M258.7,33.8c2.9-1,5.9-0.9,8.8-1c24.2-1,48.4-1.3,72.5-0.8c10,0.2,20.1,0.9,30.1,1.3c0.6,0,1.2,0,1.6,0.5
+		c-9.8,0.6-19.5-1-29.3-0.9c-21.9,0.1-43.7-0.1-65.6,0.1C270.8,33,264.8,34.1,258.7,33.8z">
+           </path>
+           <path class="st9" d="M101.8,20.8c-4.4-3.3-8.9-6.5-14.2-8.3c-4.1-1.4-8.2-2.6-12.3-3.7c-4.5-1.2-9.1-2.3-13.6-3.5
+		c-2.7-0.7-5.5-0.9-8.3-1.2C45,3,36.5,2.2,28,2.4c-4.3,0.1-8.6,0.1-12.8,1.4c-0.6,0.2-1.3,0-2,0.1c-0.1-0.1-0.2-0.2-0.1-0.3
+		c0.1-0.1,0.1-0.1,0.2-0.1c0.9-0.7,2.2-0.1,3-1c2.4-1.1,5.1-0.5,7.5-1c11.9-0.3,23.7,0.9,35.4,2.9c10.4,1.8,20.6,4.2,30.4,8.1
+		c3.2,1.3,6.4,2.8,9.2,4.9C100.1,18.3,101.4,19.1,101.8,20.8z">
+           </path>
+           <path class="st10" d="M53.1,59.3c3.7-2.1,7.7-3.6,11.6-5.4c9.9-4.7,20-8.9,29.1-15.2c0.3-0.2,0.6-0.2,0.9-0.3
+		c0.3,0.6-0.3,0.7-0.5,1c-4.2,3.1-8.8,5.4-13.4,7.7c-8.7,4.2-17.3,8.5-26.2,12.2c-0.2,0.1-0.5,0.1-0.7,0.2
+		C53.6,59.6,53.3,59.6,53.1,59.3z">
+           </path>
+           <path class="st11" d="M53.1,59.3c0.3,0,0.5,0.1,0.8,0.1c-5.8,3-11.9,5.3-18,7.7c-7.8,3.1-15.5,6.4-23.6,8.3
+		c-0.2-0.1-0.2-0.2-0.2-0.4c0-0.1,0.1-0.2,0.1-0.2c7-2.5,14.1-4.6,21-7.5c6.2-2.6,12.3-5.1,18.5-7.6C52.1,59.5,52.6,59.4,53.1,59.3z
+		">
+           </path>
+           <path class="st8" d="M371.8,33.8c1.8,0,3.6,0,5.5-0.1c1,0,1.7-0.4,1.7-1.4c0-1.1-0.9-1-1.6-1.1c-6.5-0.8-13-1.2-19.5-1.4
+		c-1.6,1.2-3.5,0.8-5.3,0.7c-4.2-0.4-8.4-0.5-12.7-0.9c-0.9-0.1-1.8,0-2.5-0.8c0-0.1,0-0.3-0.1-0.4c6.4-0.6,12.8,0.2,19.1,0.6
+		c4.5,0.3,8.9,0.1,13.4,0.8c2.6,0.4,5.3,0.4,7.9,0.6c1.1,0.1,1.9,0.7,2.1,1.8c0.2,1.1-0.5,2-1.4,2C376.1,34.4,373.9,35,371.8,33.8z">
+           </path>
+           <path class="st12" d="M13.3,3.4c-0.1,0.1-0.1,0.3-0.1,0.4c-2,0.6-3.8,1.5-5.3,3.1c-1.6,1.8-1.9,4-0.3,5.9c1.9,2.3,4,4.4,6.5,6.1
+		c0.8,0.6,2,1.1,2.6,0.1c0.6-0.9-0.1-1.9-1-2.5c-2-1.3-4-2.7-5.4-4.7c-0.8-1.2-0.9-2.1,0.3-3c0.2,0,0.4,0.1,0.6,0.1
+		c-0.9,1.6-0.5,2.8,1,3.8c1.3,0.9,2.5,1.8,3.8,2.8c1.2,0.9,2.5,2.2,1.7,3.7c-0.8,1.7-2.7,1-4,0.5c-1-0.4-2-1.2-2.8-2
+		c-1.5-1.4-2.9-3-4.2-4.6c-1.7-2.1-1.6-4.7,0.5-6.9C8.9,4.7,10.8,3.3,13.3,3.4z">
+           </path>
+           <path class="st13" d="M78.7,20.8c0.3,2.2-1.1,3.9-1.9,5.8c-2.2,5.3-4.5,10.5-6.9,15.7c-0.4,0.8-0.8,1.6-1.3,2.4
+		c-0.7,1-1.7,1.5-2.8,0.9c-1.2-0.6-2.1-1.8-1.4-3.1c2-3.6,2.8-7.8,5.4-11.1c0.7,0.9,0.2,1.7-0.1,2.5c-1,2.5-2,5-3.2,7.4
+		c-0.4,0.8-1.1,1.6-0.2,2.4c1.6,0.4,1.8-1,2.2-1.8c2.1-3.8,3.3-8,5.1-11.9c0.6-1.3,1.1-2.6,1.8-3.8c0.8-1.2,1.2-2.5,1.8-3.7
+		C77.5,21.8,77.6,20.8,78.7,20.8z">
+           </path>
+           <path class="st14" d="M94.3,39.4c0.2-0.3,0.3-0.7,0.5-1c2-1.6,4-3.3,5.8-5.1c3.4-3.3,3.9-7.1,2.2-11.3c2.2,2,2.8,5.5,1,8.5
+		C101.3,34.2,98.2,37.3,94.3,39.4z">
+           </path>
+           <path class="st15" d="M65.7,44.4c-1.4-0.9-0.6-1.8-0.1-2.7c1.6-3.3,3.3-6.6,4.1-10.2c0.7-1.5,1.3-3,2-4.5c0.3-0.5,0.6-0.9,1.1-0.3
+		c0.1,0.3,0.2,0.7,0,1C70.6,33.2,68.7,39,65.7,44.4z">
+           </path>
+           <path class="st13" d="M72.7,26.3c-0.3,0.2-0.6,0.4-0.9,0.6c0.4-2.8,1.9-5.3,3-7.8c0.6-1.4,2.9-1.1,3.9,0.4c-1.6,0-3.1,0.1-3.4,2.1
+		c-0.1,0.2-0.2,0.4-0.3,0.6c-0.7,1.3-1.1,2.8-2,4C72.9,26.2,72.8,26.3,72.7,26.3z">
+           </path>
+           <path class="st15" d="M74.7,21.9c0.7-3.3,1.3-3.6,3.9-2.4c0,0.5,0,0.9,0.1,1.4c-1.4,1.6-1.3,4.1-2.9,5.6c-0.8-1.1,0-2,0.3-3
+		c0.3-0.9,0.8-1.7,0.9-2.8C76,20.7,75.9,22.3,74.7,21.9z">
+           </path>
+           <path class="st12" d="M23.7,5.8c4.5-0.6,9-0.6,13.5,0C32.7,5.8,28.2,5.8,23.7,5.8z">
+           </path>
+           <path class="st12" d="M23.8,1.4c-2.5,0.8-5,0.8-7.5,1C18.5,0.5,21.3,1.6,23.8,1.4z">
+           </path>
+           <path class="st12" d="M40.7,6c1.7,0,3.4,0.2,5.1,0.8C44,6.8,42.2,7.2,40.7,6z">
+           </path>
+           <path class="st16" d="M12.2,74.9c0,0.2,0,0.4,0,0.6c-0.4,0.1-0.7,0.3-1.1,0.4c-0.8,0.2-1.7,0.3-2.5,0.5
+		C9.5,74.9,11.2,75.6,12.2,74.9z">
+           </path>
+           <path class="st17" d="M337.3,28.9c6.8,0.3,13.7,0.7,20.5,1c0.7,1,1.8,0.8,2.7,0.8c5.5,0.1,10.9,0.8,16.4,1.1c0.4,0,0.8,0.1,1.2,0.5
+		c-1.9,0.8-3.9,0.6-5.9,0.5c-0.7,0-1.3-0.3-2-0.3c-12.6-0.1-25.1-1-37.6-1.3c-9-0.2-18-0.3-27-0.2c-12.5,0.1-25,0.3-37.4,1
+		c-8.9,0.5-17.8,1.5-26.7,2.6c-4.2,0.5-8.4,1.5-12.7,1.9c-4.2,0.5-8.3,1.1-12.5,1.6c-3.4,0.4-6.7,0.9-10.1,1.2
+		c-1.9,0.1-3.5,0.9-5.3,1.1c-1,0.1-2.2,0.2-2.3-1.2c0-1.2,1.1-1.1,2-1.2c7-0.9,13.9-2,20.9-2.8c9.6-1,19.2-2.9,28.9-3.4
+		c4-0.2,8.2-0.3,12.1-1.1c6.1-1.1,12.2-0.5,18.3-0.9c14.2-1,28.4-0.9,42.7-0.9C328.1,28.9,332.7,29.2,337.3,28.9z">
+           </path>
+           <path class="st0" d="M189.6,25.8c-5.6,5.8-9.5,12.4-9.8,20.6c-0.2,6.4,3,9.2,9.4,8.3c5.3-0.7,10.5-1.6,15.7-2.4
+		c5.2-0.8,10.3-1.5,15.5-2.4c2.8-0.5,5.9-0.6,7.6-3.6c0.2-0.4,0.7-0.5,1.1-0.4c0.6,0.1,0.7,0.7,0.7,1.2c0.1,1.6-0.8,2.6-2.1,3.4
+		c-2.7,1.8-5.9,2.3-9,2.8c-7.9,1.3-15.8,2.3-23.6,3.5c-1.6,0.2-3.3,0.6-4.9,0.9c-7.3,1.4-10.2,0-13.4-6.9
+		c-0.5-5.9-0.2-11.7,2.9-16.9c5.5-9,11.8-17.3,21.3-22.6c3.4-1.9,7.2-2.6,11.1-2.4c4,0.2,5.6,2.5,4.4,6.2c-1.9,6-5.5,10.9-10.2,15.1
+		c-0.3,0.3-0.6,0.5-1,0.7c-0.8,0.4-1.7,0.6-2.3-0.2c-0.7-0.9-0.1-1.6,0.5-2.1c2.9-2.5,5.3-5.4,7.4-8.7c1-1.6,1.8-3.2,2.4-4.9
+		c0.8-2.1-0.5-3.9-2.8-3.5C201.5,13.2,194.8,18.4,189.6,25.8z">
+           </path>
+           <path class="st0" d="M110.2,36.4c0.3-0.1,0.6-0.2,0.9-0.4c2.9-1.8,3.5-1.5,3.8,1.8c0.2,1.7,0.8,2.5,2.5,1.7
+		c6.7-3.1,13.7-5.5,20-9.5c1.1-0.7,2-1.5,2.3-2.8c1.2-5.7,4.5-10.3,7.9-14.8c2.9-3.7,5.8-7.5,10-10c0.8-0.5,1.6-0.9,2.5-1.1
+		c3.1-0.9,4.8,0.2,5.2,3.4c0.4,4-1.3,7.2-3.8,10.2c-3.8,4.3-8.4,7.8-12.6,11.6c-1.3,1.2-3.1,1.9-4.7,2.8c-0.6,0.4-1.4,0.7-1.5,1.6
+		c-1.8,3.5,0.7,11,4.2,13.2c3.4,2.2,7.3,2,11.1,2c3.5,0.1,7-0.2,10.5-0.3c0.5,0,1.1-0.1,1.3,0.5c0.2,0.6-0.2,1-0.7,1.1
+		c-7.8,1.6-15.6,3.1-23.2-0.6c-4.5-2.2-6.2-6.5-6.6-11.3c-0.3-2.9-0.5-3.1-3-1.6c-6.4,4-13.5,6.3-20.3,9.4c-2.9,1.3-4.2,0.7-6-1.9
+		c-0.5-0.7-0.9-0.8-1.6-0.5c-0.6,0.2-1.2,0.5-1.9,0.6c-1.2,0.1-2.5,0.1-2.7-1.5c-0.2-1.5,0.9-2,2.1-2.3
+		C107.3,37.3,109,37.6,110.2,36.4z">
+           </path>
+           <path class="st18" d="M74.7,21.9c0.2-0.1,0.4-0.2,0.6-0.4c0.7-0.6,0.3-2.6,2-1.7c1.5,0.8-0.1,1.9-0.3,2.7c-0.3,1.3-1.2,2.5-1.3,4
+		c-2.4,5.4-4.3,11.1-7,16.3c-0.6,1.2-1,2.9-3,1.6c0.1-3,2.1-5.3,3-8c1.1-3.4,2.6-6.7,3.9-10.1c0,0,0,0,0,0
+		C73.6,24.9,74.2,23.4,74.7,21.9L74.7,21.9z">
+           </path>
+           <path class="st15" d="M74.7,21.8c0,1.8-0.7,3.3-2.1,4.5C73.1,24.7,73.8,23.2,74.7,21.8z">
+           </path>
+           <path class="st19" d="M162.4,6.8c-0.3,2.5-1.8,4.8-3.7,6.8c-3.7,4-8,7.4-12.5,10.5c-0.5,0.3-1,0.8-1.6,0.4
+		c-0.6-0.5-0.1-1.1,0.1-1.6c3.6-7,8.2-13.2,14.6-18c0.7-0.5,1.4-0.9,2.3-0.5C162.4,4.9,162.4,5.7,162.4,6.8z">
+           </path>
+           <path class="st20" d="M161.3,6.8c-0.4,2.8-2.1,5.2-4.1,7.1c-2.8,2.7-5.9,5.1-8.9,7.6c-0.5,0.4-1.1,1.1-1.7,0.6
+		c-0.7-0.6,0-1.3,0.3-1.7c3.5-5.5,7.4-10.8,12.8-14.8c0.3-0.2,0.6-0.7,1.1-0.5C161.6,5.5,161.2,6.2,161.3,6.8z">
+           </path>
+          </g>
+         </svg>
+         <p class="letter-body">
+          David Corn,
+          <span class="letter-title">
+           DC Bureau Chief
+          </span>
+          <a data-ga-category="MembershipBar" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=SDN&amp;term_pub=SDN&amp;&amp;term_pub_override=SDN&amp;b_country=United+States&amp;list_source=7H88PR06&amp;term=XX.1.5.00.SDN.D.0.15425" target="_blank">
+           <button class="btn-primary">
+            Donate
+           </button>
+          </a>
+         </p>
+        </img>
+       </div>
+      </div>
+     </section>
+    </div>
+   </header>
+   <!-- .site-header -->
+   <main class="grid" id="main" role="main">
+    <section class="main-col col-md-8 col-sm-9 col-xs-12">
+     <header class="page-header">
+      <h1 class="section-heading">
+       Crime and Justice
+      </h1>
+     </header>
+     <!-- .page-header -->
+     <ul class="articles-list">
+      <li class="top-article-item group">
+       <a href="https://www.motherjones.com/politics/2018/10/bruce-alexander-grope-woman-trump-says-its-ok/">
+        <img alt="" class="attachment-large size-large wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/20181023-southwest.png?w=990&amp;is-pending-load=1" height="533" src="https://www.motherjones.com/wp-content/uploads/2018/10/20181023-southwest.png?w=990" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="990"/>
+       </a>
+       <h3 class="hed">
+        <a href="https://www.motherjones.com/politics/2018/10/bruce-alexander-grope-woman-trump-says-its-ok/">
+         A Man Allegedly Groped a Woman on a Plane. He Told Investigators That Trump Says It’s OK.
+        </a>
+       </h3>
+       <p class="byline">
+        <a href="https://www.motherjones.com/author/inae-oh/" title="Posts by Inae Oh">
+         Inae Oh
+        </a>
+       </p>
+      </li>
+      <li class="article-item grid post-644283 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice category-politics tag-donald-trump tag-the-right mj_content_type-article featured-media featured-media-image" id="post-644283">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/politics/2018/10/george-soros-explosive-device-found/" rel="bookmark" title="Permalink to Explosive Device Found in George Soros’ Mailbox">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/20181023-soros.png?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/20181023-soros.png?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/politics/2018/10/george-soros-explosive-device-found/" rel="bookmark" title="Permalink to Explosive Device Found in George Soros’ Mailbox">
+          Explosive Device Found in George Soros’ Mailbox
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/inae-oh/" title="Posts by Inae Oh">
+          Inae Oh
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-643369 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-prisons mj_content_type-article featured-media featured-media-image" id="post-643369">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/scott-dozier-still-wants-to-be-executed-and-hes-still-waiting/" rel="bookmark" title="Permalink to Scott Dozier Still Wants to Be Executed. And He’s Still Waiting.">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/SCOTT-NAP-CELL.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/SCOTT-NAP-CELL.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/scott-dozier-still-wants-to-be-executed-and-hes-still-waiting/" rel="bookmark" title="Permalink to Scott Dozier Still Wants to Be Executed. And He’s Still Waiting.">
+          Scott Dozier Still Wants to Be Executed. And He’s Still Waiting.
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/maurice-chammah/" title="Posts by Maurice Chammah">
+          Maurice Chammah
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-643362 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-health-care tag-reproductive-rights mj_content_type-article featured-media featured-media-image" id="post-643362">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/american-woman-self-induced-abortion-diy-pills-mail/" rel="bookmark" title="Permalink to American Women Can Now Get Abortion Pills Shipped to Their Homes">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/GettyImages-964462340.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/GettyImages-964462340.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/american-woman-self-induced-abortion-diy-pills-mail/" rel="bookmark" title="Permalink to American Women Can Now Get Abortion Pills Shipped to Their Homes">
+          American Women Can Now Get Abortion Pills Shipped to Their Homes
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/nina-liss-schultz/" title="Posts by Nina Liss-Schultz">
+          Nina Liss-Schultz
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-643342 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-prisons mj_content_type-article featured-media featured-media-image" id="post-643342">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/washington-supreme-court-bans-lifers-parole/" rel="bookmark" title="Permalink to The Washington Supreme Court Just Banned Life-Without-Parole Sentences for Teens">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/juvielifer.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/juvielifer.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/washington-supreme-court-bans-lifers-parole/" rel="bookmark" title="Permalink to The Washington Supreme Court Just Banned Life-Without-Parole Sentences for Teens">
+          The Washington Supreme Court Just Banned Life-Without-Parole Sentences for Teens
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/samantha-michaels/" title="Posts by Samantha Michaels">
+          Samantha Michaels
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-642175 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-the-right mj_content_type-article featured-media featured-media-image" id="post-642175">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/maga-protest-proud-boys-trump/" rel="bookmark" title="Permalink to Video Shows Men in MAGA Hats Beating Protestors in NYC">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/20181013_MAGAhats.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/20181013_MAGAhats.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/maga-protest-proud-boys-trump/" rel="bookmark" title="Permalink to Video Shows Men in MAGA Hats Beating Protestors in NYC">
+          Video Shows Men in MAGA Hats Beating Protestors in NYC
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/nathalie-baptiste/" title="Posts by Nathalie Baptiste">
+          Nathalie Baptiste
+         </a>
+        </p>
+       </div>
+      </li>
+      <div class="dfw-unit" data-adunit="Mobile_Section_300x250_InContent" data-size-mapping="mapping5" id="Mobile_Section_300x250_InContent">
+      </div>
+      <li class="article-item grid post-641528 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-2018-elections tag-civil-liberties tag-congress tag-donald-trump tag-gay-rights tag-health-care tag-religion tag-reproductive-rights tag-supreme-court tag-top-stories tag-voting-rights mj_content_type-article featured-media featured-media-image" id="post-641528">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/senate-confirmation-appears-likely-for-two-more-judges-hostile-toward-abortion/" rel="bookmark" title="Permalink to Senate Confirmation Appears Likely for Two More Judges Hostile Toward Abortion">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/readler.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/readler.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/senate-confirmation-appears-likely-for-two-more-judges-hostile-toward-abortion/" rel="bookmark" title="Permalink to Senate Confirmation Appears Likely for Two More Judges Hostile Toward Abortion">
+          Senate Confirmation Appears Likely for Two More Judges Hostile Toward Abortion
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/rosafurneaux/" title="Posts by Rosa Furneaux">
+          Rosa Furneaux
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-641399 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-prisons tag-race-and-ethnicity mj_content_type-article featured-media featured-media-image" id="post-641399">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/capital-punishment-has-officially-ended-in-washington-state/" rel="bookmark" title="Permalink to Capital Punishment Has Officially Ended in Washington State">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/washingtondeathpenalty-101118.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/washingtondeathpenalty-101118.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/capital-punishment-has-officially-ended-in-washington-state/" rel="bookmark" title="Permalink to Capital Punishment Has Officially Ended in Washington State">
+          Capital Punishment Has Officially Ended in Washington State
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/nathalie-baptiste/" title="Posts by Nathalie Baptiste">
+          Nathalie Baptiste
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-638384 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-2018-elections tag-elections tag-prisons mj_content_type-article featured-media featured-media-image" id="post-638384">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/in-louisiana-you-can-be-sent-away-for-life-even-if-jurors-say-youre-innocent/" rel="bookmark" title="Permalink to In Louisiana, You Can Be Sent Away for Life Even If Jurors Say You’re Innocent">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/20181005_nonunanimous_jury.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/20181005_nonunanimous_jury.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/in-louisiana-you-can-be-sent-away-for-life-even-if-jurors-say-youre-innocent/" rel="bookmark" title="Permalink to In Louisiana, You Can Be Sent Away for Life Even If Jurors Say You’re Innocent">
+          In Louisiana, You Can Be Sent Away for Life Even If Jurors Say You’re Innocent
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/olivia-exstrum/" title="Posts by Olivia Exstrum">
+          Olivia Exstrum
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-639320 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-race-and-ethnicity tag-top-stories mj_content_type-article featured-media featured-media-image" id="post-639320">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/breaking-chicago-police-officer-jason-van-dyke-guilty-of-murder-laquan-mcdonald-shooting/" rel="bookmark" title="Permalink to Chicago Police Officer Jason Van Dyke Guilty of Murder in Laquan McDonald Shooting">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/AP_18277609346928-1.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/AP_18277609346928-1.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/breaking-chicago-police-officer-jason-van-dyke-guilty-of-murder-laquan-mcdonald-shooting/" rel="bookmark" title="Permalink to Chicago Police Officer Jason Van Dyke Guilty of Murder in Laquan McDonald Shooting">
+          Chicago Police Officer Jason Van Dyke Guilty of Murder in Laquan McDonald Shooting
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/olivia-exstrum/" title="Posts by Olivia Exstrum">
+          Olivia Exstrum
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-638856 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-civil-liberties tag-human-rights tag-race-and-ethnicity mj_content_type-article featured-media featured-media-image" id="post-638856">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/25-years-in-jail-for-a-single-punch-16-year-old-taurus-buchanan-is-finally-free/" rel="bookmark" title="Permalink to After 25 Years in Jail For a Single Punch He Threw as a 16 Year Old, Taurus Buchanan Is Finally Free">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/20181003_taurus-master.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/20181003_taurus-master.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/25-years-in-jail-for-a-single-punch-16-year-old-taurus-buchanan-is-finally-free/" rel="bookmark" title="Permalink to After 25 Years in Jail For a Single Punch He Threw as a 16 Year Old, Taurus Buchanan Is Finally Free">
+          After 25 Years in Jail For a Single Punch He Threw as a 16 Year Old, Taurus Buchanan Is Finally Free
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/nicole-lewis/" title="Posts by Nicole Lewis">
+          Nicole Lewis
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-638431 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-donald-trump tag-race-and-ethnicity tag-the-right tag-top-stories mj_content_type-article featured-media featured-media-image" id="post-638431">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/four-white-supremacists-arrested-for-their-role-in-charlottesville-violence/" rel="bookmark" title="Permalink to Four White Supremacists Arrested for Their Role in Charlottesville Violence">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/GettyImages-830696202.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/GettyImages-830696202.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/four-white-supremacists-arrested-for-their-role-in-charlottesville-violence/" rel="bookmark" title="Permalink to Four White Supremacists Arrested for Their Role in Charlottesville Violence">
+          Four White Supremacists Arrested for Their Role in Charlottesville Violence
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/rosafurneaux/" title="Posts by Rosa Furneaux">
+          Rosa Furneaux
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-637970 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-prisons mj_content_type-article featured-media featured-media-image" id="post-637970">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/10/in-landmark-court-ruling-nevada-cant-use-a-controversial-drug-to-execute-an-inmate/" rel="bookmark" title="Permalink to In Landmark Court Ruling, Nevada Can’t Use a Controversial Drug to Execute an Inmate">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/judgemidazolam-10118.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/judgemidazolam-10118.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/10/in-landmark-court-ruling-nevada-cant-use-a-controversial-drug-to-execute-an-inmate/" rel="bookmark" title="Permalink to In Landmark Court Ruling, Nevada Can’t Use a Controversial Drug to Execute an Inmate">
+          In Landmark Court Ruling, Nevada Can’t Use a Controversial Drug to Execute an Inmate
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/nathalie-baptiste/" title="Posts by Nathalie Baptiste">
+          Nathalie Baptiste
+         </a>
+        </p>
+       </div>
+      </li>
+     </ul>
+     <div class="ad">
+      <div class="dfw-unit" data-adunit="Section_BTF_970x250_Top" data-size-mapping="mapping6" id="Section_BTF_970x250_Top">
+      </div>
+     </div>
+     <ul class="articles-list">
+      <li class="article-item grid post-637963 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice category-politics tag-california tag-health tag-health-care tag-pharma tag-science mj_content_type-article featured-media featured-media-image" id="post-637963">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/politics/2018/10/refuting-science-jerry-brown-vetoes-safe-injection-plan/" rel="bookmark" title="Permalink to Refuting Science, Jerry Brown Vetoes Safe Injection Plan">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/10/100118sifmaster.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/10/100118sifmaster.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/politics/2018/10/refuting-science-jerry-brown-vetoes-safe-injection-plan/" rel="bookmark" title="Permalink to Refuting Science, Jerry Brown Vetoes Safe Injection Plan">
+          Refuting Science, Jerry Brown Vetoes Safe Injection Plan
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/julia-lurie/" title="Posts by Julia Lurie">
+          Julia Lurie
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-636183 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-california tag-prisons mj_content_type-article featured-media featured-media-image" id="post-636183">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/09/california-criminal-justice-bills-jerry-brown/" rel="bookmark" title="Permalink to Criminal Justice Reform Bills Are Piling Up on California Gov. Jerry Brown’s Desk">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/09/20180927-arrest2000.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/09/20180927-arrest2000.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/09/california-criminal-justice-bills-jerry-brown/" rel="bookmark" title="Permalink to Criminal Justice Reform Bills Are Piling Up on California Gov. Jerry Brown’s Desk">
+          Criminal Justice Reform Bills Are Piling Up on California Gov. Jerry Brown’s Desk
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/samantha-michaels/" title="Posts by Samantha Michaels">
+          Samantha Michaels
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-636290 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-immigration mj_content_type-article featured-media featured-media-image" id="post-636290">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/09/ice-is-giving-more-local-cops-the-powers-of-immigration-agents-its-been-a-disaster/" rel="bookmark" title="Permalink to ICE Is Giving More Local Cops the Powers of Immigration Agents. It’s Been a Disaster.">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/09/20180926-287g.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/09/20180926-287g.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/09/ice-is-giving-more-local-cops-the-powers-of-immigration-agents-its-been-a-disaster/" rel="bookmark" title="Permalink to ICE Is Giving More Local Cops the Powers of Immigration Agents. It’s Been a Disaster.">
+          ICE Is Giving More Local Cops the Powers of Immigration Agents. It’s Been a Disaster.
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/madison-pauly/" title="Posts by Madison Pauly">
+          Madison Pauly
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-636188 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice mj_content_type-article featured-media featured-media-image" id="post-636188">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/09/bill-cosby-sent-to-prison/" rel="bookmark" title="Permalink to Bill Cosby Sent to Prison">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/04/20180426-cosbyjustice.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/04/20180426-cosbyjustice.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/09/bill-cosby-sent-to-prison/" rel="bookmark" title="Permalink to Bill Cosby Sent to Prison">
+          Bill Cosby Sent to Prison
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/mother-jones/" title="Posts by Mother Jones">
+          Mother Jones
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-633933 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-foreign-policy tag-international tag-military tag-photoessays mj_content_type-full_width_article featured-media featured-media-image" id="post-633933">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/09/religious-war-philippines-marawi-city-isis-muslim-rebles/" rel="bookmark" title="Permalink to Religious War Left This Philippine City Uninhabitable">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/09/20171211_Philippines_master.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/09/20171211_Philippines_master.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/09/religious-war-philippines-marawi-city-isis-muslim-rebles/" rel="bookmark" title="Permalink to Religious War Left This Philippine City Uninhabitable">
+          Religious War Left This Philippine City Uninhabitable
+         </a>
+        </h3>
+        <p class="byline">
+         Photographs by David Maurice Smith
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-622145 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-civil-liberties tag-human-rights tag-international tag-investigations tag-military tag-national-security mj_content_type-full_width_article featured-media featured-media-image" id="post-622145">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/09/isis-times-square-bomb-threat-phillipines-abdulrahman-el-bahnasawy/" rel="bookmark" title="Permalink to ISIS Isn’t Dead Yet. A Hapless Plot to Bomb Times Square Reveals the Next Phase of the Islamic State.">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/08/20180724_ISIS_master_ALT_2000x1124.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/08/20180724_ISIS_master_ALT_2000x1124.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/09/isis-times-square-bomb-threat-phillipines-abdulrahman-el-bahnasawy/" rel="bookmark" title="Permalink to ISIS Isn’t Dead Yet. A Hapless Plot to Bomb Times Square Reveals the Next Phase of the Islamic State.">
+          ISIS Isn’t Dead Yet. A Hapless Plot to Bomb Times Square Reveals the Next Phase of the Islamic State.
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/saul-elbein/" title="Posts by Saul Elbein">
+          Saul Elbein
+         </a>
+        </p>
+       </div>
+      </li>
+      <li class="article-item grid post-634121 post type-post status-publish format-standard has-post-thumbnail hentry category-crime-justice tag-health tag-pharma tag-science mj_content_type-article featured-media featured-media-image" id="post-634121">
+       <div class="article-image col-5 col-sm-4 col-xs-5">
+        <a href="https://www.motherjones.com/crime-justice/2018/09/new-data-opioids-heroin-new-users-crisis/" rel="bookmark" title="Permalink to Experts Say New Data in the Opioid Crisis Could Offer a Glimmer of Hope">
+         <img alt="" class="attachment-thumbnail size-thumbnail wp-post-image jetpack-lazy-image" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2018/09/20180916-needle-black-2000px.jpg?w=208&amp;h=117&amp;crop=1&amp;is-pending-load=1" height="117" src="https://www.motherjones.com/wp-content/uploads/2018/09/20180916-needle-black-2000px.jpg?w=208&amp;h=117&amp;crop=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="208"/>
+        </a>
+       </div>
+       <div class="article-data col-7 col-sm-8 col-xs-7">
+        <h3 class="hed">
+         <a href="https://www.motherjones.com/crime-justice/2018/09/new-data-opioids-heroin-new-users-crisis/" rel="bookmark" title="Permalink to Experts Say New Data in the Opioid Crisis Could Offer a Glimmer of Hope">
+          Experts Say New Data in the Opioid Crisis Could Offer a Glimmer of Hope
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/julia-lurie/" title="Posts by Julia Lurie">
+          Julia Lurie
+         </a>
+        </p>
+       </div>
+      </li>
+     </ul>
+     <div id="pager">
+      <span class="previous">
+      </span>
+      <span class="next">
+       <a href="https://www.motherjones.com/crime-justice/page/2/">
+        Next
+       </a>
+      </span>
+     </div>
+    </section>
+    <!-- .main-index -->
+    <aside class="col-4 hidden-sm hidden-xs hidden-xxs" id="sidebar-right">
+     <section class="widget doubleclick-for-wordpress-widget" id="doubleclick-for-wordpress-widget-2">
+      <div class="dfw-unit" data-adunit="ROS_ATF_300x600" data-size-mapping="mapping7" id="ROS_ATF_300x600">
+      </div>
+     </section>
+     <section class="widget mj-sidebar-membership-widget" id="mj-sidebar-membership-widget-2">
+      <h2>
+       3 Ways To
+       <br>
+        Support
+        <br>
+         <em>
+          Mother Jones
+         </em>
+        </br>
+       </br>
+      </h2>
+      <section class="membership">
+       <h3>
+        <span class="dropcap">
+         1.
+        </span>
+        <span>
+         We’re a nonprofit.
+         <br>
+          Make a donation.
+         </br>
+        </span>
+       </h3>
+       <div class="buttons two-up">
+        <a class="btn btn-primary" data-ga-category="SidebarMembershipWidget" data-ga-label="Donate|OneTime" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP005&amp;term=XX.1.50.00.DON.D.0.7367" target="_blank">
+         One-Time Gift
+        </a>
+        <a class="btn" data-ga-category="SidebarMembershipWidget" data-ga-label="Donate|Monthly" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=SDN&amp;term_pub=SDN&amp;list_source=7HEGP0M5&amp;term=XX.1.20.00.SDN.D.0.7377&amp;term_pub_override=SDN" target="_blank">
+         Monthly Gift
+        </a>
+       </div>
+      </section>
+      <section>
+       <h3>
+        <span class="dropcap">
+         2.
+        </span>
+        <span>
+         Don’t miss a beat:
+         <br>
+          Get our newsletters.
+         </br>
+        </span>
+       </h3>
+       <form action="https://api.maropost.com/accounts/585/forms/3289/subscribe/177d8ba3b7fe7d39e28dcba73123eeffbd01878b" data-ga-category="SidebarMembershipWidget" data-ga-label="NewsletterSignup" id="emailForm" method="post" onsubmit="return mj_check_email(this, event);">
+        <input gtbfieldid="27" id="cons_email" include_blank="true" name="contact_fields[email]" placeholder="YOUR EMAIL" start_year="1950" type="text"/>
+        <input id="custom_fields_outreach_affiliate_code" include_blank="true" name="custom_fields[outreach_affiliate_code]" start_year="1950" type="hidden" value="Article_Membership_Box"/>
+        <input id="signup_url" include_blank="true" name="custom_fields[signup_url]" start_year="1950" type="hidden" value=""/>
+        <input id="email_field" name="email_const_mp" type="hidden" value=""/>
+        <button alt="SIGN UP" class="btn" id="submit" name="commit" value="Submit">
+         Sign Up
+        </button>
+       </form>
+      </section>
+      <section>
+       <h3>
+        <span class="dropcap">
+         3.
+        </span>
+        <span>
+         Subscribe to our award-
+         <br>
+          winning magazine.
+         </br>
+        </span>
+       </h3>
+       <a class="subscribe_cover" data-ga-category="SidebarMembershipWidget" data-ga-label="Subscribe|CoverImage" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN2&amp;base_country=US" target="_blank">
+        <img alt="magazine cover" src="https://www.motherjones.com/wp-content/uploads/2018/10/mj_cover_201811_250x219.png"/>
+       </a>
+       <div class="buttons one-up gift-subscribe">
+        <a class="btn btn-primary" data-ga-category="SidebarMembershipWidget" data-ga-label="Subscribe|Button" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN2&amp;base_country=US" target="_blank">
+         Just $12 A Year
+        </a>
+       </div>
+      </section>
+     </section>
+     <section class="widget mj_top_stories_widget" id="mj_top_stories_widget-3">
+      <h2 class="section-heading">
+       Top News
+      </h2>
+      <ul class="article-list">
+       <li class="article-item">
+        <h3 class="hed">
+         <a data-ga-action="https://www.motherjones.com/politics/2018/10/what-we-know-about-the-suspicious-packages-sent-to-democrats-cnn-this-week/" data-ga-category="SidebarTopStoriesWidget" data-ga-label="Article-1|Headline" href="https://www.motherjones.com/politics/2018/10/what-we-know-about-the-suspicious-packages-sent-to-democrats-cnn-this-week/">
+          What We Know About the Suspicious Packages Sent to Democrats, CNN
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/inae-oh/" title="Posts by Inae Oh">
+          Inae Oh
+         </a>
+        </p>
+       </li>
+       <li class="article-item">
+        <h3 class="hed">
+         <a data-ga-action="https://www.motherjones.com/politics/2018/10/trump-just-signed-a-big-opioid-package-its-still-not-nearly-enough/" data-ga-category="SidebarTopStoriesWidget" data-ga-label="Article-2|Headline" href="https://www.motherjones.com/politics/2018/10/trump-just-signed-a-big-opioid-package-its-still-not-nearly-enough/">
+          Trump Just Signed a Big Opioid Package. It’s Still Not Nearly Enough.
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/julia-lurie/" title="Posts by Julia Lurie">
+          Julia Lurie
+         </a>
+        </p>
+       </li>
+       <li class="article-item">
+        <h3 class="hed">
+         <a data-ga-action="https://www.motherjones.com/politics/2018/10/the-nra-keeps-writing-checks-but-some-republicans-arent-cashing-them/" data-ga-category="SidebarTopStoriesWidget" data-ga-label="Article-3|Headline" href="https://www.motherjones.com/politics/2018/10/the-nra-keeps-writing-checks-but-some-republicans-arent-cashing-them/">
+          The NRA Keeps Writing Checks, But Some Republicans Aren’t Cashing Them
+         </a>
+        </h3>
+        <p class="byline">
+         <a href="https://www.motherjones.com/author/kara-voght/" title="Posts by Kara Voght">
+          Kara Voght
+         </a>
+        </p>
+       </li>
+      </ul>
+     </section>
+    </aside>
+    <div class="dfw-unit" data-adunit="ROS_BTF_970x250" data-size-mapping="mapping8" id="ROS_BTF_970x250">
+    </div>
+    <div class="dfw-unit" data-adunit="Mobile_Footer_300x250_ROS" data-size-mapping="mapping9" id="Mobile_Footer_300x250_ROS">
+    </div>
+   </main>
+  </div>
+  <!-- #page -->
+  <footer id="site-footer">
+   <div class="container grid">
+    <section class="logo col-md-3 col-sm-12">
+     <a class="footer-logo" href="/">
+      <svg viewbox="0 0 813.67 165.61" xmlns="http://www.w3.org/2000/svg">
+       <path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z">
+       </path>
+       <path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z">
+       </path>
+      </svg>
+     </a>
+     <ul class="footer-social">
+      <li class="fb">
+       <a data-ga-category="SiteFooter" data-ga-label="Facebook" href="https://www.facebook.com/motherjones">
+        <i class="icon-facebook">
+        </i>
+       </a>
+      </li>
+      <li class="tweet">
+       <a data-ga-category="SiteFooter" data-ga-label="Twitter" href="https://twitter.com/motherjones">
+        <i class="icon-twitter">
+        </i>
+       </a>
+      </li>
+      <li class="instagram">
+       <a data-ga-category="SiteFooter" data-ga-label="Instagram" href="https://www.instagram.com/motherjonesmag/">
+        <i class="icon-instagram">
+        </i>
+       </a>
+      </li>
+      <li class="rss">
+       <a data-ga-category="SiteFooter" data-ga-label="RSS" href="http://feeds.feedburner.com/motherjones/feed">
+        <i class="icon-rss">
+        </i>
+       </a>
+      </li>
+      <li class="newsletter">
+       <a data-ga-category="SiteFooter" data-ga-label="Newsletter" href="/newsletters">
+        <i class="icon-mail">
+        </i>
+       </a>
+      </li>
+     </ul>
+    </section>
+    <section class="menu col-md-9 col-sm-12 col-xs-12 grid">
+     <ul class="col-sm-4 col-xs-12">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612461" id="menu-item-612461">
+       <a data-ga-action="https://www.motherjones.com/about/" data-ga-category="SiteFooter" data-ga-label="Section_1_NavPosition_1" href="https://www.motherjones.com/about/">
+        About
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612462" id="menu-item-612462">
+       <a data-ga-action="https://www.motherjones.com/about/staff/" data-ga-category="SiteFooter" data-ga-label="Section_1_NavPosition_2" href="https://www.motherjones.com/about/staff/">
+        Our Staff
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612481" id="menu-item-612481">
+       <a data-ga-action="https://www.motherjones.com/about/financials/" data-ga-category="SiteFooter" data-ga-label="Section_1_NavPosition_3" href="https://www.motherjones.com/about/financials/">
+        Financials
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612465" id="menu-item-612465">
+       <a data-ga-action="https://www.motherjones.com/jobs/" data-ga-category="SiteFooter" data-ga-label="Section_1_NavPosition_4" href="https://www.motherjones.com/jobs/">
+        Jobs
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621474" id="menu-item-621474">
+       <a data-ga-action="https://www.motherjones.com/events/" data-ga-category="SiteFooter" data-ga-label="Section_1_NavPosition_5" href="https://www.motherjones.com/events/">
+        Events
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612464" id="menu-item-612464">
+       <a data-ga-action="https://www.motherjones.com/contact/" data-ga-category="SiteFooter" data-ga-label="Section_1_NavPosition_6" href="https://www.motherjones.com/contact/">
+        Contact Us
+       </a>
+      </li>
+     </ul>
+     <ul class="col-sm-4 col-xs-12">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612467" id="menu-item-612467">
+       <a data-ga-action="https://www.motherjones.com/support/" data-ga-category="SiteFooter" data-ga-label="Section_2_NavPosition_1" href="https://www.motherjones.com/support/">
+        Support
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612468" id="menu-item-612468">
+       <a data-ga-action="https://www.motherjones.com/support/" data-ga-category="SiteFooter" data-ga-label="Section_2_NavPosition_2" href="https://www.motherjones.com/support/">
+        Ways to Give
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612470" id="menu-item-612470">
+       <a data-ga-action="https://www.motherjones.com/advertising/" data-ga-category="SiteFooter" data-ga-label="Section_2_NavPosition_3" href="https://www.motherjones.com/advertising/">
+        Advertise With Us
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612471" id="menu-item-612471">
+       <a data-ga-action="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen" data-ga-category="SiteFooter" data-ga-label="Section_2_NavPosition_4" href="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen">
+        Store
+       </a>
+      </li>
+     </ul>
+     <ul class="col-sm-4 col-xs-12">
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612473" id="menu-item-612473">
+       <a data-ga-action="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3" data-ga-category="SiteFooter" data-ga-label="Section_3_NavPosition_1" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3">
+        Subscribe
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612474" id="menu-item-612474">
+       <a data-ga-action="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3" data-ga-category="SiteFooter" data-ga-label="Section_3_NavPosition_2" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3">
+        Magazine Subscriptions
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612476" id="menu-item-612476">
+       <a data-ga-action="https://www.motherjones.com/newsletters/" data-ga-category="SiteFooter" data-ga-label="Section_3_NavPosition_3" href="https://www.motherjones.com/newsletters/">
+        Email Newsletters
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612477" id="menu-item-612477">
+       <a data-ga-action="https://www.motherjones.com/podcasts/" data-ga-category="SiteFooter" data-ga-label="Section_3_NavPosition_4" href="https://www.motherjones.com/podcasts/">
+        Podcasts
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612478" id="menu-item-612478">
+       <a data-ga-action="https://www.motherjones.com/customer-service/" data-ga-category="SiteFooter" data-ga-label="Section_3_NavPosition_5" href="https://www.motherjones.com/customer-service/">
+        Customer Service
+       </a>
+      </li>
+     </ul>
+    </section>
+    <section class="bottom col-12">
+     <p class="copyright" role="contentinfo">
+      Copyright © 2018 Mother Jones and the Foundation for National Progress. All Rights Reserved.
+      <ul class="menu" id="menu-copyright">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405542" id="menu-item-405542">
+        <a data-ga-action="https://www.motherjones.com/about/terms/" data-ga-category="SiteFooter" data-ga-label="Section_Copyright_NavPosition_1" href="https://www.motherjones.com/about/terms/">
+         Terms of Service
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405543" id="menu-item-405543">
+        <a data-ga-action="https://www.motherjones.com/about/privacy-policy/" data-ga-category="SiteFooter" data-ga-label="Section_Copyright_NavPosition_2" href="https://www.motherjones.com/about/privacy-policy/">
+         Privacy Policy
+        </a>
+       </li>
+      </ul>
+     </p>
+     <a class="powered-by-wpcom" href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.motherjones.com" rel="generator nofollow">
+      <img alt="Powered by WordPress.com VIP" height="26" src="https://www.motherjones.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png" width="187"/>
+     </a>
+    </section>
+   </div>
+  </footer>
+  <section class="widget mj-adhesion-widget hide" id="mj-adhesion-widget-2">
+   <section class="hide" id="adblock-message">
+    <h2>
+     We Noticed You Have An Ad Blocker On.
+    </h2>
+    <div class="text-and-buttons-container grid">
+     <div class="text-container col-md-8 col-sm-12">
+      <p class="long-text">
+       Can you pitch in a few bucks to help fund
+       <em>
+        Mother Jones'
+       </em>
+       investigative journalism? We're a nonprofit (so it's tax-deductible), and reader support makes up about two-thirds of our budget.
+      </p>
+      <p class="short-text">
+       <strong>
+        We noticed you have an ad blocker on.
+       </strong>
+       Can you pitch in a few bucks to help fund
+       <em>
+        Mother Jones'
+       </em>
+       investigative journalism?
+      </p>
+     </div>
+     <div class="buttons-container col-md-4 col-sm-12 col-xs-12">
+      <a data-ga-category="AdblockBottomAdhesion" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=DON&amp;term_pub=DON&amp;b_country=United+States&amp;list_source=7HEGZS1A&amp;term=XX.1.5.00.DON.D.0.9454" target="_blank">
+       <button class="donate btn-primary">
+        Donate
+       </button>
+      </a>
+      <a data-ga-category="AdblockBottomAdhesion" data-ga-label="Close">
+       <button class="close">
+        Not Now
+       </button>
+      </a>
+     </div>
+    </div>
+   </section>
+   <section class="subscribe hide" id="adhesion-subscribe">
+    <div class="text-and-buttons-container grid">
+     <div class="text-container col-md-8 col-sm-12">
+      <p class="long-text">
+       <strong>
+        THE TRUTH WILL PREVAIL, EVEN NOW.
+       </strong>
+       It's been a tough several weeks for those who care about the truth, but we hope you'll read why
+       <a data-ga-category="BottomAdhesion" data-ga-label="ReadMore" href="https://www.motherjones.com/media/2018/10/speaking-out-is-contagious/?list_source=7H88PA03&amp;term=XX.1.50.00.DON.D.0.14416">
+        now is no time to quit
+       </a>
+       —and why we need to raise
+       <a data-ga-category="BottomAdhesion" data-ga-label="DonateMonthly" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=SDN&amp;term_pub=SDN&amp;&amp;term_pub_override=SDN&amp;b_country=United+States&amp;list_source=7H88PA03&amp;term=XX.1.10.00.SDN.D.0.14422">
+        $30,000 in new monthly donations this fall
+       </a>
+       . The erosion of truth we're seeing is downright dangerous, and we're in this fight for the long haul. Join us.
+      </p>
+      <p class="short-text">
+       <strong>
+        THE TRUTH WILL PREVAIL, EVEN NOW.
+       </strong>
+       It's been a tough several weeks for those who care about the truth. Read why
+       <a data-ga-category="BottomAdhesion" data-ga-label="ReadMore" href="https://www.motherjones.com/media/2018/10/speaking-out-is-contagious/?list_source=7H88PA03&amp;term=XX.1.50.00.DON.D.0.14416">
+        now is no time to quit
+       </a>
+       , and please support MoJo with a tax-deductible donation today.
+      </p>
+     </div>
+     <div class="buttons-container col-md-4 col-sm-12 col-xs-12">
+      <a data-ga-category="BottomAdhesion" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=SDN&amp;term_pub=SDN&amp;&amp;term_pub_override=SDN&amp;b_country=United+States&amp;list_source=7H88PA03&amp;term=XX.1.10.00.SDN.D.0.14422" target="_blank">
+       <button class="donate btn-primary">
+        Donate
+       </button>
+      </a>
+      <a data-ga-category="BottomAdhesion" data-ga-label="Close">
+       <button class="close">
+        No Thanks
+       </button>
+      </a>
+     </div>
+    </div>
+   </section>
+  </section>
+  <script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201843" type="text/javascript">
+  </script>
+  <script src="https://www.motherjones.com/wp-content/themes/motherjones/js/ads.min.js?ver=0.3.18" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var mj_prebid_config = [{"code":"ROS_ATF_970x250","bids":[{"bidder":"criteo","params":{"networkId":7074}},{"bidder":"appnexus","params":{"placementId":12270933}},{"bidder":"indexExchange","params":{"id":1,"siteID":225159}}],"sizes":[["970","250"],["970","90"],["728","90"]],"lazy_load":false,"refresh":false},{"code":"Mobile_Section_300x250_InContent","bids":[{"bidder":"audienceNetwork","params":{"placementId":"221718354896689_488935974841591"}},{"bidder":"appnexus","params":{"placementId":12271781}},{"bidder":"indexExchange","params":{"id":7,"siteID":225165}}],"sizes":[["300","250"],["300","50"],["300","250"],["300","50"]],"lazy_load":false,"refresh":false},{"code":"Section_BTF_970x250_Top","bids":[{"bidder":"criteo","params":{"networkId":7074}},{"bidder":"appnexus","params":{"placementId":12271767}},{"bidder":"indexExchange","params":{"id":6,"siteID":225164}}],"sizes":[["970","250"],["970","90"],["728","90"]],"lazy_load":false,"refresh":false},{"code":"ROS_ATF_300x600","bids":[{"bidder":"criteo","params":{"networkId":7074}},{"bidder":"appnexus","params":{"placementId":12323653}},{"bidder":"indexExchange","params":{"id":3,"siteID":225161}},{"bidder":"indexExchange","params":{"id":2,"siteID":225160}}],"sizes":[["1","1"],["300","600"],["300","250"]],"lazy_load":false,"refresh":false},{"code":"ROS_BTF_970x250","bids":[{"bidder":"criteo","params":{"networkId":7074}},{"bidder":"appnexus","params":{"placementId":12271767}},{"bidder":"indexExchange","params":{"id":6,"siteID":225164}}],"sizes":[["970","250"],["970","90"],["728","90"]],"lazy_load":false,"refresh":false},{"code":"Mobile_Footer_300x250_ROS","bids":[{"bidder":"audienceNetwork","params":{"placementId":"221718354896689_488935751508280"}},{"bidder":"criteo","params":{"networkId":7074}},{"bidder":"appnexus","params":{"placementId":12271780}}],"sizes":[["300","250"],["300","50"],["300","250"],["300","50"]],"lazy_load":false,"refresh":false}];
+/* ]]> */
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var campaign_start_time = {"value":"1537340400000"};
+/* ]]> */
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var dfw = {"network_code":"49189977","mappings":[],"targeting":{"Page":[],"Category":["crime-justice"],"env":["www"]}};
+/* ]]> */
+  </script>
+  <script src="https://www.motherjones.com/_static/??-eJyVkd1uwjAMRl9oaZi2CbhAexTkJi5xiJMsP1Td0xNgk7ioRHtnS+f4k205RqGCL+iLLAYZs+TQimSDb7XNMibsSXdMvrP5Tb7khxAKpuU8W7E2AvRRBY2rMhi5x5QNNdagOq+SQRvMFPxyKVwwOZiWC5kKjgnicsPDRWSEpMycw1VEV0/kG4slgjrLI3kl+0pOSwe/kyCG02PUU/s8q/Gu6gfS2tsFZ7/0H6SHUULOWO6G/amYpk4Pszu9cMY/55sP71+fm4/dfr/d2Sst7gEB" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   var dfw_load = function() {
+					jQuery('.dfw-unit:not(.dfw-lazy-load)').dfp({
+						dfpID: 49189977,
+						collapseEmptyDivs: false,
+						setTargeting: {"Page":[],"Category":["crime-justice"],"env":["www"]},
+						sizeMapping: []					});
+				};
+  </script>
+  <script type="text/javascript">
+   var dfw_load = function() {
+					jQuery('.dfw-unit:not(.dfw-lazy-load)').dfp({
+						dfpID: 49189977,
+						collapseEmptyDivs: false,
+						setTargeting: {"Page":[],"Category":["crime-justice"],"env":["www"]},
+						sizeMapping: {"mapping1":[{"browser":[0,1],"ad_sizes":[]},{"browser":[768,1],"ad_sizes":[]},{"browser":[993,1],"ad_sizes":[[145,1024],[145,100]]}],"mapping2":[{"browser":[0,1],"ad_sizes":[]},{"browser":[768,1],"ad_sizes":[]},{"browser":[993,1],"ad_sizes":[[145,1024],[145,100]]}],"mapping3":[{"browser":[0,1],"ad_sizes":[[300,250]]},{"browser":[768,1],"ad_sizes":[[300,250],[640,480],[400,520]]},{"browser":[993,1],"ad_sizes":[[640,480],[780,400],[400,520]]}],"mapping4":[{"browser":[0,1],"ad_sizes":[]},{"browser":[768,1],"ad_sizes":[]},{"browser":[993,1],"ad_sizes":[[970,250],[970,90],[728,90]]}],"mapping5":[{"browser":[0,1],"ad_sizes":[[300,250],[300,50]]},{"browser":[768,1],"ad_sizes":[[300,250],[300,50]]},{"browser":[993,1],"ad_sizes":[]}],"mapping6":[{"browser":[0,1],"ad_sizes":[]},{"browser":[768,1],"ad_sizes":[]},{"browser":[993,1],"ad_sizes":[[970,250],[970,90],[728,90]]}],"mapping7":[{"browser":[0,1],"ad_sizes":[[1,1]]},{"browser":[993,1],"ad_sizes":[[300,600],[300,250]]}],"mapping8":[{"browser":[0,1],"ad_sizes":[]},{"browser":[768,1],"ad_sizes":[]},{"browser":[993,1],"ad_sizes":[[970,250],[970,90],[728,90]]}],"mapping9":[{"browser":[0,1],"ad_sizes":[[300,250],[300,50]]},{"browser":[768,1],"ad_sizes":[[300,250],[300,50]]},{"browser":[993,1],"ad_sizes":[]}]}					});
+				};
+  </script>
+  <script async="async" defer="defer" src="https://stats.wp.com/e-201843.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.6.1',blog:'130213978',post:'0',tz:'-4',srv:'www.motherjones.com'} ]);
+	_stq.push([ 'clickTrackerInit', '130213978', '0' ]);
+  </script>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"42428067","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFgNGVVwPFVE=","queueTime":0,"applicationTime":206,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}
+  </script>
+ </body>
+</html>
